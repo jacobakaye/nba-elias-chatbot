@@ -40,9 +40,8 @@ STAT_PREFIXES = [
 STOPWORDS = {
     "what", "whats", "what's", "is", "the", "a", "an", "of", "in", "for", "to",
     "and", "show", "me", "with", "this", "that", "his", "her", "their", "please",
-    "find", "tell", "give", "current", "regular", "single", "game", "whats",
-    "whatre", "what's", "career", "season", "all", "time", "high", "highs",
-    "low", "lows", "only", "teams"
+    "find", "tell", "give", "current", "regular", "single", "game", "season",
+    "career", "all", "time", "high", "highs", "low", "lows", "only", "teams"
 }
 
 
@@ -52,6 +51,21 @@ def normalize(s: str) -> str:
     s = re.sub(r"[^a-z0-9\s\-/\.\']", " ", s)
     s = re.sub(r"\s+", " ", s)
     return s
+
+
+def singularize_token(token: str) -> str:
+    token = token.strip()
+    if token.endswith("'s"):
+        token = token[:-2]
+    elif token.endswith("s") and len(token) > 3:
+        token = token[:-1]
+    return token
+
+
+def normalize_for_match(s: str) -> str:
+    s = normalize(s)
+    tokens = [singularize_token(tok) for tok in s.split()]
+    return " ".join(tokens)
 
 
 def is_stat_line(line: str) -> bool:
@@ -97,9 +111,17 @@ def extract_sections(lines_):
 
 SECTIONS = extract_sections(lines)
 
+# Build a name index from actual headers in the file
+ENTITY_NAMES = []
+for section in SECTIONS:
+    header_name = section["header"].split(" / ")[0].strip()
+    ENTITY_NAMES.append(header_name)
+
+ENTITY_NAMES = sorted(set(ENTITY_NAMES), key=len, reverse=True)
+
 
 def extract_stat_from_query(query: str):
-    q = normalize(query)
+    q = normalize_for_match(query)
 
     stat_aliases = {
         "points": "Points",
@@ -172,7 +194,7 @@ def extract_stat_from_query(query: str):
 
 
 def classify_query(query: str):
-    q = normalize(query)
+    q = normalize_for_match(query)
 
     return {
         "career": "career" in q,
@@ -188,20 +210,20 @@ def classify_query(query: str):
 
 
 def query_terms(query: str):
-    words = re.findall(r"[a-zA-Z0-9\.\-']+", normalize(query))
+    words = re.findall(r"[a-zA-Z0-9\.\-']+", normalize_for_match(query))
     return [w for w in words if len(w) > 2 and w not in STOPWORDS]
 
 
-def detect_name_phrase(query: str):
-    q = normalize(query)
+def detect_entity_name(query: str):
+    q = normalize_for_match(query)
 
-    q = re.sub(r"\bwhat's\b", " ", q)
-    q = re.sub(r"\bwhats\b", " ", q)
-    q = re.sub(r"\bwhat is\b", " ", q)
-    q = re.sub(r"\bshow me\b", " ", q)
-    q = re.sub(r"\bgive me\b", " ", q)
-    q = re.sub(r"\btell me\b", " ", q)
+    for entity in ENTITY_NAMES:
+        entity_norm = normalize_for_match(entity)
+        if entity_norm in q:
+            return entity
 
+    # fallback: two-word name-like phrase before category words
+    cleaned = q
     remove_phrases = [
         "career regular season single-game highs",
         "career regular season single-game lows",
@@ -214,106 +236,88 @@ def detect_name_phrase(query: str):
         "team totals",
         "opponent totals",
         "career high",
-        "career lows",
         "career low",
         "season high",
-        "season lows",
         "season low",
         "all time high",
         "all time low",
         "all-time high",
         "all-time low",
-        "highs",
-        "high",
-        "lows",
-        "low",
-        "points",
-        "point",
-        "pts",
-        "pt",
-        "rebounds",
-        "rebound",
-        "reb",
-        "assists",
-        "assist",
-        "ast",
-        "steals",
-        "stl",
-        "turnovers",
-        "turnover",
-        "tov",
-        "blocks",
-        "block",
-        "blk",
-        "blocked shots",
-        "minutes",
-        "mins",
-        "min",
-        "field goals",
-        "fg",
-        "field goal attempts",
-        "fga",
-        "three point field goals",
-        "three-point field goals",
-        "three pointers",
-        "three-pointers",
-        "3pm",
-        "3ptm",
-        "3pt",
-        "3pts",
-        "threes",
-        "three point attempts",
-        "three-point attempts",
-        "3pa",
-        "3pta",
-        "free throws",
-        "ft",
-        "free throw attempts",
-        "fta",
-        "offensive rebounds",
-        "oreb",
-        "defensive rebounds",
-        "dreb",
+        "points", "point", "pts", "pt",
+        "rebounds", "rebound", "reb",
+        "assists", "assist", "ast",
+        "steals", "stl",
+        "turnovers", "turnover", "tov",
+        "blocks", "block", "blk", "blocked shots",
+        "minutes", "mins", "min",
+        "field goals", "fg",
+        "field goal attempts", "fga",
+        "three point field goals", "three-point field goals",
+        "three pointers", "three-pointers", "3pm", "3ptm", "3pt", "3pts", "threes",
+        "three point attempts", "three-point attempts", "3pa", "3pta",
+        "free throws", "ft",
+        "free throw attempts", "fta",
+        "offensive rebounds", "oreb",
+        "defensive rebounds", "dreb",
+        "what's", "whats", "what is", "show me", "give me", "tell me",
+        "highs", "high", "lows", "low", "season", "career",
     ]
-
     for phrase in sorted(remove_phrases, key=len, reverse=True):
-        q = q.replace(phrase, " ")
+        cleaned = cleaned.replace(phrase, " ")
 
-    q = re.sub(r"\s+", " ", q).strip()
-
-    if not q:
+    cleaned = re.sub(r"\s+", " ", cleaned).strip()
+    if not cleaned:
         return None
 
-    return q
+    # try to match partial tokens against known entities
+    cleaned_tokens = cleaned.split()
+    best_entity = None
+    best_score = 0
+    for entity in ENTITY_NAMES:
+        entity_norm = normalize_for_match(entity)
+        entity_tokens = set(entity_norm.split())
+        score = sum(1 for tok in cleaned_tokens if tok in entity_tokens)
+        if score > best_score:
+            best_score = score
+            best_entity = entity
+
+    if best_score >= 2:
+        return best_entity
+
+    return None
 
 
 def score_section(section, query):
     header = section["header"]
-    header_norm = normalize(header)
-    score = 0
-
-    flags = classify_query(query)
-    stat_name = extract_stat_from_query(query)
-    name_phrase = detect_name_phrase(query)
-    terms = query_terms(query)
-
+    header_norm = normalize_for_match(header)
     header_name = header_norm.split(" / ")[0] if " / " in header_norm else header_norm
 
-    if name_phrase:
-        if name_phrase == header_name:
-            score += 120
-        elif name_phrase in header_name:
-            score += 70
-        elif name_phrase in header_norm:
-            score += 50
+    score = 0
+    flags = classify_query(query)
+    stat_name = extract_stat_from_query(query)
+    entity_name = detect_entity_name(query)
+    terms = query_terms(query)
 
-        for token in name_phrase.split():
-            if token in header_name:
-                score += 12
+    if entity_name:
+        entity_norm = normalize_for_match(entity_name)
+        if entity_norm == header_name:
+            score += 200
+        elif entity_norm in header_name:
+            score += 120
+        elif entity_norm in header_norm:
+            score += 80
+
+        entity_tokens = entity_norm.split()
+        overlap = sum(1 for tok in entity_tokens if tok in header_name)
+        score += overlap * 15
+
+        # penalize same first name but wrong person
+        if overlap > 0 and entity_norm not in header_name:
+            score -= 40
 
     for term in terms:
         if term in header_norm:
-            score += 3
+            score += 2
 
     if flags["career"] and "career" in header_norm:
         score += 20
@@ -334,13 +338,9 @@ def score_section(section, query):
     if flags["opponent_totals"] and header_norm.startswith("opponent totals"):
         score += 25
 
-    if name_phrase and name_phrase not in header_name:
-        if any(tok in header_name for tok in name_phrase.split()):
-            score -= 10
-
     if stat_name:
         for line in section["lines"]:
-            if normalize(line).startswith(normalize(stat_name)):
+            if normalize_for_match(line).startswith(normalize_for_match(stat_name)):
                 score += 10
                 break
 
@@ -350,12 +350,12 @@ def score_section(section, query):
 def best_stat_line(section_lines, stat_name):
     if stat_name:
         for line in section_lines:
-            if normalize(line).startswith(normalize(stat_name)):
+            if normalize_for_match(line).startswith(normalize_for_match(stat_name)):
                 return line
 
     for preferred in ["Points", "Rebounds", "Assists"]:
         for line in section_lines:
-            if normalize(line).startswith(normalize(preferred)):
+            if normalize_for_match(line).startswith(normalize_for_match(preferred)):
                 return line
 
     return section_lines[0] if section_lines else None
@@ -370,7 +370,6 @@ def format_answer(section, stat_line):
 for msg in st.session_state.messages:
     with st.chat_message(msg["role"]):
         st.markdown(msg["content"])
-
 
 prompt = st.chat_input("Ask about the Elias stats")
 
@@ -397,7 +396,7 @@ if prompt:
             st.session_state.messages.append({"role": "assistant", "content": answer})
         else:
             top_score = scored[0][0]
-            top_sections = [sec for score, sec in scored if score >= max(top_score - 10, 1)][:5]
+            top_sections = [sec for score, sec in scored if score >= max(top_score - 15, 1)][:5]
 
             blocks = []
             for i, section in enumerate(top_sections, start=1):
