@@ -399,10 +399,19 @@ def score_section(section, query):
         score += 20
     if flags["all_time"] and "all-time" in header_norm:
         score += 20
-    if flags["low"] and "lows" in header_norm:
-        score += 15
-    if flags["high"] and "highs" in header_norm:
-        score += 15
+
+    if flags["low"]:
+        if "lows" in header_norm:
+            score += 40
+        if "highs" in header_norm:
+            score -= 40
+
+    if flags["high"]:
+        if "highs" in header_norm:
+            score += 40
+        if "lows" in header_norm:
+            score -= 40
+
     if flags["with_this_team_only"] and "with this team only" in header_norm:
         score += 15
     if flags["games_with_all_teams"] and "games with all teams" in header_norm:
@@ -498,14 +507,22 @@ if prompt:
             st.session_state.messages.append({"role": "assistant", "content": answer})
         else:
             top_score = scored[0][0]
-            top_sections = [sec for score, sec in scored if score >= max(top_score - 15, 1)][:5]
+            second_score = scored[1][0] if len(scored) > 1 else None
 
-            blocks = []
-            for i, section in enumerate(top_sections, start=1):
-                stat_line = best_stat_line(section["lines"], stat_name)
-                block = f"### Match {i}\n\n{format_answer(section, stat_line)}"
-                blocks.append(block)
+            if second_score is None or (top_score - second_score >= 35):
+                best_section = scored[0][1]
+                stat_line = best_stat_line(best_section["lines"], stat_name)
+                answer = format_answer(best_section, stat_line)
+            else:
+                top_sections = [sec for score, sec in scored if score >= max(top_score - 15, 1)][:5]
 
-            answer = "\n\n---\n\n".join(blocks)
+                blocks = []
+                for i, section in enumerate(top_sections, start=1):
+                    stat_line = best_stat_line(section["lines"], stat_name)
+                    block = f"### Match {i}\n\n{format_answer(section, stat_line)}"
+                    blocks.append(block)
+
+                answer = "\n\n---\n\n".join(blocks)
+
             st.markdown(answer)
             st.session_state.messages.append({"role": "assistant", "content": answer})
