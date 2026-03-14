@@ -44,6 +44,46 @@ STOPWORDS = {
     "career", "all", "time", "high", "highs", "low", "lows", "only", "teams"
 }
 
+TEAM_ALIASES = {
+    "hawks": "Atlanta Hawks",
+    "celtics": "Boston Celtics",
+    "nets": "Brooklyn Nets",
+    "hornets": "Charlotte Hornets",
+    "bulls": "Chicago Bulls",
+    "cavs": "Cleveland Cavaliers",
+    "cavaliers": "Cleveland Cavaliers",
+    "mavs": "Dallas Mavericks",
+    "mavericks": "Dallas Mavericks",
+    "nuggets": "Denver Nuggets",
+    "pistons": "Detroit Pistons",
+    "warriors": "Golden State Warriors",
+    "rockets": "Houston Rockets",
+    "pacers": "Indiana Pacers",
+    "clippers": "L.A. Clippers",
+    "lakers": "L.A. Lakers",
+    "grizzlies": "Memphis Grizzlies",
+    "heat": "Miami Heat",
+    "bucks": "Milwaukee Bucks",
+    "timberwolves": "Minnesota Timberwolves",
+    "wolves": "Minnesota Timberwolves",
+    "pelicans": "New Orleans Pelicans",
+    "knicks": "New York Knickerbockers",
+    "thunder": "Oklahoma City Thunder",
+    "magic": "Orlando Magic",
+    "sixers": "Philadelphia 76ers",
+    "76ers": "Philadelphia 76ers",
+    "suns": "Phoenix Suns",
+    "blazers": "Portland Trail Blazers",
+    "trail blazers": "Portland Trail Blazers",
+    "kings": "Sacramento Kings",
+    "spurs": "San Antonio Spurs",
+    "raptors": "Toronto Raptors",
+    "jazz": "Utah Jazz",
+    "wizards": "Washington Wizards",
+}
+
+TEAM_CANONICALS = set(TEAM_ALIASES.values())
+
 
 def normalize(s: str) -> str:
     s = s.lower().strip()
@@ -111,12 +151,16 @@ def extract_sections(lines_):
 
 SECTIONS = extract_sections(lines)
 
-# Build a name index from actual headers in the file
 ENTITY_NAMES = []
 for section in SECTIONS:
     header_name = section["header"].split(" / ")[0].strip()
-    ENTITY_NAMES.append(header_name)
+    parts = section["header"].split(" / ")
+    if len(parts) >= 2 and header_name in {"Team Totals", "Opponent Totals"}:
+        ENTITY_NAMES.append(parts[1].strip())
+    else:
+        ENTITY_NAMES.append(header_name)
 
+ENTITY_NAMES.extend(TEAM_CANONICALS)
 ENTITY_NAMES = sorted(set(ENTITY_NAMES), key=len, reverse=True)
 
 
@@ -195,7 +239,6 @@ def extract_stat_from_query(query: str):
 
 def classify_query(query: str):
     q = normalize_for_match(query)
-
     return {
         "career": "career" in q,
         "season": ("season" in q) or ("this season" in q) or ("current season" in q),
@@ -217,12 +260,15 @@ def query_terms(query: str):
 def detect_entity_name(query: str):
     q = normalize_for_match(query)
 
+    for alias, canonical in TEAM_ALIASES.items():
+        if normalize_for_match(alias) in q:
+            return canonical
+
     for entity in ENTITY_NAMES:
         entity_norm = normalize_for_match(entity)
         if entity_norm in q:
             return entity
 
-    # fallback: two-word name-like phrase before category words
     cleaned = q
     remove_phrases = [
         "career regular season single-game highs",
@@ -269,7 +315,6 @@ def detect_entity_name(query: str):
     if not cleaned:
         return None
 
-    # try to match partial tokens against known entities
     cleaned_tokens = cleaned.split()
     best_entity = None
     best_score = 0
@@ -287,34 +332,63 @@ def detect_entity_name(query: str):
     return None
 
 
+def infer_query_scope(query: str, entity_name: str | None):
+    q = normalize_for_match(query)
+
+    if "team totals" in q:
+        return "team"
+    if "opponent totals" in q or "opponent" in q:
+        return "opponent"
+
+    if entity_name and entity_name in TEAM_CANONICALS:
+        return "team"
+
+    return "player"
+
+
 def score_section(section, query):
     header = section["header"]
     header_norm = normalize_for_match(header)
-    header_name = header_norm.split(" / ")[0] if " / " in header_norm else header_norm
+    parts = section["header"].split(" / ")
+    first_part = parts[0].strip()
+    second_part = parts[1].strip() if len(parts) > 1 else ""
 
     score = 0
     flags = classify_query(query)
     stat_name = extract_stat_from_query(query)
     entity_name = detect_entity_name(query)
-    terms = query_terms(query)
+    query_scope = infer_query_scope(query, entity_name)
+
+    header_name = normalize_for_match(first_part)
+    team_name = normalize_for_match(second_part)
+
+    is_team_totals_section = first_part == "Team Totals"
+    is_opponent_totals_section = first_part == "Opponent Totals"
+    is_player_section = not is_team_totals_section and not is_opponent_totals_section
 
     if entity_name:
         entity_norm = normalize_for_match(entity_name)
-        if entity_norm == header_name:
-            score += 200
-        elif entity_norm in header_name:
-            score += 120
-        elif entity_norm in header_norm:
-            score += 80
 
-        entity_tokens = entity_norm.split()
-        overlap = sum(1 for tok in entity_tokens if tok in header_name)
-        score += overlap * 15
+        if is_team_totals_section or is_opponent_totals_section:
+            if entity_norm == team_name:
+                score += 220
+            elif entity_norm in team_name:
+                score += 140
+        else:
+            if entity_norm == header_name:
+                score += 200
+            elif entity_norm in header_name:
+                score += 120
+            elif entity_norm in header_norm:
+                score += 80
 
-        # penalize same first name but wrong person
-        if overlap > 0 and entity_norm not in header_name:
-            score -= 40
+            entity_tokens = entity_norm.split()
+            overlap = sum(1 for tok in entity_tokens if tok in header_name)
+            score += overlap * 15
+            if overlap > 0 and entity_norm not in header_name:
+                score -= 40
 
+    terms = query_terms(query)
     for term in terms:
         if term in header_norm:
             score += 2
@@ -333,10 +407,38 @@ def score_section(section, query):
         score += 15
     if flags["games_with_all_teams"] and "games with all teams" in header_norm:
         score += 15
-    if flags["team_totals"] and header_norm.startswith("team totals"):
+
+    if is_team_totals_section:
         score += 25
-    if flags["opponent_totals"] and header_norm.startswith("opponent totals"):
-        score += 25
+    if is_opponent_totals_section:
+        score += 10
+
+    if query_scope == "team":
+        if is_team_totals_section:
+            score += 120
+        if is_player_section:
+            score -= 120
+        if is_opponent_totals_section and not flags["opponent_totals"]:
+            score -= 50
+
+    if query_scope == "opponent":
+        if is_opponent_totals_section:
+            score += 120
+        if is_team_totals_section:
+            score -= 40
+        if is_player_section:
+            score -= 120
+
+    if query_scope == "player":
+        if is_player_section:
+            score += 30
+        if is_team_totals_section or is_opponent_totals_section:
+            score -= 80
+
+    if flags["team_totals"] and is_team_totals_section:
+        score += 50
+    if flags["opponent_totals"] and is_opponent_totals_section:
+        score += 50
 
     if stat_name:
         for line in section["lines"]:
