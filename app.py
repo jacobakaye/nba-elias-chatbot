@@ -172,36 +172,27 @@ def extract_stat_from_query(query: str):
         "point": "Points",
         "pts": "Points",
         "pt": "Points",
-
         "rebounds": "Rebounds",
         "rebound": "Rebounds",
         "reb": "Rebounds",
-
         "assists": "Assists",
         "assist": "Assists",
         "ast": "Assists",
-
         "steals": "Steals",
         "stl": "Steals",
-
         "blocks": "Blocked Shots",
         "block": "Blocked Shots",
         "blk": "Blocked Shots",
-
         "turnovers": "Turnovers",
         "turnover": "Turnovers",
         "tov": "Turnovers",
-
         "minutes": "Minutes",
         "mins": "Minutes",
         "min": "Minutes",
-
         "field goals": "Field Goals",
         "fg": "Field Goals",
-
         "field goal attempts": "Field Goal Attempts",
         "fga": "Field Goal Attempts",
-
         "three point field goals": "Three-Point Field Goals",
         "three-point field goals": "Three-Point Field Goals",
         "three pointers": "Three-Point Field Goals",
@@ -211,21 +202,16 @@ def extract_stat_from_query(query: str):
         "3pt": "Three-Point Field Goals",
         "3pts": "Three-Point Field Goals",
         "threes": "Three-Point Field Goals",
-
         "three point attempts": "Three-Point Attempts",
         "three-point attempts": "Three-Point Attempts",
         "3pa": "Three-Point Attempts",
         "3pta": "Three-Point Attempts",
-
         "free throws": "Free Throws",
         "ft": "Free Throws",
-
         "free throw attempts": "Free Throw Attempts",
         "fta": "Free Throw Attempts",
-
         "offensive rebounds": "Offensive Rebounds",
         "oreb": "Offensive Rebounds",
-
         "defensive rebounds": "Defensive Rebounds",
         "dreb": "Defensive Rebounds",
     }
@@ -243,7 +229,7 @@ def classify_query(query: str):
         "career": "career" in q,
         "season": ("season" in q) or ("this season" in q) or ("current season" in q),
         "all_time": ("all time" in q) or ("all-time" in q),
-        "low": (" low" in f" {q}") or ("lows" in q),
+        "low": (" low" in f" {q}") or ("lows" in q) or ("season low" in q) or ("career low" in q),
         "high": (" high" in f" {q}") or ("highs" in q) or ("career high" in q) or ("season high" in q),
         "with_this_team_only": "with this team only" in q,
         "games_with_all_teams": "games with all teams" in q,
@@ -339,11 +325,22 @@ def infer_query_scope(query: str, entity_name: str | None):
         return "team"
     if "opponent totals" in q or "opponent" in q:
         return "opponent"
-
     if entity_name and entity_name in TEAM_CANONICALS:
         return "team"
 
     return "player"
+
+
+def header_passes_hilo_filter(header: str, flags: dict) -> bool:
+    header_norm = normalize_for_match(header)
+
+    if flags["high"] and not flags["low"]:
+        return "highs" in header_norm
+
+    if flags["low"] and not flags["high"]:
+        return "lows" in header_norm
+
+    return True
 
 
 def score_section(section, query):
@@ -365,6 +362,9 @@ def score_section(section, query):
     is_team_totals_section = first_part == "Team Totals"
     is_opponent_totals_section = first_part == "Opponent Totals"
     is_player_section = not is_team_totals_section and not is_opponent_totals_section
+
+    if not header_passes_hilo_filter(header, flags):
+        return -9999
 
     if entity_name:
         entity_norm = normalize_for_match(entity_name)
