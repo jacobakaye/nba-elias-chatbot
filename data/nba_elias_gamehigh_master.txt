@@ -36,7 +36,7 @@ Points                  161, 03/01/2019, Atlanta vs Chicago
 
 
 Team Totals / Atlanta Hawks / 2025-26 Regular Season Single-Game Lows
-Minutes                 240, 03/12/2026, Atlanta vs Brooklyn
+Minutes                 240, 03/14/2026, Atlanta vs Milwaukee
 Field Goals              33, 11/07/2025, Atlanta vs Toronto
 Field Goal Attempts      72, 11/04/2025, Atlanta vs Orlando
 Three-Point Field Goals   6, 11/02/2025, Atlanta at Cleveland
@@ -49,7 +49,7 @@ Rebounds                 30, 02/07/2026, Atlanta vs Charlotte
 Assists                  19, 01/29/2026, Atlanta vs Houston
 Steals                    3, 02/05/2026, Atlanta vs Utah
 Turnovers                 6, 01/13/2026, Atlanta at L.A. Lakers (3 times)
-Blocked Shots             1, 02/09/2026, Atlanta at Minnesota (6 times)
+Blocked Shots             1, 03/14/2026, Atlanta vs Milwaukee (7 times)
 Points                   86, 01/29/2026, Atlanta vs Houston
 
 Opponent Totals / Atlanta Hawks / 2025-26 Regular Season Single-Game Highs
@@ -88,7 +88,7 @@ Points                  168, 03/01/2019, Atlanta vs Chicago
 
 
 Opponent Totals / Atlanta Hawks / 2025-26 Regular Season Single-Game Lows
-Minutes                 240, 03/12/2026, Atlanta vs Brooklyn
+Minutes                 240, 03/14/2026, Atlanta vs Milwaukee
 Field Goals              30, 01/09/2026, Atlanta at Denver
 Field Goal Attempts      72, 03/12/2026, Atlanta vs Brooklyn (Twice)
 Three-Point Field Goals   5, 12/01/2025, Atlanta at Detroit
@@ -116,7 +116,7 @@ Offensive Rebounds        2, 03/01/2026, Atlanta vs Portland
 Defensive Rebounds       10, 02/09/2026, Atlanta at Minnesota
 Rebounds                 12, 02/09/2026, Atlanta at Minnesota
 Assists                  10, 02/07/2026, Atlanta vs Charlotte
-Steals                    3, 03/12/2026, Atlanta vs Brooklyn (7 times)
+Steals                    3, 03/14/2026, Atlanta vs Milwaukee (8 times)
 Turnovers                 7, 11/04/2025, Atlanta vs Orlando
 Blocked Shots             3, 11/20/2025, Atlanta at San Antonio (Twice)
 Points                   38, 11/20/2025, Atlanta at San Antonio
@@ -150,7 +150,7 @@ Offensive Rebounds        2, 03/01/2026, Atlanta vs Portland
 Defensive Rebounds       10, 02/09/2026, Atlanta at Minnesota
 Rebounds                 12, 02/09/2026, Atlanta at Minnesota
 Assists                  10, 02/07/2026, Atlanta vs Charlotte
-Steals                    3, 03/12/2026, Atlanta vs Brooklyn (7 times)
+Steals                    3, 03/14/2026, Atlanta vs Milwaukee (8 times)
 Turnovers                 7, 11/04/2025, Atlanta vs Orlando
 Blocked Shots             3, 11/20/2025, Atlanta at San Antonio (Twice)
 Points                   38, 11/20/2025, Atlanta at San Antonio
@@ -279,20 +279,20 @@ Points                   17, 10/29/2025, Indiana at Dallas
 
 RayJ Dennis / Atlanta Hawks / 2025-26 Regular Season Single-Game Highs (With this team only)
 Minutes                   5, 01/17/2026, Atlanta vs Boston
-Field Goals               0, 01/17/2026, Atlanta vs Boston
+Field Goals               0, 03/14/2026, Atlanta vs Milwaukee
 Field Goal Attempts       1, 01/17/2026, Atlanta vs Boston
-Three-Point Field Goals   0, 01/17/2026, Atlanta vs Boston
+Three-Point Field Goals   0, 03/14/2026, Atlanta vs Milwaukee
 Three-Point Attempts      1, 01/17/2026, Atlanta vs Boston
-Free Throws               0, 01/17/2026, Atlanta vs Boston
-Free Throw Attempts       0, 01/17/2026, Atlanta vs Boston
-Offensive Rebounds        0, 01/17/2026, Atlanta vs Boston
-Defensive Rebounds        0, 01/17/2026, Atlanta vs Boston
-Rebounds                  0, 01/17/2026, Atlanta vs Boston
+Free Throws               0, 03/14/2026, Atlanta vs Milwaukee
+Free Throw Attempts       0, 03/14/2026, Atlanta vs Milwaukee
+Offensive Rebounds        0, 03/14/2026, Atlanta vs Milwaukee
+Defensive Rebounds        0, 03/14/2026, Atlanta vs Milwaukee
+Rebounds                  0, 03/14/2026, Atlanta vs Milwaukee
 Assists                   4, 01/17/2026, Atlanta vs Boston
 Steals                    1, 01/17/2026, Atlanta vs Boston
-Turnovers                 0, 01/17/2026, Atlanta vs Boston
-Blocked Shots             0, 01/17/2026, Atlanta vs Boston
-Points                    0, 01/17/2026, Atlanta vs Boston
+Turnovers                 0, 03/14/2026, Atlanta vs Milwaukee
+Blocked Shots             0, 03/14/2026, Atlanta vs Milwaukee
+Points                    0, 03/14/2026, Atlanta vs Milwaukee
 
 RayJ Dennis / Atlanta Hawks / Career Regular Season Single-Game Highs (Games with all teams)
 Minutes                  30, 10/29/2025, Indiana at Dallas
@@ -313,20 +313,20 @@ Points                   17, 10/29/2025, Indiana at Dallas
 
 RayJ Dennis / Atlanta Hawks / Career Regular Season Single-Game Highs (With this team only)
 Minutes                   5, 01/17/2026, Atlanta vs Boston
-Field Goals               0, 01/17/2026, Atlanta vs Boston
+Field Goals               0, 03/14/2026, Atlanta vs Milwaukee
 Field Goal Attempts       1, 01/17/2026, Atlanta vs Boston
-Three-Point Field Goals   0, 01/17/2026, Atlanta vs Boston
+Three-Point Field Goals   0, 03/14/2026, Atlanta vs Milwaukee
 Three-Point Attempts      1, 01/17/2026, Atlanta vs Boston
-Free Throws               0, 01/17/2026, Atlanta vs Boston
-Free Throw Attempts       0, 01/17/2026, Atlanta vs Boston
-Offensive Rebounds        0, 01/17/2026, Atlanta vs Boston
-Defensive Rebounds        0, 01/17/2026, Atlanta vs Boston
-Rebounds                  0, 01/17/2026, Atlanta vs Boston
+Free Throws               0, 03/14/2026, Atlanta vs Milwaukee
+Free Throw Attempts       0, 03/14/2026, Atlanta vs Milwaukee
+Offensive Rebounds        0, 03/14/2026, Atlanta vs Milwaukee
+Defensive Rebounds        0, 03/14/2026, Atlanta vs Milwaukee
+Rebounds                  0, 03/14/2026, Atlanta vs Milwaukee
 Assists                   4, 01/17/2026, Atlanta vs Boston
 Steals                    1, 01/17/2026, Atlanta vs Boston
-Turnovers                 0, 01/17/2026, Atlanta vs Boston
-Blocked Shots             0, 01/17/2026, Atlanta vs Boston
-Points                    0, 01/17/2026, Atlanta vs Boston
+Turnovers                 0, 03/14/2026, Atlanta vs Milwaukee
+Blocked Shots             0, 03/14/2026, Atlanta vs Milwaukee
+Points                    0, 03/14/2026, Atlanta vs Milwaukee
 
 
 Keshon Gilbert / Atlanta Hawks / 2025-26 Regular Season Single-Game Highs (Games with all teams)
@@ -596,7 +596,7 @@ Field Goals              11, 02/26/2026, Atlanta vs Washington
 Field Goal Attempts      19, 02/26/2026, Atlanta vs Washington
 Three-Point Field Goals   6, 02/26/2026, Atlanta vs Washington
 Three-Point Attempts     11, 02/26/2026, Atlanta vs Washington
-Free Throws               5, 02/26/2026, Atlanta vs Washington
+Free Throws               5, 03/14/2026, Atlanta vs Milwaukee (Twice)
 Free Throw Attempts       6, 01/13/2026, Atlanta at L.A. Lakers
 Offensive Rebounds        3, 01/17/2026, Atlanta vs Boston
 Defensive Rebounds        5, 02/26/2026, Atlanta vs Washington (4 times)
@@ -613,7 +613,7 @@ Field Goals              11, 02/26/2026, Atlanta vs Washington
 Field Goal Attempts      19, 02/26/2026, Atlanta vs Washington
 Three-Point Field Goals   6, 02/26/2026, Atlanta vs Washington
 Three-Point Attempts     11, 02/26/2026, Atlanta vs Washington
-Free Throws               5, 02/26/2026, Atlanta vs Washington
+Free Throws               5, 03/14/2026, Atlanta vs Milwaukee (Twice)
 Free Throw Attempts       6, 01/13/2026, Atlanta at L.A. Lakers
 Offensive Rebounds        3, 01/17/2026, Atlanta vs Boston
 Defensive Rebounds        5, 02/26/2026, Atlanta vs Washington (Twice)
@@ -647,7 +647,7 @@ Field Goals              11, 02/26/2026, Atlanta vs Washington
 Field Goal Attempts      19, 02/26/2026, Atlanta vs Washington
 Three-Point Field Goals   6, 02/26/2026, Atlanta vs Washington
 Three-Point Attempts     11, 02/26/2026, Atlanta vs Washington
-Free Throws               5, 02/26/2026, Atlanta vs Washington
+Free Throws               5, 03/14/2026, Atlanta vs Milwaukee (Twice)
 Free Throw Attempts       6, 01/13/2026, Atlanta at L.A. Lakers
 Offensive Rebounds        3, 01/17/2026, Atlanta vs Boston
 Defensive Rebounds        5, 02/26/2026, Atlanta vs Washington (Twice)
@@ -922,7 +922,7 @@ CJ McCollum / Atlanta Hawks / 2025-26 Regular Season Single-Game Highs (With thi
 Minutes                  33, 02/09/2026, Atlanta at Minnesota
 Field Goals              12, 02/09/2026, Atlanta at Minnesota
 Field Goal Attempts      25, 02/09/2026, Atlanta at Minnesota
-Three-Point Field Goals   6, 02/03/2026, Atlanta at Miami
+Three-Point Field Goals   7, 03/14/2026, Atlanta vs Milwaukee
 Three-Point Attempts     11, 01/29/2026, Atlanta vs Houston
 Free Throws               9, 02/09/2026, Atlanta at Minnesota
 Free Throw Attempts      11, 02/09/2026, Atlanta at Minnesota (Twice)
@@ -956,7 +956,7 @@ CJ McCollum / Atlanta Hawks / Career Regular Season Single-Game Highs (With this
 Minutes                  33, 02/09/2026, Atlanta at Minnesota
 Field Goals              12, 02/09/2026, Atlanta at Minnesota
 Field Goal Attempts      25, 02/09/2026, Atlanta at Minnesota
-Three-Point Field Goals   6, 02/03/2026, Atlanta at Miami
+Three-Point Field Goals   7, 03/14/2026, Atlanta vs Milwaukee
 Three-Point Attempts     11, 01/29/2026, Atlanta vs Houston
 Free Throws               9, 02/09/2026, Atlanta at Minnesota
 Free Throw Attempts      11, 02/09/2026, Atlanta at Minnesota (Twice)
@@ -1123,7 +1123,7 @@ Defensive Rebounds        8, 02/24/2026, Atlanta vs Washington
 Rebounds                  9, 03/12/2026, Atlanta vs Brooklyn (Twice)
 Assists                   5, 11/02/2025, Atlanta at Cleveland
 Steals                    3, 03/07/2026, Atlanta vs Philadelphia (3 times)
-Turnovers                 3, 01/07/2026, Atlanta vs New Orleans
+Turnovers                 3, 03/14/2026, Atlanta vs Milwaukee (Twice)
 Blocked Shots             3, 02/07/2026, Atlanta vs Charlotte (Twice)
 Points                   25, 01/07/2026, Atlanta vs New Orleans
 
@@ -1393,7 +1393,7 @@ Points                  173, 02/27/1959, Boston vs Minneapolis
 
 
 Team Totals / Boston Celtics / 2025-26 Regular Season Single-Game Lows
-Minutes                 240, 03/12/2026, Boston at Oklahoma City
+Minutes                 240, 03/14/2026, Boston vs Washington
 Field Goals              29, 02/25/2026, Boston at Denver
 Field Goal Attempts      75, 11/18/2025, Boston at Brooklyn
 Three-Point Field Goals   7, 02/08/2026, Boston vs New York
@@ -1445,7 +1445,7 @@ Points                  160, 03/09/1979, Boston at Detroit
 
 
 Opponent Totals / Boston Celtics / 2025-26 Regular Season Single-Game Lows
-Minutes                 240, 03/12/2026, Boston at Oklahoma City
+Minutes                 240, 03/14/2026, Boston vs Washington
 Field Goals              27, 03/02/2026, Boston at Milwaukee
 Field Goal Attempts      74, 03/02/2026, Boston at Milwaukee
 Three-Point Field Goals   7, 11/09/2025, Boston at Orlando
@@ -1717,7 +1717,7 @@ Defensive Rebounds        5, 02/04/2026, Boston at Houston
 Rebounds                  9, 02/04/2026, Boston at Houston
 Assists                   3, 02/04/2026, Boston at Houston (Twice)
 Steals                    1, 03/12/2026, Boston at Oklahoma City (4 times)
-Turnovers                 1, 03/04/2026, Boston vs Charlotte (4 times)
+Turnovers                 1, 03/14/2026, Boston vs Washington (5 times)
 Blocked Shots             2, 03/02/2026, Boston at Milwaukee
 Points                   22, 03/10/2026, Boston at San Antonio
 
@@ -1734,7 +1734,7 @@ Defensive Rebounds        5, 02/04/2026, Boston at Houston
 Rebounds                  9, 02/04/2026, Boston at Houston
 Assists                   3, 02/04/2026, Boston at Houston (Twice)
 Steals                    1, 03/12/2026, Boston at Oklahoma City (4 times)
-Turnovers                 1, 03/04/2026, Boston vs Charlotte (4 times)
+Turnovers                 1, 03/14/2026, Boston vs Washington (5 times)
 Blocked Shots             2, 03/02/2026, Boston at Milwaukee
 Points                   22, 03/10/2026, Boston at San Antonio
 
@@ -1751,7 +1751,7 @@ Defensive Rebounds        5, 02/04/2026, Boston at Houston
 Rebounds                  9, 02/04/2026, Boston at Houston
 Assists                   3, 02/04/2026, Boston at Houston (Twice)
 Steals                    1, 03/12/2026, Boston at Oklahoma City (4 times)
-Turnovers                 1, 03/04/2026, Boston vs Charlotte (4 times)
+Turnovers                 1, 03/14/2026, Boston vs Washington (5 times)
 Blocked Shots             2, 03/02/2026, Boston at Milwaukee
 Points                   22, 03/10/2026, Boston at San Antonio
 
@@ -1838,7 +1838,7 @@ Offensive Rebounds        5, 12/04/2025, Boston at Washington
 Defensive Rebounds        8, 11/18/2025, Boston at Brooklyn
 Rebounds                 10, 11/18/2025, Boston at Brooklyn (Twice)
 Assists                  10, 12/20/2025, Boston at Toronto (Twice)
-Steals                    2, 02/25/2026, Boston at Denver
+Steals                    2, 03/14/2026, Boston vs Washington
 Turnovers                 5, 02/11/2026, Boston vs Chicago
 Blocked Shots             2, 03/06/2026, Boston vs Dallas
 Points                   42, 11/30/2025, Boston at Cleveland
@@ -1863,9 +1863,9 @@ Points                   43, 03/05/2025, Boston vs Portland
 
 Neemias Queta / Boston Celtics / 2025-26 Regular Season Single-Game Highs
 Minutes                  39, 02/04/2026, Boston at Houston
-Field Goals              10, 03/01/2026, Boston vs Philadelphia
+Field Goals              11, 03/14/2026, Boston vs Washington
 Field Goal Attempts      16, 11/16/2025, Boston vs L.A. Clippers
-Three-Point Field Goals   0, 03/12/2026, Boston at Oklahoma City
+Three-Point Field Goals   0, 03/14/2026, Boston vs Washington
 Three-Point Attempts      1, 02/25/2026, Boston at Denver (6 times)
 Free Throws               8, 01/19/2026, Boston at Detroit
 Free Throw Attempts      10, 03/01/2026, Boston vs Philadelphia (Twice)
@@ -1880,9 +1880,9 @@ Points                   27, 03/01/2026, Boston vs Philadelphia
 
 Neemias Queta / Boston Celtics / Career Regular Season Single-Game Highs (Games with all teams)
 Minutes                  39, 02/04/2026, Boston at Houston
-Field Goals              10, 03/01/2026, Boston vs Philadelphia
+Field Goals              11, 03/14/2026, Boston vs Washington
 Field Goal Attempts      16, 11/16/2025, Boston vs L.A. Clippers
-Three-Point Field Goals   0, 03/12/2026, Boston at Oklahoma City
+Three-Point Field Goals   0, 03/14/2026, Boston vs Washington
 Three-Point Attempts      1, 02/25/2026, Boston at Denver (9 times)
 Free Throws               8, 01/19/2026, Boston at Detroit
 Free Throw Attempts      10, 03/01/2026, Boston vs Philadelphia (Twice)
@@ -1897,9 +1897,9 @@ Points                   27, 03/01/2026, Boston vs Philadelphia
 
 Neemias Queta / Boston Celtics / Career Regular Season Single-Game Highs (With this team only)
 Minutes                  39, 02/04/2026, Boston at Houston
-Field Goals              10, 03/01/2026, Boston vs Philadelphia
+Field Goals              11, 03/14/2026, Boston vs Washington
 Field Goal Attempts      16, 11/16/2025, Boston vs L.A. Clippers
-Three-Point Field Goals   0, 03/12/2026, Boston at Oklahoma City
+Three-Point Field Goals   0, 03/14/2026, Boston vs Washington
 Three-Point Attempts      1, 02/25/2026, Boston at Denver (9 times)
 Free Throws               8, 01/19/2026, Boston at Detroit
 Free Throw Attempts      10, 03/01/2026, Boston vs Philadelphia (Twice)
@@ -1921,7 +1921,7 @@ Three-Point Field Goals   4, 03/08/2026, Boston at Cleveland (3 times)
 Three-Point Attempts      9, 03/01/2026, Boston vs Philadelphia
 Free Throws               4, 01/28/2026, Boston vs Atlanta
 Free Throw Attempts       5, 01/28/2026, Boston vs Atlanta
-Offensive Rebounds        3, 03/12/2026, Boston at Oklahoma City (Twice)
+Offensive Rebounds        4, 03/14/2026, Boston vs Washington
 Defensive Rebounds       11, 02/08/2026, Boston vs New York
 Rebounds                 13, 02/08/2026, Boston vs New York
 Assists                   6, 02/27/2026, Boston vs Brooklyn
@@ -1938,7 +1938,7 @@ Three-Point Field Goals   6, 03/18/2025, Boston vs Brooklyn
 Three-Point Attempts     10, 04/13/2025, Boston vs Charlotte
 Free Throws               4, 01/28/2026, Boston vs Atlanta
 Free Throw Attempts       5, 01/28/2026, Boston vs Atlanta
-Offensive Rebounds        3, 03/12/2026, Boston at Oklahoma City (Twice)
+Offensive Rebounds        4, 03/14/2026, Boston vs Washington
 Defensive Rebounds       11, 02/08/2026, Boston vs New York
 Rebounds                 13, 02/08/2026, Boston vs New York
 Assists                   6, 02/27/2026, Boston vs Brooklyn
@@ -1950,37 +1950,37 @@ Points                   20, 03/18/2025, Boston vs Brooklyn
 
 Max Shulga / Boston Celtics / 2025-26 Regular Season Single-Game Highs
 Minutes                   2, 03/02/2026, Boston at Milwaukee
-Field Goals               0, 03/10/2026, Boston at San Antonio
+Field Goals               0, 03/14/2026, Boston vs Washington
 Field Goal Attempts       1, 02/04/2026, Boston at Houston
-Three-Point Field Goals   0, 03/10/2026, Boston at San Antonio
-Three-Point Attempts      0, 03/10/2026, Boston at San Antonio
-Free Throws               0, 03/10/2026, Boston at San Antonio
-Free Throw Attempts       0, 03/10/2026, Boston at San Antonio
-Offensive Rebounds        0, 03/10/2026, Boston at San Antonio
-Defensive Rebounds        0, 03/10/2026, Boston at San Antonio
-Rebounds                  0, 03/10/2026, Boston at San Antonio
-Assists                   0, 03/10/2026, Boston at San Antonio
-Steals                    0, 03/10/2026, Boston at San Antonio
-Turnovers                 0, 03/10/2026, Boston at San Antonio
-Blocked Shots             0, 03/10/2026, Boston at San Antonio
-Points                    0, 03/10/2026, Boston at San Antonio
+Three-Point Field Goals   0, 03/14/2026, Boston vs Washington
+Three-Point Attempts      0, 03/14/2026, Boston vs Washington
+Free Throws               0, 03/14/2026, Boston vs Washington
+Free Throw Attempts       0, 03/14/2026, Boston vs Washington
+Offensive Rebounds        0, 03/14/2026, Boston vs Washington
+Defensive Rebounds        0, 03/14/2026, Boston vs Washington
+Rebounds                  0, 03/14/2026, Boston vs Washington
+Assists                   0, 03/14/2026, Boston vs Washington
+Steals                    0, 03/14/2026, Boston vs Washington
+Turnovers                 0, 03/14/2026, Boston vs Washington
+Blocked Shots             0, 03/14/2026, Boston vs Washington
+Points                    0, 03/14/2026, Boston vs Washington
 
 Max Shulga / Boston Celtics / Career Regular Season Single-Game Highs
 Minutes                   2, 03/02/2026, Boston at Milwaukee
-Field Goals               0, 03/10/2026, Boston at San Antonio
+Field Goals               0, 03/14/2026, Boston vs Washington
 Field Goal Attempts       1, 02/04/2026, Boston at Houston
-Three-Point Field Goals   0, 03/10/2026, Boston at San Antonio
-Three-Point Attempts      0, 03/10/2026, Boston at San Antonio
-Free Throws               0, 03/10/2026, Boston at San Antonio
-Free Throw Attempts       0, 03/10/2026, Boston at San Antonio
-Offensive Rebounds        0, 03/10/2026, Boston at San Antonio
-Defensive Rebounds        0, 03/10/2026, Boston at San Antonio
-Rebounds                  0, 03/10/2026, Boston at San Antonio
-Assists                   0, 03/10/2026, Boston at San Antonio
-Steals                    0, 03/10/2026, Boston at San Antonio
-Turnovers                 0, 03/10/2026, Boston at San Antonio
-Blocked Shots             0, 03/10/2026, Boston at San Antonio
-Points                    0, 03/10/2026, Boston at San Antonio
+Three-Point Field Goals   0, 03/14/2026, Boston vs Washington
+Three-Point Attempts      0, 03/14/2026, Boston vs Washington
+Free Throws               0, 03/14/2026, Boston vs Washington
+Free Throw Attempts       0, 03/14/2026, Boston vs Washington
+Offensive Rebounds        0, 03/14/2026, Boston vs Washington
+Defensive Rebounds        0, 03/14/2026, Boston vs Washington
+Rebounds                  0, 03/14/2026, Boston vs Washington
+Assists                   0, 03/14/2026, Boston vs Washington
+Steals                    0, 03/14/2026, Boston vs Washington
+Turnovers                 0, 03/14/2026, Boston vs Washington
+Blocked Shots             0, 03/14/2026, Boston vs Washington
+Points                    0, 03/14/2026, Boston vs Washington
 
 
 Anfernee Simons / Boston Celtics / 2025-26 Regular Season Single-Game Highs (With this team only)
@@ -2019,20 +2019,20 @@ Points                   39, 01/15/2026, Boston at Miami
 
 
 Jayson Tatum / Boston Celtics / 2025-26 Regular Season Single-Game Highs
-Minutes                  27, 03/06/2026, Boston vs Dallas
+Minutes                  32, 03/14/2026, Boston vs Washington
 Field Goals              10, 03/10/2026, Boston at San Antonio
 Field Goal Attempts      24, 03/10/2026, Boston at San Antonio
 Three-Point Field Goals   4, 03/10/2026, Boston at San Antonio
 Three-Point Attempts     14, 03/10/2026, Boston at San Antonio
 Free Throws               6, 03/08/2026, Boston at Cleveland
 Free Throw Attempts       7, 03/08/2026, Boston at Cleveland
-Offensive Rebounds        1, 03/08/2026, Boston at Cleveland (Twice)
-Defensive Rebounds       11, 03/06/2026, Boston vs Dallas
-Rebounds                 12, 03/06/2026, Boston vs Dallas
-Assists                   7, 03/06/2026, Boston vs Dallas
-Steals                    2, 03/10/2026, Boston at San Antonio
+Offensive Rebounds        1, 03/14/2026, Boston vs Washington (3 times)
+Defensive Rebounds       13, 03/14/2026, Boston vs Washington
+Rebounds                 14, 03/14/2026, Boston vs Washington
+Assists                   7, 03/14/2026, Boston vs Washington (Twice)
+Steals                    2, 03/14/2026, Boston vs Washington (Twice)
 Turnovers                 2, 03/06/2026, Boston vs Dallas
-Blocked Shots             0, 03/10/2026, Boston at San Antonio
+Blocked Shots             0, 03/14/2026, Boston vs Washington
 Points                   24, 03/10/2026, Boston at San Antonio
 
 Jayson Tatum / Boston Celtics / Career Regular Season Single-Game Highs
@@ -2300,8 +2300,8 @@ Amari Williams / Boston Celtics / 2025-26 Regular Season Single-Game Highs
 Minutes                  26, 01/26/2026, Boston vs Portland
 Field Goals               3, 01/26/2026, Boston vs Portland
 Field Goal Attempts       8, 01/26/2026, Boston vs Portland
-Three-Point Field Goals   0, 03/10/2026, Boston at San Antonio
-Three-Point Attempts      0, 03/10/2026, Boston at San Antonio
+Three-Point Field Goals   0, 03/14/2026, Boston vs Washington
+Three-Point Attempts      0, 03/14/2026, Boston vs Washington
 Free Throws               3, 01/26/2026, Boston vs Portland (Twice)
 Free Throw Attempts       5, 01/26/2026, Boston vs Portland
 Offensive Rebounds        2, 01/26/2026, Boston vs Portland
@@ -2317,8 +2317,8 @@ Amari Williams / Boston Celtics / Career Regular Season Single-Game Highs
 Minutes                  26, 01/26/2026, Boston vs Portland
 Field Goals               3, 01/26/2026, Boston vs Portland
 Field Goal Attempts       8, 01/26/2026, Boston vs Portland
-Three-Point Field Goals   0, 03/10/2026, Boston at San Antonio
-Three-Point Attempts      0, 03/10/2026, Boston at San Antonio
+Three-Point Field Goals   0, 03/14/2026, Boston vs Washington
+Three-Point Attempts      0, 03/14/2026, Boston vs Washington
 Free Throws               3, 01/26/2026, Boston vs Portland (Twice)
 Free Throw Attempts       5, 01/26/2026, Boston vs Portland
 Offensive Rebounds        2, 01/26/2026, Boston vs Portland
@@ -2370,7 +2370,7 @@ Points                  157, 12/07/2006, New Jersey vs Phoenix
 
 
 Team Totals / Brooklyn Nets / 2025-26 Regular Season Single-Game Lows
-Minutes                 240, 03/12/2026, Brooklyn at Atlanta
+Minutes                 240, 03/14/2026, Brooklyn at Philadelphia
 Field Goals              23, 01/21/2026, Brooklyn at New York
 Field Goal Attempts      69, 03/10/2026, Brooklyn vs Detroit
 Three-Point Field Goals   6, 03/03/2026, Brooklyn at Miami (Twice)
@@ -2422,10 +2422,10 @@ Points                  161, 12/07/2006, New Jersey vs Phoenix
 
 
 Opponent Totals / Brooklyn Nets / 2025-26 Regular Season Single-Game Lows
-Minutes                 240, 03/12/2026, Brooklyn at Atlanta
+Minutes                 240, 03/14/2026, Brooklyn at Philadelphia
 Field Goals              31, 12/14/2025, Brooklyn vs Milwaukee
 Field Goal Attempts      70, 03/01/2026, Brooklyn vs Cleveland
-Three-Point Field Goals   5, 01/27/2026, Brooklyn at Phoenix
+Three-Point Field Goals   3, 03/14/2026, Brooklyn at Philadelphia
 Three-Point Attempts     20, 01/27/2026, Brooklyn at Phoenix
 Free Throws               6, 01/18/2026, Brooklyn at Chicago
 Free Throw Attempts       8, 12/21/2025, Brooklyn vs Toronto
@@ -2613,21 +2613,21 @@ Points                   26, 02/05/2026, Brooklyn at Orlando
 
 
 Tyson Etienne / Brooklyn Nets / 2025-26 Regular Season Single-Game Highs
-Minutes                  18, 03/12/2026, Brooklyn at Atlanta
-Field Goals               2, 03/12/2026, Brooklyn at Atlanta (3 times)
-Field Goal Attempts       5, 03/12/2026, Brooklyn at Atlanta
-Three-Point Field Goals   2, 03/12/2026, Brooklyn at Atlanta (3 times)
-Three-Point Attempts      5, 03/12/2026, Brooklyn at Atlanta
-Free Throws               1, 03/10/2026, Brooklyn vs Detroit
-Free Throw Attempts       2, 03/10/2026, Brooklyn vs Detroit
-Offensive Rebounds        1, 03/12/2026, Brooklyn at Atlanta
-Defensive Rebounds        2, 03/12/2026, Brooklyn at Atlanta
-Rebounds                  3, 03/12/2026, Brooklyn at Atlanta
+Minutes                  27, 03/14/2026, Brooklyn at Philadelphia
+Field Goals               3, 03/14/2026, Brooklyn at Philadelphia
+Field Goal Attempts      11, 03/14/2026, Brooklyn at Philadelphia
+Three-Point Field Goals   3, 03/14/2026, Brooklyn at Philadelphia
+Three-Point Attempts     11, 03/14/2026, Brooklyn at Philadelphia
+Free Throws               2, 03/14/2026, Brooklyn at Philadelphia
+Free Throw Attempts       2, 03/14/2026, Brooklyn at Philadelphia (Twice)
+Offensive Rebounds        1, 03/14/2026, Brooklyn at Philadelphia (Twice)
+Defensive Rebounds        3, 03/14/2026, Brooklyn at Philadelphia
+Rebounds                  4, 03/14/2026, Brooklyn at Philadelphia
 Assists                   3, 03/10/2026, Brooklyn vs Detroit
-Steals                    0, 03/12/2026, Brooklyn at Atlanta
-Turnovers                 1, 03/12/2026, Brooklyn at Atlanta (4 times)
-Blocked Shots             0, 03/12/2026, Brooklyn at Atlanta
-Points                    7, 03/10/2026, Brooklyn vs Detroit
+Steals                    2, 03/14/2026, Brooklyn at Philadelphia
+Turnovers                 1, 03/14/2026, Brooklyn at Philadelphia (5 times)
+Blocked Shots             0, 03/14/2026, Brooklyn at Philadelphia
+Points                   11, 03/14/2026, Brooklyn at Philadelphia
 
 Tyson Etienne / Brooklyn Nets / Career Regular Season Single-Game Highs
 Minutes                  32, 04/06/2025, Brooklyn vs Toronto
@@ -2635,103 +2635,103 @@ Field Goals               5, 04/10/2025, Brooklyn vs Atlanta
 Field Goal Attempts      14, 04/10/2025, Brooklyn vs Atlanta
 Three-Point Field Goals   4, 04/10/2025, Brooklyn vs Atlanta
 Three-Point Attempts     12, 04/10/2025, Brooklyn vs Atlanta
-Free Throws               2, 04/13/2025, Brooklyn vs New York (4 times)
+Free Throws               2, 03/14/2026, Brooklyn at Philadelphia (5 times)
 Free Throw Attempts       4, 04/06/2025, Brooklyn vs Toronto
-Offensive Rebounds        1, 03/12/2026, Brooklyn at Atlanta (4 times)
-Defensive Rebounds        3, 04/06/2025, Brooklyn vs Toronto
-Rebounds                  4, 04/06/2025, Brooklyn vs Toronto
+Offensive Rebounds        1, 03/14/2026, Brooklyn at Philadelphia (5 times)
+Defensive Rebounds        3, 03/14/2026, Brooklyn at Philadelphia (Twice)
+Rebounds                  4, 03/14/2026, Brooklyn at Philadelphia (Twice)
 Assists                   5, 04/03/2025, Brooklyn vs Minnesota
-Steals                    2, 04/03/2025, Brooklyn vs Minnesota
+Steals                    2, 03/14/2026, Brooklyn at Philadelphia (Twice)
 Turnovers                 3, 04/06/2025, Brooklyn vs Toronto
 Blocked Shots             1, 04/06/2025, Brooklyn vs Toronto
 Points                   16, 04/10/2025, Brooklyn vs Atlanta
 
 
 Chaney Johnson / Brooklyn Nets / 2025-26 Regular Season Single-Game Highs
-Minutes                  22, 03/10/2026, Brooklyn vs Detroit
+Minutes                  24, 03/14/2026, Brooklyn at Philadelphia
 Field Goals               2, 03/10/2026, Brooklyn vs Detroit (Twice)
-Field Goal Attempts       3, 03/12/2026, Brooklyn at Atlanta (Twice)
+Field Goal Attempts       6, 03/14/2026, Brooklyn at Philadelphia
 Three-Point Field Goals   1, 03/12/2026, Brooklyn at Atlanta (Twice)
-Three-Point Attempts      2, 03/12/2026, Brooklyn at Atlanta
-Free Throws               0, 03/12/2026, Brooklyn at Atlanta
-Free Throw Attempts       0, 03/12/2026, Brooklyn at Atlanta
-Offensive Rebounds        1, 03/12/2026, Brooklyn at Atlanta
-Defensive Rebounds        2, 03/12/2026, Brooklyn at Atlanta
-Rebounds                  3, 03/12/2026, Brooklyn at Atlanta
+Three-Point Attempts      2, 03/14/2026, Brooklyn at Philadelphia (Twice)
+Free Throws               6, 03/14/2026, Brooklyn at Philadelphia
+Free Throw Attempts       8, 03/14/2026, Brooklyn at Philadelphia
+Offensive Rebounds        4, 03/14/2026, Brooklyn at Philadelphia
+Defensive Rebounds        6, 03/14/2026, Brooklyn at Philadelphia
+Rebounds                 10, 03/14/2026, Brooklyn at Philadelphia
 Assists                   3, 03/12/2026, Brooklyn at Atlanta
-Steals                    1, 03/12/2026, Brooklyn at Atlanta (Twice)
+Steals                    3, 03/14/2026, Brooklyn at Philadelphia
 Turnovers                 2, 03/12/2026, Brooklyn at Atlanta
-Blocked Shots             1, 03/09/2026, Brooklyn vs Memphis
-Points                    5, 03/10/2026, Brooklyn vs Detroit
+Blocked Shots             1, 03/14/2026, Brooklyn at Philadelphia (Twice)
+Points                    6, 03/14/2026, Brooklyn at Philadelphia
 
 Chaney Johnson / Brooklyn Nets / Career Regular Season Single-Game Highs
-Minutes                  22, 03/10/2026, Brooklyn vs Detroit
+Minutes                  24, 03/14/2026, Brooklyn at Philadelphia
 Field Goals               2, 03/10/2026, Brooklyn vs Detroit (Twice)
-Field Goal Attempts       3, 03/12/2026, Brooklyn at Atlanta (Twice)
+Field Goal Attempts       6, 03/14/2026, Brooklyn at Philadelphia
 Three-Point Field Goals   1, 03/12/2026, Brooklyn at Atlanta (Twice)
-Three-Point Attempts      2, 03/12/2026, Brooklyn at Atlanta
-Free Throws               0, 03/12/2026, Brooklyn at Atlanta
-Free Throw Attempts       0, 03/12/2026, Brooklyn at Atlanta
-Offensive Rebounds        1, 03/12/2026, Brooklyn at Atlanta
-Defensive Rebounds        2, 03/12/2026, Brooklyn at Atlanta
-Rebounds                  3, 03/12/2026, Brooklyn at Atlanta
+Three-Point Attempts      2, 03/14/2026, Brooklyn at Philadelphia (Twice)
+Free Throws               6, 03/14/2026, Brooklyn at Philadelphia
+Free Throw Attempts       8, 03/14/2026, Brooklyn at Philadelphia
+Offensive Rebounds        4, 03/14/2026, Brooklyn at Philadelphia
+Defensive Rebounds        6, 03/14/2026, Brooklyn at Philadelphia
+Rebounds                 10, 03/14/2026, Brooklyn at Philadelphia
 Assists                   3, 03/12/2026, Brooklyn at Atlanta
-Steals                    1, 03/12/2026, Brooklyn at Atlanta (Twice)
+Steals                    3, 03/14/2026, Brooklyn at Philadelphia
 Turnovers                 2, 03/12/2026, Brooklyn at Atlanta
-Blocked Shots             1, 03/09/2026, Brooklyn vs Memphis
-Points                    5, 03/10/2026, Brooklyn vs Detroit
+Blocked Shots             1, 03/14/2026, Brooklyn at Philadelphia (Twice)
+Points                    6, 03/14/2026, Brooklyn at Philadelphia
 
 
 E.J. Liddell / Brooklyn Nets / 2025-26 Regular Season Single-Game Highs
 Minutes                  13, 03/12/2026, Brooklyn at Atlanta
-Field Goals               2, 03/12/2026, Brooklyn at Atlanta (3 times)
-Field Goal Attempts       4, 02/01/2026, Brooklyn at Detroit
-Three-Point Field Goals   1, 02/01/2026, Brooklyn at Detroit (4 times)
-Three-Point Attempts      2, 02/01/2026, Brooklyn at Detroit (5 times)
+Field Goals               4, 03/14/2026, Brooklyn at Philadelphia
+Field Goal Attempts       5, 03/14/2026, Brooklyn at Philadelphia
+Three-Point Field Goals   2, 03/14/2026, Brooklyn at Philadelphia
+Three-Point Attempts      3, 03/14/2026, Brooklyn at Philadelphia
 Free Throws               1, 11/09/2025, Brooklyn at New York (Twice)
 Free Throw Attempts       2, 11/09/2025, Brooklyn at New York
-Offensive Rebounds        1, 11/29/2025, Brooklyn at Milwaukee (3 times)
+Offensive Rebounds        1, 03/14/2026, Brooklyn at Philadelphia (4 times)
 Defensive Rebounds        6, 03/12/2026, Brooklyn at Atlanta
 Rebounds                  6, 03/12/2026, Brooklyn at Atlanta
-Assists                   3, 03/10/2026, Brooklyn vs Detroit
+Assists                   3, 03/14/2026, Brooklyn at Philadelphia (Twice)
 Steals                    1, 01/25/2026, Brooklyn at L.A. Clippers
 Turnovers                 2, 03/12/2026, Brooklyn at Atlanta (Twice)
 Blocked Shots             2, 03/12/2026, Brooklyn at Atlanta
-Points                    6, 10/27/2025, Brooklyn at Houston
+Points                   10, 03/14/2026, Brooklyn at Philadelphia
 
 E.J. Liddell / Brooklyn Nets / Career Regular Season Single-Game Highs (Games with all teams)
 Minutes                  17, 11/27/2024, Chicago at Orlando
-Field Goals               3, 04/08/2025, Chicago at Cleveland
-Field Goal Attempts       4, 02/01/2026, Brooklyn at Detroit (Twice)
-Three-Point Field Goals   2, 11/23/2024, Chicago vs Memphis
-Three-Point Attempts      3, 11/23/2024, Chicago vs Memphis
+Field Goals               4, 03/14/2026, Brooklyn at Philadelphia
+Field Goal Attempts       5, 03/14/2026, Brooklyn at Philadelphia
+Three-Point Field Goals   2, 03/14/2026, Brooklyn at Philadelphia (Twice)
+Three-Point Attempts      3, 03/14/2026, Brooklyn at Philadelphia (Twice)
 Free Throws               2, 12/02/2024, Chicago vs Brooklyn (Twice)
 Free Throw Attempts       2, 11/09/2025, Brooklyn at New York (3 times)
 Offensive Rebounds        2, 04/08/2025, Chicago at Cleveland
 Defensive Rebounds        6, 03/12/2026, Brooklyn at Atlanta
 Rebounds                  6, 03/12/2026, Brooklyn at Atlanta
-Assists                   3, 03/10/2026, Brooklyn vs Detroit
+Assists                   3, 03/14/2026, Brooklyn at Philadelphia (Twice)
 Steals                    2, 01/26/2024, New Orleans vs Oklahoma City
 Turnovers                 2, 03/12/2026, Brooklyn at Atlanta (Twice)
 Blocked Shots             2, 03/12/2026, Brooklyn at Atlanta
-Points                    6, 10/27/2025, Brooklyn at Houston (3 times)
+Points                   10, 03/14/2026, Brooklyn at Philadelphia
 
 E.J. Liddell / Brooklyn Nets / Career Regular Season Single-Game Highs (With this team only)
 Minutes                  13, 03/12/2026, Brooklyn at Atlanta
-Field Goals               2, 03/12/2026, Brooklyn at Atlanta (3 times)
-Field Goal Attempts       4, 02/01/2026, Brooklyn at Detroit
-Three-Point Field Goals   1, 02/01/2026, Brooklyn at Detroit (4 times)
-Three-Point Attempts      2, 02/01/2026, Brooklyn at Detroit (5 times)
+Field Goals               4, 03/14/2026, Brooklyn at Philadelphia
+Field Goal Attempts       5, 03/14/2026, Brooklyn at Philadelphia
+Three-Point Field Goals   2, 03/14/2026, Brooklyn at Philadelphia
+Three-Point Attempts      3, 03/14/2026, Brooklyn at Philadelphia
 Free Throws               1, 11/09/2025, Brooklyn at New York (Twice)
 Free Throw Attempts       2, 11/09/2025, Brooklyn at New York
-Offensive Rebounds        1, 11/29/2025, Brooklyn at Milwaukee (3 times)
+Offensive Rebounds        1, 03/14/2026, Brooklyn at Philadelphia (4 times)
 Defensive Rebounds        6, 03/12/2026, Brooklyn at Atlanta
 Rebounds                  6, 03/12/2026, Brooklyn at Atlanta
-Assists                   3, 03/10/2026, Brooklyn vs Detroit
+Assists                   3, 03/14/2026, Brooklyn at Philadelphia (Twice)
 Steals                    1, 01/25/2026, Brooklyn at L.A. Clippers
 Turnovers                 2, 03/12/2026, Brooklyn at Atlanta (Twice)
 Blocked Shots             2, 03/12/2026, Brooklyn at Atlanta
-Points                    6, 10/27/2025, Brooklyn at Houston
+Points                   10, 03/14/2026, Brooklyn at Philadelphia
 
 
 Terance Mann / Brooklyn Nets / 2025-26 Regular Season Single-Game Highs
@@ -2824,9 +2824,9 @@ Points                   30, 11/27/2024, Brooklyn at Phoenix
 Josh Minott / Brooklyn Nets / 2025-26 Regular Season Single-Game Highs (Games with all teams)
 Minutes                  34, 11/05/2025, Boston vs Washington
 Field Goals               8, 11/05/2025, Boston vs Washington
-Field Goal Attempts      12, 11/05/2025, Boston vs Washington
+Field Goal Attempts      12, 03/14/2026, Brooklyn at Philadelphia (Twice)
 Three-Point Field Goals   4, 03/12/2026, Brooklyn at Atlanta
-Three-Point Attempts      7, 03/12/2026, Brooklyn at Atlanta
+Three-Point Attempts      8, 03/14/2026, Brooklyn at Philadelphia
 Free Throws               8, 03/12/2026, Brooklyn at Atlanta
 Free Throw Attempts      10, 03/12/2026, Brooklyn at Atlanta
 Offensive Rebounds        5, 10/29/2025, Boston vs Cleveland
@@ -2841,9 +2841,9 @@ Points                   24, 03/12/2026, Brooklyn at Atlanta
 Josh Minott / Brooklyn Nets / 2025-26 Regular Season Single-Game Highs (With this team only)
 Minutes                  24, 03/12/2026, Brooklyn at Atlanta
 Field Goals               6, 03/12/2026, Brooklyn at Atlanta
-Field Goal Attempts       9, 03/12/2026, Brooklyn at Atlanta
+Field Goal Attempts      12, 03/14/2026, Brooklyn at Philadelphia
 Three-Point Field Goals   4, 03/12/2026, Brooklyn at Atlanta
-Three-Point Attempts      7, 03/12/2026, Brooklyn at Atlanta
+Three-Point Attempts      8, 03/14/2026, Brooklyn at Philadelphia
 Free Throws               8, 03/12/2026, Brooklyn at Atlanta
 Free Throw Attempts      10, 03/12/2026, Brooklyn at Atlanta
 Offensive Rebounds        2, 03/10/2026, Brooklyn vs Detroit (Twice)
@@ -2858,9 +2858,9 @@ Points                   24, 03/12/2026, Brooklyn at Atlanta
 Josh Minott / Brooklyn Nets / Career Regular Season Single-Game Highs (Games with all teams)
 Minutes                  34, 11/05/2025, Boston vs Washington
 Field Goals               8, 11/05/2025, Boston vs Washington
-Field Goal Attempts      12, 11/05/2025, Boston vs Washington (Twice)
+Field Goal Attempts      12, 03/14/2026, Brooklyn at Philadelphia (3 times)
 Three-Point Field Goals   4, 03/12/2026, Brooklyn at Atlanta
-Three-Point Attempts      7, 03/12/2026, Brooklyn at Atlanta
+Three-Point Attempts      8, 03/14/2026, Brooklyn at Philadelphia
 Free Throws               8, 03/12/2026, Brooklyn at Atlanta
 Free Throw Attempts      10, 03/12/2026, Brooklyn at Atlanta
 Offensive Rebounds        5, 10/29/2025, Boston vs Cleveland
@@ -2875,9 +2875,9 @@ Points                   24, 03/12/2026, Brooklyn at Atlanta
 Josh Minott / Brooklyn Nets / Career Regular Season Single-Game Highs (With this team only)
 Minutes                  24, 03/12/2026, Brooklyn at Atlanta
 Field Goals               6, 03/12/2026, Brooklyn at Atlanta
-Field Goal Attempts       9, 03/12/2026, Brooklyn at Atlanta
+Field Goal Attempts      12, 03/14/2026, Brooklyn at Philadelphia
 Three-Point Field Goals   4, 03/12/2026, Brooklyn at Atlanta
-Three-Point Attempts      7, 03/12/2026, Brooklyn at Atlanta
+Three-Point Attempts      8, 03/14/2026, Brooklyn at Philadelphia
 Free Throws               8, 03/12/2026, Brooklyn at Atlanta
 Free Throw Attempts      10, 03/12/2026, Brooklyn at Atlanta
 Offensive Rebounds        2, 03/10/2026, Brooklyn vs Detroit (Twice)
@@ -3013,38 +3013,38 @@ Points                   16, 01/14/2026, Brooklyn at New Orleans
 
 
 Ben Saraf / Brooklyn Nets / 2025-26 Regular Season Single-Game Highs
-Minutes                  31, 03/12/2026, Brooklyn at Atlanta
-Field Goals               4, 03/12/2026, Brooklyn at Atlanta (5 times)
-Field Goal Attempts      10, 02/07/2026, Brooklyn vs Washington
+Minutes                  31, 03/14/2026, Brooklyn at Philadelphia
+Field Goals               6, 03/14/2026, Brooklyn at Philadelphia
+Field Goal Attempts      13, 03/14/2026, Brooklyn at Philadelphia
 Three-Point Field Goals   2, 11/29/2025, Brooklyn at Milwaukee (Twice)
 Three-Point Attempts      7, 12/01/2025, Brooklyn vs Charlotte
 Free Throws               6, 03/10/2026, Brooklyn vs Detroit
 Free Throw Attempts       6, 03/10/2026, Brooklyn vs Detroit (4 times)
-Offensive Rebounds        1, 03/03/2026, Brooklyn at Miami (8 times)
+Offensive Rebounds        1, 03/14/2026, Brooklyn at Philadelphia (9 times)
 Defensive Rebounds        6, 10/22/2025, Brooklyn at Charlotte
 Rebounds                  7, 10/22/2025, Brooklyn at Charlotte
 Assists                   7, 03/09/2026, Brooklyn vs Memphis (Twice)
 Steals                    3, 12/04/2025, Brooklyn vs Utah
 Turnovers                 6, 03/03/2026, Brooklyn at Miami
 Blocked Shots             1, 03/09/2026, Brooklyn vs Memphis (5 times)
-Points                   12, 02/11/2026, Brooklyn vs Indiana (Twice)
+Points                   12, 03/14/2026, Brooklyn at Philadelphia (3 times)
 
 Ben Saraf / Brooklyn Nets / Career Regular Season Single-Game Highs
-Minutes                  31, 03/12/2026, Brooklyn at Atlanta
-Field Goals               4, 03/12/2026, Brooklyn at Atlanta (5 times)
-Field Goal Attempts      10, 02/07/2026, Brooklyn vs Washington
+Minutes                  31, 03/14/2026, Brooklyn at Philadelphia
+Field Goals               6, 03/14/2026, Brooklyn at Philadelphia
+Field Goal Attempts      13, 03/14/2026, Brooklyn at Philadelphia
 Three-Point Field Goals   2, 11/29/2025, Brooklyn at Milwaukee (Twice)
 Three-Point Attempts      7, 12/01/2025, Brooklyn vs Charlotte
 Free Throws               6, 03/10/2026, Brooklyn vs Detroit
 Free Throw Attempts       6, 03/10/2026, Brooklyn vs Detroit (4 times)
-Offensive Rebounds        1, 03/03/2026, Brooklyn at Miami (8 times)
+Offensive Rebounds        1, 03/14/2026, Brooklyn at Philadelphia (9 times)
 Defensive Rebounds        6, 10/22/2025, Brooklyn at Charlotte
 Rebounds                  7, 10/22/2025, Brooklyn at Charlotte
 Assists                   7, 03/09/2026, Brooklyn vs Memphis (Twice)
 Steals                    3, 12/04/2025, Brooklyn vs Utah
 Turnovers                 6, 03/03/2026, Brooklyn at Miami
 Blocked Shots             1, 03/09/2026, Brooklyn vs Memphis (5 times)
-Points                   12, 02/11/2026, Brooklyn vs Indiana (Twice)
+Points                   12, 03/14/2026, Brooklyn at Philadelphia (3 times)
 
 
 Day'Ron Sharpe / Brooklyn Nets / 2025-26 Regular Season Single-Game Highs
@@ -3080,6 +3080,41 @@ Steals                    4, 01/25/2026, Brooklyn at L.A. Clippers (4 times)
 Turnovers                 6, 03/01/2026, Brooklyn vs Cleveland
 Blocked Shots             4, 02/20/2025, Brooklyn vs Cleveland (Twice)
 Points                   25, 02/26/2025, Brooklyn vs Oklahoma City
+
+
+Malachi Smith / Brooklyn Nets / 2025-26 Regular Season Single-Game Highs
+Minutes                  23, 03/14/2026, Brooklyn at Philadelphia
+Field Goals               2, 03/14/2026, Brooklyn at Philadelphia
+Field Goal Attempts       5, 03/14/2026, Brooklyn at Philadelphia
+Three-Point Field Goals   0, 03/14/2026, Brooklyn at Philadelphia
+Three-Point Attempts      0, 03/14/2026, Brooklyn at Philadelphia
+Free Throws               0, 03/14/2026, Brooklyn at Philadelphia
+Free Throw Attempts       0, 03/14/2026, Brooklyn at Philadelphia
+Offensive Rebounds        1, 03/14/2026, Brooklyn at Philadelphia
+Defensive Rebounds        2, 03/14/2026, Brooklyn at Philadelphia
+Rebounds                  3, 03/14/2026, Brooklyn at Philadelphia
+Assists                   1, 03/14/2026, Brooklyn at Philadelphia
+Steals                    1, 03/14/2026, Brooklyn at Philadelphia
+Turnovers                 5, 03/14/2026, Brooklyn at Philadelphia
+Blocked Shots             2, 03/14/2026, Brooklyn at Philadelphia
+Points                    4, 03/14/2026, Brooklyn at Philadelphia
+
+Malachi Smith / Brooklyn Nets / Career Regular Season Single-Game Highs
+Minutes                  23, 03/14/2026, Brooklyn at Philadelphia
+Field Goals               2, 03/14/2026, Brooklyn at Philadelphia
+Field Goal Attempts       5, 03/14/2026, Brooklyn at Philadelphia
+Three-Point Field Goals   0, 03/14/2026, Brooklyn at Philadelphia
+Three-Point Attempts      0, 03/14/2026, Brooklyn at Philadelphia
+Free Throws               0, 03/14/2026, Brooklyn at Philadelphia
+Free Throw Attempts       0, 03/14/2026, Brooklyn at Philadelphia
+Offensive Rebounds        1, 03/14/2026, Brooklyn at Philadelphia
+Defensive Rebounds        2, 03/14/2026, Brooklyn at Philadelphia
+Rebounds                  3, 03/14/2026, Brooklyn at Philadelphia
+Assists                   1, 03/14/2026, Brooklyn at Philadelphia
+Steals                    1, 03/14/2026, Brooklyn at Philadelphia
+Turnovers                 5, 03/14/2026, Brooklyn at Philadelphia
+Blocked Shots             2, 03/14/2026, Brooklyn at Philadelphia
+Points                    4, 03/14/2026, Brooklyn at Philadelphia
 
 
 Cam Thomas / Brooklyn Nets / 2025-26 Regular Season Single-Game Highs (With this team only)
@@ -3247,9 +3282,9 @@ Three-Point Field Goals   5, 11/29/2025, Brooklyn at Milwaukee
 Three-Point Attempts      9, 11/29/2025, Brooklyn at Milwaukee
 Free Throws               7, 03/10/2026, Brooklyn vs Detroit (Twice)
 Free Throw Attempts       9, 03/10/2026, Brooklyn vs Detroit
-Offensive Rebounds        3, 01/16/2026, Brooklyn vs Chicago (4 times)
+Offensive Rebounds        3, 03/14/2026, Brooklyn at Philadelphia (5 times)
 Defensive Rebounds        8, 03/12/2026, Brooklyn at Atlanta (4 times)
-Rebounds                 10, 02/01/2026, Brooklyn at Detroit (Twice)
+Rebounds                 10, 03/14/2026, Brooklyn at Philadelphia (3 times)
 Assists                   7, 02/19/2026, Brooklyn at Cleveland
 Steals                    2, 03/01/2026, Brooklyn vs Cleveland (6 times)
 Turnovers                 6, 12/03/2025, Brooklyn at Chicago
@@ -3264,9 +3299,9 @@ Three-Point Field Goals   5, 11/29/2025, Brooklyn at Milwaukee
 Three-Point Attempts      9, 11/29/2025, Brooklyn at Milwaukee
 Free Throws               7, 03/10/2026, Brooklyn vs Detroit (Twice)
 Free Throw Attempts       9, 03/10/2026, Brooklyn vs Detroit
-Offensive Rebounds        3, 01/16/2026, Brooklyn vs Chicago (4 times)
+Offensive Rebounds        3, 03/14/2026, Brooklyn at Philadelphia (5 times)
 Defensive Rebounds        8, 03/12/2026, Brooklyn at Atlanta (4 times)
-Rebounds                 10, 02/01/2026, Brooklyn at Detroit (Twice)
+Rebounds                 10, 03/14/2026, Brooklyn at Philadelphia (3 times)
 Assists                   7, 02/19/2026, Brooklyn at Cleveland
 Steals                    2, 03/01/2026, Brooklyn vs Cleveland (6 times)
 Turnovers                 6, 12/03/2025, Brooklyn at Chicago
@@ -3291,7 +3326,7 @@ Rebounds                 65, 01/10/2026, Charlotte at Utah
 Assists                  39, 12/18/2025, Charlotte vs Atlanta
 Steals                   14, 02/05/2026, Charlotte at Houston (Twice)
 Turnovers                25, 01/26/2026, Charlotte vs Philadelphia
-Blocked Shots            10, 11/28/2025, Charlotte vs Chicago
+Blocked Shots            10, 03/14/2026, Charlotte at San Antonio (Twice)
 Points                  150, 01/10/2026, Charlotte at Utah
 
 Team Totals / Charlotte Hornets / All-Time Regular Season Single-Game Highs
@@ -3313,7 +3348,7 @@ Points                  158, 01/26/2022, Charlotte at Indiana
 
 
 Team Totals / Charlotte Hornets / 2025-26 Regular Season Single-Game Lows
-Minutes                 240, 03/11/2026, Charlotte at Sacramento
+Minutes                 240, 03/14/2026, Charlotte at San Antonio
 Field Goals              28, 12/20/2025, Charlotte at Detroit
 Field Goal Attempts      71, 11/10/2025, Charlotte vs L.A. Lakers
 Three-Point Field Goals   8, 01/21/2026, Charlotte vs Cleveland
@@ -3365,7 +3400,7 @@ Points                  147, 11/14/2025, Charlotte at Milwaukee
 
 
 Opponent Totals / Charlotte Hornets / 2025-26 Regular Season Single-Game Lows
-Minutes                 240, 03/11/2026, Charlotte at Sacramento
+Minutes                 240, 03/14/2026, Charlotte at San Antonio
 Field Goals              28, 03/03/2026, Charlotte vs Dallas
 Field Goal Attempts      74, 03/03/2026, Charlotte vs Dallas
 Three-Point Field Goals   3, 03/03/2026, Charlotte vs Dallas
@@ -3785,8 +3820,8 @@ Ryan Kalkbrenner / Charlotte Hornets / 2025-26 Regular Season Single-Game Highs
 Minutes                  36, 02/20/2026, Charlotte vs Cleveland
 Field Goals               8, 01/18/2026, Charlotte at Denver (3 times)
 Field Goal Attempts      10, 01/18/2026, Charlotte at Denver
-Three-Point Field Goals   0, 03/10/2026, Charlotte at Portland
-Three-Point Attempts      1, 03/10/2026, Charlotte at Portland (3 times)
+Three-Point Field Goals   0, 03/14/2026, Charlotte at San Antonio
+Three-Point Attempts      1, 03/14/2026, Charlotte at San Antonio (4 times)
 Free Throws               5, 11/15/2025, Charlotte vs Oklahoma City
 Free Throw Attempts       6, 02/02/2026, Charlotte vs New Orleans (3 times)
 Offensive Rebounds        9, 02/20/2026, Charlotte vs Cleveland
@@ -3802,8 +3837,8 @@ Ryan Kalkbrenner / Charlotte Hornets / Career Regular Season Single-Game Highs
 Minutes                  36, 02/20/2026, Charlotte vs Cleveland
 Field Goals               8, 01/18/2026, Charlotte at Denver (3 times)
 Field Goal Attempts      10, 01/18/2026, Charlotte at Denver
-Three-Point Field Goals   0, 03/10/2026, Charlotte at Portland
-Three-Point Attempts      1, 03/10/2026, Charlotte at Portland (3 times)
+Three-Point Field Goals   0, 03/14/2026, Charlotte at San Antonio
+Three-Point Attempts      1, 03/14/2026, Charlotte at San Antonio (4 times)
 Free Throws               5, 11/15/2025, Charlotte vs Oklahoma City
 Free Throw Attempts       6, 02/02/2026, Charlotte vs New Orleans (3 times)
 Offensive Rebounds        9, 02/20/2026, Charlotte vs Cleveland
@@ -4294,30 +4329,30 @@ Three-Point Field Goals   7, 01/18/2026, Chicago vs Brooklyn
 Three-Point Attempts     11, 01/18/2026, Chicago vs Brooklyn (Twice)
 Free Throws              14, 11/16/2025, Chicago at Utah
 Free Throw Attempts      14, 11/16/2025, Chicago at Utah
-Offensive Rebounds        2, 12/19/2025, Chicago at Cleveland
+Offensive Rebounds        2, 03/14/2026, Charlotte at San Antonio (Twice)
 Defensive Rebounds       10, 02/03/2026, Chicago at Milwaukee
 Rebounds                 10, 02/03/2026, Chicago at Milwaukee
 Assists                   9, 12/19/2025, Chicago at Cleveland
 Steals                    3, 12/23/2025, Chicago at Atlanta
 Turnovers                 7, 12/23/2025, Chicago at Atlanta
-Blocked Shots             1, 03/11/2026, Charlotte at Sacramento (3 times)
+Blocked Shots             2, 03/14/2026, Charlotte at San Antonio
 Points                   27, 01/20/2026, Chicago vs L.A. Clippers (Twice)
 
 Coby White / Charlotte Hornets / 2025-26 Regular Season Single-Game Highs (With this team only)
-Minutes                  21, 02/28/2026, Charlotte vs Portland
-Field Goals               6, 03/04/2026, Charlotte at Boston
-Field Goal Attempts      13, 02/28/2026, Charlotte vs Portland
-Three-Point Field Goals   2, 03/11/2026, Charlotte at Sacramento (4 times)
-Three-Point Attempts      6, 03/06/2026, Charlotte vs Miami
+Minutes                  26, 03/14/2026, Charlotte at San Antonio
+Field Goals               7, 03/14/2026, Charlotte at San Antonio
+Field Goal Attempts      15, 03/14/2026, Charlotte at San Antonio
+Three-Point Field Goals   2, 03/14/2026, Charlotte at San Antonio (5 times)
+Three-Point Attempts      7, 03/14/2026, Charlotte at San Antonio
 Free Throws               8, 02/28/2026, Charlotte vs Portland
 Free Throw Attempts       9, 02/28/2026, Charlotte vs Portland
-Offensive Rebounds        1, 02/24/2026, Charlotte at Chicago
+Offensive Rebounds        2, 03/14/2026, Charlotte at San Antonio
 Defensive Rebounds        5, 03/06/2026, Charlotte vs Miami
 Rebounds                  5, 03/06/2026, Charlotte vs Miami
 Assists                   6, 03/04/2026, Charlotte at Boston (Twice)
-Steals                    1, 03/04/2026, Charlotte at Boston (3 times)
+Steals                    1, 03/14/2026, Charlotte at San Antonio (4 times)
 Turnovers                 3, 03/11/2026, Charlotte at Sacramento
-Blocked Shots             1, 03/11/2026, Charlotte at Sacramento
+Blocked Shots             2, 03/14/2026, Charlotte at San Antonio
 Points                   20, 02/28/2026, Charlotte vs Portland
 
 Coby White / Charlotte Hornets / Career Regular Season Single-Game Highs (Games with all teams)
@@ -4334,24 +4369,24 @@ Rebounds                 11, 03/29/2025, Chicago vs Dallas
 Assists                  13, 01/10/2021, Chicago at L.A. Clippers
 Steals                    4, 02/28/2025, Chicago vs Toronto (7 times)
 Turnovers                 9, 03/10/2020, Chicago vs Cleveland
-Blocked Shots             2, 02/12/2025, Chicago vs Detroit (4 times)
+Blocked Shots             2, 03/14/2026, Charlotte at San Antonio (5 times)
 Points                   44, 03/06/2025, Chicago at Orlando
 
 Coby White / Charlotte Hornets / Career Regular Season Single-Game Highs (With this team only)
-Minutes                  21, 02/28/2026, Charlotte vs Portland
-Field Goals               6, 03/04/2026, Charlotte at Boston
-Field Goal Attempts      13, 02/28/2026, Charlotte vs Portland
-Three-Point Field Goals   2, 03/11/2026, Charlotte at Sacramento (4 times)
-Three-Point Attempts      6, 03/06/2026, Charlotte vs Miami
+Minutes                  26, 03/14/2026, Charlotte at San Antonio
+Field Goals               7, 03/14/2026, Charlotte at San Antonio
+Field Goal Attempts      15, 03/14/2026, Charlotte at San Antonio
+Three-Point Field Goals   2, 03/14/2026, Charlotte at San Antonio (5 times)
+Three-Point Attempts      7, 03/14/2026, Charlotte at San Antonio
 Free Throws               8, 02/28/2026, Charlotte vs Portland
 Free Throw Attempts       9, 02/28/2026, Charlotte vs Portland
-Offensive Rebounds        1, 02/24/2026, Charlotte at Chicago
+Offensive Rebounds        2, 03/14/2026, Charlotte at San Antonio
 Defensive Rebounds        5, 03/06/2026, Charlotte vs Miami
 Rebounds                  5, 03/06/2026, Charlotte vs Miami
 Assists                   6, 03/04/2026, Charlotte at Boston (Twice)
-Steals                    1, 03/04/2026, Charlotte at Boston (3 times)
+Steals                    1, 03/14/2026, Charlotte at San Antonio (4 times)
 Turnovers                 3, 03/11/2026, Charlotte at Sacramento
-Blocked Shots             1, 03/11/2026, Charlotte at Sacramento
+Blocked Shots             2, 03/14/2026, Charlotte at San Antonio
 Points                   20, 02/28/2026, Charlotte vs Portland
 
 
@@ -4369,7 +4404,7 @@ Rebounds                  9, 02/19/2026, Charlotte vs Houston (Twice)
 Assists                   5, 02/22/2026, Charlotte at Washington (3 times)
 Steals                    3, 01/21/2026, Charlotte vs Cleveland
 Turnovers                 3, 03/10/2026, Charlotte at Portland
-Blocked Shots             2, 02/22/2026, Charlotte at Washington
+Blocked Shots             4, 03/14/2026, Charlotte at San Antonio
 Points                   20, 02/19/2026, Charlotte vs Houston
 
 Grant Williams / Charlotte Hornets / Career Regular Season Single-Game Highs (Games with all teams)
@@ -4386,7 +4421,7 @@ Rebounds                 13, 03/03/2024, Charlotte at Toronto
 Assists                  11, 04/03/2024, Charlotte vs Portland
 Steals                    3, 01/21/2026, Charlotte vs Cleveland (6 times)
 Turnovers                 6, 03/13/2024, Charlotte at Memphis (Twice)
-Blocked Shots             3, 11/19/2024, Charlotte at Brooklyn (8 times)
+Blocked Shots             4, 03/14/2026, Charlotte at San Antonio
 Points                   27, 01/27/2024, Dallas vs Sacramento
 
 Grant Williams / Charlotte Hornets / Career Regular Season Single-Game Highs (With this team only)
@@ -4403,7 +4438,7 @@ Rebounds                 13, 03/03/2024, Charlotte at Toronto
 Assists                  11, 04/03/2024, Charlotte vs Portland
 Steals                    3, 01/21/2026, Charlotte vs Cleveland (Twice)
 Turnovers                 6, 03/13/2024, Charlotte at Memphis (Twice)
-Blocked Shots             3, 11/19/2024, Charlotte at Brooklyn (Twice)
+Blocked Shots             4, 03/14/2026, Charlotte at San Antonio
 Points                   24, 02/22/2024, Charlotte at Utah
 
 
@@ -8513,8 +8548,8 @@ Defensive Rebounds       10, 01/17/2026, Denver vs Washington
 Rebounds                 10, 03/09/2026, Denver at Oklahoma City (4 times)
 Assists                  11, 01/17/2026, Denver vs Washington
 Steals                    3, 10/25/2025, Denver vs Phoenix
-Turnovers                 3, 01/04/2026, Denver at Brooklyn (3 times)
-Blocked Shots             2, 11/15/2025, Denver at Minnesota
+Turnovers                 3, 03/14/2026, Denver at L.A. Lakers (4 times)
+Blocked Shots             2, 03/14/2026, Denver at L.A. Lakers (Twice)
 Points                   50, 10/23/2025, Denver at Golden State
 
 Aaron Gordon / Denver Nuggets / Career Regular Season Single-Game Highs (Games with all teams)
@@ -8644,7 +8679,7 @@ Minutes                  43, 12/15/2025, Denver vs Houston
 Field Goals              10, 11/28/2025, Denver vs San Antonio
 Field Goal Attempts      16, 11/28/2025, Denver vs San Antonio
 Three-Point Field Goals   6, 12/22/2025, Denver vs Utah (Twice)
-Three-Point Attempts      9, 12/05/2025, Denver at Atlanta (Twice)
+Three-Point Attempts     10, 03/14/2026, Denver at L.A. Lakers
 Free Throws               7, 02/22/2026, Denver at Golden State (Twice)
 Free Throw Attempts       8, 02/20/2026, Denver at Portland
 Offensive Rebounds        3, 02/25/2026, Denver vs Boston
@@ -8678,7 +8713,7 @@ Minutes                  43, 12/15/2025, Denver vs Houston
 Field Goals              10, 11/28/2025, Denver vs San Antonio
 Field Goal Attempts      16, 11/28/2025, Denver vs San Antonio
 Three-Point Field Goals   6, 12/22/2025, Denver vs Utah (Twice)
-Three-Point Attempts      9, 12/05/2025, Denver at Atlanta (Twice)
+Three-Point Attempts     10, 03/14/2026, Denver at L.A. Lakers
 Free Throws               7, 02/22/2026, Denver at Golden State (Twice)
 Free Throw Attempts       8, 02/20/2026, Denver at Portland
 Offensive Rebounds        3, 02/25/2026, Denver vs Boston
@@ -8703,7 +8738,7 @@ Offensive Rebounds        7, 02/04/2026, Denver at New York (3 times)
 Defensive Rebounds       17, 03/12/2026, Denver at San Antonio
 Rebounds                 21, 12/27/2025, Denver at Orlando
 Assists                  17, 02/07/2026, Denver at Chicago
-Steals                    5, 03/11/2026, Denver vs Houston
+Steals                    5, 03/14/2026, Denver at L.A. Lakers (Twice)
 Turnovers                 9, 03/05/2026, Denver vs L.A. Lakers (3 times)
 Blocked Shots             4, 02/07/2026, Denver at Chicago
 Points                   56, 12/25/2025, Denver vs Minnesota
@@ -13526,7 +13561,7 @@ Points                  175, 02/24/2023, L.A. Clippers vs Sacramento
 
 
 Team Totals / Los Angeles Clippers / 2025-26 Regular Season Single-Game Lows
-Minutes                 240, 03/13/2026, L.A. Clippers vs Chicago
+Minutes                 240, 03/14/2026, L.A. Clippers vs Sacramento
 Field Goals              30, 02/26/2026, L.A. Clippers vs Minnesota (Twice)
 Field Goal Attempts      69, 12/26/2025, L.A. Clippers at Portland
 Three-Point Field Goals   4, 03/07/2026, L.A. Clippers at Memphis
@@ -13551,7 +13586,7 @@ Three-Point Attempts     51, 01/03/2026, L.A. Clippers vs Boston
 Free Throws              30, 12/06/2025, L.A. Clippers at Minnesota
 Free Throw Attempts      38, 11/14/2025, L.A. Clippers at Dallas
 Offensive Rebounds       22, 12/11/2025, L.A. Clippers at Houston
-Defensive Rebounds       39, 02/19/2026, L.A. Clippers vs Denver (5 times)
+Defensive Rebounds       39, 03/14/2026, L.A. Clippers vs Sacramento (6 times)
 Rebounds                 53, 11/28/2025, L.A. Clippers vs Memphis
 Assists                  40, 01/20/2026, L.A. Clippers at Chicago
 Steals                   18, 01/10/2026, L.A. Clippers at Detroit (3 times)
@@ -13578,7 +13613,7 @@ Points                  176, 02/24/2023, L.A. Clippers vs Sacramento
 
 
 Opponent Totals / Los Angeles Clippers / 2025-26 Regular Season Single-Game Lows
-Minutes                 240, 03/13/2026, L.A. Clippers vs Chicago
+Minutes                 240, 03/14/2026, L.A. Clippers vs Sacramento
 Field Goals              29, 01/25/2026, L.A. Clippers vs Brooklyn
 Field Goal Attempts      68, 12/06/2025, L.A. Clippers at Minnesota
 Three-Point Field Goals   6, 01/01/2026, L.A. Clippers vs Utah (Twice)
@@ -13897,7 +13932,7 @@ Field Goal Attempts      14, 03/01/2026, L.A. Clippers vs New Orleans (5 times)
 Three-Point Field Goals   5, 01/20/2026, L.A. Clippers at Chicago (Twice)
 Three-Point Attempts      8, 01/10/2026, L.A. Clippers at Detroit (Twice)
 Free Throws               6, 11/04/2025, L.A. Clippers vs Oklahoma City
-Free Throw Attempts       6, 12/18/2025, L.A. Clippers at Oklahoma City (Twice)
+Free Throw Attempts       6, 03/14/2026, L.A. Clippers vs Sacramento (3 times)
 Offensive Rebounds        5, 12/01/2025, L.A. Clippers at Miami
 Defensive Rebounds       11, 02/19/2026, L.A. Clippers vs Denver
 Rebounds                 12, 02/19/2026, L.A. Clippers vs Denver (Twice)
@@ -13931,7 +13966,7 @@ Field Goal Attempts      14, 03/01/2026, L.A. Clippers vs New Orleans (5 times)
 Three-Point Field Goals   5, 01/20/2026, L.A. Clippers at Chicago (Twice)
 Three-Point Attempts      8, 01/10/2026, L.A. Clippers at Detroit (Twice)
 Free Throws               6, 11/04/2025, L.A. Clippers vs Oklahoma City
-Free Throw Attempts       6, 12/18/2025, L.A. Clippers at Oklahoma City (Twice)
+Free Throw Attempts       6, 03/14/2026, L.A. Clippers vs Sacramento (3 times)
 Offensive Rebounds        5, 12/01/2025, L.A. Clippers at Miami
 Defensive Rebounds       11, 02/19/2026, L.A. Clippers vs Denver
 Rebounds                 12, 02/19/2026, L.A. Clippers vs Denver (Twice)
@@ -14048,10 +14083,10 @@ Points                   35, 12/19/2025, Cleveland vs Chicago
 
 Darius Garland / Los Angeles Clippers / 2025-26 Regular Season Single-Game Highs (With this team only)
 Minutes                  30, 03/09/2026, L.A. Clippers vs New York
-Field Goals               8, 03/11/2026, L.A. Clippers vs Minnesota (Twice)
-Field Goal Attempts      20, 03/07/2026, L.A. Clippers at Memphis
-Three-Point Field Goals   5, 03/11/2026, L.A. Clippers vs Minnesota (Twice)
-Three-Point Attempts      9, 03/11/2026, L.A. Clippers vs Minnesota (Twice)
+Field Goals               9, 03/14/2026, L.A. Clippers vs Sacramento
+Field Goal Attempts      20, 03/14/2026, L.A. Clippers vs Sacramento (Twice)
+Three-Point Field Goals   5, 03/14/2026, L.A. Clippers vs Sacramento (3 times)
+Three-Point Attempts     10, 03/14/2026, L.A. Clippers vs Sacramento
 Free Throws               4, 03/09/2026, L.A. Clippers vs New York
 Free Throw Attempts       6, 03/09/2026, L.A. Clippers vs New York
 Offensive Rebounds        1, 03/07/2026, L.A. Clippers at Memphis (Twice)
@@ -14060,8 +14095,8 @@ Rebounds                  4, 03/07/2026, L.A. Clippers at Memphis (Twice)
 Assists                   8, 03/04/2026, L.A. Clippers vs Indiana
 Steals                    2, 03/11/2026, L.A. Clippers vs Minnesota (Twice)
 Turnovers                 5, 03/02/2026, L.A. Clippers at Golden State
-Blocked Shots             0, 03/11/2026, L.A. Clippers vs Minnesota
-Points                   23, 03/09/2026, L.A. Clippers vs New York
+Blocked Shots             0, 03/14/2026, L.A. Clippers vs Sacramento
+Points                   25, 03/14/2026, L.A. Clippers vs Sacramento
 
 Darius Garland / Los Angeles Clippers / Career Regular Season Single-Game Highs (Games with all teams)
 Minutes                  48, 11/18/2022, Cleveland vs Charlotte
@@ -14082,10 +14117,10 @@ Points                   51, 11/13/2022, Cleveland vs Minnesota
 
 Darius Garland / Los Angeles Clippers / Career Regular Season Single-Game Highs (With this team only)
 Minutes                  30, 03/09/2026, L.A. Clippers vs New York
-Field Goals               8, 03/11/2026, L.A. Clippers vs Minnesota (Twice)
-Field Goal Attempts      20, 03/07/2026, L.A. Clippers at Memphis
-Three-Point Field Goals   5, 03/11/2026, L.A. Clippers vs Minnesota (Twice)
-Three-Point Attempts      9, 03/11/2026, L.A. Clippers vs Minnesota (Twice)
+Field Goals               9, 03/14/2026, L.A. Clippers vs Sacramento
+Field Goal Attempts      20, 03/14/2026, L.A. Clippers vs Sacramento (Twice)
+Three-Point Field Goals   5, 03/14/2026, L.A. Clippers vs Sacramento (3 times)
+Three-Point Attempts     10, 03/14/2026, L.A. Clippers vs Sacramento
 Free Throws               4, 03/09/2026, L.A. Clippers vs New York
 Free Throw Attempts       6, 03/09/2026, L.A. Clippers vs New York
 Offensive Rebounds        1, 03/07/2026, L.A. Clippers at Memphis (Twice)
@@ -14094,8 +14129,8 @@ Rebounds                  4, 03/07/2026, L.A. Clippers at Memphis (Twice)
 Assists                   8, 03/04/2026, L.A. Clippers vs Indiana
 Steals                    2, 03/11/2026, L.A. Clippers vs Minnesota (Twice)
 Turnovers                 5, 03/02/2026, L.A. Clippers at Golden State
-Blocked Shots             0, 03/11/2026, L.A. Clippers vs Minnesota
-Points                   23, 03/09/2026, L.A. Clippers vs New York
+Blocked Shots             0, 03/14/2026, L.A. Clippers vs Sacramento
+Points                   25, 03/14/2026, L.A. Clippers vs Sacramento
 
 
 James Harden / Los Angeles Clippers / 2025-26 Regular Season Single-Game Highs (With this team only)
@@ -14137,14 +14172,14 @@ Isaiah Jackson / Los Angeles Clippers / 2025-26 Regular Season Single-Game Highs
 Minutes                  29, 11/03/2025, Indiana vs Milwaukee
 Field Goals               8, 11/03/2025, Indiana vs Milwaukee
 Field Goal Attempts      12, 11/03/2025, Indiana vs Milwaukee
-Three-Point Field Goals   0, 03/13/2026, L.A. Clippers vs Chicago
+Three-Point Field Goals   0, 03/14/2026, L.A. Clippers vs Sacramento
 Three-Point Attempts      1, 01/21/2026, Indiana at Boston
 Free Throws               6, 11/01/2025, Indiana vs Golden State
 Free Throw Attempts       6, 03/11/2026, L.A. Clippers vs Minnesota (5 times)
 Offensive Rebounds        8, 11/17/2025, Indiana at Detroit
 Defensive Rebounds        8, 02/03/2026, Indiana vs Utah (Twice)
 Rebounds                 12, 03/07/2026, L.A. Clippers at Memphis (Twice)
-Assists                   4, 02/02/2026, Indiana vs Houston
+Assists                   4, 03/14/2026, L.A. Clippers vs Sacramento (Twice)
 Steals                    4, 02/02/2026, Indiana vs Houston
 Turnovers                 3, 11/26/2025, Indiana at Toronto (Twice)
 Blocked Shots             4, 11/19/2025, Indiana vs Charlotte
@@ -14154,17 +14189,17 @@ Isaiah Jackson / Los Angeles Clippers / 2025-26 Regular Season Single-Game Highs
 Minutes                  25, 03/07/2026, L.A. Clippers at Memphis
 Field Goals               6, 03/07/2026, L.A. Clippers at Memphis
 Field Goal Attempts      10, 03/07/2026, L.A. Clippers at Memphis
-Three-Point Field Goals   0, 03/13/2026, L.A. Clippers vs Chicago
-Three-Point Attempts      0, 03/13/2026, L.A. Clippers vs Chicago
+Three-Point Field Goals   0, 03/14/2026, L.A. Clippers vs Sacramento
+Three-Point Attempts      0, 03/14/2026, L.A. Clippers vs Sacramento
 Free Throws               5, 03/11/2026, L.A. Clippers vs Minnesota
 Free Throw Attempts       6, 03/11/2026, L.A. Clippers vs Minnesota
 Offensive Rebounds        5, 03/07/2026, L.A. Clippers at Memphis
-Defensive Rebounds        7, 03/07/2026, L.A. Clippers at Memphis
+Defensive Rebounds        7, 03/14/2026, L.A. Clippers vs Sacramento (Twice)
 Rebounds                 12, 03/07/2026, L.A. Clippers at Memphis
-Assists                   3, 03/11/2026, L.A. Clippers vs Minnesota
+Assists                   4, 03/14/2026, L.A. Clippers vs Sacramento
 Steals                    2, 03/07/2026, L.A. Clippers at Memphis
 Turnovers                 2, 03/07/2026, L.A. Clippers at Memphis
-Blocked Shots             3, 03/04/2026, L.A. Clippers vs Indiana
+Blocked Shots             3, 03/14/2026, L.A. Clippers vs Sacramento (Twice)
 Points                   12, 03/07/2026, L.A. Clippers at Memphis
 
 Isaiah Jackson / Los Angeles Clippers / Career Regular Season Single-Game Highs (Games with all teams)
@@ -14188,17 +14223,17 @@ Isaiah Jackson / Los Angeles Clippers / Career Regular Season Single-Game Highs 
 Minutes                  25, 03/07/2026, L.A. Clippers at Memphis
 Field Goals               6, 03/07/2026, L.A. Clippers at Memphis
 Field Goal Attempts      10, 03/07/2026, L.A. Clippers at Memphis
-Three-Point Field Goals   0, 03/13/2026, L.A. Clippers vs Chicago
-Three-Point Attempts      0, 03/13/2026, L.A. Clippers vs Chicago
+Three-Point Field Goals   0, 03/14/2026, L.A. Clippers vs Sacramento
+Three-Point Attempts      0, 03/14/2026, L.A. Clippers vs Sacramento
 Free Throws               5, 03/11/2026, L.A. Clippers vs Minnesota
 Free Throw Attempts       6, 03/11/2026, L.A. Clippers vs Minnesota
 Offensive Rebounds        5, 03/07/2026, L.A. Clippers at Memphis
-Defensive Rebounds        7, 03/07/2026, L.A. Clippers at Memphis
+Defensive Rebounds        7, 03/14/2026, L.A. Clippers vs Sacramento (Twice)
 Rebounds                 12, 03/07/2026, L.A. Clippers at Memphis
-Assists                   3, 03/11/2026, L.A. Clippers vs Minnesota
+Assists                   4, 03/14/2026, L.A. Clippers vs Sacramento
 Steals                    2, 03/07/2026, L.A. Clippers at Memphis
 Turnovers                 2, 03/07/2026, L.A. Clippers at Memphis
-Blocked Shots             3, 03/04/2026, L.A. Clippers vs Indiana
+Blocked Shots             3, 03/14/2026, L.A. Clippers vs Sacramento (Twice)
 Points                   12, 03/07/2026, L.A. Clippers at Memphis
 
 
@@ -14215,7 +14250,7 @@ Defensive Rebounds        5, 02/20/2026, L.A. Clippers at L.A. Lakers
 Rebounds                  8, 02/20/2026, L.A. Clippers at L.A. Lakers
 Assists                   4, 02/08/2026, L.A. Clippers at Minnesota (Twice)
 Steals                    4, 03/11/2026, L.A. Clippers vs Minnesota
-Turnovers                 2, 03/04/2026, L.A. Clippers vs Indiana (6 times)
+Turnovers                 2, 03/14/2026, L.A. Clippers vs Sacramento (7 times)
 Blocked Shots             3, 03/13/2026, L.A. Clippers vs Chicago
 Points                   22, 02/19/2026, L.A. Clippers vs Denver
 
@@ -14407,7 +14442,7 @@ Rebounds                 12, 11/19/2025, Indiana vs Charlotte
 Assists                   5, 02/22/2026, L.A. Clippers vs Orlando (Twice)
 Steals                    3, 02/19/2026, L.A. Clippers vs Denver (3 times)
 Turnovers                 6, 02/26/2026, L.A. Clippers vs Minnesota
-Blocked Shots             1, 03/07/2026, L.A. Clippers at Memphis
+Blocked Shots             1, 03/14/2026, L.A. Clippers vs Sacramento
 Points                   38, 02/19/2026, L.A. Clippers vs Denver
 
 Bennedict Mathurin / Los Angeles Clippers / 2025-26 Regular Season Single-Game Highs (With this team only)
@@ -14424,7 +14459,7 @@ Rebounds                 10, 03/07/2026, L.A. Clippers at Memphis
 Assists                   5, 02/22/2026, L.A. Clippers vs Orlando
 Steals                    3, 02/19/2026, L.A. Clippers vs Denver (3 times)
 Turnovers                 6, 02/26/2026, L.A. Clippers vs Minnesota
-Blocked Shots             1, 03/07/2026, L.A. Clippers at Memphis (6 times)
+Blocked Shots             1, 03/14/2026, L.A. Clippers vs Sacramento (7 times)
 Points                   38, 02/19/2026, L.A. Clippers vs Denver
 
 Bennedict Mathurin / Los Angeles Clippers / Career Regular Season Single-Game Highs (Games with all teams)
@@ -14458,7 +14493,7 @@ Rebounds                 10, 03/07/2026, L.A. Clippers at Memphis
 Assists                   5, 02/22/2026, L.A. Clippers vs Orlando
 Steals                    3, 02/19/2026, L.A. Clippers vs Denver (3 times)
 Turnovers                 6, 02/26/2026, L.A. Clippers vs Minnesota
-Blocked Shots             1, 03/07/2026, L.A. Clippers at Memphis (6 times)
+Blocked Shots             1, 03/14/2026, L.A. Clippers vs Sacramento (7 times)
 Points                   38, 02/19/2026, L.A. Clippers vs Denver
 
 
@@ -14678,8 +14713,8 @@ Field Goals               5, 01/20/2026, L.A. Clippers at Chicago
 Field Goal Attempts       6, 01/20/2026, L.A. Clippers at Chicago
 Three-Point Field Goals   1, 02/10/2026, L.A. Clippers at Houston (3 times)
 Three-Point Attempts      2, 01/20/2026, L.A. Clippers at Chicago (Twice)
-Free Throws               0, 03/07/2026, L.A. Clippers at Memphis
-Free Throw Attempts       0, 03/07/2026, L.A. Clippers at Memphis
+Free Throws               0, 03/14/2026, L.A. Clippers vs Sacramento
+Free Throw Attempts       0, 03/14/2026, L.A. Clippers vs Sacramento
 Offensive Rebounds        1, 02/10/2026, L.A. Clippers at Houston
 Defensive Rebounds        1, 01/16/2026, L.A. Clippers at Toronto
 Rebounds                  1, 02/10/2026, L.A. Clippers at Houston (Twice)
@@ -14712,8 +14747,8 @@ Field Goals               5, 01/20/2026, L.A. Clippers at Chicago
 Field Goal Attempts       6, 01/20/2026, L.A. Clippers at Chicago
 Three-Point Field Goals   1, 02/10/2026, L.A. Clippers at Houston (3 times)
 Three-Point Attempts      2, 01/20/2026, L.A. Clippers at Chicago (Twice)
-Free Throws               0, 03/07/2026, L.A. Clippers at Memphis
-Free Throw Attempts       0, 03/07/2026, L.A. Clippers at Memphis
+Free Throws               0, 03/14/2026, L.A. Clippers vs Sacramento
+Free Throw Attempts       0, 03/14/2026, L.A. Clippers vs Sacramento
 Offensive Rebounds        1, 02/10/2026, L.A. Clippers at Houston
 Defensive Rebounds        1, 01/16/2026, L.A. Clippers at Toronto
 Rebounds                  1, 02/10/2026, L.A. Clippers at Houston (Twice)
@@ -14763,7 +14798,7 @@ Points                   35, 03/04/2025, L.A. Clippers at Phoenix
 
 
 Team Totals / Los Angeles Lakers / 2025-26 Regular Season Single-Game Highs
-Minutes                 240, 03/12/2026, L.A. Lakers vs Chicago (66 times)
+Minutes                 265, 03/14/2026, L.A. Lakers vs Denver
 Field Goals              55, 03/12/2026, L.A. Lakers vs Chicago
 Field Goal Attempts      99, 03/12/2026, L.A. Lakers vs Chicago
 Three-Point Field Goals  19, 02/28/2026, L.A. Lakers at Golden State (Twice)
@@ -14815,7 +14850,7 @@ Blocked Shots             0, 02/03/2026, L.A. Lakers at Brooklyn
 Points                   88, 12/20/2025, L.A. Lakers at L.A. Clippers
 
 Opponent Totals / Los Angeles Lakers / 2025-26 Regular Season Single-Game Highs
-Minutes                 240, 03/12/2026, L.A. Lakers vs Chicago (66 times)
+Minutes                 265, 03/14/2026, L.A. Lakers vs Denver
 Field Goals              52, 02/10/2026, L.A. Lakers vs San Antonio (Twice)
 Field Goal Attempts     103, 10/27/2025, L.A. Lakers vs Portland
 Three-Point Field Goals  24, 12/05/2025, L.A. Lakers at Boston
@@ -14870,8 +14905,8 @@ Deandre Ayton / Los Angeles Lakers / 2025-26 Regular Season Single-Game Highs
 Minutes                  37, 03/12/2026, L.A. Lakers vs Chicago
 Field Goals              14, 11/03/2025, L.A. Lakers at Portland
 Field Goal Attempts      19, 11/03/2025, L.A. Lakers at Portland
-Three-Point Field Goals   0, 03/12/2026, L.A. Lakers vs Chicago
-Three-Point Attempts      0, 03/12/2026, L.A. Lakers vs Chicago
+Three-Point Field Goals   0, 03/14/2026, L.A. Lakers vs Denver
+Three-Point Attempts      0, 03/14/2026, L.A. Lakers vs Denver
 Free Throws               8, 11/30/2025, L.A. Lakers vs New Orleans
 Free Throw Attempts       8, 01/12/2026, L.A. Lakers at Sacramento (Twice)
 Offensive Rebounds        6, 03/12/2026, L.A. Lakers vs Chicago (Twice)
@@ -14904,8 +14939,8 @@ Deandre Ayton / Los Angeles Lakers / Career Regular Season Single-Game Highs (Wi
 Minutes                  37, 03/12/2026, L.A. Lakers vs Chicago
 Field Goals              14, 11/03/2025, L.A. Lakers at Portland
 Field Goal Attempts      19, 11/03/2025, L.A. Lakers at Portland
-Three-Point Field Goals   0, 03/12/2026, L.A. Lakers vs Chicago
-Three-Point Attempts      0, 03/12/2026, L.A. Lakers vs Chicago
+Three-Point Field Goals   0, 03/14/2026, L.A. Lakers vs Denver
+Three-Point Attempts      0, 03/14/2026, L.A. Lakers vs Denver
 Free Throws               8, 11/30/2025, L.A. Lakers vs New Orleans
 Free Throw Attempts       8, 01/12/2026, L.A. Lakers at Sacramento (Twice)
 Offensive Rebounds        6, 03/12/2026, L.A. Lakers vs Chicago (Twice)
@@ -14988,7 +15023,7 @@ Points                    9, 01/17/2026, L.A. Lakers at Portland
 
 
 Luka Doncic / Los Angeles Lakers / 2025-26 Regular Season Single-Game Highs
-Minutes                  42, 11/05/2025, L.A. Lakers vs San Antonio
+Minutes                  43, 03/14/2026, L.A. Lakers vs Denver
 Field Goals              17, 03/12/2026, L.A. Lakers vs Chicago (Twice)
 Field Goal Attempts      31, 03/12/2026, L.A. Lakers vs Chicago
 Three-Point Field Goals   9, 03/12/2026, L.A. Lakers vs Chicago
@@ -15001,7 +15036,7 @@ Rebounds                 15, 02/01/2026, L.A. Lakers at New York (Twice)
 Assists                  15, 02/24/2026, L.A. Lakers vs Orlando
 Steals                    5, 12/18/2025, L.A. Lakers at Utah (Twice)
 Turnovers                 9, 12/01/2025, L.A. Lakers vs Phoenix
-Blocked Shots             2, 03/06/2026, L.A. Lakers vs Indiana (5 times)
+Blocked Shots             3, 03/14/2026, L.A. Lakers vs Denver
 Points                   51, 03/12/2026, L.A. Lakers vs Chicago
 
 Luka Doncic / Los Angeles Lakers / Career Regular Season Single-Game Highs (Games with all teams)
@@ -15035,7 +15070,7 @@ Rebounds                 15, 02/01/2026, L.A. Lakers at New York (3 times)
 Assists                  15, 02/24/2026, L.A. Lakers vs Orlando (Twice)
 Steals                    5, 12/18/2025, L.A. Lakers at Utah (Twice)
 Turnovers                 9, 12/01/2025, L.A. Lakers vs Phoenix
-Blocked Shots             2, 03/06/2026, L.A. Lakers vs Indiana (6 times)
+Blocked Shots             3, 03/14/2026, L.A. Lakers vs Denver
 Points                   51, 03/12/2026, L.A. Lakers vs Chicago
 
 
@@ -15179,7 +15214,7 @@ Points                   17, 03/20/2025, L.A. Lakers vs Milwaukee
 
 
 LeBron James / Los Angeles Lakers / 2025-26 Regular Season Single-Game Highs
-Minutes                  38, 12/20/2025, L.A. Lakers at L.A. Clippers
+Minutes                  40, 03/14/2026, L.A. Lakers vs Denver
 Field Goals              15, 12/20/2025, L.A. Lakers at L.A. Clippers
 Field Goal Attempts      28, 12/20/2025, L.A. Lakers at L.A. Clippers
 Three-Point Field Goals   4, 02/28/2026, L.A. Lakers at Golden State (Twice)
@@ -15509,7 +15544,7 @@ Points                    2, 02/10/2026, L.A. Lakers vs San Antonio
 
 
 Austin Reaves / Los Angeles Lakers / 2025-26 Regular Season Single-Game Highs
-Minutes                  41, 11/28/2025, L.A. Lakers vs Dallas
+Minutes                  46, 03/14/2026, L.A. Lakers vs Denver
 Field Goals              13, 03/12/2026, L.A. Lakers vs Chicago (3 times)
 Field Goal Attempts      24, 10/29/2025, L.A. Lakers at Minnesota
 Three-Point Field Goals   6, 11/28/2025, L.A. Lakers vs Dallas (Twice)
@@ -17204,7 +17239,7 @@ Points                  153, 04/11/2025, Miami at New Orleans
 
 
 Team Totals / Miami Heat / 2025-26 Regular Season Single-Game Lows
-Minutes                 240, 03/12/2026, Miami vs Milwaukee
+Minutes                 240, 03/14/2026, Miami vs Orlando
 Field Goals              33, 02/09/2026, Miami vs Utah (Twice)
 Field Goal Attempts      79, 02/09/2026, Miami vs Utah
 Three-Point Field Goals   4, 01/10/2026, Miami at Indiana
@@ -17212,8 +17247,8 @@ Three-Point Attempts     19, 12/05/2025, Miami at Orlando
 Free Throws               7, 01/11/2026, Miami at Oklahoma City
 Free Throw Attempts      11, 10/30/2025, Miami at San Antonio
 Offensive Rebounds        4, 12/05/2025, Miami at Orlando
-Defensive Rebounds       26, 01/22/2026, Miami at Portland (Twice)
-Rebounds                 37, 01/11/2026, Miami at Oklahoma City (5 times)
+Defensive Rebounds       25, 03/14/2026, Miami vs Orlando
+Rebounds                 32, 03/14/2026, Miami vs Orlando
 Assists                  17, 01/10/2026, Miami at Indiana
 Steals                    3, 02/28/2026, Miami vs Houston
 Turnovers                 4, 01/17/2026, Miami vs Oklahoma City
@@ -17256,7 +17291,7 @@ Points                  148, 12/17/1991, Miami at Cleveland
 
 
 Opponent Totals / Miami Heat / 2025-26 Regular Season Single-Game Lows
-Minutes                 240, 03/12/2026, Miami vs Milwaukee
+Minutes                 240, 03/14/2026, Miami vs Orlando
 Field Goals              28, 02/01/2026, Miami vs Chicago
 Field Goal Attempts      77, 01/17/2026, Miami vs Oklahoma City
 Three-Point Field Goals   6, 03/03/2026, Miami vs Brooklyn (Twice)
@@ -17443,7 +17478,7 @@ Rebounds                  9, 03/06/2026, Miami at Charlotte (Twice)
 Assists                   9, 03/06/2026, Miami at Charlotte
 Steals                    3, 01/15/2026, Miami vs Boston (Twice)
 Turnovers                 4, 03/03/2026, Miami vs Brooklyn (4 times)
-Blocked Shots             1, 03/03/2026, Miami vs Brooklyn (7 times)
+Blocked Shots             1, 03/14/2026, Miami vs Orlando (8 times)
 Points                   33, 03/06/2026, Miami at Charlotte
 
 Tyler Herro / Miami Heat / Career Regular Season Single-Game Highs
@@ -18037,7 +18072,7 @@ Defensive Rebounds       43, 01/19/2026, Milwaukee at Atlanta
 Rebounds                 53, 11/07/2025, Milwaukee vs Chicago
 Assists                  37, 11/14/2025, Milwaukee vs Charlotte
 Steals                   13, 11/29/2025, Milwaukee vs Brooklyn
-Turnovers                22, 12/26/2025, Milwaukee at Memphis (Twice)
+Turnovers                23, 03/14/2026, Milwaukee at Atlanta
 Blocked Shots             9, 01/29/2026, Milwaukee at Washington
 Points                  147, 11/14/2025, Milwaukee vs Charlotte
 
@@ -18060,7 +18095,7 @@ Points                  166, 03/06/1982, Milwaukee at San Antonio
 
 
 Team Totals / Milwaukee Bucks / 2025-26 Regular Season Single-Game Lows
-Minutes                 240, 03/12/2026, Milwaukee at Miami
+Minutes                 240, 03/14/2026, Milwaukee at Atlanta
 Field Goals              27, 03/02/2026, Milwaukee vs Boston
 Field Goal Attempts      71, 11/28/2025, Milwaukee at New York
 Three-Point Field Goals   8, 12/14/2025, Milwaukee at Brooklyn
@@ -18112,7 +18147,7 @@ Points                  171, 03/06/1982, Milwaukee at San Antonio
 
 
 Opponent Totals / Milwaukee Bucks / 2025-26 Regular Season Single-Game Lows
-Minutes                 240, 03/12/2026, Milwaukee at Miami
+Minutes                 240, 03/14/2026, Milwaukee at Atlanta
 Field Goals              31, 03/07/2026, Milwaukee vs Utah (Twice)
 Field Goal Attempts      77, 11/29/2025, Milwaukee vs Brooklyn (Twice)
 Three-Point Field Goals   4, 02/20/2026, Milwaukee at New Orleans
@@ -18167,7 +18202,7 @@ Thanasis Antetokounmpo / Milwaukee Bucks / 2025-26 Regular Season Single-Game Hi
 Minutes                   9, 03/08/2026, Milwaukee vs Orlando
 Field Goals               2, 12/06/2025, Milwaukee at Detroit
 Field Goal Attempts       3, 01/13/2026, Milwaukee vs Minnesota (Twice)
-Three-Point Field Goals   0, 03/08/2026, Milwaukee vs Orlando
+Three-Point Field Goals   0, 03/14/2026, Milwaukee at Atlanta
 Three-Point Attempts      1, 02/27/2026, Milwaukee vs New York (Twice)
 Free Throws               3, 12/06/2025, Milwaukee at Detroit
 Free Throw Attempts       6, 12/06/2025, Milwaukee at Detroit
@@ -18489,7 +18524,7 @@ Defensive Rebounds       10, 11/14/2025, Milwaukee vs Charlotte
 Rebounds                 12, 11/26/2025, Milwaukee at Miami
 Assists                   9, 02/04/2026, Milwaukee vs New Orleans
 Steals                    4, 11/14/2025, Milwaukee vs Charlotte
-Turnovers                 5, 02/09/2026, Milwaukee at Orlando (Twice)
+Turnovers                 5, 03/14/2026, Milwaukee at Atlanta (3 times)
 Blocked Shots             2, 01/19/2026, Milwaukee at Atlanta (4 times)
 Points                   33, 03/10/2026, Milwaukee vs Phoenix
 
@@ -18523,7 +18558,7 @@ Defensive Rebounds       13, 02/12/2025, Milwaukee at Minnesota
 Rebounds                 14, 03/22/2025, Milwaukee at Sacramento
 Assists                   9, 02/04/2026, Milwaukee vs New Orleans
 Steals                    4, 11/14/2025, Milwaukee vs Charlotte
-Turnovers                 5, 02/09/2026, Milwaukee at Orlando (Twice)
+Turnovers                 5, 03/14/2026, Milwaukee at Atlanta (3 times)
 Blocked Shots             3, 04/03/2025, Milwaukee at Philadelphia
 Points                   33, 03/10/2026, Milwaukee vs Phoenix
 
@@ -18534,8 +18569,8 @@ Field Goals               6, 02/04/2026, Milwaukee vs New Orleans (3 times)
 Field Goal Attempts      10, 01/29/2026, Milwaukee at Washington
 Three-Point Field Goals   4, 02/04/2026, Milwaukee vs New Orleans
 Three-Point Attempts      7, 02/04/2026, Milwaukee vs New Orleans
-Free Throws               0, 03/10/2026, Milwaukee vs Phoenix
-Free Throw Attempts       0, 03/10/2026, Milwaukee vs Phoenix
+Free Throws               0, 03/14/2026, Milwaukee at Atlanta
+Free Throw Attempts       2, 03/14/2026, Milwaukee at Atlanta
 Offensive Rebounds        2, 01/29/2026, Milwaukee at Washington (Twice)
 Defensive Rebounds        7, 02/03/2026, Milwaukee vs Chicago
 Rebounds                  8, 02/03/2026, Milwaukee vs Chicago
@@ -18552,7 +18587,7 @@ Field Goal Attempts      12, 04/13/2025, Milwaukee vs Detroit
 Three-Point Field Goals   5, 04/13/2025, Milwaukee vs Detroit
 Three-Point Attempts      9, 04/13/2025, Milwaukee vs Detroit
 Free Throws               1, 01/18/2025, Philadelphia at Indiana
-Free Throw Attempts       2, 01/18/2025, Philadelphia at Indiana (Twice)
+Free Throw Attempts       2, 03/14/2026, Milwaukee at Atlanta (3 times)
 Offensive Rebounds        2, 01/29/2026, Milwaukee at Washington (3 times)
 Defensive Rebounds        7, 02/03/2026, Milwaukee vs Chicago
 Rebounds                  8, 02/03/2026, Milwaukee vs Chicago
@@ -18568,8 +18603,8 @@ Field Goals               7, 04/13/2025, Milwaukee vs Detroit
 Field Goal Attempts      12, 04/13/2025, Milwaukee vs Detroit
 Three-Point Field Goals   5, 04/13/2025, Milwaukee vs Detroit
 Three-Point Attempts      9, 04/13/2025, Milwaukee vs Detroit
-Free Throws               0, 03/10/2026, Milwaukee vs Phoenix
-Free Throw Attempts       0, 03/10/2026, Milwaukee vs Phoenix
+Free Throws               0, 03/14/2026, Milwaukee at Atlanta
+Free Throw Attempts       2, 03/14/2026, Milwaukee at Atlanta
 Offensive Rebounds        2, 01/29/2026, Milwaukee at Washington (3 times)
 Defensive Rebounds        7, 02/03/2026, Milwaukee vs Chicago
 Rebounds                  8, 02/03/2026, Milwaukee vs Chicago
@@ -18692,7 +18727,7 @@ Three-Point Field Goals   3, 10/22/2025, Milwaukee vs Washington
 Three-Point Attempts      5, 11/04/2025, Milwaukee at Toronto
 Free Throws               3, 10/30/2025, Milwaukee vs Golden State
 Free Throw Attempts       3, 10/30/2025, Milwaukee vs Golden State
-Offensive Rebounds        0, 03/12/2026, Milwaukee at Miami
+Offensive Rebounds        0, 03/14/2026, Milwaukee at Atlanta
 Defensive Rebounds        3, 03/10/2026, Milwaukee vs Phoenix (5 times)
 Rebounds                  3, 03/10/2026, Milwaukee vs Phoenix (5 times)
 Assists                   3, 10/24/2025, Milwaukee at Toronto
@@ -18750,7 +18785,7 @@ Rebounds                 11, 03/07/2026, Milwaukee vs Utah
 Assists                  14, 11/20/2025, Milwaukee vs Philadelphia
 Steals                    4, 02/20/2026, Milwaukee at New Orleans (5 times)
 Turnovers                 7, 11/03/2025, Milwaukee at Indiana
-Blocked Shots             2, 03/07/2026, Milwaukee vs Utah (6 times)
+Blocked Shots             2, 03/14/2026, Milwaukee at Atlanta (7 times)
 Points                   32, 11/20/2025, Milwaukee vs Philadelphia (Twice)
 
 Ryan Rollins / Milwaukee Bucks / Career Regular Season Single-Game Highs (Games with all teams)
@@ -18827,8 +18862,8 @@ Jericho Sims / Milwaukee Bucks / 2025-26 Regular Season Single-Game Highs
 Minutes                  36, 02/11/2026, Milwaukee at Orlando
 Field Goals               7, 12/03/2025, Milwaukee vs Detroit
 Field Goal Attempts       7, 12/03/2025, Milwaukee vs Detroit
-Three-Point Field Goals   0, 03/12/2026, Milwaukee at Miami
-Three-Point Attempts      0, 03/12/2026, Milwaukee at Miami
+Three-Point Field Goals   0, 03/14/2026, Milwaukee at Atlanta
+Three-Point Attempts      0, 03/14/2026, Milwaukee at Atlanta
 Free Throws               5, 02/11/2026, Milwaukee at Orlando
 Free Throw Attempts       5, 02/11/2026, Milwaukee at Orlando
 Offensive Rebounds        5, 03/04/2026, Milwaukee vs Atlanta (3 times)
@@ -18836,7 +18871,7 @@ Defensive Rebounds       11, 02/06/2026, Milwaukee vs Indiana
 Rebounds                 15, 02/06/2026, Milwaukee vs Indiana
 Assists                   5, 02/24/2026, Milwaukee vs Miami
 Steals                    2, 03/07/2026, Milwaukee vs Utah (Twice)
-Turnovers                 4, 12/23/2025, Milwaukee at Indiana (Twice)
+Turnovers                 4, 03/14/2026, Milwaukee at Atlanta (3 times)
 Blocked Shots             2, 02/20/2026, Milwaukee at New Orleans (Twice)
 Points                   17, 02/11/2026, Milwaukee at Orlando
 
@@ -18844,7 +18879,7 @@ Jericho Sims / Milwaukee Bucks / Career Regular Season Single-Game Highs (Games 
 Minutes                  39, 04/10/2022, New York vs Toronto
 Field Goals               7, 12/03/2025, Milwaukee vs Detroit
 Field Goal Attempts       7, 12/03/2025, Milwaukee vs Detroit (3 times)
-Three-Point Field Goals   0, 03/12/2026, Milwaukee at Miami
+Three-Point Field Goals   0, 03/14/2026, Milwaukee at Atlanta
 Three-Point Attempts      1, 02/07/2023, New York at Orlando
 Free Throws               5, 02/11/2026, Milwaukee at Orlando
 Free Throw Attempts       6, 02/05/2023, New York vs Philadelphia (Twice)
@@ -18853,7 +18888,7 @@ Defensive Rebounds       11, 02/06/2026, Milwaukee vs Indiana (Twice)
 Rebounds                 15, 02/06/2026, Milwaukee vs Indiana
 Assists                   5, 02/24/2026, Milwaukee vs Miami
 Steals                    3, 11/16/2022, New York at Denver
-Turnovers                 4, 12/23/2025, Milwaukee at Indiana (Twice)
+Turnovers                 4, 03/14/2026, Milwaukee at Atlanta (3 times)
 Blocked Shots             4, 01/23/2024, New York at Brooklyn
 Points                   17, 02/11/2026, Milwaukee at Orlando
 
@@ -18861,8 +18896,8 @@ Jericho Sims / Milwaukee Bucks / Career Regular Season Single-Game Highs (With t
 Minutes                  36, 02/11/2026, Milwaukee at Orlando
 Field Goals               7, 12/03/2025, Milwaukee vs Detroit
 Field Goal Attempts       7, 12/03/2025, Milwaukee vs Detroit
-Three-Point Field Goals   0, 03/12/2026, Milwaukee at Miami
-Three-Point Attempts      0, 03/12/2026, Milwaukee at Miami
+Three-Point Field Goals   0, 03/14/2026, Milwaukee at Atlanta
+Three-Point Attempts      0, 03/14/2026, Milwaukee at Atlanta
 Free Throws               5, 02/11/2026, Milwaukee at Orlando
 Free Throw Attempts       5, 02/11/2026, Milwaukee at Orlando
 Offensive Rebounds        5, 03/04/2026, Milwaukee vs Atlanta (3 times)
@@ -18870,7 +18905,7 @@ Defensive Rebounds       11, 02/06/2026, Milwaukee vs Indiana
 Rebounds                 15, 02/06/2026, Milwaukee vs Indiana
 Assists                   5, 02/24/2026, Milwaukee vs Miami
 Steals                    2, 03/07/2026, Milwaukee vs Utah (Twice)
-Turnovers                 4, 12/23/2025, Milwaukee at Indiana (Twice)
+Turnovers                 4, 03/14/2026, Milwaukee at Atlanta (3 times)
 Blocked Shots             3, 03/08/2025, Milwaukee vs Orlando
 Points                   17, 02/11/2026, Milwaukee at Orlando
 
@@ -22926,7 +22961,7 @@ Points                  155, 12/30/1990, Orlando vs Denver
 
 
 Team Totals / Orlando Magic / 2025-26 Regular Season Single-Game Lows
-Minutes                 240, 03/11/2026, Orlando vs Cleveland
+Minutes                 240, 03/14/2026, Orlando at Miami
 Field Goals              29, 03/01/2026, Orlando vs Detroit
 Field Goal Attempts      76, 03/03/2026, Orlando vs Washington
 Three-Point Field Goals   3, 12/31/2025, Orlando at Indiana (Twice)
@@ -22978,7 +23013,7 @@ Points                  150, 03/15/2022, Orlando vs Brooklyn
 
 
 Opponent Totals / Orlando Magic / 2025-26 Regular Season Single-Game Lows
-Minutes                 240, 03/11/2026, Orlando vs Cleveland
+Minutes                 240, 03/14/2026, Orlando at Miami
 Field Goals              30, 03/07/2026, Orlando at Minnesota
 Field Goal Attempts      72, 11/04/2025, Orlando at Atlanta
 Three-Point Field Goals   4, 03/01/2026, Orlando vs Detroit (Twice)
@@ -23169,21 +23204,21 @@ Points                   38, 12/27/2025, Orlando vs Denver
 
 
 Jamal Cain / Orlando Magic / 2025-26 Regular Season Single-Game Highs
-Minutes                  16, 11/23/2025, Orlando at Boston
-Field Goals               3, 03/08/2026, Orlando at Milwaukee (Twice)
-Field Goal Attempts       6, 12/26/2025, Orlando vs Charlotte (Twice)
-Three-Point Field Goals   2, 03/08/2026, Orlando at Milwaukee (Twice)
-Three-Point Attempts      4, 11/23/2025, Orlando at Boston
+Minutes                  19, 03/14/2026, Orlando at Miami
+Field Goals               5, 03/14/2026, Orlando at Miami
+Field Goal Attempts       8, 03/14/2026, Orlando at Miami
+Three-Point Field Goals   2, 03/14/2026, Orlando at Miami (3 times)
+Three-Point Attempts      4, 03/14/2026, Orlando at Miami (Twice)
 Free Throws               4, 12/31/2025, Orlando at Indiana
 Free Throw Attempts       4, 12/31/2025, Orlando at Indiana (3 times)
-Offensive Rebounds        2, 01/02/2026, Orlando at Chicago (Twice)
-Defensive Rebounds        2, 02/19/2026, Orlando at Sacramento (Twice)
-Rebounds                  3, 01/02/2026, Orlando at Chicago (3 times)
+Offensive Rebounds        2, 03/14/2026, Orlando at Miami (3 times)
+Defensive Rebounds        5, 03/14/2026, Orlando at Miami
+Rebounds                  7, 03/14/2026, Orlando at Miami
 Assists                   1, 03/07/2026, Orlando at Minnesota (8 times)
 Steals                    2, 12/23/2025, Orlando at Portland
-Turnovers                 1, 02/05/2026, Orlando vs Brooklyn (7 times)
-Blocked Shots             1, 11/23/2025, Orlando at Boston
-Points                   11, 12/31/2025, Orlando at Indiana
+Turnovers                 2, 03/14/2026, Orlando at Miami
+Blocked Shots             1, 03/14/2026, Orlando at Miami (Twice)
+Points                   12, 03/14/2026, Orlando at Miami
 
 Jamal Cain / Orlando Magic / Career Regular Season Single-Game Highs (Games with all teams)
 Minutes                  35, 04/11/2025, New Orleans vs Miami
@@ -23203,21 +23238,21 @@ Blocked Shots             2, 11/15/2024, New Orleans vs Denver
 Points                   25, 04/11/2025, New Orleans vs Miami
 
 Jamal Cain / Orlando Magic / Career Regular Season Single-Game Highs (With this team only)
-Minutes                  16, 11/23/2025, Orlando at Boston
-Field Goals               3, 03/08/2026, Orlando at Milwaukee (Twice)
-Field Goal Attempts       6, 12/26/2025, Orlando vs Charlotte (Twice)
-Three-Point Field Goals   2, 03/08/2026, Orlando at Milwaukee (Twice)
-Three-Point Attempts      4, 11/23/2025, Orlando at Boston
+Minutes                  19, 03/14/2026, Orlando at Miami
+Field Goals               5, 03/14/2026, Orlando at Miami
+Field Goal Attempts       8, 03/14/2026, Orlando at Miami
+Three-Point Field Goals   2, 03/14/2026, Orlando at Miami (3 times)
+Three-Point Attempts      4, 03/14/2026, Orlando at Miami (Twice)
 Free Throws               4, 12/31/2025, Orlando at Indiana
 Free Throw Attempts       4, 12/31/2025, Orlando at Indiana (3 times)
-Offensive Rebounds        2, 01/02/2026, Orlando at Chicago (Twice)
-Defensive Rebounds        2, 02/19/2026, Orlando at Sacramento (Twice)
-Rebounds                  3, 01/02/2026, Orlando at Chicago (3 times)
+Offensive Rebounds        2, 03/14/2026, Orlando at Miami (3 times)
+Defensive Rebounds        5, 03/14/2026, Orlando at Miami
+Rebounds                  7, 03/14/2026, Orlando at Miami
 Assists                   1, 03/07/2026, Orlando at Minnesota (8 times)
 Steals                    2, 12/23/2025, Orlando at Portland
-Turnovers                 1, 02/05/2026, Orlando vs Brooklyn (7 times)
-Blocked Shots             1, 11/23/2025, Orlando at Boston
-Points                   11, 12/31/2025, Orlando at Indiana
+Turnovers                 2, 03/14/2026, Orlando at Miami
+Blocked Shots             1, 03/14/2026, Orlando at Miami (Twice)
+Points                   12, 03/14/2026, Orlando at Miami
 
 
 Jevon Carter / Orlando Magic / 2025-26 Regular Season Single-Game Highs (Games with all teams)
@@ -23669,7 +23704,7 @@ Defensive Rebounds        7, 03/08/2026, Orlando at Milwaukee (Twice)
 Rebounds                  9, 03/08/2026, Orlando at Milwaukee
 Assists                   4, 02/11/2026, Orlando vs Milwaukee
 Steals                    2, 02/26/2026, Orlando vs Houston (5 times)
-Turnovers                 2, 03/07/2026, Orlando at Minnesota (3 times)
+Turnovers                 2, 03/14/2026, Orlando at Miami (4 times)
 Blocked Shots             1, 02/11/2026, Orlando vs Milwaukee
 Points                   14, 02/09/2026, Orlando vs Milwaukee (3 times)
 
@@ -23721,7 +23756,7 @@ Defensive Rebounds        9, 03/03/2026, Orlando vs Washington
 Rebounds                  9, 03/03/2026, Orlando vs Washington (3 times)
 Assists                   5, 03/08/2026, Orlando at Milwaukee
 Steals                    4, 03/12/2026, Orlando vs Washington (Twice)
-Turnovers                 3, 12/09/2025, Orlando vs Miami (3 times)
+Turnovers                 3, 03/14/2026, Orlando at Miami (4 times)
 Blocked Shots             3, 02/21/2026, Orlando at Phoenix
 Points                   26, 03/12/2026, Orlando vs Washington
 
@@ -23782,10 +23817,10 @@ Points                  163, 03/10/1963, Syracuse vs San Francisco
 
 
 Team Totals / Philadelphia 76ers / 2025-26 Regular Season Single-Game Lows
-Minutes                 240, 03/12/2026, Philadelphia at Detroit
+Minutes                 240, 03/14/2026, Philadelphia vs Brooklyn
 Field Goals              33, 03/03/2026, Philadelphia vs San Antonio (4 times)
 Field Goal Attempts      72, 01/29/2026, Philadelphia vs Sacramento
-Three-Point Field Goals   4, 01/09/2026, Philadelphia at Orlando
+Three-Point Field Goals   3, 03/14/2026, Philadelphia vs Brooklyn
 Three-Point Attempts     17, 01/19/2026, Philadelphia vs Indiana
 Free Throws              11, 01/27/2026, Philadelphia vs Milwaukee (Twice)
 Free Throw Attempts      14, 12/04/2025, Philadelphia vs Golden State
@@ -23834,8 +23869,8 @@ Points                  154, 01/02/1993, Philadelphia at Sacramento (Twice)
 
 
 Opponent Totals / Philadelphia 76ers / 2025-26 Regular Season Single-Game Lows
-Minutes                 240, 03/12/2026, Philadelphia at Detroit
-Field Goals              33, 02/07/2026, Philadelphia at Phoenix
+Minutes                 240, 03/14/2026, Philadelphia vs Brooklyn
+Field Goals              32, 03/14/2026, Philadelphia vs Brooklyn
 Field Goal Attempts      71, 02/22/2026, Philadelphia at Minnesota
 Three-Point Field Goals   3, 12/20/2025, Philadelphia vs Dallas
 Three-Point Attempts     18, 12/20/2025, Philadelphia vs Dallas
@@ -24012,8 +24047,8 @@ Field Goals               7, 03/12/2026, Philadelphia at Detroit
 Field Goal Attempts      13, 03/12/2026, Philadelphia at Detroit
 Three-Point Field Goals   2, 03/12/2026, Philadelphia at Detroit (3 times)
 Three-Point Attempts      7, 03/12/2026, Philadelphia at Detroit
-Free Throws               3, 02/09/2026, Philadelphia at Portland
-Free Throw Attempts       4, 02/09/2026, Philadelphia at Portland
+Free Throws               3, 03/14/2026, Philadelphia vs Brooklyn (Twice)
+Free Throw Attempts       4, 03/14/2026, Philadelphia vs Brooklyn (Twice)
 Offensive Rebounds        1, 03/12/2026, Philadelphia at Detroit (Twice)
 Defensive Rebounds        5, 03/12/2026, Philadelphia at Detroit
 Rebounds                  6, 03/12/2026, Philadelphia at Detroit
@@ -24046,8 +24081,8 @@ Field Goals               7, 03/12/2026, Philadelphia at Detroit
 Field Goal Attempts      13, 03/12/2026, Philadelphia at Detroit
 Three-Point Field Goals   2, 03/12/2026, Philadelphia at Detroit (3 times)
 Three-Point Attempts      7, 03/12/2026, Philadelphia at Detroit
-Free Throws               3, 02/09/2026, Philadelphia at Portland
-Free Throw Attempts       4, 02/09/2026, Philadelphia at Portland
+Free Throws               3, 03/14/2026, Philadelphia vs Brooklyn (Twice)
+Free Throw Attempts       4, 03/14/2026, Philadelphia vs Brooklyn (Twice)
 Offensive Rebounds        1, 03/12/2026, Philadelphia at Detroit (Twice)
 Defensive Rebounds        5, 03/12/2026, Philadelphia at Detroit
 Rebounds                  6, 03/12/2026, Philadelphia at Detroit
@@ -24059,16 +24094,16 @@ Points                   17, 03/12/2026, Philadelphia at Detroit
 
 
 Adem Bona / Philadelphia 76ers / 2025-26 Regular Season Single-Game Highs
-Minutes                  33, 01/11/2026, Philadelphia at Toronto
+Minutes                  33, 03/14/2026, Philadelphia vs Brooklyn (Twice)
 Field Goals               6, 03/04/2026, Philadelphia vs Utah (Twice)
 Field Goal Attempts      10, 03/09/2026, Philadelphia at Cleveland
 Three-Point Field Goals   1, 12/20/2025, Philadelphia vs Dallas (Twice)
 Three-Point Attempts      1, 12/26/2025, Philadelphia at Chicago (5 times)
-Free Throws               5, 12/28/2025, Philadelphia at Oklahoma City (Twice)
+Free Throws               5, 03/14/2026, Philadelphia vs Brooklyn (3 times)
 Free Throw Attempts       6, 12/30/2025, Philadelphia at Memphis (3 times)
 Offensive Rebounds        6, 12/28/2025, Philadelphia at Oklahoma City (Twice)
 Defensive Rebounds        8, 02/21/2026, Philadelphia at New Orleans
-Rebounds                 10, 02/21/2026, Philadelphia at New Orleans (Twice)
+Rebounds                 10, 03/14/2026, Philadelphia vs Brooklyn (3 times)
 Assists                   3, 03/07/2026, Philadelphia at Atlanta (Twice)
 Steals                    2, 02/24/2026, Philadelphia at Indiana (4 times)
 Turnovers                 4, 01/20/2026, Philadelphia vs Phoenix
@@ -24217,8 +24252,8 @@ Points                   34, 10/22/2025, Philadelphia at Boston
 
 Justin Edwards / Philadelphia 76ers / 2025-26 Regular Season Single-Game Highs
 Minutes                  33, 12/02/2025, Philadelphia vs Washington
-Field Goals               8, 11/11/2025, Philadelphia vs Boston
-Field Goal Attempts      11, 03/12/2026, Philadelphia at Detroit
+Field Goals               9, 03/14/2026, Philadelphia vs Brooklyn
+Field Goal Attempts      13, 03/14/2026, Philadelphia vs Brooklyn
 Three-Point Field Goals   5, 11/11/2025, Philadelphia vs Boston
 Three-Point Attempts      7, 12/28/2025, Philadelphia at Oklahoma City (3 times)
 Free Throws               4, 02/09/2026, Philadelphia at Portland (Twice)
@@ -24229,12 +24264,12 @@ Rebounds                  9, 03/12/2026, Philadelphia at Detroit
 Assists                   5, 03/12/2026, Philadelphia at Detroit
 Steals                    4, 03/12/2026, Philadelphia at Detroit
 Turnovers                 4, 11/25/2025, Philadelphia vs Orlando
-Blocked Shots             2, 11/23/2025, Philadelphia vs Miami
+Blocked Shots             2, 03/14/2026, Philadelphia vs Brooklyn (Twice)
 Points                   22, 11/11/2025, Philadelphia vs Boston
 
 Justin Edwards / Philadelphia 76ers / Career Regular Season Single-Game Highs
 Minutes                  44, 02/02/2025, Philadelphia vs Boston
-Field Goals               9, 03/26/2025, Philadelphia vs Washington (3 times)
+Field Goals               9, 03/14/2026, Philadelphia vs Brooklyn (4 times)
 Field Goal Attempts      18, 03/24/2025, Philadelphia at New Orleans (Twice)
 Three-Point Field Goals   5, 11/11/2025, Philadelphia vs Boston (Twice)
 Three-Point Attempts      9, 03/24/2025, Philadelphia at New Orleans (3 times)
@@ -24246,7 +24281,7 @@ Rebounds                 10, 03/26/2025, Philadelphia vs Washington
 Assists                   5, 03/12/2026, Philadelphia at Detroit
 Steals                    5, 03/26/2025, Philadelphia vs Washington
 Turnovers                 6, 04/01/2025, Philadelphia at New York
-Blocked Shots             2, 11/23/2025, Philadelphia vs Miami (Twice)
+Blocked Shots             2, 03/14/2026, Philadelphia vs Brooklyn (3 times)
 Points                   25, 03/21/2025, Philadelphia at San Antonio (Twice)
 
 
@@ -24391,20 +24426,20 @@ Points                   15, 01/24/2025, Philadelphia vs Cleveland (3 times)
 
 Quentin Grimes / Philadelphia 76ers / 2025-26 Regular Season Single-Game Highs
 Minutes                  47, 11/30/2025, Philadelphia vs Atlanta
-Field Goals               9, 03/07/2026, Philadelphia at Atlanta (Twice)
-Field Goal Attempts      20, 11/28/2025, Philadelphia at Brooklyn
+Field Goals              10, 03/14/2026, Philadelphia vs Brooklyn
+Field Goal Attempts      22, 03/14/2026, Philadelphia vs Brooklyn
 Three-Point Field Goals   6, 12/05/2025, Philadelphia at Milwaukee
 Three-Point Attempts     10, 12/14/2025, Philadelphia at Atlanta (Twice)
 Free Throws              11, 03/10/2026, Philadelphia vs Memphis
 Free Throw Attempts      13, 03/10/2026, Philadelphia vs Memphis
 Offensive Rebounds        4, 11/30/2025, Philadelphia vs Atlanta
-Defensive Rebounds        8, 12/12/2025, Philadelphia vs Indiana
+Defensive Rebounds        8, 03/14/2026, Philadelphia vs Brooklyn (Twice)
 Rebounds                 10, 11/30/2025, Philadelphia vs Atlanta
 Assists                  13, 11/02/2025, Philadelphia at Brooklyn
 Steals                    4, 11/04/2025, Philadelphia at Chicago
 Turnovers                 5, 12/05/2025, Philadelphia at Milwaukee (3 times)
 Blocked Shots             3, 01/01/2026, Philadelphia at Dallas
-Points                   28, 11/30/2025, Philadelphia vs Atlanta
+Points                   28, 03/14/2026, Philadelphia vs Brooklyn (Twice)
 
 Quentin Grimes / Philadelphia 76ers / Career Regular Season Single-Game Highs (Games with all teams)
 Minutes                  48, 12/27/2022, New York at Dallas
@@ -24689,7 +24724,7 @@ Minutes                  30, 03/10/2026, Philadelphia vs Memphis
 Field Goals               9, 03/10/2026, Philadelphia vs Memphis
 Field Goal Attempts      12, 03/09/2026, Philadelphia at Cleveland
 Three-Point Field Goals   8, 03/10/2026, Philadelphia vs Memphis
-Three-Point Attempts      8, 03/10/2026, Philadelphia vs Memphis (Twice)
+Three-Point Attempts      8, 03/14/2026, Philadelphia vs Brooklyn (3 times)
 Free Throws               6, 03/10/2026, Philadelphia vs Memphis
 Free Throw Attempts       6, 03/10/2026, Philadelphia vs Memphis
 Offensive Rebounds        2, 03/09/2026, Philadelphia at Cleveland
@@ -26965,7 +27000,7 @@ Defensive Rebounds       44, 03/10/2026, Sacramento vs Indiana
 Rebounds                 55, 03/08/2026, Sacramento vs Chicago (Twice)
 Assists                  36, 01/16/2026, Sacramento vs Washington
 Steals                   16, 12/27/2025, Sacramento vs Dallas
-Turnovers                21, 01/02/2026, Sacramento at Phoenix
+Turnovers                21, 03/14/2026, Sacramento at L.A. Clippers (Twice)
 Blocked Shots            10, 10/22/2025, Sacramento at Phoenix
 Points                  135, 11/01/2025, Sacramento at Milwaukee
 
@@ -26988,7 +27023,7 @@ Points                  176, 02/24/2023, Sacramento at L.A. Clippers
 
 
 Team Totals / Sacramento Kings / 2025-26 Regular Season Single-Game Lows
-Minutes                 240, 03/11/2026, Sacramento vs Charlotte
+Minutes                 240, 03/14/2026, Sacramento at L.A. Clippers
 Field Goals              31, 02/11/2026, Sacramento at Utah (Twice)
 Field Goal Attempts      74, 01/14/2026, Sacramento vs New York
 Three-Point Field Goals   4, 02/09/2026, Sacramento at New Orleans
@@ -27040,7 +27075,7 @@ Points                  175, 02/24/2023, Sacramento at L.A. Clippers
 
 
 Opponent Totals / Sacramento Kings / 2025-26 Regular Season Single-Game Lows
-Minutes                 240, 03/11/2026, Sacramento vs Charlotte
+Minutes                 240, 03/14/2026, Sacramento at L.A. Clippers
 Field Goals              35, 03/08/2026, Sacramento vs Chicago (Twice)
 Field Goal Attempts      71, 02/06/2026, Sacramento vs L.A. Clippers
 Three-Point Field Goals   5, 12/03/2025, Sacramento at Houston
@@ -27060,8 +27095,8 @@ Precious Achiuwa / Sacramento Kings / 2025-26 Regular Season Single-Game Highs
 Minutes                  41, 03/05/2026, Sacramento vs New Orleans
 Field Goals              13, 02/26/2026, Sacramento at Dallas
 Field Goal Attempts      19, 02/26/2026, Sacramento at Dallas
-Three-Point Field Goals   3, 02/26/2026, Sacramento at Dallas (Twice)
-Three-Point Attempts      4, 01/14/2026, Sacramento vs New York (3 times)
+Three-Point Field Goals   3, 03/14/2026, Sacramento at L.A. Clippers (3 times)
+Three-Point Attempts      4, 03/14/2026, Sacramento at L.A. Clippers (4 times)
 Free Throws               4, 03/05/2026, Sacramento vs New Orleans (Twice)
 Free Throw Attempts       8, 12/21/2025, Sacramento vs Houston
 Offensive Rebounds        7, 02/26/2026, Sacramento at Dallas (Twice)
@@ -27070,7 +27105,7 @@ Rebounds                 14, 01/14/2026, Sacramento vs New York
 Assists                   5, 03/05/2026, Sacramento vs New Orleans
 Steals                    4, 02/19/2026, Sacramento vs Orlando
 Turnovers                 3, 02/19/2026, Sacramento vs Orlando
-Blocked Shots             2, 03/05/2026, Sacramento vs New Orleans (9 times)
+Blocked Shots             4, 03/14/2026, Sacramento at L.A. Clippers
 Points                   29, 03/05/2026, Sacramento vs New Orleans (Twice)
 
 Precious Achiuwa / Sacramento Kings / Career Regular Season Single-Game Highs (Games with all teams)
@@ -27094,8 +27129,8 @@ Precious Achiuwa / Sacramento Kings / Career Regular Season Single-Game Highs (W
 Minutes                  41, 03/05/2026, Sacramento vs New Orleans
 Field Goals              13, 02/26/2026, Sacramento at Dallas
 Field Goal Attempts      19, 02/26/2026, Sacramento at Dallas
-Three-Point Field Goals   3, 02/26/2026, Sacramento at Dallas (Twice)
-Three-Point Attempts      4, 01/14/2026, Sacramento vs New York (3 times)
+Three-Point Field Goals   3, 03/14/2026, Sacramento at L.A. Clippers (3 times)
+Three-Point Attempts      4, 03/14/2026, Sacramento at L.A. Clippers (4 times)
 Free Throws               4, 03/05/2026, Sacramento vs New Orleans (Twice)
 Free Throw Attempts       8, 12/21/2025, Sacramento vs Houston
 Offensive Rebounds        7, 02/26/2026, Sacramento at Dallas (Twice)
@@ -27104,7 +27139,7 @@ Rebounds                 14, 01/14/2026, Sacramento vs New York
 Assists                   5, 03/05/2026, Sacramento vs New Orleans
 Steals                    4, 02/19/2026, Sacramento vs Orlando
 Turnovers                 3, 02/19/2026, Sacramento vs Orlando
-Blocked Shots             2, 03/05/2026, Sacramento vs New Orleans (9 times)
+Blocked Shots             4, 03/14/2026, Sacramento at L.A. Clippers
 Points                   29, 03/05/2026, Sacramento vs New Orleans (Twice)
 
 
@@ -27181,7 +27216,7 @@ Dylan Cardwell / Sacramento Kings / 2025-26 Regular Season Single-Game Highs
 Minutes                  32, 02/09/2026, Sacramento at New Orleans
 Field Goals               7, 02/06/2026, Sacramento vs L.A. Clippers
 Field Goal Attempts      11, 02/06/2026, Sacramento vs L.A. Clippers (Twice)
-Three-Point Field Goals   0, 02/11/2026, Sacramento at Utah
+Three-Point Field Goals   0, 03/14/2026, Sacramento at L.A. Clippers
 Three-Point Attempts      1, 10/26/2025, Sacramento vs L.A. Lakers
 Free Throws               5, 12/23/2025, Sacramento vs Detroit
 Free Throw Attempts       6, 12/20/2025, Sacramento vs Portland
@@ -27198,7 +27233,7 @@ Dylan Cardwell / Sacramento Kings / Career Regular Season Single-Game Highs
 Minutes                  32, 02/09/2026, Sacramento at New Orleans
 Field Goals               7, 02/06/2026, Sacramento vs L.A. Clippers
 Field Goal Attempts      11, 02/06/2026, Sacramento vs L.A. Clippers (Twice)
-Three-Point Field Goals   0, 02/11/2026, Sacramento at Utah
+Three-Point Field Goals   0, 03/14/2026, Sacramento at L.A. Clippers
 Three-Point Attempts      1, 10/26/2025, Sacramento vs L.A. Lakers
 Free Throws               5, 12/23/2025, Sacramento vs Detroit
 Free Throw Attempts       6, 12/20/2025, Sacramento vs Portland
@@ -27295,7 +27330,7 @@ Defensive Rebounds        7, 12/30/2025, Sacramento at L.A. Clippers
 Rebounds                  7, 12/30/2025, Sacramento at L.A. Clippers (Twice)
 Assists                   9, 12/21/2025, Sacramento vs Houston (Twice)
 Steals                    5, 12/20/2025, Sacramento vs Portland
-Turnovers                 4, 03/11/2026, Sacramento vs Charlotte
+Turnovers                 4, 03/14/2026, Sacramento at L.A. Clippers (Twice)
 Blocked Shots             2, 03/10/2026, Sacramento vs Indiana (Twice)
 Points                   39, 03/11/2026, Sacramento vs Charlotte
 
@@ -27434,8 +27469,8 @@ Defensive Rebounds        4, 03/10/2026, Sacramento vs Indiana (Twice)
 Rebounds                  4, 03/10/2026, Sacramento vs Indiana (Twice)
 Assists                   6, 02/26/2026, Sacramento at Dallas
 Steals                    3, 03/10/2026, Sacramento vs Indiana
-Turnovers                 2, 03/11/2026, Sacramento vs Charlotte
-Blocked Shots             0, 03/11/2026, Sacramento vs Charlotte
+Turnovers                 3, 03/14/2026, Sacramento at L.A. Clippers
+Blocked Shots             0, 03/14/2026, Sacramento at L.A. Clippers
 Points                   11, 03/11/2026, Sacramento vs Charlotte
 
 Killian Hayes / Sacramento Kings / Career Regular Season Single-Game Highs (Games with all teams)
@@ -27468,8 +27503,8 @@ Defensive Rebounds        4, 03/10/2026, Sacramento vs Indiana (Twice)
 Rebounds                  4, 03/10/2026, Sacramento vs Indiana (Twice)
 Assists                   6, 02/26/2026, Sacramento at Dallas
 Steals                    3, 03/10/2026, Sacramento vs Indiana
-Turnovers                 2, 03/11/2026, Sacramento vs Charlotte
-Blocked Shots             0, 03/11/2026, Sacramento vs Charlotte
+Turnovers                 3, 03/14/2026, Sacramento at L.A. Clippers
+Blocked Shots             0, 03/14/2026, Sacramento at L.A. Clippers
 Points                   11, 03/11/2026, Sacramento vs Charlotte
 
 
@@ -27780,7 +27815,7 @@ Offensive Rebounds        6, 02/07/2026, Sacramento vs Cleveland
 Defensive Rebounds        5, 03/10/2026, Sacramento vs Indiana (Twice)
 Rebounds                  6, 03/10/2026, Sacramento vs Indiana (3 times)
 Assists                   4, 02/11/2026, Sacramento at Utah (Twice)
-Steals                    2, 03/10/2026, Sacramento vs Indiana (Twice)
+Steals                    2, 03/14/2026, Sacramento at L.A. Clippers (3 times)
 Turnovers                 2, 02/07/2026, Sacramento vs Cleveland
 Blocked Shots             2, 02/21/2026, Sacramento at San Antonio
 Points                   19, 02/26/2026, Sacramento at Dallas (Twice)
@@ -27797,7 +27832,7 @@ Offensive Rebounds        6, 02/07/2026, Sacramento vs Cleveland
 Defensive Rebounds        5, 03/10/2026, Sacramento vs Indiana (Twice)
 Rebounds                  6, 03/10/2026, Sacramento vs Indiana (3 times)
 Assists                   4, 02/11/2026, Sacramento at Utah (Twice)
-Steals                    2, 03/10/2026, Sacramento vs Indiana (Twice)
+Steals                    2, 03/14/2026, Sacramento at L.A. Clippers (3 times)
 Turnovers                 3, 04/13/2025, Atlanta vs Orlando
 Blocked Shots             2, 02/21/2026, Sacramento at San Antonio
 Points                   19, 02/26/2026, Sacramento at Dallas (3 times)
@@ -27814,7 +27849,7 @@ Offensive Rebounds        6, 02/07/2026, Sacramento vs Cleveland
 Defensive Rebounds        5, 03/10/2026, Sacramento vs Indiana (Twice)
 Rebounds                  6, 03/10/2026, Sacramento vs Indiana (3 times)
 Assists                   4, 02/11/2026, Sacramento at Utah (Twice)
-Steals                    2, 03/10/2026, Sacramento vs Indiana (Twice)
+Steals                    2, 03/14/2026, Sacramento at L.A. Clippers (3 times)
 Turnovers                 2, 02/07/2026, Sacramento vs Cleveland
 Blocked Shots             2, 02/21/2026, Sacramento at San Antonio
 Points                   19, 02/26/2026, Sacramento at Dallas (Twice)
@@ -27822,7 +27857,7 @@ Points                   19, 02/26/2026, Sacramento at Dallas (Twice)
 
 Maxime Raynaud / Sacramento Kings / 2025-26 Regular Season Single-Game Highs
 Minutes                  39, 02/19/2026, Sacramento vs Orlando
-Field Goals              10, 03/08/2026, Sacramento vs Chicago (4 times)
+Field Goals              11, 03/14/2026, Sacramento at L.A. Clippers
 Field Goal Attempts      20, 03/08/2026, Sacramento vs Chicago (Twice)
 Three-Point Field Goals   2, 12/03/2025, Sacramento at Houston
 Three-Point Attempts      3, 01/25/2026, Sacramento at Detroit (Twice)
@@ -27839,7 +27874,7 @@ Points                   29, 12/18/2025, Sacramento at Portland
 
 Maxime Raynaud / Sacramento Kings / Career Regular Season Single-Game Highs
 Minutes                  39, 02/19/2026, Sacramento vs Orlando
-Field Goals              10, 03/08/2026, Sacramento vs Chicago (4 times)
+Field Goals              11, 03/14/2026, Sacramento at L.A. Clippers
 Field Goal Attempts      20, 03/08/2026, Sacramento vs Chicago (Twice)
 Three-Point Field Goals   2, 12/03/2025, Sacramento at Houston
 Three-Point Attempts      3, 01/25/2026, Sacramento at Detroit (Twice)
@@ -28041,7 +28076,7 @@ Offensive Rebounds        6, 01/02/2026, Sacramento at Phoenix (Twice)
 Defensive Rebounds       12, 11/05/2025, Sacramento vs Golden State
 Rebounds                 16, 11/05/2025, Sacramento vs Golden State
 Assists                  14, 12/08/2025, Sacramento at Indiana (3 times)
-Steals                    4, 03/03/2026, Sacramento vs Phoenix (5 times)
+Steals                    4, 03/14/2026, Sacramento at L.A. Clippers (6 times)
 Turnovers                 7, 02/07/2026, Sacramento vs Cleveland (Twice)
 Blocked Shots             3, 01/04/2026, Sacramento vs Milwaukee
 Points                   27, 12/23/2025, Sacramento vs Detroit
@@ -28075,7 +28110,7 @@ Offensive Rebounds        6, 01/02/2026, Sacramento at Phoenix (Twice)
 Defensive Rebounds       12, 11/05/2025, Sacramento vs Golden State
 Rebounds                 16, 11/05/2025, Sacramento vs Golden State
 Assists                  14, 12/08/2025, Sacramento at Indiana (3 times)
-Steals                    4, 03/03/2026, Sacramento vs Phoenix (5 times)
+Steals                    4, 03/14/2026, Sacramento at L.A. Clippers (6 times)
 Turnovers                 7, 02/07/2026, Sacramento vs Cleveland (Twice)
 Blocked Shots             3, 01/04/2026, Sacramento vs Milwaukee
 Points                   27, 12/23/2025, Sacramento vs Detroit
@@ -28120,7 +28155,7 @@ Points                  171, 03/06/1982, San Antonio vs Milwaukee
 
 
 Team Totals / San Antonio Spurs / 2025-26 Regular Season Single-Game Lows
-Minutes                 240, 03/12/2026, San Antonio vs Denver
+Minutes                 240, 03/14/2026, San Antonio vs Charlotte
 Field Goals              32, 03/01/2026, San Antonio at New York (4 times)
 Field Goal Attempts      67, 10/27/2025, San Antonio vs Toronto
 Three-Point Field Goals   4, 01/07/2026, San Antonio vs L.A. Lakers
@@ -28172,7 +28207,7 @@ Points                  166, 03/06/1982, San Antonio vs Milwaukee
 
 
 Opponent Totals / San Antonio Spurs / 2025-26 Regular Season Single-Game Lows
-Minutes                 240, 03/12/2026, San Antonio vs Denver
+Minutes                 240, 03/14/2026, San Antonio vs Charlotte
 Field Goals              31, 10/22/2025, San Antonio at Dallas
 Field Goal Attempts      79, 11/02/2025, San Antonio at Phoenix (Twice)
 Three-Point Field Goals   7, 02/23/2026, San Antonio at Detroit (Twice)
@@ -28428,7 +28463,7 @@ Rebounds                  9, 01/10/2026, San Antonio at Boston
 Assists                  12, 01/17/2026, San Antonio vs Minnesota (Twice)
 Steals                    4, 01/19/2026, San Antonio vs Utah
 Turnovers                 7, 12/03/2025, San Antonio at Orlando
-Blocked Shots             1, 03/05/2026, San Antonio vs Detroit
+Blocked Shots             1, 03/14/2026, San Antonio vs Charlotte
 Points                   37, 11/26/2025, San Antonio at Portland
 
 De'Aaron Fox / San Antonio Spurs / Career Regular Season Single-Game Highs (Games with all teams)
@@ -28610,8 +28645,8 @@ Luke Kornet / San Antonio Spurs / 2025-26 Regular Season Single-Game Highs
 Minutes                  35, 10/24/2025, San Antonio at New Orleans
 Field Goals              10, 01/03/2026, San Antonio vs Portland
 Field Goal Attempts      12, 01/03/2026, San Antonio vs Portland
-Three-Point Field Goals   0, 03/12/2026, San Antonio vs Denver
-Three-Point Attempts      0, 03/12/2026, San Antonio vs Denver
+Three-Point Field Goals   0, 03/14/2026, San Antonio vs Charlotte
+Three-Point Attempts      0, 03/14/2026, San Antonio vs Charlotte
 Free Throws               8, 12/10/2025, San Antonio at L.A. Lakers
 Free Throw Attempts       9, 12/10/2025, San Antonio at L.A. Lakers
 Offensive Rebounds        9, 02/04/2026, San Antonio vs Oklahoma City (Twice)
@@ -28644,8 +28679,8 @@ Luke Kornet / San Antonio Spurs / Career Regular Season Single-Game Highs (With 
 Minutes                  35, 10/24/2025, San Antonio at New Orleans
 Field Goals              10, 01/03/2026, San Antonio vs Portland
 Field Goal Attempts      12, 01/03/2026, San Antonio vs Portland
-Three-Point Field Goals   0, 03/12/2026, San Antonio vs Denver
-Three-Point Attempts      0, 03/12/2026, San Antonio vs Denver
+Three-Point Field Goals   0, 03/14/2026, San Antonio vs Charlotte
+Three-Point Attempts      0, 03/14/2026, San Antonio vs Charlotte
 Free Throws               8, 12/10/2025, San Antonio at L.A. Lakers
 Free Throw Attempts       9, 12/10/2025, San Antonio at L.A. Lakers
 Offensive Rebounds        9, 02/04/2026, San Antonio vs Oklahoma City (Twice)
@@ -29078,7 +29113,7 @@ Points                    8, 03/03/2026, San Antonio at Philadelphia (Twice)
 Victor Wembanyama / San Antonio Spurs / 2025-26 Regular Season Single-Game Highs
 Minutes                  40, 10/30/2025, San Antonio vs Miami
 Field Goals              15, 10/22/2025, San Antonio at Dallas
-Field Goal Attempts      24, 03/05/2026, San Antonio vs Detroit
+Field Goal Attempts      24, 03/14/2026, San Antonio vs Charlotte (Twice)
 Three-Point Field Goals   8, 03/10/2026, San Antonio vs Boston
 Three-Point Attempts     15, 03/10/2026, San Antonio vs Boston
 Free Throws              12, 01/28/2026, San Antonio at Houston
@@ -31260,7 +31295,7 @@ Points                  161, 12/29/1990, Washington vs Denver
 
 
 Team Totals / Washington Wizards / 2025-26 Regular Season Single-Game Lows
-Minutes                 240, 03/10/2026, Washington at Miami
+Minutes                 240, 03/14/2026, Washington at Boston
 Field Goals              32, 01/22/2026, Washington vs Denver
 Field Goal Attempts      77, 03/05/2026, Washington vs Utah
 Three-Point Field Goals   6, 02/20/2026, Washington vs Indiana
@@ -31312,7 +31347,7 @@ Points                  162, 03/27/2025, Washington vs Indiana
 
 
 Opponent Totals / Washington Wizards / 2025-26 Regular Season Single-Game Lows
-Minutes                 240, 03/10/2026, Washington at Miami
+Minutes                 240, 03/14/2026, Washington at Boston
 Field Goals              31, 12/14/2025, Washington at Indiana
 Field Goal Attempts      76, 03/03/2026, Washington at Orlando
 Three-Point Field Goals   5, 01/19/2026, Washington vs L.A. Clippers
@@ -31807,11 +31842,11 @@ Three-Point Field Goals   4, 02/22/2026, Washington vs Charlotte
 Three-Point Attempts      8, 03/10/2026, Washington at Miami (3 times)
 Free Throws               4, 03/10/2026, Washington at Miami
 Free Throw Attempts       4, 03/10/2026, Washington at Miami (Twice)
-Offensive Rebounds        1, 03/08/2026, Washington at New Orleans (Twice)
+Offensive Rebounds        1, 03/14/2026, Washington at Boston (3 times)
 Defensive Rebounds        4, 02/22/2026, Washington vs Charlotte
 Rebounds                  4, 03/02/2026, Washington vs Houston (Twice)
 Assists                   3, 03/08/2026, Washington at New Orleans
-Steals                    1, 02/26/2026, Washington at Atlanta (Twice)
+Steals                    1, 03/14/2026, Washington at Boston (3 times)
 Turnovers                 3, 03/10/2026, Washington at Miami (3 times)
 Blocked Shots             1, 03/10/2026, Washington at Miami (Twice)
 Points                   18, 03/03/2026, Washington at Orlando
@@ -31841,11 +31876,11 @@ Three-Point Field Goals   4, 02/22/2026, Washington vs Charlotte
 Three-Point Attempts      8, 03/10/2026, Washington at Miami (3 times)
 Free Throws               4, 03/10/2026, Washington at Miami
 Free Throw Attempts       4, 03/10/2026, Washington at Miami (Twice)
-Offensive Rebounds        1, 03/08/2026, Washington at New Orleans (Twice)
+Offensive Rebounds        1, 03/14/2026, Washington at Boston (3 times)
 Defensive Rebounds        4, 02/22/2026, Washington vs Charlotte
 Rebounds                  4, 03/02/2026, Washington vs Houston (Twice)
 Assists                   3, 03/08/2026, Washington at New Orleans
-Steals                    1, 02/26/2026, Washington at Atlanta (Twice)
+Steals                    1, 03/14/2026, Washington at Boston (3 times)
 Turnovers                 3, 03/10/2026, Washington at Miami (3 times)
 Blocked Shots             1, 03/10/2026, Washington at Miami (Twice)
 Points                   18, 03/03/2026, Washington at Orlando
@@ -32230,7 +32265,7 @@ Offensive Rebounds        7, 01/29/2026, Washington vs Milwaukee
 Defensive Rebounds       14, 01/11/2026, Washington at Phoenix
 Rebounds                 17, 01/29/2026, Washington vs Milwaukee
 Assists                   7, 11/03/2025, Washington at New York
-Steals                    2, 03/12/2026, Washington at Orlando
+Steals                    2, 03/14/2026, Washington at Boston
 Turnovers                 5, 10/28/2025, Washington vs Philadelphia
 Blocked Shots             6, 01/27/2026, Washington vs Portland (Twice)
 Points                   31, 11/05/2025, Washington at Boston (Twice)
@@ -32257,7 +32292,7 @@ Tristan Vukcevic / Washington Wizards / 2025-26 Regular Season Single-Game Highs
 Minutes                  27, 12/06/2025, Washington vs Atlanta
 Field Goals               8, 12/21/2025, Washington vs San Antonio
 Field Goal Attempts      19, 12/21/2025, Washington vs San Antonio
-Three-Point Field Goals   4, 02/08/2026, Washington vs Miami
+Three-Point Field Goals   6, 03/14/2026, Washington at Boston
 Three-Point Attempts      9, 12/21/2025, Washington vs San Antonio
 Free Throws               8, 12/12/2025, Washington vs Cleveland
 Free Throw Attempts      10, 01/09/2026, Washington vs New Orleans
@@ -32268,13 +32303,13 @@ Assists                   4, 12/06/2025, Washington vs Atlanta (Twice)
 Steals                    5, 02/19/2026, Washington vs Indiana
 Turnovers                 4, 02/08/2026, Washington vs Miami
 Blocked Shots             5, 01/09/2026, Washington vs New Orleans
-Points                   18, 12/21/2025, Washington vs San Antonio (Twice)
+Points                   22, 03/14/2026, Washington at Boston
 
 Tristan Vukcevic / Washington Wizards / Career Regular Season Single-Game Highs
 Minutes                  39, 04/13/2025, Washington at Miami
 Field Goals               9, 04/13/2025, Washington at Miami
 Field Goal Attempts      19, 12/21/2025, Washington vs San Antonio
-Three-Point Field Goals   4, 02/08/2026, Washington vs Miami (3 times)
+Three-Point Field Goals   6, 03/14/2026, Washington at Boston
 Three-Point Attempts      9, 12/21/2025, Washington vs San Antonio
 Free Throws               8, 12/12/2025, Washington vs Cleveland
 Free Throw Attempts      10, 01/09/2026, Washington vs New Orleans
@@ -32295,8 +32330,8 @@ Field Goal Attempts      16, 02/11/2026, Washington at Cleveland
 Three-Point Field Goals   3, 02/22/2026, Washington vs Charlotte (Twice)
 Three-Point Attempts      8, 02/11/2026, Washington at Cleveland (Twice)
 Free Throws               4, 02/07/2026, Washington at Brooklyn (Twice)
-Free Throw Attempts       4, 02/07/2026, Washington at Brooklyn (3 times)
-Offensive Rebounds        3, 02/08/2026, Washington vs Miami (Twice)
+Free Throw Attempts       4, 03/14/2026, Washington at Boston (4 times)
+Offensive Rebounds        3, 03/14/2026, Washington at Boston (3 times)
 Defensive Rebounds        8, 01/29/2026, Washington vs Milwaukee
 Rebounds                  9, 01/29/2026, Washington vs Milwaukee
 Assists                   4, 03/02/2026, Washington vs Houston
@@ -32312,8 +32347,8 @@ Field Goal Attempts      16, 02/11/2026, Washington at Cleveland
 Three-Point Field Goals   3, 02/22/2026, Washington vs Charlotte (Twice)
 Three-Point Attempts      8, 02/11/2026, Washington at Cleveland (Twice)
 Free Throws               4, 02/07/2026, Washington at Brooklyn (Twice)
-Free Throw Attempts       4, 02/07/2026, Washington at Brooklyn (3 times)
-Offensive Rebounds        3, 02/08/2026, Washington vs Miami (Twice)
+Free Throw Attempts       4, 03/14/2026, Washington at Boston (4 times)
+Offensive Rebounds        3, 03/14/2026, Washington at Boston (3 times)
 Defensive Rebounds        8, 01/29/2026, Washington vs Milwaukee
 Rebounds                  9, 01/29/2026, Washington vs Milwaukee
 Assists                   4, 03/02/2026, Washington vs Houston
@@ -32435,9 +32470,9 @@ Three-Point Field Goals   7, 12/21/2025, Atlanta vs Chicago
 Three-Point Attempts     10, 10/27/2025, Atlanta at Chicago
 Free Throws              11, 10/22/2025, Atlanta vs Toronto
 Free Throw Attempts      13, 10/22/2025, Atlanta vs Toronto
-Offensive Rebounds        1, 03/08/2026, Washington at New Orleans (Twice)
+Offensive Rebounds        1, 03/14/2026, Washington at Boston (3 times)
 Defensive Rebounds        4, 10/25/2025, Atlanta vs Oklahoma City
-Rebounds                  4, 03/08/2026, Washington at New Orleans (Twice)
+Rebounds                  4, 03/14/2026, Washington at Boston (3 times)
 Assists                  17, 10/27/2025, Atlanta at Chicago
 Steals                    3, 10/24/2025, Atlanta at Orlando
 Turnovers                 6, 12/27/2025, Atlanta vs New York
@@ -32445,20 +32480,20 @@ Blocked Shots             1, 10/29/2025, Atlanta at Brooklyn
 Points                   35, 12/21/2025, Atlanta vs Chicago
 
 Trae Young / Washington Wizards / 2025-26 Regular Season Single-Game Highs (With this team only)
-Minutes                  21, 03/12/2026, Washington at Orlando
-Field Goals               5, 03/12/2026, Washington at Orlando
-Field Goal Attempts       9, 03/05/2026, Washington vs Utah
+Minutes                  24, 03/14/2026, Washington at Boston
+Field Goals               5, 03/14/2026, Washington at Boston (Twice)
+Field Goal Attempts      10, 03/14/2026, Washington at Boston
 Three-Point Field Goals   3, 03/08/2026, Washington at New Orleans
 Three-Point Attempts      5, 03/08/2026, Washington at New Orleans (Twice)
 Free Throws               6, 03/08/2026, Washington at New Orleans
 Free Throw Attempts       8, 03/08/2026, Washington at New Orleans
-Offensive Rebounds        1, 03/08/2026, Washington at New Orleans (Twice)
-Defensive Rebounds        3, 03/12/2026, Washington at Orlando (Twice)
-Rebounds                  4, 03/08/2026, Washington at New Orleans
+Offensive Rebounds        1, 03/14/2026, Washington at Boston (3 times)
+Defensive Rebounds        3, 03/14/2026, Washington at Boston (3 times)
+Rebounds                  4, 03/14/2026, Washington at Boston (Twice)
 Assists                   8, 03/08/2026, Washington at New Orleans
 Steals                    2, 03/05/2026, Washington vs Utah
 Turnovers                 4, 03/08/2026, Washington at New Orleans
-Blocked Shots             0, 03/12/2026, Washington at Orlando
+Blocked Shots             0, 03/14/2026, Washington at Boston
 Points                   17, 03/08/2026, Washington at New Orleans
 
 Trae Young / Washington Wizards / Career Regular Season Single-Game Highs (Games with all teams)
@@ -32479,19 +32514,19 @@ Blocked Shots             2, 01/18/2025, Atlanta at Boston (4 times)
 Points                   56, 01/03/2022, Atlanta at Portland
 
 Trae Young / Washington Wizards / Career Regular Season Single-Game Highs (With this team only)
-Minutes                  21, 03/12/2026, Washington at Orlando
-Field Goals               5, 03/12/2026, Washington at Orlando
-Field Goal Attempts       9, 03/05/2026, Washington vs Utah
+Minutes                  24, 03/14/2026, Washington at Boston
+Field Goals               5, 03/14/2026, Washington at Boston (Twice)
+Field Goal Attempts      10, 03/14/2026, Washington at Boston
 Three-Point Field Goals   3, 03/08/2026, Washington at New Orleans
 Three-Point Attempts      5, 03/08/2026, Washington at New Orleans (Twice)
 Free Throws               6, 03/08/2026, Washington at New Orleans
 Free Throw Attempts       8, 03/08/2026, Washington at New Orleans
-Offensive Rebounds        1, 03/08/2026, Washington at New Orleans (Twice)
-Defensive Rebounds        3, 03/12/2026, Washington at Orlando (Twice)
-Rebounds                  4, 03/08/2026, Washington at New Orleans
+Offensive Rebounds        1, 03/14/2026, Washington at Boston (3 times)
+Defensive Rebounds        3, 03/14/2026, Washington at Boston (3 times)
+Rebounds                  4, 03/14/2026, Washington at Boston (Twice)
 Assists                   8, 03/08/2026, Washington at New Orleans
 Steals                    2, 03/05/2026, Washington vs Utah
 Turnovers                 4, 03/08/2026, Washington at New Orleans
-Blocked Shots             0, 03/12/2026, Washington at Orlando
+Blocked Shots             0, 03/14/2026, Washington at Boston
 Points                   17, 03/08/2026, Washington at New Orleans
 
