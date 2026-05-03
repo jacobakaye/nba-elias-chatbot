@@ -735,9 +735,9 @@ Points                    4, 04/30/2026, Atlanta vs New York
 
 
 Team Totals / Boston Celtics / 2025-26 Postseason Single-Game Highs
-Minutes                 240, 04/30/2026, Boston at Philadelphia (6 times)
+Minutes                 240, 05/02/2026, Boston vs Philadelphia (7 times)
 Field Goals              45, 04/19/2026, Boston vs Philadelphia
-Field Goal Attempts      90, 04/19/2026, Boston vs Philadelphia
+Field Goal Attempts      93, 05/02/2026, Boston vs Philadelphia
 Three-Point Field Goals  24, 04/26/2026, Boston at Philadelphia
 Three-Point Attempts     53, 04/26/2026, Boston at Philadelphia
 Free Throws              20, 04/26/2026, Boston at Philadelphia
@@ -770,24 +770,24 @@ Points                  157, 04/28/1990, Boston vs New York
 
 
 Team Totals / Boston Celtics / 2025-26 Postseason Single-Game Lows
-Minutes                 240, 04/30/2026, Boston at Philadelphia
+Minutes                 240, 05/02/2026, Boston vs Philadelphia
 Field Goals              35, 04/21/2026, Boston vs Philadelphia
 Field Goal Attempts      81, 04/24/2026, Boston at Philadelphia
 Three-Point Field Goals  11, 04/28/2026, Boston vs Philadelphia
 Three-Point Attempts     39, 04/28/2026, Boston vs Philadelphia
 Free Throws               9, 04/30/2026, Boston at Philadelphia
-Free Throw Attempts      16, 04/30/2026, Boston at Philadelphia
+Free Throw Attempts      16, 05/02/2026, Boston vs Philadelphia (Twice)
 Offensive Rebounds        5, 04/19/2026, Boston vs Philadelphia
 Defensive Rebounds       30, 04/24/2026, Boston at Philadelphia
 Rebounds                 43, 04/19/2026, Boston vs Philadelphia
 Assists                  18, 04/30/2026, Boston at Philadelphia
 Steals                    3, 04/21/2026, Boston vs Philadelphia
-Turnovers                10, 04/19/2026, Boston vs Philadelphia
+Turnovers                 5, 05/02/2026, Boston vs Philadelphia
 Blocked Shots             0, 04/28/2026, Boston vs Philadelphia
 Points                   93, 04/30/2026, Boston at Philadelphia
 
 Opponent Totals / Boston Celtics / 2025-26 Postseason Single-Game Highs
-Minutes                 240, 04/30/2026, Boston at Philadelphia (6 times)
+Minutes                 240, 05/02/2026, Boston vs Philadelphia (7 times)
 Field Goals              43, 04/21/2026, Boston vs Philadelphia
 Field Goal Attempts      90, 04/21/2026, Boston vs Philadelphia (Twice)
 Three-Point Field Goals  19, 04/21/2026, Boston vs Philadelphia
@@ -797,7 +797,7 @@ Free Throw Attempts      24, 04/26/2026, Boston at Philadelphia
 Offensive Rebounds       13, 04/24/2026, Boston at Philadelphia
 Defensive Rebounds       42, 04/28/2026, Boston vs Philadelphia
 Rebounds                 48, 04/30/2026, Boston at Philadelphia
-Assists                  25, 04/26/2026, Boston at Philadelphia
+Assists                  25, 05/02/2026, Boston vs Philadelphia (Twice)
 Steals                    7, 04/30/2026, Boston at Philadelphia
 Turnovers                15, 04/19/2026, Boston vs Philadelphia
 Blocked Shots             8, 04/24/2026, Boston at Philadelphia
@@ -822,20 +822,20 @@ Points                  145, 05/24/1987, Boston at Detroit
 
 
 Opponent Totals / Boston Celtics / 2025-26 Postseason Single-Game Lows
-Minutes                 240, 04/30/2026, Boston at Philadelphia
+Minutes                 240, 05/02/2026, Boston vs Philadelphia
 Field Goals              33, 04/26/2026, Boston at Philadelphia
 Field Goal Attempts      78, 04/28/2026, Boston vs Philadelphia
 Three-Point Field Goals   4, 04/19/2026, Boston vs Philadelphia
 Three-Point Attempts     23, 04/19/2026, Boston vs Philadelphia
 Free Throws               6, 04/21/2026, Boston vs Philadelphia
 Free Throw Attempts      11, 04/21/2026, Boston vs Philadelphia
-Offensive Rebounds        5, 04/28/2026, Boston vs Philadelphia
+Offensive Rebounds        3, 05/02/2026, Boston vs Philadelphia
 Defensive Rebounds       24, 04/26/2026, Boston at Philadelphia (Twice)
 Rebounds                 30, 04/26/2026, Boston at Philadelphia
 Assists                  18, 04/24/2026, Boston at Philadelphia (Twice)
-Steals                    3, 04/19/2026, Boston vs Philadelphia
-Turnovers                 9, 04/26/2026, Boston at Philadelphia (Twice)
-Blocked Shots             1, 04/19/2026, Boston vs Philadelphia
+Steals                    0, 05/02/2026, Boston vs Philadelphia
+Turnovers                 9, 05/02/2026, Boston vs Philadelphia (3 times)
+Blocked Shots             1, 05/02/2026, Boston vs Philadelphia (Twice)
 Points                   91, 04/19/2026, Boston vs Philadelphia
 
 Dalano Banton / Boston Celtics / 2025-26 Postseason Single-Game Highs
@@ -892,19 +892,19 @@ Points                    2, 04/30/2026, Boston at Philadelphia
 
 Jaylen Brown / Boston Celtics / 2025-26 Postseason Single-Game Highs
 Minutes                  41, 04/28/2026, Boston vs Philadelphia
-Field Goals              11, 04/21/2026, Boston vs Philadelphia (Twice)
-Field Goal Attempts      24, 04/21/2026, Boston vs Philadelphia
+Field Goals              12, 05/02/2026, Boston vs Philadelphia
+Field Goal Attempts      27, 05/02/2026, Boston vs Philadelphia
 Three-Point Field Goals   5, 04/21/2026, Boston vs Philadelphia
 Three-Point Attempts     12, 04/21/2026, Boston vs Philadelphia
 Free Throws               9, 04/21/2026, Boston vs Philadelphia
 Free Throw Attempts      12, 04/21/2026, Boston vs Philadelphia
 Offensive Rebounds        3, 04/28/2026, Boston vs Philadelphia (3 times)
-Defensive Rebounds        7, 04/26/2026, Boston at Philadelphia
-Rebounds                  7, 04/26/2026, Boston at Philadelphia (3 times)
+Defensive Rebounds        8, 05/02/2026, Boston vs Philadelphia
+Rebounds                  9, 05/02/2026, Boston vs Philadelphia
 Assists                   5, 04/28/2026, Boston vs Philadelphia
 Steals                    2, 04/19/2026, Boston vs Philadelphia
 Turnovers                 6, 04/24/2026, Boston at Philadelphia
-Blocked Shots             3, 04/24/2026, Boston at Philadelphia
+Blocked Shots             3, 05/02/2026, Boston vs Philadelphia (Twice)
 Points                   36, 04/21/2026, Boston vs Philadelphia
 
 Jaylen Brown / Boston Celtics / Career Postseason Single-Game Highs
@@ -937,9 +937,9 @@ Offensive Rebounds        2, 04/30/2026, Boston at Philadelphia (3 times)
 Defensive Rebounds        3, 04/26/2026, Boston at Philadelphia
 Rebounds                  3, 04/26/2026, Boston at Philadelphia (Twice)
 Assists                   2, 04/26/2026, Boston at Philadelphia
-Steals                    0, 04/30/2026, Boston at Philadelphia
-Turnovers                 0, 04/30/2026, Boston at Philadelphia
-Blocked Shots             0, 04/30/2026, Boston at Philadelphia
+Steals                    0, 05/02/2026, Boston vs Philadelphia
+Turnovers                 1, 05/02/2026, Boston vs Philadelphia
+Blocked Shots             1, 05/02/2026, Boston vs Philadelphia
 Points                    9, 04/30/2026, Boston at Philadelphia
 
 Luka Garza / Boston Celtics / Career Postseason Single-Game Highs (Games with all teams)
@@ -954,9 +954,9 @@ Offensive Rebounds        2, 04/30/2026, Boston at Philadelphia (4 times)
 Defensive Rebounds        3, 04/26/2026, Boston at Philadelphia
 Rebounds                  3, 04/26/2026, Boston at Philadelphia (Twice)
 Assists                   2, 04/26/2026, Boston at Philadelphia
-Steals                    0, 04/30/2026, Boston at Philadelphia
-Turnovers                 0, 04/30/2026, Boston at Philadelphia
-Blocked Shots             0, 04/30/2026, Boston at Philadelphia
+Steals                    0, 05/02/2026, Boston vs Philadelphia
+Turnovers                 1, 05/02/2026, Boston vs Philadelphia
+Blocked Shots             1, 05/02/2026, Boston vs Philadelphia
 Points                    9, 04/30/2026, Boston at Philadelphia
 
 Luka Garza / Boston Celtics / Career Postseason Single-Game Highs (With this team only)
@@ -971,45 +971,45 @@ Offensive Rebounds        2, 04/30/2026, Boston at Philadelphia (3 times)
 Defensive Rebounds        3, 04/26/2026, Boston at Philadelphia
 Rebounds                  3, 04/26/2026, Boston at Philadelphia (Twice)
 Assists                   2, 04/26/2026, Boston at Philadelphia
-Steals                    0, 04/30/2026, Boston at Philadelphia
-Turnovers                 0, 04/30/2026, Boston at Philadelphia
-Blocked Shots             0, 04/30/2026, Boston at Philadelphia
+Steals                    0, 05/02/2026, Boston vs Philadelphia
+Turnovers                 1, 05/02/2026, Boston vs Philadelphia
+Blocked Shots             1, 05/02/2026, Boston vs Philadelphia
 Points                    9, 04/30/2026, Boston at Philadelphia
 
 
 Hugo Gonzalez / Boston Celtics / 2025-26 Postseason Single-Game Highs
-Minutes                   3, 04/26/2026, Boston at Philadelphia
-Field Goals               0, 04/28/2026, Boston vs Philadelphia
-Field Goal Attempts       0, 04/28/2026, Boston vs Philadelphia
-Three-Point Field Goals   0, 04/28/2026, Boston vs Philadelphia
-Three-Point Attempts      0, 04/28/2026, Boston vs Philadelphia
-Free Throws               0, 04/28/2026, Boston vs Philadelphia
-Free Throw Attempts       0, 04/28/2026, Boston vs Philadelphia
-Offensive Rebounds        0, 04/28/2026, Boston vs Philadelphia
-Defensive Rebounds        1, 04/19/2026, Boston vs Philadelphia
-Rebounds                  1, 04/19/2026, Boston vs Philadelphia
+Minutes                  13, 05/02/2026, Boston vs Philadelphia
+Field Goals               0, 05/02/2026, Boston vs Philadelphia
+Field Goal Attempts       3, 05/02/2026, Boston vs Philadelphia
+Three-Point Field Goals   0, 05/02/2026, Boston vs Philadelphia
+Three-Point Attempts      3, 05/02/2026, Boston vs Philadelphia
+Free Throws               0, 05/02/2026, Boston vs Philadelphia
+Free Throw Attempts       2, 05/02/2026, Boston vs Philadelphia
+Offensive Rebounds        1, 05/02/2026, Boston vs Philadelphia
+Defensive Rebounds        2, 05/02/2026, Boston vs Philadelphia
+Rebounds                  3, 05/02/2026, Boston vs Philadelphia
 Assists                   2, 04/26/2026, Boston at Philadelphia
-Steals                    0, 04/28/2026, Boston vs Philadelphia
+Steals                    0, 05/02/2026, Boston vs Philadelphia
 Turnovers                 1, 04/26/2026, Boston at Philadelphia
 Blocked Shots             1, 04/19/2026, Boston vs Philadelphia
-Points                    0, 04/28/2026, Boston vs Philadelphia
+Points                    0, 05/02/2026, Boston vs Philadelphia
 
 Hugo Gonzalez / Boston Celtics / Career Postseason Single-Game Highs
-Minutes                   3, 04/26/2026, Boston at Philadelphia
-Field Goals               0, 04/28/2026, Boston vs Philadelphia
-Field Goal Attempts       0, 04/28/2026, Boston vs Philadelphia
-Three-Point Field Goals   0, 04/28/2026, Boston vs Philadelphia
-Three-Point Attempts      0, 04/28/2026, Boston vs Philadelphia
-Free Throws               0, 04/28/2026, Boston vs Philadelphia
-Free Throw Attempts       0, 04/28/2026, Boston vs Philadelphia
-Offensive Rebounds        0, 04/28/2026, Boston vs Philadelphia
-Defensive Rebounds        1, 04/19/2026, Boston vs Philadelphia
-Rebounds                  1, 04/19/2026, Boston vs Philadelphia
+Minutes                  13, 05/02/2026, Boston vs Philadelphia
+Field Goals               0, 05/02/2026, Boston vs Philadelphia
+Field Goal Attempts       3, 05/02/2026, Boston vs Philadelphia
+Three-Point Field Goals   0, 05/02/2026, Boston vs Philadelphia
+Three-Point Attempts      3, 05/02/2026, Boston vs Philadelphia
+Free Throws               0, 05/02/2026, Boston vs Philadelphia
+Free Throw Attempts       2, 05/02/2026, Boston vs Philadelphia
+Offensive Rebounds        1, 05/02/2026, Boston vs Philadelphia
+Defensive Rebounds        2, 05/02/2026, Boston vs Philadelphia
+Rebounds                  3, 05/02/2026, Boston vs Philadelphia
 Assists                   2, 04/26/2026, Boston at Philadelphia
-Steals                    0, 04/28/2026, Boston vs Philadelphia
+Steals                    0, 05/02/2026, Boston vs Philadelphia
 Turnovers                 1, 04/26/2026, Boston at Philadelphia
 Blocked Shots             1, 04/19/2026, Boston vs Philadelphia
-Points                    0, 04/28/2026, Boston vs Philadelphia
+Points                    0, 05/02/2026, Boston vs Philadelphia
 
 
 Ron Harper / Boston Celtics / 2025-26 Postseason Single-Game Highs
@@ -1018,15 +1018,15 @@ Field Goals               2, 04/19/2026, Boston vs Philadelphia
 Field Goal Attempts       3, 04/30/2026, Boston at Philadelphia
 Three-Point Field Goals   1, 04/30/2026, Boston at Philadelphia (3 times)
 Three-Point Attempts      2, 04/30/2026, Boston at Philadelphia
-Free Throws               0, 04/30/2026, Boston at Philadelphia
-Free Throw Attempts       0, 04/30/2026, Boston at Philadelphia
+Free Throws               0, 05/02/2026, Boston vs Philadelphia
+Free Throw Attempts       0, 05/02/2026, Boston vs Philadelphia
 Offensive Rebounds        1, 04/30/2026, Boston at Philadelphia
 Defensive Rebounds        2, 04/30/2026, Boston at Philadelphia
 Rebounds                  3, 04/30/2026, Boston at Philadelphia
 Assists                   1, 04/21/2026, Boston vs Philadelphia
-Steals                    1, 04/30/2026, Boston at Philadelphia
-Turnovers                 0, 04/30/2026, Boston at Philadelphia
-Blocked Shots             0, 04/30/2026, Boston at Philadelphia
+Steals                    2, 05/02/2026, Boston vs Philadelphia
+Turnovers                 0, 05/02/2026, Boston vs Philadelphia
+Blocked Shots             0, 05/02/2026, Boston vs Philadelphia
 Points                    5, 04/19/2026, Boston vs Philadelphia
 
 Ron Harper / Boston Celtics / Career Postseason Single-Game Highs (With this team only)
@@ -1035,26 +1035,26 @@ Field Goals               2, 04/19/2026, Boston vs Philadelphia
 Field Goal Attempts       3, 04/30/2026, Boston at Philadelphia
 Three-Point Field Goals   1, 04/30/2026, Boston at Philadelphia (3 times)
 Three-Point Attempts      2, 04/30/2026, Boston at Philadelphia
-Free Throws               0, 04/30/2026, Boston at Philadelphia
-Free Throw Attempts       0, 04/30/2026, Boston at Philadelphia
+Free Throws               0, 05/02/2026, Boston vs Philadelphia
+Free Throw Attempts       0, 05/02/2026, Boston vs Philadelphia
 Offensive Rebounds        1, 04/30/2026, Boston at Philadelphia
 Defensive Rebounds        2, 04/30/2026, Boston at Philadelphia
 Rebounds                  3, 04/30/2026, Boston at Philadelphia
 Assists                   1, 04/21/2026, Boston vs Philadelphia
-Steals                    1, 04/30/2026, Boston at Philadelphia
-Turnovers                 0, 04/30/2026, Boston at Philadelphia
-Blocked Shots             0, 04/30/2026, Boston at Philadelphia
+Steals                    2, 05/02/2026, Boston vs Philadelphia
+Turnovers                 0, 05/02/2026, Boston vs Philadelphia
+Blocked Shots             0, 05/02/2026, Boston vs Philadelphia
 Points                    5, 04/19/2026, Boston vs Philadelphia
 
 
 Sam Hauser / Boston Celtics / 2025-26 Postseason Single-Game Highs
-Minutes                  28, 04/19/2026, Boston vs Philadelphia
-Field Goals               4, 04/19/2026, Boston vs Philadelphia
+Minutes                  30, 05/02/2026, Boston vs Philadelphia
+Field Goals               4, 05/02/2026, Boston vs Philadelphia (Twice)
 Field Goal Attempts       8, 04/26/2026, Boston at Philadelphia (Twice)
 Three-Point Field Goals   4, 04/19/2026, Boston vs Philadelphia
 Three-Point Attempts      8, 04/21/2026, Boston vs Philadelphia
-Free Throws               0, 04/30/2026, Boston at Philadelphia
-Free Throw Attempts       0, 04/30/2026, Boston at Philadelphia
+Free Throws               0, 05/02/2026, Boston vs Philadelphia
+Free Throw Attempts       0, 05/02/2026, Boston vs Philadelphia
 Offensive Rebounds        2, 04/28/2026, Boston vs Philadelphia (3 times)
 Defensive Rebounds        6, 04/19/2026, Boston vs Philadelphia
 Rebounds                  7, 04/19/2026, Boston vs Philadelphia
@@ -1065,7 +1065,7 @@ Blocked Shots             1, 04/21/2026, Boston vs Philadelphia
 Points                   12, 04/19/2026, Boston vs Philadelphia
 
 Sam Hauser / Boston Celtics / Career Postseason Single-Game Highs
-Minutes                  28, 04/19/2026, Boston vs Philadelphia
+Minutes                  30, 05/02/2026, Boston vs Philadelphia
 Field Goals               6, 05/01/2024, Boston vs Miami
 Field Goal Attempts      10, 05/01/2024, Boston vs Miami
 Three-Point Field Goals   5, 05/01/2024, Boston vs Miami
@@ -1083,7 +1083,7 @@ Points                   17, 05/01/2024, Boston vs Miami
 
 
 Payton Pritchard / Boston Celtics / 2025-26 Postseason Single-Game Highs
-Minutes                  36, 04/30/2026, Boston at Philadelphia
+Minutes                  39, 05/02/2026, Boston vs Philadelphia
 Field Goals              12, 04/26/2026, Boston at Philadelphia
 Field Goal Attempts      21, 04/26/2026, Boston at Philadelphia
 Three-Point Field Goals   6, 04/26/2026, Boston at Philadelphia
@@ -1091,16 +1091,16 @@ Three-Point Attempts     12, 04/26/2026, Boston at Philadelphia
 Free Throws               2, 04/26/2026, Boston at Philadelphia (Twice)
 Free Throw Attempts       3, 04/19/2026, Boston vs Philadelphia
 Offensive Rebounds        4, 04/21/2026, Boston vs Philadelphia
-Defensive Rebounds        3, 04/30/2026, Boston at Philadelphia (3 times)
-Rebounds                  5, 04/21/2026, Boston vs Philadelphia
-Assists                   6, 04/28/2026, Boston vs Philadelphia (Twice)
-Steals                    1, 04/26/2026, Boston at Philadelphia (Twice)
+Defensive Rebounds        3, 05/02/2026, Boston vs Philadelphia (4 times)
+Rebounds                  5, 05/02/2026, Boston vs Philadelphia (Twice)
+Assists                   7, 05/02/2026, Boston vs Philadelphia
+Steals                    1, 05/02/2026, Boston vs Philadelphia (3 times)
 Turnovers                 2, 04/19/2026, Boston vs Philadelphia
-Blocked Shots             0, 04/30/2026, Boston at Philadelphia
+Blocked Shots             0, 05/02/2026, Boston vs Philadelphia
 Points                   32, 04/26/2026, Boston at Philadelphia
 
 Payton Pritchard / Boston Celtics / Career Postseason Single-Game Highs
-Minutes                  39, 05/14/2025, Boston vs New York
+Minutes                  39, 05/02/2026, Boston vs Philadelphia
 Field Goals              12, 04/26/2026, Boston at Philadelphia
 Field Goal Attempts      21, 04/26/2026, Boston at Philadelphia
 Three-Point Field Goals   6, 04/26/2026, Boston at Philadelphia
@@ -1110,7 +1110,7 @@ Free Throw Attempts       5, 05/05/2025, Boston vs New York
 Offensive Rebounds        4, 04/21/2026, Boston vs Philadelphia
 Defensive Rebounds        5, 06/02/2022, Boston at Golden State
 Rebounds                  6, 06/02/2022, Boston at Golden State
-Assists                   6, 04/28/2026, Boston vs Philadelphia (Twice)
+Assists                   7, 05/02/2026, Boston vs Philadelphia
 Steals                    2, 04/25/2025, Boston at Orlando
 Turnovers                 3, 04/25/2025, Boston at Orlando (Twice)
 Blocked Shots             1, 05/23/2022, Boston vs Miami (Twice)
@@ -1118,69 +1118,69 @@ Points                   32, 04/26/2026, Boston at Philadelphia
 
 
 Neemias Queta / Boston Celtics / 2025-26 Postseason Single-Game Highs
-Minutes                  28, 04/21/2026, Boston vs Philadelphia
-Field Goals               5, 04/19/2026, Boston vs Philadelphia
-Field Goal Attempts       8, 04/28/2026, Boston vs Philadelphia
-Three-Point Field Goals   0, 04/30/2026, Boston at Philadelphia
-Three-Point Attempts      0, 04/30/2026, Boston at Philadelphia
+Minutes                  33, 05/02/2026, Boston vs Philadelphia
+Field Goals               7, 05/02/2026, Boston vs Philadelphia
+Field Goal Attempts       8, 05/02/2026, Boston vs Philadelphia (Twice)
+Three-Point Field Goals   0, 05/02/2026, Boston vs Philadelphia
+Three-Point Attempts      0, 05/02/2026, Boston vs Philadelphia
 Free Throws               4, 04/24/2026, Boston at Philadelphia
 Free Throw Attempts       4, 04/26/2026, Boston at Philadelphia (3 times)
 Offensive Rebounds        5, 04/28/2026, Boston vs Philadelphia
-Defensive Rebounds       10, 04/30/2026, Boston at Philadelphia
+Defensive Rebounds       11, 05/02/2026, Boston vs Philadelphia
 Rebounds                 14, 04/28/2026, Boston vs Philadelphia
-Assists                   1, 04/28/2026, Boston vs Philadelphia (3 times)
+Assists                   1, 05/02/2026, Boston vs Philadelphia (4 times)
 Steals                    1, 04/24/2026, Boston at Philadelphia
 Turnovers                 3, 04/24/2026, Boston at Philadelphia
 Blocked Shots             2, 04/30/2026, Boston at Philadelphia (Twice)
-Points                   13, 04/19/2026, Boston vs Philadelphia
+Points                   17, 05/02/2026, Boston vs Philadelphia
 
 Neemias Queta / Boston Celtics / Career Postseason Single-Game Highs (With this team only)
-Minutes                  28, 04/21/2026, Boston vs Philadelphia
-Field Goals               5, 04/19/2026, Boston vs Philadelphia
-Field Goal Attempts       8, 04/28/2026, Boston vs Philadelphia
-Three-Point Field Goals   0, 04/30/2026, Boston at Philadelphia
-Three-Point Attempts      0, 04/30/2026, Boston at Philadelphia
+Minutes                  33, 05/02/2026, Boston vs Philadelphia
+Field Goals               7, 05/02/2026, Boston vs Philadelphia
+Field Goal Attempts       8, 05/02/2026, Boston vs Philadelphia (Twice)
+Three-Point Field Goals   0, 05/02/2026, Boston vs Philadelphia
+Three-Point Attempts      0, 05/02/2026, Boston vs Philadelphia
 Free Throws               4, 04/24/2026, Boston at Philadelphia
 Free Throw Attempts       4, 04/26/2026, Boston at Philadelphia (3 times)
 Offensive Rebounds        5, 04/28/2026, Boston vs Philadelphia
-Defensive Rebounds       10, 04/30/2026, Boston at Philadelphia
+Defensive Rebounds       11, 05/02/2026, Boston vs Philadelphia
 Rebounds                 14, 04/28/2026, Boston vs Philadelphia
-Assists                   1, 04/28/2026, Boston vs Philadelphia (5 times)
+Assists                   1, 05/02/2026, Boston vs Philadelphia (6 times)
 Steals                    1, 04/24/2026, Boston at Philadelphia (Twice)
 Turnovers                 3, 04/24/2026, Boston at Philadelphia
 Blocked Shots             2, 04/30/2026, Boston at Philadelphia (Twice)
-Points                   13, 04/19/2026, Boston vs Philadelphia
+Points                   17, 05/02/2026, Boston vs Philadelphia
 
 
 Baylor Scheierman / Boston Celtics / 2025-26 Postseason Single-Game Highs
-Minutes                  15, 04/19/2026, Boston vs Philadelphia
+Minutes                  22, 05/02/2026, Boston vs Philadelphia
 Field Goals               2, 04/30/2026, Boston at Philadelphia (5 times)
 Field Goal Attempts       5, 04/26/2026, Boston at Philadelphia (Twice)
 Three-Point Field Goals   2, 04/26/2026, Boston at Philadelphia (Twice)
 Three-Point Attempts      5, 04/26/2026, Boston at Philadelphia
-Free Throws               0, 04/30/2026, Boston at Philadelphia
-Free Throw Attempts       0, 04/30/2026, Boston at Philadelphia
-Offensive Rebounds        2, 04/26/2026, Boston at Philadelphia (Twice)
-Defensive Rebounds        3, 04/30/2026, Boston at Philadelphia (Twice)
-Rebounds                  5, 04/26/2026, Boston at Philadelphia
-Assists                   1, 04/30/2026, Boston at Philadelphia (Twice)
+Free Throws               0, 05/02/2026, Boston vs Philadelphia
+Free Throw Attempts       0, 05/02/2026, Boston vs Philadelphia
+Offensive Rebounds        2, 05/02/2026, Boston vs Philadelphia (3 times)
+Defensive Rebounds        4, 05/02/2026, Boston vs Philadelphia
+Rebounds                  6, 05/02/2026, Boston vs Philadelphia
+Assists                   2, 05/02/2026, Boston vs Philadelphia
 Steals                    2, 04/30/2026, Boston at Philadelphia (Twice)
 Turnovers                 1, 04/30/2026, Boston at Philadelphia (Twice)
 Blocked Shots             1, 04/19/2026, Boston vs Philadelphia
 Points                    6, 04/26/2026, Boston at Philadelphia (Twice)
 
 Baylor Scheierman / Boston Celtics / Career Postseason Single-Game Highs
-Minutes                  15, 04/19/2026, Boston vs Philadelphia
+Minutes                  22, 05/02/2026, Boston vs Philadelphia
 Field Goals               2, 04/30/2026, Boston at Philadelphia (6 times)
 Field Goal Attempts       6, 05/16/2025, Boston at New York
 Three-Point Field Goals   2, 04/26/2026, Boston at Philadelphia (Twice)
 Three-Point Attempts      5, 04/26/2026, Boston at Philadelphia
-Free Throws               0, 04/30/2026, Boston at Philadelphia
-Free Throw Attempts       0, 04/30/2026, Boston at Philadelphia
-Offensive Rebounds        2, 04/26/2026, Boston at Philadelphia (Twice)
-Defensive Rebounds        3, 04/30/2026, Boston at Philadelphia (Twice)
-Rebounds                  5, 04/26/2026, Boston at Philadelphia
-Assists                   1, 04/30/2026, Boston at Philadelphia (Twice)
+Free Throws               0, 05/02/2026, Boston vs Philadelphia
+Free Throw Attempts       0, 05/02/2026, Boston vs Philadelphia
+Offensive Rebounds        2, 05/02/2026, Boston vs Philadelphia (3 times)
+Defensive Rebounds        4, 05/02/2026, Boston vs Philadelphia
+Rebounds                  6, 05/02/2026, Boston vs Philadelphia
+Assists                   2, 05/02/2026, Boston vs Philadelphia
 Steals                    2, 04/30/2026, Boston at Philadelphia (Twice)
 Turnovers                 1, 04/30/2026, Boston at Philadelphia (3 times)
 Blocked Shots             1, 04/19/2026, Boston vs Philadelphia
@@ -1322,7 +1322,7 @@ Defensive Rebounds        3, 04/30/2026, Boston at Philadelphia (Twice)
 Rebounds                  5, 04/30/2026, Boston at Philadelphia
 Assists                   3, 04/30/2026, Boston at Philadelphia
 Steals                    2, 04/28/2026, Boston vs Philadelphia (Twice)
-Turnovers                 0, 04/30/2026, Boston at Philadelphia
+Turnovers                 0, 05/02/2026, Boston vs Philadelphia
 Blocked Shots             1, 04/30/2026, Boston at Philadelphia (Twice)
 Points                    5, 04/19/2026, Boston vs Philadelphia
 
@@ -1339,34 +1339,34 @@ Defensive Rebounds        3, 04/30/2026, Boston at Philadelphia (Twice)
 Rebounds                  5, 04/30/2026, Boston at Philadelphia
 Assists                   3, 04/30/2026, Boston at Philadelphia
 Steals                    2, 04/28/2026, Boston vs Philadelphia (Twice)
-Turnovers                 0, 04/30/2026, Boston at Philadelphia
+Turnovers                 0, 05/02/2026, Boston vs Philadelphia
 Blocked Shots             1, 04/30/2026, Boston at Philadelphia (Twice)
 Points                    5, 04/19/2026, Boston vs Philadelphia
 
 
 Derrick White / Boston Celtics / 2025-26 Postseason Single-Game Highs
-Minutes                  39, 04/21/2026, Boston vs Philadelphia
-Field Goals               4, 04/19/2026, Boston vs Philadelphia
-Field Goal Attempts      12, 04/24/2026, Boston at Philadelphia (Twice)
-Three-Point Field Goals   3, 04/30/2026, Boston at Philadelphia
-Three-Point Attempts     10, 04/21/2026, Boston vs Philadelphia
+Minutes                  45, 05/02/2026, Boston vs Philadelphia
+Field Goals               9, 05/02/2026, Boston vs Philadelphia
+Field Goal Attempts      26, 05/02/2026, Boston vs Philadelphia
+Three-Point Field Goals   5, 05/02/2026, Boston vs Philadelphia
+Three-Point Attempts     16, 05/02/2026, Boston vs Philadelphia
 Free Throws               4, 04/24/2026, Boston at Philadelphia
-Free Throw Attempts       4, 04/24/2026, Boston at Philadelphia
+Free Throw Attempts       4, 05/02/2026, Boston vs Philadelphia (Twice)
 Offensive Rebounds        4, 04/26/2026, Boston at Philadelphia
-Defensive Rebounds        2, 04/26/2026, Boston at Philadelphia (4 times)
-Rebounds                  6, 04/26/2026, Boston at Philadelphia
+Defensive Rebounds        4, 05/02/2026, Boston vs Philadelphia
+Rebounds                  6, 05/02/2026, Boston vs Philadelphia (Twice)
 Assists                   6, 04/19/2026, Boston vs Philadelphia
 Steals                    3, 04/30/2026, Boston at Philadelphia
 Turnovers                 3, 04/21/2026, Boston vs Philadelphia
-Blocked Shots             3, 04/24/2026, Boston at Philadelphia
-Points                   11, 04/30/2026, Boston at Philadelphia (Twice)
+Blocked Shots             3, 05/02/2026, Boston vs Philadelphia (Twice)
+Points                   26, 05/02/2026, Boston vs Philadelphia
 
 Derrick White / Boston Celtics / Career Postseason Single-Game Highs (Games with all teams)
-Minutes                  44, 05/05/2025, Boston vs New York
+Minutes                  45, 05/02/2026, Boston vs Philadelphia
 Field Goals              15, 04/29/2024, Boston at Miami (Twice)
-Field Goal Attempts      26, 04/29/2024, Boston at Miami
+Field Goal Attempts      26, 05/02/2026, Boston vs Philadelphia (Twice)
 Three-Point Field Goals   8, 04/29/2024, Boston at Miami
-Three-Point Attempts     16, 05/05/2025, Boston vs New York
+Three-Point Attempts     16, 05/02/2026, Boston vs Philadelphia (Twice)
 Free Throws               9, 05/14/2025, Boston vs New York
 Free Throw Attempts      11, 05/14/2025, Boston vs New York
 Offensive Rebounds        4, 04/26/2026, Boston at Philadelphia (Twice)
@@ -1379,11 +1379,11 @@ Blocked Shots             4, 05/25/2024, Boston at Indiana
 Points                   38, 04/29/2024, Boston at Miami
 
 Derrick White / Boston Celtics / Career Postseason Single-Game Highs (With this team only)
-Minutes                  44, 05/05/2025, Boston vs New York
+Minutes                  45, 05/02/2026, Boston vs Philadelphia
 Field Goals              15, 04/29/2024, Boston at Miami
-Field Goal Attempts      26, 04/29/2024, Boston at Miami
+Field Goal Attempts      26, 05/02/2026, Boston vs Philadelphia (Twice)
 Three-Point Field Goals   8, 04/29/2024, Boston at Miami
-Three-Point Attempts     16, 05/05/2025, Boston vs New York
+Three-Point Attempts     16, 05/02/2026, Boston vs Philadelphia (Twice)
 Free Throws               9, 05/14/2025, Boston vs New York
 Free Throw Attempts      11, 05/14/2025, Boston vs New York
 Offensive Rebounds        4, 04/26/2026, Boston at Philadelphia (Twice)
@@ -21012,7 +21012,7 @@ Points                   10, 05/01/2026, Orlando vs Detroit
 
 
 Team Totals / Philadelphia 76ers / 2025-26 Postseason Single-Game Highs
-Minutes                 240, 04/30/2026, Philadelphia vs Boston (6 times)
+Minutes                 240, 05/02/2026, Philadelphia at Boston (7 times)
 Field Goals              43, 04/21/2026, Philadelphia at Boston
 Field Goal Attempts      90, 04/21/2026, Philadelphia at Boston (Twice)
 Three-Point Field Goals  19, 04/21/2026, Philadelphia at Boston
@@ -21022,7 +21022,7 @@ Free Throw Attempts      24, 04/26/2026, Philadelphia vs Boston
 Offensive Rebounds       13, 04/24/2026, Philadelphia vs Boston
 Defensive Rebounds       42, 04/28/2026, Philadelphia at Boston
 Rebounds                 48, 04/30/2026, Philadelphia vs Boston
-Assists                  25, 04/26/2026, Philadelphia vs Boston
+Assists                  25, 05/02/2026, Philadelphia at Boston (Twice)
 Steals                    7, 04/30/2026, Philadelphia vs Boston
 Turnovers                15, 04/19/2026, Philadelphia at Boston
 Blocked Shots             8, 04/24/2026, Philadelphia vs Boston
@@ -21047,26 +21047,26 @@ Points                  145, 04/15/2019, Philadelphia vs Brooklyn
 
 
 Team Totals / Philadelphia 76ers / 2025-26 Postseason Single-Game Lows
-Minutes                 240, 04/30/2026, Philadelphia vs Boston
+Minutes                 240, 05/02/2026, Philadelphia at Boston
 Field Goals              33, 04/26/2026, Philadelphia vs Boston
 Field Goal Attempts      78, 04/28/2026, Philadelphia at Boston
 Three-Point Field Goals   4, 04/19/2026, Philadelphia at Boston
 Three-Point Attempts     23, 04/19/2026, Philadelphia at Boston
 Free Throws               6, 04/21/2026, Philadelphia at Boston
 Free Throw Attempts      11, 04/21/2026, Philadelphia at Boston
-Offensive Rebounds        5, 04/28/2026, Philadelphia at Boston
+Offensive Rebounds        3, 05/02/2026, Philadelphia at Boston
 Defensive Rebounds       24, 04/26/2026, Philadelphia vs Boston (Twice)
 Rebounds                 30, 04/26/2026, Philadelphia vs Boston
 Assists                  18, 04/24/2026, Philadelphia vs Boston (Twice)
-Steals                    3, 04/19/2026, Philadelphia at Boston
-Turnovers                 9, 04/26/2026, Philadelphia vs Boston (Twice)
-Blocked Shots             1, 04/19/2026, Philadelphia at Boston
+Steals                    0, 05/02/2026, Philadelphia at Boston
+Turnovers                 9, 05/02/2026, Philadelphia at Boston (3 times)
+Blocked Shots             1, 05/02/2026, Philadelphia at Boston (Twice)
 Points                   91, 04/19/2026, Philadelphia at Boston
 
 Opponent Totals / Philadelphia 76ers / 2025-26 Postseason Single-Game Highs
-Minutes                 240, 04/30/2026, Philadelphia vs Boston (6 times)
+Minutes                 240, 05/02/2026, Philadelphia at Boston (7 times)
 Field Goals              45, 04/19/2026, Philadelphia at Boston
-Field Goal Attempts      90, 04/19/2026, Philadelphia at Boston
+Field Goal Attempts      93, 05/02/2026, Philadelphia at Boston
 Three-Point Field Goals  24, 04/26/2026, Philadelphia vs Boston
 Three-Point Attempts     53, 04/26/2026, Philadelphia vs Boston
 Free Throws              20, 04/26/2026, Philadelphia vs Boston
@@ -21099,19 +21099,19 @@ Points                  156, 03/30/1970, Philadelphia vs Milwaukee
 
 
 Opponent Totals / Philadelphia 76ers / 2025-26 Postseason Single-Game Lows
-Minutes                 240, 04/30/2026, Philadelphia vs Boston
+Minutes                 240, 05/02/2026, Philadelphia at Boston
 Field Goals              35, 04/21/2026, Philadelphia at Boston
 Field Goal Attempts      81, 04/24/2026, Philadelphia vs Boston
 Three-Point Field Goals  11, 04/28/2026, Philadelphia at Boston
 Three-Point Attempts     39, 04/28/2026, Philadelphia at Boston
 Free Throws               9, 04/30/2026, Philadelphia vs Boston
-Free Throw Attempts      16, 04/30/2026, Philadelphia vs Boston
+Free Throw Attempts      16, 05/02/2026, Philadelphia at Boston (Twice)
 Offensive Rebounds        5, 04/19/2026, Philadelphia at Boston
 Defensive Rebounds       30, 04/24/2026, Philadelphia vs Boston
 Rebounds                 43, 04/19/2026, Philadelphia at Boston
 Assists                  18, 04/30/2026, Philadelphia vs Boston
 Steals                    3, 04/21/2026, Philadelphia at Boston
-Turnovers                10, 04/19/2026, Philadelphia at Boston
+Turnovers                 5, 05/02/2026, Philadelphia at Boston
 Blocked Shots             0, 04/28/2026, Philadelphia at Boston
 Points                   93, 04/30/2026, Philadelphia vs Boston
 
@@ -21119,16 +21119,16 @@ Dominick Barlow / Philadelphia 76ers / 2025-26 Postseason Single-Game Highs
 Minutes                  15, 04/19/2026, Philadelphia at Boston
 Field Goals               1, 04/19/2026, Philadelphia at Boston
 Field Goal Attempts       6, 04/19/2026, Philadelphia at Boston
-Three-Point Field Goals   0, 04/28/2026, Philadelphia at Boston
+Three-Point Field Goals   0, 05/02/2026, Philadelphia at Boston
 Three-Point Attempts      1, 04/26/2026, Philadelphia vs Boston
 Free Throws               2, 04/28/2026, Philadelphia at Boston (Twice)
 Free Throw Attempts       2, 04/28/2026, Philadelphia at Boston (Twice)
 Offensive Rebounds        2, 04/28/2026, Philadelphia at Boston (Twice)
 Defensive Rebounds        1, 04/28/2026, Philadelphia at Boston (3 times)
 Rebounds                  3, 04/28/2026, Philadelphia at Boston (Twice)
-Assists                   0, 04/28/2026, Philadelphia at Boston
-Steals                    0, 04/28/2026, Philadelphia at Boston
-Turnovers                 0, 04/28/2026, Philadelphia at Boston
+Assists                   0, 05/02/2026, Philadelphia at Boston
+Steals                    0, 05/02/2026, Philadelphia at Boston
+Turnovers                 0, 05/02/2026, Philadelphia at Boston
 Blocked Shots             2, 04/26/2026, Philadelphia vs Boston
 Points                    4, 04/19/2026, Philadelphia at Boston
 
@@ -21136,16 +21136,16 @@ Dominick Barlow / Philadelphia 76ers / Career Postseason Single-Game Highs
 Minutes                  15, 04/19/2026, Philadelphia at Boston
 Field Goals               1, 04/19/2026, Philadelphia at Boston
 Field Goal Attempts       6, 04/19/2026, Philadelphia at Boston
-Three-Point Field Goals   0, 04/28/2026, Philadelphia at Boston
+Three-Point Field Goals   0, 05/02/2026, Philadelphia at Boston
 Three-Point Attempts      1, 04/26/2026, Philadelphia vs Boston
 Free Throws               2, 04/28/2026, Philadelphia at Boston (Twice)
 Free Throw Attempts       2, 04/28/2026, Philadelphia at Boston (Twice)
 Offensive Rebounds        2, 04/28/2026, Philadelphia at Boston (Twice)
 Defensive Rebounds        1, 04/28/2026, Philadelphia at Boston (3 times)
 Rebounds                  3, 04/28/2026, Philadelphia at Boston (Twice)
-Assists                   0, 04/28/2026, Philadelphia at Boston
-Steals                    0, 04/28/2026, Philadelphia at Boston
-Turnovers                 0, 04/28/2026, Philadelphia at Boston
+Assists                   0, 05/02/2026, Philadelphia at Boston
+Steals                    0, 05/02/2026, Philadelphia at Boston
+Turnovers                 0, 05/02/2026, Philadelphia at Boston
 Blocked Shots             2, 04/26/2026, Philadelphia vs Boston
 Points                    4, 04/19/2026, Philadelphia at Boston
 
@@ -21256,11 +21256,11 @@ Points                   12, 04/24/2026, Philadelphia vs Boston
 
 
 VJ Edgecombe / Philadelphia 76ers / 2025-26 Postseason Single-Game Highs
-Minutes                  41, 04/24/2026, Philadelphia vs Boston
+Minutes                  44, 05/02/2026, Philadelphia at Boston
 Field Goals              12, 04/21/2026, Philadelphia at Boston
 Field Goal Attempts      20, 04/21/2026, Philadelphia at Boston
 Three-Point Field Goals   6, 04/21/2026, Philadelphia at Boston
-Three-Point Attempts     10, 04/21/2026, Philadelphia at Boston
+Three-Point Attempts     11, 05/02/2026, Philadelphia at Boston
 Free Throws               3, 04/30/2026, Philadelphia vs Boston
 Free Throw Attempts       3, 04/30/2026, Philadelphia vs Boston
 Offensive Rebounds        4, 04/24/2026, Philadelphia vs Boston (Twice)
@@ -21268,16 +21268,16 @@ Defensive Rebounds        8, 04/30/2026, Philadelphia vs Boston
 Rebounds                 10, 04/24/2026, Philadelphia vs Boston (Twice)
 Assists                   5, 04/24/2026, Philadelphia vs Boston
 Steals                    2, 04/21/2026, Philadelphia at Boston (Twice)
-Turnovers                 2, 04/24/2026, Philadelphia vs Boston (3 times)
+Turnovers                 3, 05/02/2026, Philadelphia at Boston
 Blocked Shots             2, 04/30/2026, Philadelphia vs Boston
 Points                   30, 04/21/2026, Philadelphia at Boston
 
 VJ Edgecombe / Philadelphia 76ers / Career Postseason Single-Game Highs
-Minutes                  41, 04/24/2026, Philadelphia vs Boston
+Minutes                  44, 05/02/2026, Philadelphia at Boston
 Field Goals              12, 04/21/2026, Philadelphia at Boston
 Field Goal Attempts      20, 04/21/2026, Philadelphia at Boston
 Three-Point Field Goals   6, 04/21/2026, Philadelphia at Boston
-Three-Point Attempts     10, 04/21/2026, Philadelphia at Boston
+Three-Point Attempts     11, 05/02/2026, Philadelphia at Boston
 Free Throws               3, 04/30/2026, Philadelphia vs Boston
 Free Throw Attempts       3, 04/30/2026, Philadelphia vs Boston
 Offensive Rebounds        4, 04/24/2026, Philadelphia vs Boston (Twice)
@@ -21285,7 +21285,7 @@ Defensive Rebounds        8, 04/30/2026, Philadelphia vs Boston
 Rebounds                 10, 04/24/2026, Philadelphia vs Boston (Twice)
 Assists                   5, 04/24/2026, Philadelphia vs Boston
 Steals                    2, 04/21/2026, Philadelphia at Boston (Twice)
-Turnovers                 2, 04/24/2026, Philadelphia vs Boston (3 times)
+Turnovers                 3, 05/02/2026, Philadelphia at Boston
 Blocked Shots             2, 04/30/2026, Philadelphia vs Boston
 Points                   30, 04/21/2026, Philadelphia at Boston
 
@@ -21296,13 +21296,13 @@ Field Goals               3, 04/19/2026, Philadelphia at Boston
 Field Goal Attempts       9, 04/19/2026, Philadelphia at Boston
 Three-Point Field Goals   1, 04/21/2026, Philadelphia at Boston (Twice)
 Three-Point Attempts      3, 04/19/2026, Philadelphia at Boston
-Free Throws               0, 04/30/2026, Philadelphia vs Boston
+Free Throws               0, 05/02/2026, Philadelphia at Boston
 Free Throw Attempts       1, 04/19/2026, Philadelphia at Boston
 Offensive Rebounds        3, 04/19/2026, Philadelphia at Boston
 Defensive Rebounds        4, 04/30/2026, Philadelphia vs Boston
 Rebounds                  6, 04/19/2026, Philadelphia at Boston
 Assists                   2, 04/26/2026, Philadelphia vs Boston
-Steals                    0, 04/30/2026, Philadelphia vs Boston
+Steals                    0, 05/02/2026, Philadelphia at Boston
 Turnovers                 2, 04/30/2026, Philadelphia vs Boston (Twice)
 Blocked Shots             1, 04/21/2026, Philadelphia at Boston
 Points                    7, 04/19/2026, Philadelphia at Boston
@@ -21313,34 +21313,34 @@ Field Goals               3, 04/19/2026, Philadelphia at Boston
 Field Goal Attempts       9, 04/19/2026, Philadelphia at Boston
 Three-Point Field Goals   1, 04/21/2026, Philadelphia at Boston (Twice)
 Three-Point Attempts      3, 04/19/2026, Philadelphia at Boston
-Free Throws               0, 04/30/2026, Philadelphia vs Boston
+Free Throws               0, 05/02/2026, Philadelphia at Boston
 Free Throw Attempts       1, 04/19/2026, Philadelphia at Boston
 Offensive Rebounds        3, 04/19/2026, Philadelphia at Boston
 Defensive Rebounds        4, 04/30/2026, Philadelphia vs Boston
 Rebounds                  6, 04/19/2026, Philadelphia at Boston
 Assists                   2, 04/26/2026, Philadelphia vs Boston
-Steals                    0, 04/30/2026, Philadelphia vs Boston
+Steals                    0, 05/02/2026, Philadelphia at Boston
 Turnovers                 2, 04/30/2026, Philadelphia vs Boston (Twice)
 Blocked Shots             1, 04/21/2026, Philadelphia at Boston
 Points                    7, 04/19/2026, Philadelphia at Boston
 
 
 Joel Embiid / Philadelphia 76ers / 2025-26 Postseason Single-Game Highs
-Minutes                  39, 04/28/2026, Philadelphia at Boston
-Field Goals              12, 04/28/2026, Philadelphia at Boston
-Field Goal Attempts      23, 04/28/2026, Philadelphia at Boston
-Three-Point Field Goals   1, 04/30/2026, Philadelphia vs Boston (Twice)
+Minutes                  39, 05/02/2026, Philadelphia at Boston
+Field Goals              12, 05/02/2026, Philadelphia at Boston (Twice)
+Field Goal Attempts      26, 05/02/2026, Philadelphia at Boston
+Three-Point Field Goals   1, 05/02/2026, Philadelphia at Boston (3 times)
 Three-Point Attempts      6, 04/26/2026, Philadelphia vs Boston
-Free Throws               9, 04/28/2026, Philadelphia at Boston
-Free Throw Attempts      10, 04/28/2026, Philadelphia at Boston
-Offensive Rebounds        2, 04/26/2026, Philadelphia vs Boston
-Defensive Rebounds        9, 04/30/2026, Philadelphia vs Boston
-Rebounds                 10, 04/30/2026, Philadelphia vs Boston (Twice)
+Free Throws               9, 05/02/2026, Philadelphia at Boston (Twice)
+Free Throw Attempts      11, 05/02/2026, Philadelphia at Boston
+Offensive Rebounds        2, 05/02/2026, Philadelphia at Boston (Twice)
+Defensive Rebounds       10, 05/02/2026, Philadelphia at Boston
+Rebounds                 12, 05/02/2026, Philadelphia at Boston
 Assists                   8, 04/30/2026, Philadelphia vs Boston (Twice)
 Steals                    1, 04/30/2026, Philadelphia vs Boston (Twice)
 Turnovers                 3, 04/28/2026, Philadelphia at Boston (Twice)
-Blocked Shots             1, 04/28/2026, Philadelphia at Boston (Twice)
-Points                   33, 04/28/2026, Philadelphia at Boston
+Blocked Shots             1, 05/02/2026, Philadelphia at Boston (3 times)
+Points                   34, 05/02/2026, Philadelphia at Boston
 
 Joel Embiid / Philadelphia 76ers / Career Postseason Single-Game Highs
 Minutes                  48, 04/30/2024, Philadelphia at New York
@@ -21413,7 +21413,7 @@ Points                   23, 04/30/2026, Philadelphia vs Boston
 
 
 Quentin Grimes / Philadelphia 76ers / 2025-26 Postseason Single-Game Highs
-Minutes                  25, 04/19/2026, Philadelphia at Boston
+Minutes                  26, 05/02/2026, Philadelphia at Boston
 Field Goals               5, 04/28/2026, Philadelphia at Boston (Twice)
 Field Goal Attempts       8, 04/28/2026, Philadelphia at Boston
 Three-Point Field Goals   4, 04/28/2026, Philadelphia at Boston
@@ -21421,8 +21421,8 @@ Three-Point Attempts      7, 04/28/2026, Philadelphia at Boston
 Free Throws               4, 04/28/2026, Philadelphia at Boston
 Free Throw Attempts       4, 04/28/2026, Philadelphia at Boston
 Offensive Rebounds        1, 04/30/2026, Philadelphia vs Boston
-Defensive Rebounds        4, 04/24/2026, Philadelphia vs Boston (Twice)
-Rebounds                  4, 04/24/2026, Philadelphia vs Boston (Twice)
+Defensive Rebounds        6, 05/02/2026, Philadelphia at Boston
+Rebounds                  6, 05/02/2026, Philadelphia at Boston
 Assists                   6, 04/26/2026, Philadelphia vs Boston
 Steals                    1, 04/26/2026, Philadelphia vs Boston
 Turnovers                 2, 04/19/2026, Philadelphia at Boston
@@ -21438,8 +21438,8 @@ Three-Point Attempts      7, 04/28/2026, Philadelphia at Boston (Twice)
 Free Throws               4, 04/28/2026, Philadelphia at Boston (Twice)
 Free Throw Attempts       5, 04/18/2023, New York at Cleveland
 Offensive Rebounds        1, 04/30/2026, Philadelphia vs Boston (4 times)
-Defensive Rebounds        5, 05/08/2023, New York at Miami
-Rebounds                  5, 05/08/2023, New York at Miami (Twice)
+Defensive Rebounds        6, 05/02/2026, Philadelphia at Boston
+Rebounds                  6, 05/02/2026, Philadelphia at Boston
 Assists                   6, 04/26/2026, Philadelphia vs Boston
 Steals                    3, 04/18/2023, New York at Cleveland
 Turnovers                 4, 05/10/2023, New York vs Miami
@@ -21447,7 +21447,7 @@ Blocked Shots             2, 05/10/2023, New York vs Miami
 Points                   18, 04/28/2026, Philadelphia at Boston
 
 Quentin Grimes / Philadelphia 76ers / Career Postseason Single-Game Highs (With this team only)
-Minutes                  25, 04/19/2026, Philadelphia at Boston
+Minutes                  26, 05/02/2026, Philadelphia at Boston
 Field Goals               5, 04/28/2026, Philadelphia at Boston (Twice)
 Field Goal Attempts       8, 04/28/2026, Philadelphia at Boston
 Three-Point Field Goals   4, 04/28/2026, Philadelphia at Boston
@@ -21455,8 +21455,8 @@ Three-Point Attempts      7, 04/28/2026, Philadelphia at Boston
 Free Throws               4, 04/28/2026, Philadelphia at Boston
 Free Throw Attempts       4, 04/28/2026, Philadelphia at Boston
 Offensive Rebounds        1, 04/30/2026, Philadelphia vs Boston
-Defensive Rebounds        4, 04/24/2026, Philadelphia vs Boston (Twice)
-Rebounds                  4, 04/24/2026, Philadelphia vs Boston (Twice)
+Defensive Rebounds        6, 05/02/2026, Philadelphia at Boston
+Rebounds                  6, 05/02/2026, Philadelphia at Boston
 Assists                   6, 04/26/2026, Philadelphia vs Boston
 Steals                    1, 04/26/2026, Philadelphia vs Boston
 Turnovers                 2, 04/19/2026, Philadelphia at Boston
@@ -21517,16 +21517,16 @@ Points                   18, 04/20/2024, Philadelphia at New York
 
 
 Tyrese Maxey / Philadelphia 76ers / 2025-26 Postseason Single-Game Highs
-Minutes                  43, 04/28/2026, Philadelphia at Boston
+Minutes                  45, 05/02/2026, Philadelphia at Boston
 Field Goals              12, 04/24/2026, Philadelphia vs Boston
 Field Goal Attempts      31, 04/24/2026, Philadelphia vs Boston
 Three-Point Field Goals   5, 04/24/2026, Philadelphia vs Boston (Twice)
 Three-Point Attempts     13, 04/24/2026, Philadelphia vs Boston
-Free Throws               5, 04/30/2026, Philadelphia vs Boston
-Free Throw Attempts       5, 04/30/2026, Philadelphia vs Boston (Twice)
+Free Throws               6, 05/02/2026, Philadelphia at Boston
+Free Throw Attempts       6, 05/02/2026, Philadelphia at Boston
 Offensive Rebounds        1, 04/30/2026, Philadelphia vs Boston (3 times)
-Defensive Rebounds       10, 04/28/2026, Philadelphia at Boston
-Rebounds                 10, 04/28/2026, Philadelphia at Boston
+Defensive Rebounds       11, 05/02/2026, Philadelphia at Boston
+Rebounds                 11, 05/02/2026, Philadelphia at Boston
 Assists                   9, 04/21/2026, Philadelphia at Boston
 Steals                    2, 04/30/2026, Philadelphia vs Boston (3 times)
 Turnovers                 3, 04/19/2026, Philadelphia at Boston
@@ -21542,8 +21542,8 @@ Three-Point Attempts     13, 04/24/2026, Philadelphia vs Boston (Twice)
 Free Throws               9, 05/04/2022, Philadelphia at Miami
 Free Throw Attempts      11, 05/04/2022, Philadelphia at Miami
 Offensive Rebounds        5, 05/07/2023, Philadelphia vs Boston
-Defensive Rebounds       10, 04/28/2026, Philadelphia at Boston
-Rebounds                 10, 04/28/2026, Philadelphia at Boston
+Defensive Rebounds       11, 05/02/2026, Philadelphia at Boston
+Rebounds                 11, 05/02/2026, Philadelphia at Boston
 Assists                  10, 04/22/2024, Philadelphia at New York
 Steals                    4, 05/01/2023, Philadelphia at Boston
 Turnovers                 5, 04/20/2022, Philadelphia at Toronto
@@ -21562,7 +21562,7 @@ Free Throw Attempts       4, 04/24/2026, Philadelphia vs Boston
 Offensive Rebounds        3, 04/30/2026, Philadelphia vs Boston
 Defensive Rebounds        6, 04/30/2026, Philadelphia vs Boston (3 times)
 Rebounds                  9, 04/30/2026, Philadelphia vs Boston
-Assists                   2, 04/19/2026, Philadelphia at Boston
+Assists                   2, 05/02/2026, Philadelphia at Boston (Twice)
 Steals                    2, 04/30/2026, Philadelphia vs Boston
 Turnovers                 3, 04/30/2026, Philadelphia vs Boston
 Blocked Shots             2, 04/30/2026, Philadelphia vs Boston
