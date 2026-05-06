@@ -5128,13 +5128,13 @@ Points                  138, 04/28/2025, Cleveland at Miami
 
 
 Team Totals / Cleveland Cavaliers / 2025-26 Postseason Single-Game Lows
-Minutes                 240, 05/03/2026, Cleveland vs Toronto
+Minutes                 240, 05/05/2026, Cleveland at Detroit
 Field Goals              32, 04/26/2026, Cleveland at Toronto
-Field Goal Attempts      81, 04/29/2026, Cleveland vs Toronto (3 times)
+Field Goal Attempts      80, 05/05/2026, Cleveland at Detroit
 Three-Point Field Goals  10, 04/26/2026, Cleveland at Toronto
 Three-Point Attempts     32, 04/18/2026, Cleveland vs Toronto
 Free Throws              14, 04/20/2026, Cleveland vs Toronto
-Free Throw Attempts      22, 04/20/2026, Cleveland vs Toronto
+Free Throw Attempts      16, 05/05/2026, Cleveland at Detroit
 Offensive Rebounds        4, 04/29/2026, Cleveland vs Toronto
 Defensive Rebounds       26, 04/23/2026, Cleveland at Toronto (Twice)
 Rebounds                 33, 04/18/2026, Cleveland vs Toronto
@@ -5150,7 +5150,7 @@ Field Goals              50, 04/23/2026, Cleveland at Toronto
 Field Goal Attempts      97, 04/26/2026, Cleveland at Toronto
 Three-Point Field Goals  15, 04/29/2026, Cleveland vs Toronto
 Three-Point Attempts     38, 04/29/2026, Cleveland vs Toronto
-Free Throws              27, 04/26/2026, Cleveland at Toronto
+Free Throws              27, 05/05/2026, Cleveland at Detroit (Twice)
 Free Throw Attempts      36, 04/26/2026, Cleveland at Toronto
 Offensive Rebounds       21, 04/26/2026, Cleveland at Toronto
 Defensive Rebounds       38, 04/26/2026, Cleveland at Toronto
@@ -5180,7 +5180,7 @@ Points                  132, 06/04/2017, Cleveland at Golden State (Twice)
 
 
 Opponent Totals / Cleveland Cavaliers / 2025-26 Postseason Single-Game Lows
-Minutes                 240, 05/03/2026, Cleveland vs Toronto
+Minutes                 240, 05/05/2026, Cleveland at Detroit
 Field Goals              31, 04/26/2026, Cleveland at Toronto
 Field Goal Attempts      71, 04/18/2026, Cleveland vs Toronto
 Three-Point Field Goals   4, 04/26/2026, Cleveland at Toronto
@@ -5192,16 +5192,16 @@ Defensive Rebounds       23, 04/18/2026, Cleveland vs Toronto
 Rebounds                 27, 04/18/2026, Cleveland vs Toronto
 Assists                  19, 04/26/2026, Cleveland at Toronto
 Steals                    3, 04/18/2026, Cleveland vs Toronto
-Turnovers                12, 04/26/2026, Cleveland at Toronto (Twice)
-Blocked Shots             3, 04/20/2026, Cleveland vs Toronto
+Turnovers                12, 05/05/2026, Cleveland at Detroit (3 times)
+Blocked Shots             3, 05/05/2026, Cleveland at Detroit (Twice)
 Points                   93, 04/26/2026, Cleveland at Toronto
 
 Jarrett Allen / Cleveland Cavaliers / 2025-26 Postseason Single-Game Highs
 Minutes                  34, 05/01/2026, Cleveland at Toronto
 Field Goals               7, 05/03/2026, Cleveland vs Toronto
 Field Goal Attempts      11, 05/03/2026, Cleveland vs Toronto
-Three-Point Field Goals   0, 05/03/2026, Cleveland vs Toronto
-Three-Point Attempts      0, 05/03/2026, Cleveland vs Toronto
+Three-Point Field Goals   0, 05/05/2026, Cleveland at Detroit
+Three-Point Attempts      0, 05/05/2026, Cleveland at Detroit
 Free Throws               8, 05/03/2026, Cleveland vs Toronto
 Free Throw Attempts      14, 05/03/2026, Cleveland vs Toronto
 Offensive Rebounds        8, 05/03/2026, Cleveland vs Toronto
@@ -5217,8 +5217,8 @@ Jarrett Allen / Cleveland Cavaliers / Career Postseason Single-Game Highs (Games
 Minutes                  43, 04/15/2023, Cleveland vs New York
 Field Goals               8, 04/26/2025, Cleveland at Miami (Twice)
 Field Goal Attempts      11, 05/03/2026, Cleveland vs Toronto (5 times)
-Three-Point Field Goals   0, 05/03/2026, Cleveland vs Toronto
-Three-Point Attempts      0, 05/03/2026, Cleveland vs Toronto
+Three-Point Field Goals   0, 05/05/2026, Cleveland at Detroit
+Three-Point Attempts      0, 05/05/2026, Cleveland at Detroit
 Free Throws               8, 05/03/2026, Cleveland vs Toronto (Twice)
 Free Throw Attempts      14, 05/03/2026, Cleveland vs Toronto
 Offensive Rebounds        9, 04/22/2024, Cleveland vs Orlando
@@ -5234,8 +5234,8 @@ Jarrett Allen / Cleveland Cavaliers / Career Postseason Single-Game Highs (With 
 Minutes                  43, 04/15/2023, Cleveland vs New York
 Field Goals               8, 04/26/2025, Cleveland at Miami (Twice)
 Field Goal Attempts      11, 05/03/2026, Cleveland vs Toronto (4 times)
-Three-Point Field Goals   0, 05/03/2026, Cleveland vs Toronto
-Three-Point Attempts      0, 05/03/2026, Cleveland vs Toronto
+Three-Point Field Goals   0, 05/05/2026, Cleveland at Detroit
+Three-Point Attempts      0, 05/05/2026, Cleveland at Detroit
 Free Throws               8, 05/03/2026, Cleveland vs Toronto (Twice)
 Free Throw Attempts      14, 05/03/2026, Cleveland vs Toronto
 Offensive Rebounds        9, 04/22/2024, Cleveland vs Orlando
@@ -5249,21 +5249,21 @@ Points                   22, 05/03/2026, Cleveland vs Toronto (3 times)
 
 
 Thomas Bryant / Cleveland Cavaliers / 2025-26 Postseason Single-Game Highs
-Minutes                   7, 05/01/2026, Cleveland at Toronto
-Field Goals               1, 04/23/2026, Cleveland at Toronto
-Field Goal Attempts       2, 04/23/2026, Cleveland at Toronto
-Three-Point Field Goals   0, 05/01/2026, Cleveland at Toronto
-Three-Point Attempts      1, 05/01/2026, Cleveland at Toronto (Twice)
-Free Throws               1, 04/23/2026, Cleveland at Toronto
-Free Throw Attempts       1, 04/23/2026, Cleveland at Toronto
+Minutes                  10, 05/05/2026, Cleveland at Detroit
+Field Goals               1, 05/05/2026, Cleveland at Detroit (Twice)
+Field Goal Attempts       4, 05/05/2026, Cleveland at Detroit
+Three-Point Field Goals   0, 05/05/2026, Cleveland at Detroit
+Three-Point Attempts      2, 05/05/2026, Cleveland at Detroit
+Free Throws               2, 05/05/2026, Cleveland at Detroit
+Free Throw Attempts       2, 05/05/2026, Cleveland at Detroit
 Offensive Rebounds        1, 05/01/2026, Cleveland at Toronto
 Defensive Rebounds        1, 05/01/2026, Cleveland at Toronto (Twice)
 Rebounds                  2, 05/01/2026, Cleveland at Toronto
 Assists                   1, 04/29/2026, Cleveland vs Toronto
-Steals                    1, 04/29/2026, Cleveland vs Toronto
+Steals                    1, 05/05/2026, Cleveland at Detroit (Twice)
 Turnovers                 1, 04/29/2026, Cleveland vs Toronto
 Blocked Shots             1, 04/23/2026, Cleveland at Toronto
-Points                    3, 04/23/2026, Cleveland at Toronto
+Points                    4, 05/05/2026, Cleveland at Detroit
 
 Thomas Bryant / Cleveland Cavaliers / Career Postseason Single-Game Highs (Games with all teams)
 Minutes                  21, 04/25/2025, Indiana at Milwaukee
@@ -5277,62 +5277,62 @@ Offensive Rebounds        1, 05/01/2026, Cleveland at Toronto
 Defensive Rebounds        3, 05/13/2025, Indiana at Cleveland (3 times)
 Rebounds                  4, 04/25/2025, Indiana at Milwaukee
 Assists                   2, 04/25/2025, Indiana at Milwaukee
-Steals                    1, 04/29/2026, Cleveland vs Toronto (5 times)
+Steals                    1, 05/05/2026, Cleveland at Detroit (6 times)
 Turnovers                 2, 04/25/2025, Indiana at Milwaukee (Twice)
 Blocked Shots             1, 04/23/2026, Cleveland at Toronto (7 times)
 Points                   11, 05/31/2025, Indiana vs New York
 
 Thomas Bryant / Cleveland Cavaliers / Career Postseason Single-Game Highs (With this team only)
-Minutes                   7, 05/01/2026, Cleveland at Toronto
-Field Goals               1, 04/23/2026, Cleveland at Toronto
-Field Goal Attempts       2, 04/23/2026, Cleveland at Toronto
-Three-Point Field Goals   0, 05/01/2026, Cleveland at Toronto
-Three-Point Attempts      1, 05/01/2026, Cleveland at Toronto (Twice)
-Free Throws               1, 04/23/2026, Cleveland at Toronto
-Free Throw Attempts       1, 04/23/2026, Cleveland at Toronto
+Minutes                  10, 05/05/2026, Cleveland at Detroit
+Field Goals               1, 05/05/2026, Cleveland at Detroit (Twice)
+Field Goal Attempts       4, 05/05/2026, Cleveland at Detroit
+Three-Point Field Goals   0, 05/05/2026, Cleveland at Detroit
+Three-Point Attempts      2, 05/05/2026, Cleveland at Detroit
+Free Throws               2, 05/05/2026, Cleveland at Detroit
+Free Throw Attempts       2, 05/05/2026, Cleveland at Detroit
 Offensive Rebounds        1, 05/01/2026, Cleveland at Toronto
 Defensive Rebounds        1, 05/01/2026, Cleveland at Toronto (Twice)
 Rebounds                  2, 05/01/2026, Cleveland at Toronto
 Assists                   1, 04/29/2026, Cleveland vs Toronto
-Steals                    1, 04/29/2026, Cleveland vs Toronto
+Steals                    1, 05/05/2026, Cleveland at Detroit (Twice)
 Turnovers                 1, 04/29/2026, Cleveland vs Toronto
 Blocked Shots             1, 04/23/2026, Cleveland at Toronto
-Points                    3, 04/23/2026, Cleveland at Toronto
+Points                    4, 05/05/2026, Cleveland at Detroit
 
 
 Keon Ellis / Cleveland Cavaliers / 2025-26 Postseason Single-Game Highs
 Minutes                  15, 04/18/2026, Cleveland vs Toronto
-Field Goals               1, 04/18/2026, Cleveland vs Toronto
-Field Goal Attempts       4, 04/20/2026, Cleveland vs Toronto
-Three-Point Field Goals   1, 04/18/2026, Cleveland vs Toronto
+Field Goals               1, 05/05/2026, Cleveland at Detroit (Twice)
+Field Goal Attempts       4, 05/05/2026, Cleveland at Detroit (Twice)
+Three-Point Field Goals   1, 05/05/2026, Cleveland at Detroit (Twice)
 Three-Point Attempts      4, 04/20/2026, Cleveland vs Toronto
-Free Throws               0, 04/26/2026, Cleveland at Toronto
+Free Throws               0, 05/05/2026, Cleveland at Detroit
 Free Throw Attempts       1, 04/18/2026, Cleveland vs Toronto
-Offensive Rebounds        1, 04/26/2026, Cleveland at Toronto (Twice)
+Offensive Rebounds        1, 05/05/2026, Cleveland at Detroit (3 times)
 Defensive Rebounds        3, 04/23/2026, Cleveland at Toronto (Twice)
 Rebounds                  4, 04/23/2026, Cleveland at Toronto
 Assists                   1, 04/26/2026, Cleveland at Toronto
-Steals                    2, 04/20/2026, Cleveland vs Toronto
+Steals                    2, 05/05/2026, Cleveland at Detroit (Twice)
 Turnovers                 1, 04/23/2026, Cleveland at Toronto (Twice)
 Blocked Shots             1, 04/23/2026, Cleveland at Toronto
-Points                    3, 04/18/2026, Cleveland vs Toronto
+Points                    3, 05/05/2026, Cleveland at Detroit (Twice)
 
 Keon Ellis / Cleveland Cavaliers / Career Postseason Single-Game Highs (With this team only)
 Minutes                  15, 04/18/2026, Cleveland vs Toronto
-Field Goals               1, 04/18/2026, Cleveland vs Toronto
-Field Goal Attempts       4, 04/20/2026, Cleveland vs Toronto
-Three-Point Field Goals   1, 04/18/2026, Cleveland vs Toronto
+Field Goals               1, 05/05/2026, Cleveland at Detroit (Twice)
+Field Goal Attempts       4, 05/05/2026, Cleveland at Detroit (Twice)
+Three-Point Field Goals   1, 05/05/2026, Cleveland at Detroit (Twice)
 Three-Point Attempts      4, 04/20/2026, Cleveland vs Toronto
-Free Throws               0, 04/26/2026, Cleveland at Toronto
+Free Throws               0, 05/05/2026, Cleveland at Detroit
 Free Throw Attempts       1, 04/18/2026, Cleveland vs Toronto
-Offensive Rebounds        1, 04/26/2026, Cleveland at Toronto (Twice)
+Offensive Rebounds        1, 05/05/2026, Cleveland at Detroit (3 times)
 Defensive Rebounds        3, 04/23/2026, Cleveland at Toronto (Twice)
 Rebounds                  4, 04/23/2026, Cleveland at Toronto
 Assists                   1, 04/26/2026, Cleveland at Toronto
-Steals                    2, 04/20/2026, Cleveland vs Toronto
+Steals                    2, 05/05/2026, Cleveland at Detroit (Twice)
 Turnovers                 1, 04/23/2026, Cleveland at Toronto (Twice)
 Blocked Shots             1, 04/23/2026, Cleveland at Toronto
-Points                    3, 04/18/2026, Cleveland vs Toronto
+Points                    3, 05/05/2026, Cleveland at Detroit (Twice)
 
 
 James Harden / Cleveland Cavaliers / 2025-26 Postseason Single-Game Highs
@@ -5349,7 +5349,7 @@ Rebounds                  9, 05/01/2026, Cleveland at Toronto (Twice)
 Assists                  10, 04/18/2026, Cleveland vs Toronto
 Steals                    5, 04/20/2026, Cleveland vs Toronto
 Turnovers                 8, 04/23/2026, Cleveland at Toronto
-Blocked Shots             1, 05/01/2026, Cleveland at Toronto (4 times)
+Blocked Shots             2, 05/05/2026, Cleveland at Detroit
 Points                   28, 04/20/2026, Cleveland vs Toronto
 
 James Harden / Cleveland Cavaliers / Career Postseason Single-Game Highs (Games with all teams)
@@ -5383,7 +5383,7 @@ Rebounds                  9, 05/01/2026, Cleveland at Toronto (Twice)
 Assists                  10, 04/18/2026, Cleveland vs Toronto
 Steals                    5, 04/20/2026, Cleveland vs Toronto
 Turnovers                 8, 04/23/2026, Cleveland at Toronto
-Blocked Shots             1, 05/01/2026, Cleveland at Toronto (4 times)
+Blocked Shots             2, 05/05/2026, Cleveland at Detroit
 Points                   28, 04/20/2026, Cleveland vs Toronto
 
 
@@ -5401,7 +5401,7 @@ Rebounds                  4, 04/18/2026, Cleveland vs Toronto
 Assists                   2, 05/03/2026, Cleveland vs Toronto (3 times)
 Steals                    1, 05/01/2026, Cleveland at Toronto (3 times)
 Turnovers                 2, 04/29/2026, Cleveland vs Toronto
-Blocked Shots             0, 05/03/2026, Cleveland vs Toronto
+Blocked Shots             0, 05/05/2026, Cleveland at Detroit
 Points                   14, 04/26/2026, Cleveland at Toronto
 
 Sam Merrill / Cleveland Cavaliers / Career Postseason Single-Game Highs (Games with all teams)
@@ -5443,7 +5443,7 @@ Donovan Mitchell / Cleveland Cavaliers / 2025-26 Postseason Single-Game Highs
 Minutes                  41, 05/01/2026, Cleveland at Toronto
 Field Goals              13, 04/20/2026, Cleveland vs Toronto
 Field Goal Attempts      26, 05/01/2026, Cleveland at Toronto
-Three-Point Field Goals   4, 04/26/2026, Cleveland at Toronto (3 times)
+Three-Point Field Goals   4, 05/05/2026, Cleveland at Detroit (4 times)
 Three-Point Attempts     12, 04/26/2026, Cleveland at Toronto
 Free Throws               6, 04/18/2026, Cleveland vs Toronto
 Free Throw Attempts       7, 04/18/2026, Cleveland vs Toronto
@@ -5656,12 +5656,12 @@ Three-Point Field Goals   3, 04/29/2026, Cleveland vs Toronto
 Three-Point Attempts      6, 04/29/2026, Cleveland vs Toronto
 Free Throws               7, 05/01/2026, Cleveland at Toronto
 Free Throw Attempts       8, 05/01/2026, Cleveland at Toronto
-Offensive Rebounds        0, 05/03/2026, Cleveland vs Toronto
+Offensive Rebounds        1, 05/05/2026, Cleveland at Detroit
 Defensive Rebounds        5, 04/26/2026, Cleveland at Toronto
 Rebounds                  5, 04/26/2026, Cleveland at Toronto
 Assists                   4, 04/20/2026, Cleveland vs Toronto
 Steals                    2, 05/01/2026, Cleveland at Toronto
-Turnovers                 3, 04/23/2026, Cleveland at Toronto
+Turnovers                 4, 05/05/2026, Cleveland at Detroit
 Blocked Shots             1, 04/26/2026, Cleveland at Toronto
 Points                   19, 04/29/2026, Cleveland vs Toronto
 
@@ -5690,12 +5690,12 @@ Three-Point Field Goals   3, 04/29/2026, Cleveland vs Toronto
 Three-Point Attempts      6, 04/29/2026, Cleveland vs Toronto
 Free Throws               7, 05/01/2026, Cleveland at Toronto
 Free Throw Attempts       8, 05/01/2026, Cleveland at Toronto
-Offensive Rebounds        0, 05/03/2026, Cleveland vs Toronto
+Offensive Rebounds        1, 05/05/2026, Cleveland at Detroit
 Defensive Rebounds        5, 04/26/2026, Cleveland at Toronto
 Rebounds                  5, 04/26/2026, Cleveland at Toronto
 Assists                   4, 04/20/2026, Cleveland vs Toronto
 Steals                    2, 05/01/2026, Cleveland at Toronto
-Turnovers                 3, 04/23/2026, Cleveland at Toronto
+Turnovers                 4, 05/05/2026, Cleveland at Detroit
 Blocked Shots             1, 04/26/2026, Cleveland at Toronto
 Points                   19, 04/29/2026, Cleveland vs Toronto
 
@@ -5703,13 +5703,13 @@ Points                   19, 04/29/2026, Cleveland vs Toronto
 Max Strus / Cleveland Cavaliers / 2025-26 Postseason Single-Game Highs
 Minutes                  31, 05/03/2026, Cleveland vs Toronto
 Field Goals               8, 04/18/2026, Cleveland vs Toronto
-Field Goal Attempts      10, 05/03/2026, Cleveland vs Toronto (3 times)
-Three-Point Field Goals   4, 04/23/2026, Cleveland at Toronto (Twice)
-Three-Point Attempts      8, 05/03/2026, Cleveland vs Toronto (Twice)
+Field Goal Attempts      13, 05/05/2026, Cleveland at Detroit
+Three-Point Field Goals   4, 05/05/2026, Cleveland at Detroit (3 times)
+Three-Point Attempts      8, 05/05/2026, Cleveland at Detroit (3 times)
 Free Throws               4, 04/29/2026, Cleveland vs Toronto (Twice)
 Free Throw Attempts       4, 04/29/2026, Cleveland vs Toronto (Twice)
 Offensive Rebounds        4, 05/03/2026, Cleveland vs Toronto
-Defensive Rebounds        4, 05/03/2026, Cleveland vs Toronto (4 times)
+Defensive Rebounds        4, 05/05/2026, Cleveland at Detroit (5 times)
 Rebounds                  8, 05/03/2026, Cleveland vs Toronto
 Assists                   5, 05/03/2026, Cleveland vs Toronto
 Steals                    2, 05/03/2026, Cleveland vs Toronto
@@ -5801,7 +5801,7 @@ Rebounds                  9, 05/03/2026, Cleveland vs Toronto
 Assists                   4, 05/03/2026, Cleveland vs Toronto (Twice)
 Steals                    1, 04/23/2026, Cleveland at Toronto (Twice)
 Turnovers                 2, 05/01/2026, Cleveland at Toronto (Twice)
-Blocked Shots             0, 05/03/2026, Cleveland vs Toronto
+Blocked Shots             0, 05/05/2026, Cleveland at Detroit
 Points                   13, 04/23/2026, Cleveland at Toronto
 
 Jaylon Tyson / Cleveland Cavaliers / Career Postseason Single-Game Highs
@@ -5828,15 +5828,15 @@ Field Goals               4, 05/01/2026, Cleveland at Toronto
 Field Goal Attempts      10, 04/29/2026, Cleveland vs Toronto
 Three-Point Field Goals   2, 05/01/2026, Cleveland at Toronto
 Three-Point Attempts      6, 05/01/2026, Cleveland at Toronto (Twice)
-Free Throws               0, 05/03/2026, Cleveland vs Toronto
+Free Throws               0, 05/05/2026, Cleveland at Detroit
 Free Throw Attempts       2, 04/23/2026, Cleveland at Toronto
 Offensive Rebounds        3, 04/23/2026, Cleveland at Toronto
 Defensive Rebounds        5, 04/26/2026, Cleveland at Toronto
 Rebounds                  5, 05/01/2026, Cleveland at Toronto (4 times)
-Assists                   1, 05/03/2026, Cleveland vs Toronto (4 times)
+Assists                   1, 05/05/2026, Cleveland at Detroit (5 times)
 Steals                    2, 04/20/2026, Cleveland vs Toronto (Twice)
 Turnovers                 2, 05/03/2026, Cleveland vs Toronto (Twice)
-Blocked Shots             0, 05/03/2026, Cleveland vs Toronto
+Blocked Shots             0, 05/05/2026, Cleveland at Detroit
 Points                   10, 05/01/2026, Cleveland at Toronto
 
 Dean Wade / Cleveland Cavaliers / Career Postseason Single-Game Highs
@@ -7849,7 +7849,7 @@ Points                    9, 05/07/2025, Denver at Oklahoma City (Twice)
 
 
 Team Totals / Detroit Pistons / 2025-26 Postseason Single-Game Highs
-Minutes                 240, 05/03/2026, Detroit vs Orlando (7 times)
+Minutes                 240, 05/05/2026, Detroit vs Cleveland (8 times)
 Field Goals              41, 05/03/2026, Detroit vs Orlando
 Field Goal Attempts      85, 04/25/2026, Detroit at Orlando (Twice)
 Three-Point Field Goals  16, 05/03/2026, Detroit vs Orlando
@@ -7860,7 +7860,7 @@ Offensive Rebounds       17, 04/22/2026, Detroit vs Orlando
 Defensive Rebounds       40, 04/22/2026, Detroit vs Orlando
 Rebounds                 57, 04/22/2026, Detroit vs Orlando
 Assists                  30, 05/03/2026, Detroit vs Orlando
-Steals                   10, 04/29/2026, Detroit vs Orlando
+Steals                   12, 05/05/2026, Detroit vs Cleveland
 Turnovers                23, 04/22/2026, Detroit vs Orlando
 Blocked Shots            18, 04/27/2026, Detroit at Orlando
 Points                  116, 05/03/2026, Detroit vs Orlando (Twice)
@@ -7884,28 +7884,28 @@ Points                  145, 05/24/1987, Detroit vs Boston
 
 
 Team Totals / Detroit Pistons / 2025-26 Postseason Single-Game Lows
-Minutes                 240, 05/03/2026, Detroit vs Orlando
+Minutes                 240, 05/05/2026, Detroit vs Cleveland
 Field Goals              31, 04/27/2026, Detroit at Orlando (Twice)
 Field Goal Attempts      77, 04/19/2026, Detroit vs Orlando
 Three-Point Field Goals   6, 04/27/2026, Detroit at Orlando (Twice)
-Three-Point Attempts     26, 04/22/2026, Detroit vs Orlando
+Three-Point Attempts     26, 05/05/2026, Detroit vs Cleveland (Twice)
 Free Throws              14, 04/22/2026, Detroit vs Orlando
 Free Throw Attempts      22, 05/03/2026, Detroit vs Orlando
 Offensive Rebounds        6, 04/19/2026, Detroit vs Orlando
-Defensive Rebounds       30, 05/03/2026, Detroit vs Orlando
+Defensive Rebounds       29, 05/05/2026, Detroit vs Cleveland
 Rebounds                 39, 04/19/2026, Detroit vs Orlando
 Assists                  16, 05/01/2026, Detroit at Orlando
 Steals                    5, 05/01/2026, Detroit at Orlando (Twice)
 Turnovers                11, 05/01/2026, Detroit at Orlando
-Blocked Shots             5, 04/29/2026, Detroit vs Orlando
+Blocked Shots             3, 05/05/2026, Detroit vs Cleveland
 Points                   88, 04/27/2026, Detroit at Orlando
 
 Opponent Totals / Detroit Pistons / 2025-26 Postseason Single-Game Highs
-Minutes                 240, 05/03/2026, Detroit vs Orlando (7 times)
+Minutes                 240, 05/05/2026, Detroit vs Cleveland (8 times)
 Field Goals              44, 04/19/2026, Detroit vs Orlando
 Field Goal Attempts      92, 04/27/2026, Detroit at Orlando
 Three-Point Field Goals  17, 04/29/2026, Detroit vs Orlando
-Three-Point Attempts     38, 04/29/2026, Detroit vs Orlando
+Three-Point Attempts     38, 05/05/2026, Detroit vs Cleveland (Twice)
 Free Throws              26, 04/25/2026, Detroit at Orlando
 Free Throw Attempts      34, 04/27/2026, Detroit at Orlando
 Offensive Rebounds       16, 04/27/2026, Detroit at Orlando
@@ -7913,7 +7913,7 @@ Defensive Rebounds       36, 04/27/2026, Detroit at Orlando
 Rebounds                 52, 04/27/2026, Detroit at Orlando
 Assists                  26, 04/19/2026, Detroit vs Orlando
 Steals                   16, 04/22/2026, Detroit vs Orlando
-Turnovers                19, 04/22/2026, Detroit vs Orlando
+Turnovers                20, 05/05/2026, Detroit vs Cleveland
 Blocked Shots             8, 04/25/2026, Detroit at Orlando
 Points                  113, 04/25/2026, Detroit at Orlando
 
@@ -7936,13 +7936,13 @@ Points                  145, 03/25/1958, Detroit vs St. Louis
 
 
 Opponent Totals / Detroit Pistons / 2025-26 Postseason Single-Game Lows
-Minutes                 240, 05/03/2026, Detroit vs Orlando
+Minutes                 240, 05/05/2026, Detroit vs Cleveland
 Field Goals              26, 04/22/2026, Detroit vs Orlando
 Field Goal Attempts      75, 05/03/2026, Detroit vs Orlando
 Three-Point Field Goals   8, 04/22/2026, Detroit vs Orlando
 Three-Point Attempts     30, 05/03/2026, Detroit vs Orlando
 Free Throws              14, 04/19/2026, Detroit vs Orlando
-Free Throw Attempts      19, 04/19/2026, Detroit vs Orlando
+Free Throw Attempts      16, 05/05/2026, Detroit vs Cleveland
 Offensive Rebounds        8, 05/01/2026, Detroit at Orlando (Twice)
 Defensive Rebounds       24, 05/03/2026, Detroit vs Orlando
 Rebounds                 33, 05/03/2026, Detroit vs Orlando (Twice)
@@ -7990,15 +7990,15 @@ Points                   45, 04/29/2026, Detroit vs Orlando
 Jalen Duren / Detroit Pistons / 2025-26 Postseason Single-Game Highs
 Minutes                  37, 05/03/2026, Detroit vs Orlando
 Field Goals               5, 05/03/2026, Detroit vs Orlando (Twice)
-Field Goal Attempts      10, 04/25/2026, Detroit at Orlando (Twice)
-Three-Point Field Goals   0, 05/03/2026, Detroit vs Orlando
-Three-Point Attempts      0, 05/03/2026, Detroit vs Orlando
+Field Goal Attempts      11, 05/05/2026, Detroit vs Cleveland
+Three-Point Field Goals   0, 05/05/2026, Detroit vs Cleveland
+Three-Point Attempts      0, 05/05/2026, Detroit vs Cleveland
 Free Throws               5, 05/03/2026, Detroit vs Orlando
 Free Throw Attempts       6, 05/03/2026, Detroit vs Orlando
-Offensive Rebounds        6, 05/03/2026, Detroit vs Orlando
+Offensive Rebounds        7, 05/05/2026, Detroit vs Cleveland
 Defensive Rebounds        9, 05/03/2026, Detroit vs Orlando
 Rebounds                 15, 05/03/2026, Detroit vs Orlando
-Assists                   4, 04/22/2026, Detroit vs Orlando
+Assists                   4, 05/05/2026, Detroit vs Cleveland (Twice)
 Steals                    1, 05/03/2026, Detroit vs Orlando (3 times)
 Turnovers                 4, 04/27/2026, Detroit at Orlando
 Blocked Shots             5, 04/25/2026, Detroit at Orlando
@@ -8007,12 +8007,12 @@ Points                   15, 05/03/2026, Detroit vs Orlando
 Jalen Duren / Detroit Pistons / Career Postseason Single-Game Highs
 Minutes                  39, 05/01/2025, Detroit vs New York
 Field Goals               7, 04/24/2025, Detroit vs New York
-Field Goal Attempts      10, 04/25/2026, Detroit at Orlando (3 times)
-Three-Point Field Goals   0, 05/03/2026, Detroit vs Orlando
-Three-Point Attempts      0, 05/03/2026, Detroit vs Orlando
+Field Goal Attempts      11, 05/05/2026, Detroit vs Cleveland
+Three-Point Field Goals   0, 05/05/2026, Detroit vs Cleveland
+Three-Point Attempts      0, 05/05/2026, Detroit vs Cleveland
 Free Throws               9, 05/01/2025, Detroit vs New York
 Free Throw Attempts      10, 05/01/2025, Detroit vs New York
-Offensive Rebounds        7, 04/29/2025, Detroit at New York
+Offensive Rebounds        7, 05/05/2026, Detroit vs Cleveland (Twice)
 Defensive Rebounds       11, 04/27/2025, Detroit vs New York
 Rebounds                 17, 04/27/2025, Detroit vs New York
 Assists                   6, 04/29/2025, Detroit at New York
@@ -8075,12 +8075,12 @@ Points                    6, 04/25/2026, Detroit at Orlando
 
 
 Tobias Harris / Detroit Pistons / 2025-26 Postseason Single-Game Highs
-Minutes                  38, 04/25/2026, Detroit at Orlando
+Minutes                  39, 05/05/2026, Detroit vs Cleveland
 Field Goals              11, 05/03/2026, Detroit vs Orlando
 Field Goal Attempts      20, 05/01/2026, Detroit at Orlando
 Three-Point Field Goals   5, 05/03/2026, Detroit vs Orlando
 Three-Point Attempts      7, 05/03/2026, Detroit vs Orlando (3 times)
-Free Throws               6, 05/01/2026, Detroit at Orlando (Twice)
+Free Throws               7, 05/05/2026, Detroit vs Cleveland
 Free Throw Attempts       9, 05/01/2026, Detroit at Orlando
 Offensive Rebounds        4, 04/22/2026, Detroit vs Orlando
 Defensive Rebounds       10, 05/01/2026, Detroit at Orlando
@@ -8114,7 +8114,7 @@ Field Goals              11, 05/03/2026, Detroit vs Orlando
 Field Goal Attempts      20, 05/01/2026, Detroit at Orlando
 Three-Point Field Goals   5, 05/03/2026, Detroit vs Orlando
 Three-Point Attempts      7, 05/03/2026, Detroit vs Orlando (3 times)
-Free Throws               7, 04/20/2016, Detroit at Cleveland
+Free Throws               7, 05/05/2026, Detroit vs Cleveland (Twice)
 Free Throw Attempts       9, 05/01/2026, Detroit at Orlando
 Offensive Rebounds        4, 04/22/2026, Detroit vs Orlando
 Defensive Rebounds       11, 04/24/2016, Detroit vs Cleveland
@@ -8128,37 +8128,37 @@ Points                   30, 05/03/2026, Detroit vs Orlando
 
 Ron Holland / Detroit Pistons / 2025-26 Postseason Single-Game Highs
 Minutes                  11, 04/19/2026, Detroit vs Orlando
-Field Goals               1, 04/19/2026, Detroit vs Orlando
-Field Goal Attempts       2, 04/19/2026, Detroit vs Orlando
-Three-Point Field Goals   0, 05/03/2026, Detroit vs Orlando
-Three-Point Attempts      1, 04/22/2026, Detroit vs Orlando
-Free Throws               0, 05/03/2026, Detroit vs Orlando
-Free Throw Attempts       0, 05/03/2026, Detroit vs Orlando
-Offensive Rebounds        0, 05/03/2026, Detroit vs Orlando
+Field Goals               2, 05/05/2026, Detroit vs Cleveland
+Field Goal Attempts       3, 05/05/2026, Detroit vs Cleveland
+Three-Point Field Goals   1, 05/05/2026, Detroit vs Cleveland
+Three-Point Attempts      2, 05/05/2026, Detroit vs Cleveland
+Free Throws               1, 05/05/2026, Detroit vs Cleveland
+Free Throw Attempts       3, 05/05/2026, Detroit vs Cleveland
+Offensive Rebounds        0, 05/05/2026, Detroit vs Cleveland
 Defensive Rebounds        3, 04/22/2026, Detroit vs Orlando
 Rebounds                  3, 04/22/2026, Detroit vs Orlando
 Assists                   1, 04/19/2026, Detroit vs Orlando
-Steals                    1, 04/19/2026, Detroit vs Orlando
+Steals                    1, 05/05/2026, Detroit vs Cleveland (Twice)
 Turnovers                 2, 04/19/2026, Detroit vs Orlando
-Blocked Shots             0, 05/03/2026, Detroit vs Orlando
-Points                    2, 04/19/2026, Detroit vs Orlando
+Blocked Shots             0, 05/05/2026, Detroit vs Cleveland
+Points                    6, 05/05/2026, Detroit vs Cleveland
 
 Ron Holland / Detroit Pistons / Career Postseason Single-Game Highs
 Minutes                  12, 04/24/2025, Detroit vs New York
-Field Goals               1, 04/19/2026, Detroit vs Orlando
-Field Goal Attempts       2, 04/19/2026, Detroit vs Orlando (3 times)
-Three-Point Field Goals   0, 05/03/2026, Detroit vs Orlando
-Three-Point Attempts      1, 04/22/2026, Detroit vs Orlando (4 times)
+Field Goals               2, 05/05/2026, Detroit vs Cleveland
+Field Goal Attempts       3, 05/05/2026, Detroit vs Cleveland
+Three-Point Field Goals   1, 05/05/2026, Detroit vs Cleveland
+Three-Point Attempts      2, 05/05/2026, Detroit vs Cleveland
 Free Throws               6, 04/24/2025, Detroit vs New York
 Free Throw Attempts       6, 04/24/2025, Detroit vs New York
 Offensive Rebounds        2, 04/19/2025, Detroit at New York
 Defensive Rebounds        3, 04/22/2026, Detroit vs Orlando
 Rebounds                  3, 04/22/2026, Detroit vs Orlando
 Assists                   1, 04/19/2026, Detroit vs Orlando
-Steals                    1, 04/19/2026, Detroit vs Orlando
+Steals                    1, 05/05/2026, Detroit vs Cleveland (Twice)
 Turnovers                 2, 04/19/2026, Detroit vs Orlando (3 times)
 Blocked Shots             1, 04/24/2025, Detroit vs New York
-Points                    6, 04/24/2025, Detroit vs New York
+Points                    6, 05/05/2026, Detroit vs Cleveland (Twice)
 
 
 Kevin Huerter / Detroit Pistons / 2025-26 Postseason Single-Game Highs
@@ -8215,34 +8215,34 @@ Points                    3, 04/22/2026, Detroit vs Orlando (Twice)
 
 Daniss Jenkins / Detroit Pistons / 2025-26 Postseason Single-Game Highs
 Minutes                  29, 05/03/2026, Detroit vs Orlando
-Field Goals               5, 05/03/2026, Detroit vs Orlando
-Field Goal Attempts       8, 05/03/2026, Detroit vs Orlando (Twice)
+Field Goals               5, 05/05/2026, Detroit vs Cleveland (Twice)
+Field Goal Attempts      13, 05/05/2026, Detroit vs Cleveland
 Three-Point Field Goals   4, 05/03/2026, Detroit vs Orlando
 Three-Point Attempts      6, 04/19/2026, Detroit vs Orlando
 Free Throws               3, 04/19/2026, Detroit vs Orlando
 Free Throw Attempts       6, 04/19/2026, Detroit vs Orlando
-Offensive Rebounds        1, 04/27/2026, Detroit at Orlando (3 times)
-Defensive Rebounds        3, 05/03/2026, Detroit vs Orlando
-Rebounds                  3, 05/03/2026, Detroit vs Orlando
+Offensive Rebounds        3, 05/05/2026, Detroit vs Cleveland
+Defensive Rebounds        4, 05/05/2026, Detroit vs Cleveland
+Rebounds                  7, 05/05/2026, Detroit vs Cleveland
 Assists                   5, 05/03/2026, Detroit vs Orlando
-Steals                    1, 04/29/2026, Detroit vs Orlando
+Steals                    4, 05/05/2026, Detroit vs Cleveland
 Turnovers                 3, 05/03/2026, Detroit vs Orlando
 Blocked Shots             1, 05/03/2026, Detroit vs Orlando (3 times)
 Points                   16, 05/03/2026, Detroit vs Orlando
 
 Daniss Jenkins / Detroit Pistons / Career Postseason Single-Game Highs
 Minutes                  29, 05/03/2026, Detroit vs Orlando
-Field Goals               5, 05/03/2026, Detroit vs Orlando
-Field Goal Attempts       8, 05/03/2026, Detroit vs Orlando (Twice)
+Field Goals               5, 05/05/2026, Detroit vs Cleveland (Twice)
+Field Goal Attempts      13, 05/05/2026, Detroit vs Cleveland
 Three-Point Field Goals   4, 05/03/2026, Detroit vs Orlando
 Three-Point Attempts      6, 04/19/2026, Detroit vs Orlando
 Free Throws               3, 04/19/2026, Detroit vs Orlando
 Free Throw Attempts       6, 04/19/2026, Detroit vs Orlando
-Offensive Rebounds        1, 04/27/2026, Detroit at Orlando (3 times)
-Defensive Rebounds        3, 05/03/2026, Detroit vs Orlando
-Rebounds                  3, 05/03/2026, Detroit vs Orlando
+Offensive Rebounds        3, 05/05/2026, Detroit vs Cleveland
+Defensive Rebounds        4, 05/05/2026, Detroit vs Cleveland
+Rebounds                  7, 05/05/2026, Detroit vs Cleveland
 Assists                   5, 05/03/2026, Detroit vs Orlando
-Steals                    1, 04/29/2026, Detroit vs Orlando
+Steals                    4, 05/05/2026, Detroit vs Cleveland
 Turnovers                 3, 05/03/2026, Detroit vs Orlando
 Blocked Shots             1, 05/03/2026, Detroit vs Orlando (3 times)
 Points                   16, 05/03/2026, Detroit vs Orlando
@@ -8289,13 +8289,13 @@ Field Goals               2, 04/22/2026, Detroit vs Orlando
 Field Goal Attempts       6, 04/22/2026, Detroit vs Orlando
 Three-Point Field Goals   1, 04/19/2026, Detroit vs Orlando
 Three-Point Attempts      2, 04/22/2026, Detroit vs Orlando
-Free Throws               0, 05/01/2026, Detroit at Orlando
-Free Throw Attempts       0, 05/01/2026, Detroit at Orlando
+Free Throws               0, 05/05/2026, Detroit vs Cleveland
+Free Throw Attempts       0, 05/05/2026, Detroit vs Cleveland
 Offensive Rebounds        1, 04/29/2026, Detroit vs Orlando
 Defensive Rebounds        5, 04/27/2026, Detroit at Orlando
 Rebounds                  5, 04/27/2026, Detroit at Orlando
 Assists                   3, 04/27/2026, Detroit at Orlando
-Steals                    0, 05/01/2026, Detroit at Orlando
+Steals                    0, 05/05/2026, Detroit vs Cleveland
 Turnovers                 2, 04/27/2026, Detroit at Orlando
 Blocked Shots             2, 04/27/2026, Detroit at Orlando
 Points                    4, 04/22/2026, Detroit vs Orlando
@@ -8323,13 +8323,13 @@ Field Goals               2, 04/22/2026, Detroit vs Orlando
 Field Goal Attempts       6, 04/22/2026, Detroit vs Orlando
 Three-Point Field Goals   1, 04/19/2026, Detroit vs Orlando
 Three-Point Attempts      2, 04/22/2026, Detroit vs Orlando
-Free Throws               0, 05/01/2026, Detroit at Orlando
-Free Throw Attempts       0, 05/01/2026, Detroit at Orlando
+Free Throws               0, 05/05/2026, Detroit vs Cleveland
+Free Throw Attempts       0, 05/05/2026, Detroit vs Cleveland
 Offensive Rebounds        1, 04/29/2026, Detroit vs Orlando
 Defensive Rebounds        5, 04/27/2026, Detroit at Orlando
 Rebounds                  5, 04/27/2026, Detroit at Orlando
 Assists                   3, 04/27/2026, Detroit at Orlando
-Steals                    0, 05/01/2026, Detroit at Orlando
+Steals                    0, 05/05/2026, Detroit vs Cleveland
 Turnovers                 2, 04/27/2026, Detroit at Orlando
 Blocked Shots             2, 04/27/2026, Detroit at Orlando
 Points                    4, 04/22/2026, Detroit vs Orlando
@@ -8389,9 +8389,9 @@ Points                    6, 05/01/2026, Detroit at Orlando (Twice)
 
 Duncan Robinson / Detroit Pistons / 2025-26 Postseason Single-Game Highs
 Minutes                  36, 05/01/2026, Detroit at Orlando
-Field Goals               5, 05/01/2026, Detroit at Orlando
+Field Goals               7, 05/05/2026, Detroit vs Cleveland
 Field Goal Attempts      13, 05/03/2026, Detroit vs Orlando
-Three-Point Field Goals   4, 05/01/2026, Detroit at Orlando
+Three-Point Field Goals   5, 05/05/2026, Detroit vs Cleveland
 Three-Point Attempts     10, 05/03/2026, Detroit vs Orlando
 Free Throws               2, 04/27/2026, Detroit at Orlando
 Free Throw Attempts       2, 04/29/2026, Detroit vs Orlando (3 times)
@@ -8402,7 +8402,7 @@ Assists                   4, 04/19/2026, Detroit vs Orlando
 Steals                    3, 05/03/2026, Detroit vs Orlando
 Turnovers                 2, 05/01/2026, Detroit at Orlando (Twice)
 Blocked Shots             1, 04/25/2026, Detroit at Orlando (Twice)
-Points                   14, 05/01/2026, Detroit at Orlando
+Points                   19, 05/05/2026, Detroit vs Cleveland
 
 Duncan Robinson / Detroit Pistons / Career Postseason Single-Game Highs (Games with all teams)
 Minutes                  39, 10/04/2020, Miami vs L.A. Lakers
@@ -8423,9 +8423,9 @@ Points                   27, 04/17/2022, Miami vs Atlanta
 
 Duncan Robinson / Detroit Pistons / Career Postseason Single-Game Highs (With this team only)
 Minutes                  36, 05/01/2026, Detroit at Orlando
-Field Goals               5, 05/01/2026, Detroit at Orlando
+Field Goals               7, 05/05/2026, Detroit vs Cleveland
 Field Goal Attempts      13, 05/03/2026, Detroit vs Orlando
-Three-Point Field Goals   4, 05/01/2026, Detroit at Orlando
+Three-Point Field Goals   5, 05/05/2026, Detroit vs Cleveland
 Three-Point Attempts     10, 05/03/2026, Detroit vs Orlando
 Free Throws               2, 04/27/2026, Detroit at Orlando
 Free Throw Attempts       2, 04/29/2026, Detroit vs Orlando (3 times)
@@ -8436,7 +8436,7 @@ Assists                   4, 04/19/2026, Detroit vs Orlando
 Steals                    3, 05/03/2026, Detroit vs Orlando
 Turnovers                 2, 05/01/2026, Detroit at Orlando (Twice)
 Blocked Shots             1, 04/25/2026, Detroit at Orlando (Twice)
-Points                   14, 05/01/2026, Detroit at Orlando
+Points                   19, 05/05/2026, Detroit vs Cleveland
 
 
 Marcus Sasser / Detroit Pistons / 2025-26 Postseason Single-Game Highs
@@ -8520,7 +8520,7 @@ Free Throw Attempts       4, 04/29/2026, Detroit vs Orlando (Twice)
 Offensive Rebounds        3, 04/27/2026, Detroit at Orlando
 Defensive Rebounds        4, 04/29/2026, Detroit vs Orlando (Twice)
 Rebounds                  5, 04/29/2026, Detroit vs Orlando (Twice)
-Assists                   1, 04/27/2026, Detroit at Orlando
+Assists                   1, 05/05/2026, Detroit vs Cleveland (Twice)
 Steals                    1, 04/19/2026, Detroit vs Orlando
 Turnovers                 3, 04/22/2026, Detroit vs Orlando
 Blocked Shots             8, 04/27/2026, Detroit at Orlando
@@ -8537,7 +8537,7 @@ Free Throw Attempts       4, 04/29/2026, Detroit vs Orlando (Twice)
 Offensive Rebounds        3, 04/27/2026, Detroit at Orlando
 Defensive Rebounds        4, 04/29/2026, Detroit vs Orlando (3 times)
 Rebounds                  5, 04/29/2026, Detroit vs Orlando (3 times)
-Assists                   1, 04/27/2026, Detroit at Orlando (Twice)
+Assists                   1, 05/05/2026, Detroit vs Cleveland (3 times)
 Steals                    1, 04/19/2026, Detroit vs Orlando
 Turnovers                 3, 04/22/2026, Detroit vs Orlando
 Blocked Shots             8, 04/27/2026, Detroit at Orlando
@@ -8548,9 +8548,9 @@ Ausar Thompson / Detroit Pistons / 2025-26 Postseason Single-Game Highs
 Minutes                  37, 04/25/2026, Detroit at Orlando
 Field Goals               7, 04/25/2026, Detroit at Orlando
 Field Goal Attempts      10, 04/25/2026, Detroit at Orlando
-Three-Point Field Goals   0, 05/03/2026, Detroit vs Orlando
+Three-Point Field Goals   0, 05/05/2026, Detroit vs Cleveland
 Three-Point Attempts      1, 04/25/2026, Detroit at Orlando
-Free Throws               3, 04/25/2026, Detroit at Orlando
+Free Throws               3, 05/05/2026, Detroit vs Cleveland (Twice)
 Free Throw Attempts       5, 04/25/2026, Detroit at Orlando
 Offensive Rebounds        5, 05/01/2026, Detroit at Orlando
 Defensive Rebounds       11, 04/29/2026, Detroit vs Orlando
@@ -8565,7 +8565,7 @@ Ausar Thompson / Detroit Pistons / Career Postseason Single-Game Highs
 Minutes                  37, 04/25/2026, Detroit at Orlando
 Field Goals               8, 04/29/2025, Detroit at New York
 Field Goal Attempts      10, 04/25/2026, Detroit at Orlando (Twice)
-Three-Point Field Goals   0, 05/03/2026, Detroit vs Orlando
+Three-Point Field Goals   0, 05/05/2026, Detroit vs Cleveland
 Three-Point Attempts      1, 04/25/2026, Detroit at Orlando (3 times)
 Free Throws               7, 05/01/2025, Detroit vs New York
 Free Throw Attempts      12, 04/29/2025, Detroit at New York
@@ -13068,7 +13068,7 @@ Minutes                 265, 04/24/2026, L.A. Lakers at Houston
 Field Goals              40, 04/18/2026, L.A. Lakers vs Houston
 Field Goal Attempts      89, 05/01/2026, L.A. Lakers at Houston
 Three-Point Field Goals  13, 04/21/2026, L.A. Lakers vs Houston
-Three-Point Attempts     29, 04/24/2026, L.A. Lakers at Houston
+Three-Point Attempts     30, 05/05/2026, L.A. Lakers at Oklahoma City
 Free Throws              24, 04/24/2026, L.A. Lakers at Houston
 Free Throw Attempts      32, 04/24/2026, L.A. Lakers at Houston
 Offensive Rebounds       15, 05/01/2026, L.A. Lakers at Houston
@@ -13099,25 +13099,25 @@ Points                  153, 05/22/1985, L.A. Lakers vs Denver
 
 
 Team Totals / Los Angeles Lakers / 2025-26 Postseason Single-Game Lows
-Minutes                 240, 05/01/2026, L.A. Lakers at Houston
+Minutes                 240, 05/05/2026, L.A. Lakers at Oklahoma City
 Field Goals              32, 04/29/2026, L.A. Lakers vs Houston
 Field Goal Attempts      66, 04/18/2026, L.A. Lakers vs Houston
 Three-Point Field Goals   5, 04/26/2026, L.A. Lakers at Houston
 Three-Point Attempts     19, 04/18/2026, L.A. Lakers vs Houston
-Free Throws              14, 05/01/2026, L.A. Lakers at Houston
-Free Throw Attempts      21, 04/26/2026, L.A. Lakers at Houston
+Free Throws              10, 05/05/2026, L.A. Lakers at Oklahoma City
+Free Throw Attempts      13, 05/05/2026, L.A. Lakers at Oklahoma City
 Offensive Rebounds        3, 04/18/2026, L.A. Lakers vs Houston
 Defensive Rebounds       27, 04/26/2026, L.A. Lakers at Houston
 Rebounds                 35, 04/18/2026, L.A. Lakers vs Houston
 Assists                  19, 05/01/2026, L.A. Lakers at Houston (Twice)
 Steals                    4, 05/01/2026, L.A. Lakers at Houston
 Turnovers                11, 05/01/2026, L.A. Lakers at Houston
-Blocked Shots             5, 04/29/2026, L.A. Lakers vs Houston (Twice)
-Points                   93, 04/29/2026, L.A. Lakers vs Houston
+Blocked Shots             4, 05/05/2026, L.A. Lakers at Oklahoma City
+Points                   90, 05/05/2026, L.A. Lakers at Oklahoma City
 
 Opponent Totals / Los Angeles Lakers / 2025-26 Postseason Single-Game Highs
 Minutes                 265, 04/24/2026, L.A. Lakers at Houston
-Field Goals              40, 04/24/2026, L.A. Lakers at Houston
+Field Goals              42, 05/05/2026, L.A. Lakers at Oklahoma City
 Field Goal Attempts      98, 04/24/2026, L.A. Lakers at Houston
 Three-Point Field Goals  14, 04/29/2026, L.A. Lakers vs Houston
 Three-Point Attempts     40, 04/29/2026, L.A. Lakers vs Houston
@@ -13126,7 +13126,7 @@ Free Throw Attempts      31, 04/26/2026, L.A. Lakers at Houston
 Offensive Rebounds       21, 04/18/2026, L.A. Lakers vs Houston
 Defensive Rebounds       37, 05/01/2026, L.A. Lakers at Houston
 Rebounds                 49, 04/24/2026, L.A. Lakers at Houston
-Assists                  25, 04/29/2026, L.A. Lakers vs Houston
+Assists                  29, 05/05/2026, L.A. Lakers at Oklahoma City
 Steals                   17, 04/26/2026, L.A. Lakers at Houston
 Turnovers                17, 04/24/2026, L.A. Lakers at Houston
 Blocked Shots             9, 05/01/2026, L.A. Lakers at Houston
@@ -13151,13 +13151,13 @@ Points                  148, 05/27/1985, L.A. Lakers at Boston
 
 
 Opponent Totals / Los Angeles Lakers / 2025-26 Postseason Single-Game Lows
-Minutes                 240, 05/01/2026, L.A. Lakers at Houston
+Minutes                 240, 05/05/2026, L.A. Lakers at Oklahoma City
 Field Goals              28, 05/01/2026, L.A. Lakers at Houston
 Field Goal Attempts      75, 04/29/2026, L.A. Lakers vs Houston
 Three-Point Field Goals   5, 05/01/2026, L.A. Lakers at Houston
 Three-Point Attempts     28, 05/01/2026, L.A. Lakers at Houston
-Free Throws              15, 04/21/2026, L.A. Lakers vs Houston
-Free Throw Attempts      19, 04/21/2026, L.A. Lakers vs Houston
+Free Throws              11, 05/05/2026, L.A. Lakers at Oklahoma City
+Free Throw Attempts      12, 05/05/2026, L.A. Lakers at Oklahoma City
 Offensive Rebounds        6, 04/29/2026, L.A. Lakers vs Houston
 Defensive Rebounds       23, 04/18/2026, L.A. Lakers vs Houston
 Rebounds                 34, 04/29/2026, L.A. Lakers vs Houston
@@ -13171,14 +13171,14 @@ Deandre Ayton / Los Angeles Lakers / 2025-26 Postseason Single-Game Highs
 Minutes                  38, 04/29/2026, L.A. Lakers vs Houston
 Field Goals               9, 04/29/2026, L.A. Lakers vs Houston (Twice)
 Field Goal Attempts      14, 04/29/2026, L.A. Lakers vs Houston
-Three-Point Field Goals   0, 05/01/2026, L.A. Lakers at Houston
-Three-Point Attempts      0, 05/01/2026, L.A. Lakers at Houston
+Three-Point Field Goals   0, 05/05/2026, L.A. Lakers at Oklahoma City
+Three-Point Attempts      0, 05/05/2026, L.A. Lakers at Oklahoma City
 Free Throws               3, 05/01/2026, L.A. Lakers at Houston (Twice)
 Free Throw Attempts       7, 05/01/2026, L.A. Lakers at Houston
 Offensive Rebounds       10, 04/29/2026, L.A. Lakers vs Houston
 Defensive Rebounds       13, 05/01/2026, L.A. Lakers at Houston
 Rebounds                 17, 04/29/2026, L.A. Lakers vs Houston
-Assists                   2, 04/24/2026, L.A. Lakers at Houston (Twice)
+Assists                   2, 05/05/2026, L.A. Lakers at Oklahoma City (3 times)
 Steals                    1, 04/24/2026, L.A. Lakers at Houston
 Turnovers                 3, 04/24/2026, L.A. Lakers at Houston (Twice)
 Blocked Shots             2, 04/29/2026, L.A. Lakers vs Houston
@@ -13205,14 +13205,14 @@ Deandre Ayton / Los Angeles Lakers / Career Postseason Single-Game Highs (With t
 Minutes                  38, 04/29/2026, L.A. Lakers vs Houston
 Field Goals               9, 04/29/2026, L.A. Lakers vs Houston (Twice)
 Field Goal Attempts      14, 04/29/2026, L.A. Lakers vs Houston
-Three-Point Field Goals   0, 05/01/2026, L.A. Lakers at Houston
-Three-Point Attempts      0, 05/01/2026, L.A. Lakers at Houston
+Three-Point Field Goals   0, 05/05/2026, L.A. Lakers at Oklahoma City
+Three-Point Attempts      0, 05/05/2026, L.A. Lakers at Oklahoma City
 Free Throws               3, 05/01/2026, L.A. Lakers at Houston (Twice)
 Free Throw Attempts       7, 05/01/2026, L.A. Lakers at Houston
 Offensive Rebounds       10, 04/29/2026, L.A. Lakers vs Houston
 Defensive Rebounds       13, 05/01/2026, L.A. Lakers at Houston
 Rebounds                 17, 04/29/2026, L.A. Lakers vs Houston
-Assists                   2, 04/24/2026, L.A. Lakers at Houston (Twice)
+Assists                   2, 05/05/2026, L.A. Lakers at Oklahoma City (3 times)
 Steals                    1, 04/24/2026, L.A. Lakers at Houston
 Turnovers                 3, 04/24/2026, L.A. Lakers at Houston (Twice)
 Blocked Shots             2, 04/29/2026, L.A. Lakers vs Houston
@@ -13265,7 +13265,7 @@ Free Throw Attempts       4, 04/24/2026, L.A. Lakers at Houston
 Offensive Rebounds        1, 05/01/2026, L.A. Lakers at Houston (4 times)
 Defensive Rebounds        5, 05/01/2026, L.A. Lakers at Houston
 Rebounds                  6, 05/01/2026, L.A. Lakers at Houston
-Assists                   2, 05/01/2026, L.A. Lakers at Houston (3 times)
+Assists                   2, 05/05/2026, L.A. Lakers at Oklahoma City (4 times)
 Steals                    3, 04/18/2026, L.A. Lakers vs Houston
 Turnovers                 2, 04/18/2026, L.A. Lakers vs Houston
 Blocked Shots             2, 04/18/2026, L.A. Lakers vs Houston
@@ -13282,7 +13282,7 @@ Free Throw Attempts       6, 05/12/2023, L.A. Lakers vs Golden State (Twice)
 Offensive Rebounds        4, 04/29/2024, L.A. Lakers at Denver
 Defensive Rebounds       12, 05/31/2021, Washington vs Philadelphia
 Rebounds                 13, 05/31/2021, Washington vs Philadelphia
-Assists                   2, 05/01/2026, L.A. Lakers at Houston (8 times)
+Assists                   2, 05/05/2026, L.A. Lakers at Oklahoma City (9 times)
 Steals                    3, 04/18/2026, L.A. Lakers vs Houston
 Turnovers                 3, 04/25/2025, L.A. Lakers at Minnesota (Twice)
 Blocked Shots             2, 04/18/2026, L.A. Lakers vs Houston (Twice)
@@ -13299,7 +13299,7 @@ Free Throw Attempts       6, 05/12/2023, L.A. Lakers vs Golden State (Twice)
 Offensive Rebounds        4, 04/29/2024, L.A. Lakers at Denver
 Defensive Rebounds        6, 05/22/2023, L.A. Lakers vs Denver
 Rebounds                  7, 05/22/2023, L.A. Lakers vs Denver
-Assists                   2, 05/01/2026, L.A. Lakers at Houston (6 times)
+Assists                   2, 05/05/2026, L.A. Lakers at Oklahoma City (7 times)
 Steals                    3, 04/18/2026, L.A. Lakers vs Houston
 Turnovers                 3, 04/25/2025, L.A. Lakers at Minnesota
 Blocked Shots             2, 04/18/2026, L.A. Lakers vs Houston (Twice)
@@ -13310,16 +13310,16 @@ Jaxson Hayes / Los Angeles Lakers / 2025-26 Postseason Single-Game Highs
 Minutes                  21, 04/21/2026, L.A. Lakers vs Houston
 Field Goals               5, 04/24/2026, L.A. Lakers at Houston
 Field Goal Attempts       8, 04/24/2026, L.A. Lakers at Houston
-Three-Point Field Goals   0, 05/01/2026, L.A. Lakers at Houston
+Three-Point Field Goals   0, 05/05/2026, L.A. Lakers at Oklahoma City
 Three-Point Attempts      1, 04/21/2026, L.A. Lakers vs Houston
 Free Throws               4, 04/21/2026, L.A. Lakers vs Houston
 Free Throw Attempts       5, 04/21/2026, L.A. Lakers vs Houston
-Offensive Rebounds        2, 05/01/2026, L.A. Lakers at Houston (3 times)
-Defensive Rebounds        2, 05/01/2026, L.A. Lakers at Houston (4 times)
-Rebounds                  4, 05/01/2026, L.A. Lakers at Houston (3 times)
-Assists                   1, 05/01/2026, L.A. Lakers at Houston (3 times)
+Offensive Rebounds        3, 05/05/2026, L.A. Lakers at Oklahoma City
+Defensive Rebounds        3, 05/05/2026, L.A. Lakers at Oklahoma City
+Rebounds                  6, 05/05/2026, L.A. Lakers at Oklahoma City
+Assists                   1, 05/05/2026, L.A. Lakers at Oklahoma City (4 times)
 Steals                    1, 04/24/2026, L.A. Lakers at Houston (Twice)
-Turnovers                 1, 05/01/2026, L.A. Lakers at Houston (4 times)
+Turnovers                 3, 05/05/2026, L.A. Lakers at Oklahoma City
 Blocked Shots             2, 04/24/2026, L.A. Lakers at Houston (Twice)
 Points                   12, 04/24/2026, L.A. Lakers at Houston
 
@@ -13327,16 +13327,16 @@ Jaxson Hayes / Los Angeles Lakers / Career Postseason Single-Game Highs (Games w
 Minutes                  21, 04/21/2026, L.A. Lakers vs Houston
 Field Goals               5, 04/24/2026, L.A. Lakers at Houston
 Field Goal Attempts       8, 04/24/2026, L.A. Lakers at Houston
-Three-Point Field Goals   0, 05/01/2026, L.A. Lakers at Houston
+Three-Point Field Goals   0, 05/05/2026, L.A. Lakers at Oklahoma City
 Three-Point Attempts      1, 04/21/2026, L.A. Lakers vs Houston (4 times)
 Free Throws               4, 04/21/2026, L.A. Lakers vs Houston
 Free Throw Attempts       5, 04/21/2026, L.A. Lakers vs Houston (Twice)
-Offensive Rebounds        3, 04/19/2022, New Orleans at Phoenix
+Offensive Rebounds        3, 05/05/2026, L.A. Lakers at Oklahoma City (Twice)
 Defensive Rebounds        6, 04/22/2022, New Orleans vs Phoenix
-Rebounds                  6, 04/22/2022, New Orleans vs Phoenix
-Assists                   1, 05/01/2026, L.A. Lakers at Houston (6 times)
+Rebounds                  6, 05/05/2026, L.A. Lakers at Oklahoma City (Twice)
+Assists                   1, 05/05/2026, L.A. Lakers at Oklahoma City (7 times)
 Steals                    1, 04/24/2026, L.A. Lakers at Houston (Twice)
-Turnovers                 2, 04/29/2024, L.A. Lakers at Denver
+Turnovers                 3, 05/05/2026, L.A. Lakers at Oklahoma City
 Blocked Shots             2, 04/24/2026, L.A. Lakers at Houston (3 times)
 Points                   12, 04/24/2026, L.A. Lakers at Houston
 
@@ -13344,16 +13344,16 @@ Jaxson Hayes / Los Angeles Lakers / Career Postseason Single-Game Highs (With th
 Minutes                  21, 04/21/2026, L.A. Lakers vs Houston
 Field Goals               5, 04/24/2026, L.A. Lakers at Houston
 Field Goal Attempts       8, 04/24/2026, L.A. Lakers at Houston
-Three-Point Field Goals   0, 05/01/2026, L.A. Lakers at Houston
+Three-Point Field Goals   0, 05/05/2026, L.A. Lakers at Oklahoma City
 Three-Point Attempts      1, 04/21/2026, L.A. Lakers vs Houston
 Free Throws               4, 04/21/2026, L.A. Lakers vs Houston
 Free Throw Attempts       5, 04/21/2026, L.A. Lakers vs Houston
-Offensive Rebounds        2, 05/01/2026, L.A. Lakers at Houston (4 times)
+Offensive Rebounds        3, 05/05/2026, L.A. Lakers at Oklahoma City
 Defensive Rebounds        4, 04/29/2024, L.A. Lakers at Denver
-Rebounds                  5, 04/29/2024, L.A. Lakers at Denver
-Assists                   1, 05/01/2026, L.A. Lakers at Houston (5 times)
+Rebounds                  6, 05/05/2026, L.A. Lakers at Oklahoma City
+Assists                   1, 05/05/2026, L.A. Lakers at Oklahoma City (6 times)
 Steals                    1, 04/24/2026, L.A. Lakers at Houston (Twice)
-Turnovers                 2, 04/29/2024, L.A. Lakers at Denver
+Turnovers                 3, 05/05/2026, L.A. Lakers at Oklahoma City
 Blocked Shots             2, 04/24/2026, L.A. Lakers at Houston (Twice)
 Points                   12, 04/24/2026, L.A. Lakers at Houston
 
@@ -13364,15 +13364,15 @@ Field Goals               2, 04/26/2026, L.A. Lakers at Houston (Twice)
 Field Goal Attempts       5, 04/26/2026, L.A. Lakers at Houston
 Three-Point Field Goals   1, 04/26/2026, L.A. Lakers at Houston (Twice)
 Three-Point Attempts      4, 04/26/2026, L.A. Lakers at Houston
-Free Throws               0, 05/01/2026, L.A. Lakers at Houston
-Free Throw Attempts       0, 05/01/2026, L.A. Lakers at Houston
+Free Throws               0, 05/05/2026, L.A. Lakers at Oklahoma City
+Free Throw Attempts       0, 05/05/2026, L.A. Lakers at Oklahoma City
 Offensive Rebounds        2, 04/26/2026, L.A. Lakers at Houston
-Defensive Rebounds        0, 05/01/2026, L.A. Lakers at Houston
+Defensive Rebounds        0, 05/05/2026, L.A. Lakers at Oklahoma City
 Rebounds                  2, 04/26/2026, L.A. Lakers at Houston
 Assists                   4, 04/26/2026, L.A. Lakers at Houston
 Steals                    1, 05/01/2026, L.A. Lakers at Houston
 Turnovers                 1, 04/26/2026, L.A. Lakers at Houston (3 times)
-Blocked Shots             0, 05/01/2026, L.A. Lakers at Houston
+Blocked Shots             0, 05/05/2026, L.A. Lakers at Oklahoma City
 Points                    5, 04/26/2026, L.A. Lakers at Houston (Twice)
 
 Bronny James / Los Angeles Lakers / Career Postseason Single-Game Highs
@@ -13381,27 +13381,27 @@ Field Goals               2, 04/26/2026, L.A. Lakers at Houston (Twice)
 Field Goal Attempts       5, 04/26/2026, L.A. Lakers at Houston
 Three-Point Field Goals   1, 04/26/2026, L.A. Lakers at Houston (Twice)
 Three-Point Attempts      4, 04/26/2026, L.A. Lakers at Houston
-Free Throws               0, 05/01/2026, L.A. Lakers at Houston
-Free Throw Attempts       0, 05/01/2026, L.A. Lakers at Houston
+Free Throws               0, 05/05/2026, L.A. Lakers at Oklahoma City
+Free Throw Attempts       0, 05/05/2026, L.A. Lakers at Oklahoma City
 Offensive Rebounds        2, 04/26/2026, L.A. Lakers at Houston
-Defensive Rebounds        0, 05/01/2026, L.A. Lakers at Houston
+Defensive Rebounds        0, 05/05/2026, L.A. Lakers at Oklahoma City
 Rebounds                  2, 04/26/2026, L.A. Lakers at Houston
 Assists                   4, 04/26/2026, L.A. Lakers at Houston
 Steals                    1, 05/01/2026, L.A. Lakers at Houston
 Turnovers                 1, 04/26/2026, L.A. Lakers at Houston (3 times)
-Blocked Shots             0, 05/01/2026, L.A. Lakers at Houston
+Blocked Shots             0, 05/05/2026, L.A. Lakers at Oklahoma City
 Points                    5, 04/26/2026, L.A. Lakers at Houston (Twice)
 
 
 LeBron James / Los Angeles Lakers / 2025-26 Postseason Single-Game Highs
 Minutes                  45, 04/24/2026, L.A. Lakers at Houston
-Field Goals              10, 05/01/2026, L.A. Lakers at Houston (Twice)
+Field Goals              12, 05/05/2026, L.A. Lakers at Oklahoma City
 Field Goal Attempts      25, 05/01/2026, L.A. Lakers at Houston
 Three-Point Field Goals   4, 04/24/2026, L.A. Lakers at Houston
 Three-Point Attempts      9, 04/24/2026, L.A. Lakers at Houston
 Free Throws              10, 04/21/2026, L.A. Lakers vs Houston
 Free Throw Attempts      14, 04/21/2026, L.A. Lakers vs Houston
-Offensive Rebounds        1, 05/01/2026, L.A. Lakers at Houston (Twice)
+Offensive Rebounds        1, 05/05/2026, L.A. Lakers at Oklahoma City (3 times)
 Defensive Rebounds       13, 04/24/2026, L.A. Lakers at Houston
 Rebounds                 13, 04/24/2026, L.A. Lakers at Houston
 Assists                  13, 04/18/2026, L.A. Lakers vs Houston
@@ -13557,13 +13557,13 @@ Three-Point Field Goals   2, 04/26/2026, L.A. Lakers at Houston
 Three-Point Attempts      3, 04/26/2026, L.A. Lakers at Houston
 Free Throws               2, 04/26/2026, L.A. Lakers at Houston
 Free Throw Attempts       2, 04/26/2026, L.A. Lakers at Houston
-Offensive Rebounds        0, 05/01/2026, L.A. Lakers at Houston
+Offensive Rebounds        0, 05/05/2026, L.A. Lakers at Oklahoma City
 Defensive Rebounds        3, 04/26/2026, L.A. Lakers at Houston
 Rebounds                  3, 04/26/2026, L.A. Lakers at Houston
-Assists                   0, 05/01/2026, L.A. Lakers at Houston
-Steals                    0, 05/01/2026, L.A. Lakers at Houston
-Turnovers                 0, 05/01/2026, L.A. Lakers at Houston
-Blocked Shots             0, 05/01/2026, L.A. Lakers at Houston
+Assists                   0, 05/05/2026, L.A. Lakers at Oklahoma City
+Steals                    0, 05/05/2026, L.A. Lakers at Oklahoma City
+Turnovers                 0, 05/05/2026, L.A. Lakers at Oklahoma City
+Blocked Shots             0, 05/05/2026, L.A. Lakers at Oklahoma City
 Points                    8, 04/26/2026, L.A. Lakers at Houston
 
 Dalton Knecht / Los Angeles Lakers / Career Postseason Single-Game Highs
@@ -13577,10 +13577,10 @@ Free Throw Attempts       2, 04/26/2026, L.A. Lakers at Houston
 Offensive Rebounds        2, 04/19/2025, L.A. Lakers vs Minnesota
 Defensive Rebounds        3, 04/26/2026, L.A. Lakers at Houston
 Rebounds                  3, 04/26/2026, L.A. Lakers at Houston (Twice)
-Assists                   0, 05/01/2026, L.A. Lakers at Houston
-Steals                    0, 05/01/2026, L.A. Lakers at Houston
-Turnovers                 0, 05/01/2026, L.A. Lakers at Houston
-Blocked Shots             0, 05/01/2026, L.A. Lakers at Houston
+Assists                   0, 05/05/2026, L.A. Lakers at Oklahoma City
+Steals                    0, 05/05/2026, L.A. Lakers at Oklahoma City
+Turnovers                 0, 05/05/2026, L.A. Lakers at Oklahoma City
+Blocked Shots             0, 05/05/2026, L.A. Lakers at Oklahoma City
 Points                    8, 04/26/2026, L.A. Lakers at Houston
 
 
@@ -13588,7 +13588,7 @@ Jake LaRavia / Los Angeles Lakers / 2025-26 Postseason Single-Game Highs
 Minutes                  18, 04/18/2026, L.A. Lakers vs Houston
 Field Goals               3, 05/01/2026, L.A. Lakers at Houston
 Field Goal Attempts       8, 05/01/2026, L.A. Lakers at Houston
-Three-Point Field Goals   1, 05/01/2026, L.A. Lakers at Houston
+Three-Point Field Goals   1, 05/05/2026, L.A. Lakers at Oklahoma City (Twice)
 Three-Point Attempts      2, 05/01/2026, L.A. Lakers at Houston
 Free Throws               4, 04/18/2026, L.A. Lakers vs Houston
 Free Throw Attempts       4, 04/18/2026, L.A. Lakers vs Houston
@@ -13596,16 +13596,16 @@ Offensive Rebounds        3, 05/01/2026, L.A. Lakers at Houston
 Defensive Rebounds        2, 05/01/2026, L.A. Lakers at Houston (Twice)
 Rebounds                  5, 05/01/2026, L.A. Lakers at Houston
 Assists                   3, 04/18/2026, L.A. Lakers vs Houston
-Steals                    1, 04/24/2026, L.A. Lakers at Houston (Twice)
-Turnovers                 2, 05/01/2026, L.A. Lakers at Houston (3 times)
-Blocked Shots             1, 05/01/2026, L.A. Lakers at Houston (5 times)
+Steals                    1, 05/05/2026, L.A. Lakers at Oklahoma City (3 times)
+Turnovers                 2, 05/05/2026, L.A. Lakers at Oklahoma City (4 times)
+Blocked Shots             1, 05/05/2026, L.A. Lakers at Oklahoma City (6 times)
 Points                    7, 05/01/2026, L.A. Lakers at Houston
 
 Jake LaRavia / Los Angeles Lakers / Career Postseason Single-Game Highs (With this team only)
 Minutes                  18, 04/18/2026, L.A. Lakers vs Houston
 Field Goals               3, 05/01/2026, L.A. Lakers at Houston
 Field Goal Attempts       8, 05/01/2026, L.A. Lakers at Houston
-Three-Point Field Goals   1, 05/01/2026, L.A. Lakers at Houston
+Three-Point Field Goals   1, 05/05/2026, L.A. Lakers at Oklahoma City (Twice)
 Three-Point Attempts      2, 05/01/2026, L.A. Lakers at Houston
 Free Throws               4, 04/18/2026, L.A. Lakers vs Houston
 Free Throw Attempts       4, 04/18/2026, L.A. Lakers vs Houston
@@ -13613,26 +13613,26 @@ Offensive Rebounds        3, 05/01/2026, L.A. Lakers at Houston
 Defensive Rebounds        2, 05/01/2026, L.A. Lakers at Houston (Twice)
 Rebounds                  5, 05/01/2026, L.A. Lakers at Houston
 Assists                   3, 04/18/2026, L.A. Lakers vs Houston
-Steals                    1, 04/24/2026, L.A. Lakers at Houston (Twice)
-Turnovers                 2, 05/01/2026, L.A. Lakers at Houston (3 times)
-Blocked Shots             1, 05/01/2026, L.A. Lakers at Houston (5 times)
+Steals                    1, 05/05/2026, L.A. Lakers at Oklahoma City (3 times)
+Turnovers                 2, 05/05/2026, L.A. Lakers at Oklahoma City (4 times)
+Blocked Shots             1, 05/05/2026, L.A. Lakers at Oklahoma City (6 times)
 Points                    7, 05/01/2026, L.A. Lakers at Houston
 
 
 Austin Reaves / Los Angeles Lakers / 2025-26 Postseason Single-Game Highs
-Minutes                  34, 04/29/2026, L.A. Lakers vs Houston
+Minutes                  36, 05/05/2026, L.A. Lakers at Oklahoma City
 Field Goals               7, 05/01/2026, L.A. Lakers at Houston
-Field Goal Attempts      16, 04/29/2026, L.A. Lakers vs Houston
+Field Goal Attempts      16, 05/05/2026, L.A. Lakers at Oklahoma City (Twice)
 Three-Point Field Goals   2, 04/29/2026, L.A. Lakers vs Houston
 Three-Point Attempts      8, 04/29/2026, L.A. Lakers vs Houston
 Free Throws              12, 04/29/2026, L.A. Lakers vs Houston
 Free Throw Attempts      13, 04/29/2026, L.A. Lakers vs Houston
-Offensive Rebounds        0, 05/01/2026, L.A. Lakers at Houston
-Defensive Rebounds        4, 04/29/2026, L.A. Lakers vs Houston
-Rebounds                  4, 04/29/2026, L.A. Lakers vs Houston
-Assists                   6, 04/29/2026, L.A. Lakers vs Houston
-Steals                    0, 05/01/2026, L.A. Lakers at Houston
-Turnovers                 3, 04/29/2026, L.A. Lakers vs Houston
+Offensive Rebounds        1, 05/05/2026, L.A. Lakers at Oklahoma City
+Defensive Rebounds        4, 05/05/2026, L.A. Lakers at Oklahoma City (Twice)
+Rebounds                  5, 05/05/2026, L.A. Lakers at Oklahoma City
+Assists                   6, 05/05/2026, L.A. Lakers at Oklahoma City (Twice)
+Steals                    0, 05/05/2026, L.A. Lakers at Oklahoma City
+Turnovers                 4, 05/05/2026, L.A. Lakers at Oklahoma City
 Blocked Shots             3, 05/01/2026, L.A. Lakers at Houston
 Points                   22, 04/29/2026, L.A. Lakers vs Houston
 
@@ -13657,12 +13657,12 @@ Points                   23, 05/20/2023, L.A. Lakers vs Denver (5 times)
 Marcus Smart / Los Angeles Lakers / 2025-26 Postseason Single-Game Highs
 Minutes                  39, 04/24/2026, L.A. Lakers at Houston
 Field Goals               8, 04/21/2026, L.A. Lakers vs Houston
-Field Goal Attempts      13, 04/21/2026, L.A. Lakers vs Houston
+Field Goal Attempts      15, 05/05/2026, L.A. Lakers at Oklahoma City
 Three-Point Field Goals   5, 04/21/2026, L.A. Lakers vs Houston
-Three-Point Attempts      7, 04/29/2026, L.A. Lakers vs Houston (Twice)
+Three-Point Attempts      8, 05/05/2026, L.A. Lakers at Oklahoma City
 Free Throws               9, 04/24/2026, L.A. Lakers at Houston
 Free Throw Attempts      11, 04/24/2026, L.A. Lakers at Houston
-Offensive Rebounds        1, 05/01/2026, L.A. Lakers at Houston (4 times)
+Offensive Rebounds        2, 05/05/2026, L.A. Lakers at Oklahoma City
 Defensive Rebounds        6, 05/01/2026, L.A. Lakers at Houston
 Rebounds                  7, 05/01/2026, L.A. Lakers at Houston
 Assists                  10, 04/24/2026, L.A. Lakers at Houston
@@ -13691,12 +13691,12 @@ Points                   27, 05/21/2017, Boston at Cleveland
 Marcus Smart / Los Angeles Lakers / Career Postseason Single-Game Highs (With this team only)
 Minutes                  39, 04/24/2026, L.A. Lakers at Houston
 Field Goals               8, 04/21/2026, L.A. Lakers vs Houston
-Field Goal Attempts      13, 04/21/2026, L.A. Lakers vs Houston
+Field Goal Attempts      15, 05/05/2026, L.A. Lakers at Oklahoma City
 Three-Point Field Goals   5, 04/21/2026, L.A. Lakers vs Houston
-Three-Point Attempts      7, 04/29/2026, L.A. Lakers vs Houston (Twice)
+Three-Point Attempts      8, 05/05/2026, L.A. Lakers at Oklahoma City
 Free Throws               9, 04/24/2026, L.A. Lakers at Houston
 Free Throw Attempts      11, 04/24/2026, L.A. Lakers at Houston
-Offensive Rebounds        1, 05/01/2026, L.A. Lakers at Houston (4 times)
+Offensive Rebounds        2, 05/05/2026, L.A. Lakers at Oklahoma City
 Defensive Rebounds        6, 05/01/2026, L.A. Lakers at Houston
 Rebounds                  7, 05/01/2026, L.A. Lakers at Houston
 Assists                  10, 04/24/2026, L.A. Lakers at Houston
@@ -13712,13 +13712,13 @@ Field Goals               2, 04/26/2026, L.A. Lakers at Houston
 Field Goal Attempts       5, 04/26/2026, L.A. Lakers at Houston
 Three-Point Field Goals   1, 05/01/2026, L.A. Lakers at Houston (Twice)
 Three-Point Attempts      3, 04/26/2026, L.A. Lakers at Houston
-Free Throws               0, 05/01/2026, L.A. Lakers at Houston
-Free Throw Attempts       0, 05/01/2026, L.A. Lakers at Houston
-Offensive Rebounds        0, 05/01/2026, L.A. Lakers at Houston
-Defensive Rebounds        0, 05/01/2026, L.A. Lakers at Houston
-Rebounds                  0, 05/01/2026, L.A. Lakers at Houston
-Assists                   0, 05/01/2026, L.A. Lakers at Houston
-Steals                    0, 05/01/2026, L.A. Lakers at Houston
+Free Throws               0, 05/05/2026, L.A. Lakers at Oklahoma City
+Free Throw Attempts       0, 05/05/2026, L.A. Lakers at Oklahoma City
+Offensive Rebounds        0, 05/05/2026, L.A. Lakers at Oklahoma City
+Defensive Rebounds        1, 05/05/2026, L.A. Lakers at Oklahoma City
+Rebounds                  1, 05/05/2026, L.A. Lakers at Oklahoma City
+Assists                   0, 05/05/2026, L.A. Lakers at Oklahoma City
+Steals                    0, 05/05/2026, L.A. Lakers at Oklahoma City
 Turnovers                 1, 04/26/2026, L.A. Lakers at Houston
 Blocked Shots             1, 04/26/2026, L.A. Lakers at Houston
 Points                    5, 04/26/2026, L.A. Lakers at Houston
@@ -13729,13 +13729,13 @@ Field Goals               2, 04/26/2026, L.A. Lakers at Houston
 Field Goal Attempts       5, 04/26/2026, L.A. Lakers at Houston
 Three-Point Field Goals   1, 05/01/2026, L.A. Lakers at Houston (Twice)
 Three-Point Attempts      3, 04/26/2026, L.A. Lakers at Houston
-Free Throws               0, 05/01/2026, L.A. Lakers at Houston
-Free Throw Attempts       0, 05/01/2026, L.A. Lakers at Houston
-Offensive Rebounds        0, 05/01/2026, L.A. Lakers at Houston
-Defensive Rebounds        0, 05/01/2026, L.A. Lakers at Houston
-Rebounds                  0, 05/01/2026, L.A. Lakers at Houston
-Assists                   0, 05/01/2026, L.A. Lakers at Houston
-Steals                    0, 05/01/2026, L.A. Lakers at Houston
+Free Throws               0, 05/05/2026, L.A. Lakers at Oklahoma City
+Free Throw Attempts       0, 05/05/2026, L.A. Lakers at Oklahoma City
+Offensive Rebounds        0, 05/05/2026, L.A. Lakers at Oklahoma City
+Defensive Rebounds        1, 05/05/2026, L.A. Lakers at Oklahoma City
+Rebounds                  1, 05/05/2026, L.A. Lakers at Oklahoma City
+Assists                   0, 05/05/2026, L.A. Lakers at Oklahoma City
+Steals                    0, 05/05/2026, L.A. Lakers at Oklahoma City
 Turnovers                 1, 04/26/2026, L.A. Lakers at Houston
 Blocked Shots             1, 04/26/2026, L.A. Lakers at Houston
 Points                    5, 04/26/2026, L.A. Lakers at Houston
@@ -13745,34 +13745,34 @@ Adou Thiero / Los Angeles Lakers / 2025-26 Postseason Single-Game Highs
 Minutes                   6, 04/26/2026, L.A. Lakers at Houston
 Field Goals               1, 05/01/2026, L.A. Lakers at Houston (Twice)
 Field Goal Attempts       1, 05/01/2026, L.A. Lakers at Houston (Twice)
-Three-Point Field Goals   0, 05/01/2026, L.A. Lakers at Houston
-Three-Point Attempts      0, 05/01/2026, L.A. Lakers at Houston
+Three-Point Field Goals   0, 05/05/2026, L.A. Lakers at Oklahoma City
+Three-Point Attempts      0, 05/05/2026, L.A. Lakers at Oklahoma City
 Free Throws               1, 04/26/2026, L.A. Lakers at Houston
 Free Throw Attempts       2, 05/01/2026, L.A. Lakers at Houston
 Offensive Rebounds        1, 05/01/2026, L.A. Lakers at Houston
-Defensive Rebounds        0, 05/01/2026, L.A. Lakers at Houston
+Defensive Rebounds        0, 05/05/2026, L.A. Lakers at Oklahoma City
 Rebounds                  1, 05/01/2026, L.A. Lakers at Houston
-Assists                   0, 05/01/2026, L.A. Lakers at Houston
-Steals                    0, 05/01/2026, L.A. Lakers at Houston
+Assists                   0, 05/05/2026, L.A. Lakers at Oklahoma City
+Steals                    0, 05/05/2026, L.A. Lakers at Oklahoma City
 Turnovers                 1, 04/26/2026, L.A. Lakers at Houston
-Blocked Shots             0, 05/01/2026, L.A. Lakers at Houston
+Blocked Shots             0, 05/05/2026, L.A. Lakers at Oklahoma City
 Points                    3, 04/26/2026, L.A. Lakers at Houston
 
 Adou Thiero / Los Angeles Lakers / Career Postseason Single-Game Highs
 Minutes                   6, 04/26/2026, L.A. Lakers at Houston
 Field Goals               1, 05/01/2026, L.A. Lakers at Houston (Twice)
 Field Goal Attempts       1, 05/01/2026, L.A. Lakers at Houston (Twice)
-Three-Point Field Goals   0, 05/01/2026, L.A. Lakers at Houston
-Three-Point Attempts      0, 05/01/2026, L.A. Lakers at Houston
+Three-Point Field Goals   0, 05/05/2026, L.A. Lakers at Oklahoma City
+Three-Point Attempts      0, 05/05/2026, L.A. Lakers at Oklahoma City
 Free Throws               1, 04/26/2026, L.A. Lakers at Houston
 Free Throw Attempts       2, 05/01/2026, L.A. Lakers at Houston
 Offensive Rebounds        1, 05/01/2026, L.A. Lakers at Houston
-Defensive Rebounds        0, 05/01/2026, L.A. Lakers at Houston
+Defensive Rebounds        0, 05/05/2026, L.A. Lakers at Oklahoma City
 Rebounds                  1, 05/01/2026, L.A. Lakers at Houston
-Assists                   0, 05/01/2026, L.A. Lakers at Houston
-Steals                    0, 05/01/2026, L.A. Lakers at Houston
+Assists                   0, 05/05/2026, L.A. Lakers at Oklahoma City
+Steals                    0, 05/05/2026, L.A. Lakers at Oklahoma City
 Turnovers                 1, 04/26/2026, L.A. Lakers at Houston
-Blocked Shots             0, 05/01/2026, L.A. Lakers at Houston
+Blocked Shots             0, 05/05/2026, L.A. Lakers at Oklahoma City
 Points                    3, 04/26/2026, L.A. Lakers at Houston
 
 
@@ -13790,7 +13790,7 @@ Rebounds                  6, 04/24/2026, L.A. Lakers at Houston
 Assists                   1, 04/24/2026, L.A. Lakers at Houston (Twice)
 Steals                    1, 04/26/2026, L.A. Lakers at Houston (Twice)
 Turnovers                 1, 04/26/2026, L.A. Lakers at Houston
-Blocked Shots             0, 04/29/2026, L.A. Lakers vs Houston
+Blocked Shots             0, 05/05/2026, L.A. Lakers at Oklahoma City
 Points                    8, 04/26/2026, L.A. Lakers at Houston
 
 Jarred Vanderbilt / Los Angeles Lakers / Career Postseason Single-Game Highs (Games with all teams)
@@ -19714,7 +19714,7 @@ Points                   35, 05/21/2025, New York vs Indiana
 
 
 Team Totals / Oklahoma City Thunder / 2025-26 Postseason Single-Game Highs
-Minutes                 240, 04/27/2026, Oklahoma City at Phoenix (4 times)
+Minutes                 240, 05/05/2026, Oklahoma City vs L.A. Lakers (5 times)
 Field Goals              45, 04/25/2026, Oklahoma City at Phoenix
 Field Goal Attempts      93, 04/19/2026, Oklahoma City vs Phoenix
 Three-Point Field Goals  17, 04/27/2026, Oklahoma City at Phoenix
@@ -19722,12 +19722,12 @@ Three-Point Attempts     46, 04/19/2026, Oklahoma City vs Phoenix
 Free Throws              26, 04/27/2026, Oklahoma City at Phoenix
 Free Throw Attempts      30, 04/27/2026, Oklahoma City at Phoenix
 Offensive Rebounds       19, 04/19/2026, Oklahoma City vs Phoenix
-Defensive Rebounds       35, 04/25/2026, Oklahoma City at Phoenix (Twice)
+Defensive Rebounds       35, 05/05/2026, Oklahoma City vs L.A. Lakers (3 times)
 Rebounds                 54, 04/19/2026, Oklahoma City vs Phoenix
-Assists                  28, 04/27/2026, Oklahoma City at Phoenix (Twice)
+Assists                  29, 05/05/2026, Oklahoma City vs L.A. Lakers
 Steals                   14, 04/22/2026, Oklahoma City vs Phoenix
 Turnovers                17, 04/27/2026, Oklahoma City at Phoenix
-Blocked Shots             7, 04/19/2026, Oklahoma City vs Phoenix
+Blocked Shots             7, 05/05/2026, Oklahoma City vs L.A. Lakers (Twice)
 Points                  131, 04/27/2026, Oklahoma City at Phoenix
 
 Team Totals / Oklahoma City Thunder / All-Time Postseason Single-Game Highs
@@ -19749,13 +19749,13 @@ Points                  149, 05/07/2025, Oklahoma City vs Denver
 
 
 Team Totals / Oklahoma City Thunder / 2025-26 Postseason Single-Game Lows
-Minutes                 240, 04/27/2026, Oklahoma City at Phoenix
-Field Goals              42, 04/19/2026, Oklahoma City vs Phoenix
+Minutes                 240, 05/05/2026, Oklahoma City vs L.A. Lakers
+Field Goals              42, 05/05/2026, Oklahoma City vs L.A. Lakers (Twice)
 Field Goal Attempts      82, 04/27/2026, Oklahoma City at Phoenix
 Three-Point Field Goals  12, 04/25/2026, Oklahoma City at Phoenix
-Three-Point Attempts     34, 04/27/2026, Oklahoma City at Phoenix
-Free Throws              19, 04/25/2026, Oklahoma City at Phoenix
-Free Throw Attempts      21, 04/25/2026, Oklahoma City at Phoenix
+Three-Point Attempts     30, 05/05/2026, Oklahoma City vs L.A. Lakers
+Free Throws              11, 05/05/2026, Oklahoma City vs L.A. Lakers
+Free Throw Attempts      12, 05/05/2026, Oklahoma City vs L.A. Lakers
 Offensive Rebounds        8, 04/25/2026, Oklahoma City at Phoenix
 Defensive Rebounds       26, 04/27/2026, Oklahoma City at Phoenix
 Rebounds                 39, 04/27/2026, Oklahoma City at Phoenix
@@ -19763,10 +19763,10 @@ Assists                  23, 04/25/2026, Oklahoma City at Phoenix
 Steals                    5, 04/27/2026, Oklahoma City at Phoenix
 Turnovers                 8, 04/25/2026, Oklahoma City at Phoenix (Twice)
 Blocked Shots             4, 04/27/2026, Oklahoma City at Phoenix
-Points                  119, 04/19/2026, Oklahoma City vs Phoenix
+Points                  108, 05/05/2026, Oklahoma City vs L.A. Lakers
 
 Opponent Totals / Oklahoma City Thunder / 2025-26 Postseason Single-Game Highs
-Minutes                 240, 04/27/2026, Oklahoma City at Phoenix (4 times)
+Minutes                 240, 05/05/2026, Oklahoma City vs L.A. Lakers (5 times)
 Field Goals              48, 04/27/2026, Oklahoma City at Phoenix
 Field Goal Attempts      90, 04/27/2026, Oklahoma City at Phoenix
 Three-Point Field Goals  14, 04/27/2026, Oklahoma City at Phoenix
@@ -19776,7 +19776,7 @@ Free Throw Attempts      23, 04/25/2026, Oklahoma City at Phoenix
 Offensive Rebounds       15, 04/22/2026, Oklahoma City vs Phoenix
 Defensive Rebounds       31, 04/19/2026, Oklahoma City vs Phoenix
 Rebounds                 45, 04/19/2026, Oklahoma City vs Phoenix
-Assists                  25, 04/25/2026, Oklahoma City at Phoenix
+Assists                  26, 05/05/2026, Oklahoma City vs L.A. Lakers
 Steals                   10, 04/27/2026, Oklahoma City at Phoenix
 Turnovers                22, 04/22/2026, Oklahoma City vs Phoenix
 Blocked Shots             6, 04/27/2026, Oklahoma City at Phoenix
@@ -19801,13 +19801,13 @@ Points                  151, 04/23/1987, Seattle at Dallas
 
 
 Opponent Totals / Oklahoma City Thunder / 2025-26 Postseason Single-Game Lows
-Minutes                 240, 04/27/2026, Oklahoma City at Phoenix
+Minutes                 240, 05/05/2026, Oklahoma City vs L.A. Lakers
 Field Goals              29, 04/19/2026, Oklahoma City vs Phoenix
 Field Goal Attempts      83, 04/19/2026, Oklahoma City vs Phoenix
-Three-Point Field Goals  11, 04/22/2026, Oklahoma City vs Phoenix
-Three-Point Attempts     31, 04/22/2026, Oklahoma City vs Phoenix
-Free Throws              12, 04/27/2026, Oklahoma City at Phoenix
-Free Throw Attempts      16, 04/27/2026, Oklahoma City at Phoenix
+Three-Point Field Goals  10, 05/05/2026, Oklahoma City vs L.A. Lakers
+Three-Point Attempts     30, 05/05/2026, Oklahoma City vs L.A. Lakers
+Free Throws              10, 05/05/2026, Oklahoma City vs L.A. Lakers
+Free Throw Attempts      13, 05/05/2026, Oklahoma City vs L.A. Lakers
 Offensive Rebounds        9, 04/25/2026, Oklahoma City at Phoenix
 Defensive Rebounds       23, 04/27/2026, Oklahoma City at Phoenix
 Rebounds                 33, 04/27/2026, Oklahoma City at Phoenix
@@ -19823,12 +19823,12 @@ Field Goals               5, 04/27/2026, Oklahoma City at Phoenix (Twice)
 Field Goal Attempts       9, 04/25/2026, Oklahoma City at Phoenix
 Three-Point Field Goals   4, 04/27/2026, Oklahoma City at Phoenix
 Three-Point Attempts      6, 04/27/2026, Oklahoma City at Phoenix (Twice)
-Free Throws               0, 04/27/2026, Oklahoma City at Phoenix
-Free Throw Attempts       0, 04/27/2026, Oklahoma City at Phoenix
+Free Throws               0, 05/05/2026, Oklahoma City vs L.A. Lakers
+Free Throw Attempts       0, 05/05/2026, Oklahoma City vs L.A. Lakers
 Offensive Rebounds        2, 04/19/2026, Oklahoma City vs Phoenix
 Defensive Rebounds        4, 04/27/2026, Oklahoma City at Phoenix (Twice)
 Rebounds                  5, 04/25/2026, Oklahoma City at Phoenix (Twice)
-Assists                   1, 04/27/2026, Oklahoma City at Phoenix (4 times)
+Assists                   2, 05/05/2026, Oklahoma City vs L.A. Lakers
 Steals                    3, 04/22/2026, Oklahoma City vs Phoenix
 Turnovers                 3, 04/27/2026, Oklahoma City at Phoenix
 Blocked Shots             1, 04/25/2026, Oklahoma City at Phoenix
@@ -19870,7 +19870,7 @@ Points                   20, 06/13/2025, Oklahoma City at Indiana (3 times)
 
 
 Luguentz Dort / Oklahoma City Thunder / 2025-26 Postseason Single-Game Highs
-Minutes                  27, 04/27/2026, Oklahoma City at Phoenix
+Minutes                  28, 05/05/2026, Oklahoma City vs L.A. Lakers
 Field Goals               3, 04/25/2026, Oklahoma City at Phoenix (3 times)
 Field Goal Attempts       8, 04/25/2026, Oklahoma City at Phoenix (Twice)
 Three-Point Field Goals   3, 04/25/2026, Oklahoma City at Phoenix (Twice)
@@ -19880,9 +19880,9 @@ Free Throw Attempts       2, 04/27/2026, Oklahoma City at Phoenix
 Offensive Rebounds        2, 04/25/2026, Oklahoma City at Phoenix
 Defensive Rebounds        4, 04/25/2026, Oklahoma City at Phoenix
 Rebounds                  6, 04/25/2026, Oklahoma City at Phoenix
-Assists                   3, 04/25/2026, Oklahoma City at Phoenix
+Assists                   4, 05/05/2026, Oklahoma City vs L.A. Lakers
 Steals                    1, 04/22/2026, Oklahoma City vs Phoenix (Twice)
-Turnovers                 0, 04/27/2026, Oklahoma City at Phoenix
+Turnovers                 2, 05/05/2026, Oklahoma City vs L.A. Lakers
 Blocked Shots             1, 04/27/2026, Oklahoma City at Phoenix
 Points                    9, 04/25/2026, Oklahoma City at Phoenix (Twice)
 
@@ -19897,7 +19897,7 @@ Free Throw Attempts       6, 05/13/2024, Oklahoma City at Dallas (Twice)
 Offensive Rebounds        5, 06/16/2025, Oklahoma City vs Indiana
 Defensive Rebounds        6, 05/22/2025, Oklahoma City vs Minnesota (3 times)
 Rebounds                  9, 04/22/2025, Oklahoma City vs Memphis
-Assists                   4, 05/22/2025, Oklahoma City vs Minnesota (Twice)
+Assists                   4, 05/05/2026, Oklahoma City vs L.A. Lakers (3 times)
 Steals                    4, 06/05/2025, Oklahoma City vs Indiana
 Turnovers                 5, 08/31/2020, Oklahoma City vs Houston
 Blocked Shots             3, 08/22/2020, Oklahoma City vs Houston
@@ -19916,9 +19916,9 @@ Offensive Rebounds        1, 04/25/2026, Oklahoma City at Phoenix (3 times)
 Defensive Rebounds        4, 04/22/2026, Oklahoma City vs Phoenix
 Rebounds                  5, 04/22/2026, Oklahoma City vs Phoenix
 Assists                   9, 04/22/2026, Oklahoma City vs Phoenix
-Steals                    1, 04/25/2026, Oklahoma City at Phoenix (Twice)
-Turnovers                 3, 04/27/2026, Oklahoma City at Phoenix (3 times)
-Blocked Shots             2, 04/19/2026, Oklahoma City vs Phoenix
+Steals                    1, 05/05/2026, Oklahoma City vs L.A. Lakers (3 times)
+Turnovers                 7, 05/05/2026, Oklahoma City vs L.A. Lakers
+Blocked Shots             2, 05/05/2026, Oklahoma City vs L.A. Lakers (Twice)
 Points                   42, 04/25/2026, Oklahoma City at Phoenix
 
 Shai Gilgeous-Alexander / Oklahoma City Thunder / Career Postseason Single-Game Highs (Games with all teams)
@@ -19960,15 +19960,15 @@ Isaiah Hartenstein / Oklahoma City Thunder / 2025-26 Postseason Single-Game High
 Minutes                  29, 04/27/2026, Oklahoma City at Phoenix
 Field Goals               5, 04/27/2026, Oklahoma City at Phoenix
 Field Goal Attempts       7, 04/27/2026, Oklahoma City at Phoenix
-Three-Point Field Goals   0, 04/27/2026, Oklahoma City at Phoenix
-Three-Point Attempts      0, 04/27/2026, Oklahoma City at Phoenix
+Three-Point Field Goals   0, 05/05/2026, Oklahoma City vs L.A. Lakers
+Three-Point Attempts      0, 05/05/2026, Oklahoma City vs L.A. Lakers
 Free Throws               8, 04/27/2026, Oklahoma City at Phoenix
 Free Throw Attempts       9, 04/27/2026, Oklahoma City at Phoenix
 Offensive Rebounds        7, 04/27/2026, Oklahoma City at Phoenix
-Defensive Rebounds        5, 04/27/2026, Oklahoma City at Phoenix
+Defensive Rebounds        7, 05/05/2026, Oklahoma City vs L.A. Lakers
 Rebounds                 12, 04/27/2026, Oklahoma City at Phoenix
-Assists                   3, 04/27/2026, Oklahoma City at Phoenix
-Steals                    1, 04/27/2026, Oklahoma City at Phoenix (3 times)
+Assists                   4, 05/05/2026, Oklahoma City vs L.A. Lakers
+Steals                    1, 05/05/2026, Oklahoma City vs L.A. Lakers (4 times)
 Turnovers                 2, 04/27/2026, Oklahoma City at Phoenix (Twice)
 Blocked Shots             2, 04/19/2026, Oklahoma City vs Phoenix
 Points                   18, 04/27/2026, Oklahoma City at Phoenix
@@ -19994,8 +19994,8 @@ Isaiah Hartenstein / Oklahoma City Thunder / Career Postseason Single-Game Highs
 Minutes                  33, 05/11/2025, Oklahoma City at Denver
 Field Goals               7, 05/13/2025, Oklahoma City vs Denver (Twice)
 Field Goal Attempts      14, 05/09/2025, Oklahoma City at Denver
-Three-Point Field Goals   0, 04/27/2026, Oklahoma City at Phoenix
-Three-Point Attempts      0, 04/27/2026, Oklahoma City at Phoenix
+Three-Point Field Goals   0, 05/05/2026, Oklahoma City vs L.A. Lakers
+Three-Point Attempts      0, 05/05/2026, Oklahoma City vs L.A. Lakers
 Free Throws               8, 04/27/2026, Oklahoma City at Phoenix
 Free Throw Attempts       9, 04/27/2026, Oklahoma City at Phoenix
 Offensive Rebounds        7, 04/27/2026, Oklahoma City at Phoenix
@@ -20010,24 +20010,24 @@ Points                   18, 04/27/2026, Oklahoma City at Phoenix
 
 Chet Holmgren / Oklahoma City Thunder / 2025-26 Postseason Single-Game Highs
 Minutes                  34, 04/27/2026, Oklahoma City at Phoenix
-Field Goals               9, 04/27/2026, Oklahoma City at Phoenix
-Field Goal Attempts      16, 04/27/2026, Oklahoma City at Phoenix
+Field Goals               9, 05/05/2026, Oklahoma City vs L.A. Lakers (Twice)
+Field Goal Attempts      17, 05/05/2026, Oklahoma City vs L.A. Lakers
 Three-Point Field Goals   3, 04/22/2026, Oklahoma City vs Phoenix
 Three-Point Attempts      6, 04/22/2026, Oklahoma City vs Phoenix (Twice)
-Free Throws               4, 04/27/2026, Oklahoma City at Phoenix (Twice)
-Free Throw Attempts       4, 04/27/2026, Oklahoma City at Phoenix (Twice)
-Offensive Rebounds        2, 04/27/2026, Oklahoma City at Phoenix (Twice)
+Free Throws               4, 05/05/2026, Oklahoma City vs L.A. Lakers (3 times)
+Free Throw Attempts       4, 05/05/2026, Oklahoma City vs L.A. Lakers (3 times)
+Offensive Rebounds        3, 05/05/2026, Oklahoma City vs L.A. Lakers
 Defensive Rebounds       10, 04/27/2026, Oklahoma City at Phoenix
-Rebounds                 12, 04/27/2026, Oklahoma City at Phoenix
+Rebounds                 12, 05/05/2026, Oklahoma City vs L.A. Lakers (Twice)
 Assists                   3, 04/27/2026, Oklahoma City at Phoenix
 Steals                    2, 04/27/2026, Oklahoma City at Phoenix (Twice)
 Turnovers                 3, 04/22/2026, Oklahoma City vs Phoenix
 Blocked Shots             4, 04/22/2026, Oklahoma City vs Phoenix
-Points                   24, 04/27/2026, Oklahoma City at Phoenix
+Points                   24, 05/05/2026, Oklahoma City vs L.A. Lakers (Twice)
 
 Chet Holmgren / Oklahoma City Thunder / Career Postseason Single-Game Highs
 Minutes                  40, 05/09/2025, Oklahoma City at Denver
-Field Goals               9, 04/27/2026, Oklahoma City at Phoenix (4 times)
+Field Goals               9, 05/05/2026, Oklahoma City vs L.A. Lakers (5 times)
 Field Goal Attempts      19, 05/09/2025, Oklahoma City at Denver
 Three-Point Field Goals   5, 04/24/2025, Oklahoma City at Memphis
 Three-Point Attempts     10, 04/24/2025, Oklahoma City at Memphis
@@ -20045,20 +20045,20 @@ Points                   26, 04/24/2024, Oklahoma City vs New Orleans
 
 Isaiah Joe / Oklahoma City Thunder / 2025-26 Postseason Single-Game Highs
 Minutes                  20, 04/19/2026, Oklahoma City vs Phoenix
-Field Goals               3, 04/19/2026, Oklahoma City vs Phoenix
+Field Goals               4, 05/05/2026, Oklahoma City vs L.A. Lakers
 Field Goal Attempts       8, 04/19/2026, Oklahoma City vs Phoenix
 Three-Point Field Goals   3, 04/19/2026, Oklahoma City vs Phoenix
 Three-Point Attempts      8, 04/19/2026, Oklahoma City vs Phoenix
-Free Throws               0, 04/27/2026, Oklahoma City at Phoenix
-Free Throw Attempts       0, 04/27/2026, Oklahoma City at Phoenix
-Offensive Rebounds        0, 04/27/2026, Oklahoma City at Phoenix
+Free Throws               0, 05/05/2026, Oklahoma City vs L.A. Lakers
+Free Throw Attempts       0, 05/05/2026, Oklahoma City vs L.A. Lakers
+Offensive Rebounds        0, 05/05/2026, Oklahoma City vs L.A. Lakers
 Defensive Rebounds        2, 04/19/2026, Oklahoma City vs Phoenix
 Rebounds                  2, 04/19/2026, Oklahoma City vs Phoenix
-Assists                   1, 04/19/2026, Oklahoma City vs Phoenix
-Steals                    1, 04/22/2026, Oklahoma City vs Phoenix (Twice)
+Assists                   1, 05/05/2026, Oklahoma City vs L.A. Lakers (Twice)
+Steals                    1, 05/05/2026, Oklahoma City vs L.A. Lakers (3 times)
 Turnovers                 1, 04/27/2026, Oklahoma City at Phoenix (Twice)
-Blocked Shots             0, 04/27/2026, Oklahoma City at Phoenix
-Points                    9, 04/19/2026, Oklahoma City vs Phoenix
+Blocked Shots             0, 05/05/2026, Oklahoma City vs L.A. Lakers
+Points                    9, 05/05/2026, Oklahoma City vs L.A. Lakers (Twice)
 
 Isaiah Joe / Oklahoma City Thunder / Career Postseason Single-Game Highs (Games with all teams)
 Minutes                  29, 05/18/2024, Oklahoma City at Dallas
@@ -20072,7 +20072,7 @@ Offensive Rebounds        3, 04/22/2025, Oklahoma City vs Memphis
 Defensive Rebounds        7, 05/20/2025, Oklahoma City vs Minnesota
 Rebounds                  8, 05/20/2025, Oklahoma City vs Minnesota
 Assists                   3, 05/18/2024, Oklahoma City at Dallas
-Steals                    1, 04/22/2026, Oklahoma City vs Phoenix
+Steals                    1, 05/05/2026, Oklahoma City vs L.A. Lakers
 Turnovers                 2, 04/20/2025, Oklahoma City vs Memphis
 Blocked Shots             1, 05/24/2025, Oklahoma City at Minnesota (Twice)
 Points                   14, 05/07/2025, Oklahoma City vs Denver
@@ -20089,50 +20089,50 @@ Offensive Rebounds        3, 04/22/2025, Oklahoma City vs Memphis
 Defensive Rebounds        7, 05/20/2025, Oklahoma City vs Minnesota
 Rebounds                  8, 05/20/2025, Oklahoma City vs Minnesota
 Assists                   3, 05/18/2024, Oklahoma City at Dallas
-Steals                    1, 04/22/2026, Oklahoma City vs Phoenix
+Steals                    1, 05/05/2026, Oklahoma City vs L.A. Lakers
 Turnovers                 2, 04/20/2025, Oklahoma City vs Memphis
 Blocked Shots             1, 05/24/2025, Oklahoma City at Minnesota (Twice)
 Points                   14, 05/07/2025, Oklahoma City vs Denver
 
 
 Jared McCain / Oklahoma City Thunder / 2025-26 Postseason Single-Game Highs
-Minutes                  12, 04/25/2026, Oklahoma City at Phoenix
-Field Goals               3, 04/25/2026, Oklahoma City at Phoenix
+Minutes                  15, 05/05/2026, Oklahoma City vs L.A. Lakers
+Field Goals               4, 05/05/2026, Oklahoma City vs L.A. Lakers
 Field Goal Attempts       8, 04/25/2026, Oklahoma City at Phoenix
-Three-Point Field Goals   1, 04/19/2026, Oklahoma City vs Phoenix
-Three-Point Attempts      3, 04/19/2026, Oklahoma City vs Phoenix
+Three-Point Field Goals   4, 05/05/2026, Oklahoma City vs L.A. Lakers
+Three-Point Attempts      5, 05/05/2026, Oklahoma City vs L.A. Lakers
 Free Throws               1, 04/25/2026, Oklahoma City at Phoenix
 Free Throw Attempts       1, 04/25/2026, Oklahoma City at Phoenix
-Offensive Rebounds        1, 04/25/2026, Oklahoma City at Phoenix
+Offensive Rebounds        1, 05/05/2026, Oklahoma City vs L.A. Lakers (Twice)
 Defensive Rebounds        3, 04/25/2026, Oklahoma City at Phoenix
 Rebounds                  4, 04/25/2026, Oklahoma City at Phoenix
-Assists                   1, 04/25/2026, Oklahoma City at Phoenix
-Steals                    0, 04/27/2026, Oklahoma City at Phoenix
-Turnovers                 0, 04/27/2026, Oklahoma City at Phoenix
-Blocked Shots             0, 04/27/2026, Oklahoma City at Phoenix
-Points                    7, 04/25/2026, Oklahoma City at Phoenix
+Assists                   2, 05/05/2026, Oklahoma City vs L.A. Lakers
+Steals                    0, 05/05/2026, Oklahoma City vs L.A. Lakers
+Turnovers                 0, 05/05/2026, Oklahoma City vs L.A. Lakers
+Blocked Shots             0, 05/05/2026, Oklahoma City vs L.A. Lakers
+Points                   12, 05/05/2026, Oklahoma City vs L.A. Lakers
 
 Jared McCain / Oklahoma City Thunder / Career Postseason Single-Game Highs
-Minutes                  12, 04/25/2026, Oklahoma City at Phoenix
-Field Goals               3, 04/25/2026, Oklahoma City at Phoenix
+Minutes                  15, 05/05/2026, Oklahoma City vs L.A. Lakers
+Field Goals               4, 05/05/2026, Oklahoma City vs L.A. Lakers
 Field Goal Attempts       8, 04/25/2026, Oklahoma City at Phoenix
-Three-Point Field Goals   1, 04/19/2026, Oklahoma City vs Phoenix
-Three-Point Attempts      3, 04/19/2026, Oklahoma City vs Phoenix
+Three-Point Field Goals   4, 05/05/2026, Oklahoma City vs L.A. Lakers
+Three-Point Attempts      5, 05/05/2026, Oklahoma City vs L.A. Lakers
 Free Throws               1, 04/25/2026, Oklahoma City at Phoenix
 Free Throw Attempts       1, 04/25/2026, Oklahoma City at Phoenix
-Offensive Rebounds        1, 04/25/2026, Oklahoma City at Phoenix
+Offensive Rebounds        1, 05/05/2026, Oklahoma City vs L.A. Lakers (Twice)
 Defensive Rebounds        3, 04/25/2026, Oklahoma City at Phoenix
 Rebounds                  4, 04/25/2026, Oklahoma City at Phoenix
-Assists                   1, 04/25/2026, Oklahoma City at Phoenix
-Steals                    0, 04/27/2026, Oklahoma City at Phoenix
-Turnovers                 0, 04/27/2026, Oklahoma City at Phoenix
-Blocked Shots             0, 04/27/2026, Oklahoma City at Phoenix
-Points                    7, 04/25/2026, Oklahoma City at Phoenix
+Assists                   2, 05/05/2026, Oklahoma City vs L.A. Lakers
+Steals                    0, 05/05/2026, Oklahoma City vs L.A. Lakers
+Turnovers                 0, 05/05/2026, Oklahoma City vs L.A. Lakers
+Blocked Shots             0, 05/05/2026, Oklahoma City vs L.A. Lakers
+Points                   12, 05/05/2026, Oklahoma City vs L.A. Lakers
 
 
 Ajay Mitchell / Oklahoma City Thunder / 2025-26 Postseason Single-Game Highs
 Minutes                  34, 04/27/2026, Oklahoma City at Phoenix
-Field Goals               7, 04/27/2026, Oklahoma City at Phoenix
+Field Goals               7, 05/05/2026, Oklahoma City vs L.A. Lakers (Twice)
 Field Goal Attempts      20, 04/25/2026, Oklahoma City at Phoenix
 Three-Point Field Goals   4, 04/27/2026, Oklahoma City at Phoenix
 Three-Point Attempts      6, 04/27/2026, Oklahoma City at Phoenix
@@ -20144,12 +20144,12 @@ Rebounds                  6, 04/25/2026, Oklahoma City at Phoenix
 Assists                   6, 04/27/2026, Oklahoma City at Phoenix
 Steals                    2, 04/22/2026, Oklahoma City vs Phoenix (Twice)
 Turnovers                 3, 04/27/2026, Oklahoma City at Phoenix
-Blocked Shots             0, 04/27/2026, Oklahoma City at Phoenix
+Blocked Shots             0, 05/05/2026, Oklahoma City vs L.A. Lakers
 Points                   22, 04/27/2026, Oklahoma City at Phoenix
 
 Ajay Mitchell / Oklahoma City Thunder / Career Postseason Single-Game Highs
 Minutes                  34, 04/27/2026, Oklahoma City at Phoenix
-Field Goals               7, 04/27/2026, Oklahoma City at Phoenix
+Field Goals               7, 05/05/2026, Oklahoma City vs L.A. Lakers (Twice)
 Field Goal Attempts      20, 04/25/2026, Oklahoma City at Phoenix
 Three-Point Field Goals   4, 04/27/2026, Oklahoma City at Phoenix
 Three-Point Attempts      6, 04/27/2026, Oklahoma City at Phoenix
@@ -20161,7 +20161,7 @@ Rebounds                  6, 04/25/2026, Oklahoma City at Phoenix
 Assists                   6, 04/27/2026, Oklahoma City at Phoenix
 Steals                    2, 04/22/2026, Oklahoma City vs Phoenix (Twice)
 Turnovers                 3, 04/27/2026, Oklahoma City at Phoenix
-Blocked Shots             0, 04/27/2026, Oklahoma City at Phoenix
+Blocked Shots             0, 05/05/2026, Oklahoma City vs L.A. Lakers
 Points                   22, 04/27/2026, Oklahoma City at Phoenix
 
 
@@ -20206,15 +20206,15 @@ Field Goals               4, 04/27/2026, Oklahoma City at Phoenix
 Field Goal Attempts       8, 04/25/2026, Oklahoma City at Phoenix
 Three-Point Field Goals   2, 04/27/2026, Oklahoma City at Phoenix (Twice)
 Three-Point Attempts      6, 04/25/2026, Oklahoma City at Phoenix
-Free Throws               0, 04/27/2026, Oklahoma City at Phoenix
-Free Throw Attempts       0, 04/27/2026, Oklahoma City at Phoenix
+Free Throws               0, 05/05/2026, Oklahoma City vs L.A. Lakers
+Free Throw Attempts       0, 05/05/2026, Oklahoma City vs L.A. Lakers
 Offensive Rebounds        3, 04/27/2026, Oklahoma City at Phoenix
 Defensive Rebounds        5, 04/22/2026, Oklahoma City vs Phoenix
 Rebounds                  6, 04/22/2026, Oklahoma City vs Phoenix
 Assists                   4, 04/27/2026, Oklahoma City at Phoenix
-Steals                    3, 04/22/2026, Oklahoma City vs Phoenix
-Turnovers                 2, 04/27/2026, Oklahoma City at Phoenix
-Blocked Shots             1, 04/27/2026, Oklahoma City at Phoenix (Twice)
+Steals                    3, 05/05/2026, Oklahoma City vs L.A. Lakers (Twice)
+Turnovers                 2, 05/05/2026, Oklahoma City vs L.A. Lakers (Twice)
+Blocked Shots             1, 05/05/2026, Oklahoma City vs L.A. Lakers (3 times)
 Points                   10, 04/27/2026, Oklahoma City at Phoenix
 
 Cason Wallace / Oklahoma City Thunder / Career Postseason Single-Game Highs
@@ -20238,18 +20238,18 @@ Points                   11, 06/16/2025, Oklahoma City vs Indiana (Twice)
 Aaron Wiggins / Oklahoma City Thunder / 2025-26 Postseason Single-Game Highs
 Minutes                  11, 04/27/2026, Oklahoma City at Phoenix
 Field Goals               1, 04/27/2026, Oklahoma City at Phoenix (3 times)
-Field Goal Attempts       2, 04/19/2026, Oklahoma City vs Phoenix
-Three-Point Field Goals   0, 04/27/2026, Oklahoma City at Phoenix
+Field Goal Attempts       2, 05/05/2026, Oklahoma City vs L.A. Lakers (Twice)
+Three-Point Field Goals   0, 05/05/2026, Oklahoma City vs L.A. Lakers
 Three-Point Attempts      1, 04/19/2026, Oklahoma City vs Phoenix
-Free Throws               0, 04/27/2026, Oklahoma City at Phoenix
-Free Throw Attempts       0, 04/27/2026, Oklahoma City at Phoenix
+Free Throws               0, 05/05/2026, Oklahoma City vs L.A. Lakers
+Free Throw Attempts       0, 05/05/2026, Oklahoma City vs L.A. Lakers
 Offensive Rebounds        1, 04/19/2026, Oklahoma City vs Phoenix
 Defensive Rebounds        1, 04/25/2026, Oklahoma City at Phoenix (Twice)
 Rebounds                  2, 04/19/2026, Oklahoma City vs Phoenix
 Assists                   2, 04/27/2026, Oklahoma City at Phoenix (Twice)
-Steals                    0, 04/27/2026, Oklahoma City at Phoenix
+Steals                    0, 05/05/2026, Oklahoma City vs L.A. Lakers
 Turnovers                 1, 04/19/2026, Oklahoma City vs Phoenix
-Blocked Shots             0, 04/27/2026, Oklahoma City at Phoenix
+Blocked Shots             0, 05/05/2026, Oklahoma City vs L.A. Lakers
 Points                    2, 04/27/2026, Oklahoma City at Phoenix (3 times)
 
 Aaron Wiggins / Oklahoma City Thunder / Career Postseason Single-Game Highs
@@ -20311,14 +20311,14 @@ Field Goals               3, 04/25/2026, Oklahoma City at Phoenix
 Field Goal Attempts       8, 04/25/2026, Oklahoma City at Phoenix
 Three-Point Field Goals   2, 04/25/2026, Oklahoma City at Phoenix
 Three-Point Attempts      6, 04/25/2026, Oklahoma City at Phoenix
-Free Throws               0, 04/27/2026, Oklahoma City at Phoenix
-Free Throw Attempts       0, 04/27/2026, Oklahoma City at Phoenix
-Offensive Rebounds        0, 04/27/2026, Oklahoma City at Phoenix
+Free Throws               0, 05/05/2026, Oklahoma City vs L.A. Lakers
+Free Throw Attempts       0, 05/05/2026, Oklahoma City vs L.A. Lakers
+Offensive Rebounds        2, 05/05/2026, Oklahoma City vs L.A. Lakers
 Defensive Rebounds        6, 04/25/2026, Oklahoma City at Phoenix
-Rebounds                  6, 04/25/2026, Oklahoma City at Phoenix
-Assists                   2, 04/19/2026, Oklahoma City vs Phoenix
+Rebounds                  7, 05/05/2026, Oklahoma City vs L.A. Lakers
+Assists                   3, 05/05/2026, Oklahoma City vs L.A. Lakers
 Steals                    4, 04/19/2026, Oklahoma City vs Phoenix
-Turnovers                 2, 04/19/2026, Oklahoma City vs Phoenix
+Turnovers                 2, 05/05/2026, Oklahoma City vs L.A. Lakers (Twice)
 Blocked Shots             1, 04/27/2026, Oklahoma City at Phoenix (3 times)
 Points                    8, 04/25/2026, Oklahoma City at Phoenix
 
@@ -20333,7 +20333,7 @@ Free Throw Attempts       2, 06/19/2025, Oklahoma City at Indiana (7 times)
 Offensive Rebounds        3, 05/13/2024, Oklahoma City at Dallas
 Defensive Rebounds        8, 05/07/2024, Oklahoma City vs Dallas
 Rebounds                  9, 05/07/2024, Oklahoma City vs Dallas
-Assists                   3, 05/24/2025, Oklahoma City at Minnesota (3 times)
+Assists                   3, 05/05/2026, Oklahoma City vs L.A. Lakers (4 times)
 Steals                    4, 04/19/2026, Oklahoma City vs Phoenix
 Turnovers                 3, 04/20/2025, Oklahoma City vs Memphis
 Blocked Shots             2, 04/20/2025, Oklahoma City vs Memphis (Twice)
@@ -20344,17 +20344,17 @@ Kenrich Williams / Oklahoma City Thunder / 2025-26 Postseason Single-Game Highs
 Minutes                   8, 04/19/2026, Oklahoma City vs Phoenix
 Field Goals               1, 04/19/2026, Oklahoma City vs Phoenix
 Field Goal Attempts       3, 04/19/2026, Oklahoma City vs Phoenix
-Three-Point Field Goals   0, 04/27/2026, Oklahoma City at Phoenix
+Three-Point Field Goals   0, 05/05/2026, Oklahoma City vs L.A. Lakers
 Three-Point Attempts      2, 04/19/2026, Oklahoma City vs Phoenix
-Free Throws               0, 04/27/2026, Oklahoma City at Phoenix
-Free Throw Attempts       0, 04/27/2026, Oklahoma City at Phoenix
+Free Throws               0, 05/05/2026, Oklahoma City vs L.A. Lakers
+Free Throw Attempts       0, 05/05/2026, Oklahoma City vs L.A. Lakers
 Offensive Rebounds        2, 04/19/2026, Oklahoma City vs Phoenix
 Defensive Rebounds        2, 04/19/2026, Oklahoma City vs Phoenix
 Rebounds                  4, 04/19/2026, Oklahoma City vs Phoenix
 Assists                   1, 04/19/2026, Oklahoma City vs Phoenix
-Steals                    0, 04/27/2026, Oklahoma City at Phoenix
-Turnovers                 0, 04/27/2026, Oklahoma City at Phoenix
-Blocked Shots             0, 04/27/2026, Oklahoma City at Phoenix
+Steals                    0, 05/05/2026, Oklahoma City vs L.A. Lakers
+Turnovers                 0, 05/05/2026, Oklahoma City vs L.A. Lakers
+Blocked Shots             0, 05/05/2026, Oklahoma City vs L.A. Lakers
 Points                    2, 04/19/2026, Oklahoma City vs Phoenix
 
 Kenrich Williams / Oklahoma City Thunder / Career Postseason Single-Game Highs
