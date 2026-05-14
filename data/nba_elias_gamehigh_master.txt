@@ -5093,20 +5093,20 @@ Points                   20, 04/01/2026, Chicago vs Indiana
 
 
 Team Totals / Cleveland Cavaliers / 2025-26 Postseason Single-Game Highs
-Minutes                 265, 05/01/2026, Cleveland at Toronto
+Minutes                 265, 05/13/2026, Cleveland at Detroit (Twice)
 Field Goals              44, 04/20/2026, Cleveland vs Toronto (Twice)
 Field Goal Attempts      93, 05/01/2026, Cleveland at Toronto
 Three-Point Field Goals  18, 04/29/2026, Cleveland vs Toronto
 Three-Point Attempts     45, 04/23/2026, Cleveland at Toronto
-Free Throws              30, 05/11/2026, Cleveland vs Detroit
-Free Throw Attempts      37, 05/03/2026, Cleveland vs Toronto
+Free Throws              31, 05/13/2026, Cleveland at Detroit
+Free Throw Attempts      38, 05/13/2026, Cleveland at Detroit
 Offensive Rebounds       20, 05/03/2026, Cleveland vs Toronto
 Defensive Rebounds       40, 05/03/2026, Cleveland vs Toronto (Twice)
 Rebounds                 60, 05/03/2026, Cleveland vs Toronto
-Assists                  24, 04/18/2026, Cleveland vs Toronto
+Assists                  25, 05/13/2026, Cleveland at Detroit
 Steals                   13, 04/20/2026, Cleveland vs Toronto
 Turnovers                22, 04/23/2026, Cleveland at Toronto
-Blocked Shots             8, 05/11/2026, Cleveland vs Detroit (Twice)
+Blocked Shots             9, 05/13/2026, Cleveland at Detroit
 Points                  126, 04/18/2026, Cleveland vs Toronto
 
 Team Totals / Cleveland Cavaliers / All-Time Postseason Single-Game Highs
@@ -5145,7 +5145,7 @@ Blocked Shots             0, 04/18/2026, Cleveland vs Toronto
 Points                   89, 04/26/2026, Cleveland at Toronto
 
 Opponent Totals / Cleveland Cavaliers / 2025-26 Postseason Single-Game Highs
-Minutes                 265, 05/01/2026, Cleveland at Toronto
+Minutes                 265, 05/13/2026, Cleveland at Detroit (Twice)
 Field Goals              50, 04/23/2026, Cleveland at Toronto
 Field Goal Attempts      97, 04/26/2026, Cleveland at Toronto
 Three-Point Field Goals  15, 04/29/2026, Cleveland vs Toronto
@@ -5158,7 +5158,7 @@ Rebounds                 59, 04/26/2026, Cleveland at Toronto
 Assists                  32, 04/29/2026, Cleveland vs Toronto
 Steals                   13, 05/01/2026, Cleveland at Toronto
 Turnovers                22, 04/20/2026, Cleveland vs Toronto
-Blocked Shots             9, 05/01/2026, Cleveland at Toronto
+Blocked Shots            10, 05/13/2026, Cleveland at Detroit
 Points                  126, 04/23/2026, Cleveland at Toronto
 
 Opponent Totals / Cleveland Cavaliers / All-Time Postseason Single-Game Highs
@@ -5197,11 +5197,11 @@ Blocked Shots             3, 05/11/2026, Cleveland vs Detroit (3 times)
 Points                   93, 04/26/2026, Cleveland at Toronto
 
 Jarrett Allen / Cleveland Cavaliers / 2025-26 Postseason Single-Game Highs
-Minutes                  34, 05/01/2026, Cleveland at Toronto
+Minutes                  36, 05/13/2026, Cleveland at Detroit
 Field Goals               7, 05/09/2026, Cleveland vs Detroit (3 times)
 Field Goal Attempts      11, 05/03/2026, Cleveland vs Toronto
-Three-Point Field Goals   0, 05/11/2026, Cleveland vs Detroit
-Three-Point Attempts      0, 05/11/2026, Cleveland vs Detroit
+Three-Point Field Goals   0, 05/13/2026, Cleveland at Detroit
+Three-Point Attempts      0, 05/13/2026, Cleveland at Detroit
 Free Throws               8, 05/07/2026, Cleveland at Detroit (Twice)
 Free Throw Attempts      14, 05/03/2026, Cleveland vs Toronto
 Offensive Rebounds        8, 05/03/2026, Cleveland vs Toronto
@@ -5217,8 +5217,8 @@ Jarrett Allen / Cleveland Cavaliers / Career Postseason Single-Game Highs (Games
 Minutes                  43, 04/15/2023, Cleveland vs New York
 Field Goals               8, 04/26/2025, Cleveland at Miami (Twice)
 Field Goal Attempts      11, 05/03/2026, Cleveland vs Toronto (5 times)
-Three-Point Field Goals   0, 05/11/2026, Cleveland vs Detroit
-Three-Point Attempts      0, 05/11/2026, Cleveland vs Detroit
+Three-Point Field Goals   0, 05/13/2026, Cleveland at Detroit
+Three-Point Attempts      0, 05/13/2026, Cleveland at Detroit
 Free Throws               8, 05/07/2026, Cleveland at Detroit (3 times)
 Free Throw Attempts      14, 05/03/2026, Cleveland vs Toronto
 Offensive Rebounds        9, 04/22/2024, Cleveland vs Orlando
@@ -5234,8 +5234,8 @@ Jarrett Allen / Cleveland Cavaliers / Career Postseason Single-Game Highs (With 
 Minutes                  43, 04/15/2023, Cleveland vs New York
 Field Goals               8, 04/26/2025, Cleveland at Miami (Twice)
 Field Goal Attempts      11, 05/03/2026, Cleveland vs Toronto (4 times)
-Three-Point Field Goals   0, 05/11/2026, Cleveland vs Detroit
-Three-Point Attempts      0, 05/11/2026, Cleveland vs Detroit
+Three-Point Field Goals   0, 05/13/2026, Cleveland at Detroit
+Three-Point Attempts      0, 05/13/2026, Cleveland at Detroit
 Free Throws               8, 05/07/2026, Cleveland at Detroit (3 times)
 Free Throw Attempts      14, 05/03/2026, Cleveland vs Toronto
 Offensive Rebounds        9, 04/22/2024, Cleveland vs Orlando
@@ -5338,19 +5338,19 @@ Points                    3, 05/07/2026, Cleveland at Detroit (3 times)
 James Harden / Cleveland Cavaliers / 2025-26 Postseason Single-Game Highs
 Minutes                  44, 05/01/2026, Cleveland at Toronto
 Field Goals               9, 04/20/2026, Cleveland vs Toronto
-Field Goal Attempts      18, 04/18/2026, Cleveland vs Toronto
+Field Goal Attempts      21, 05/13/2026, Cleveland at Detroit
 Three-Point Field Goals   5, 05/11/2026, Cleveland vs Detroit
-Three-Point Attempts     10, 04/23/2026, Cleveland at Toronto
-Free Throws              11, 05/03/2026, Cleveland vs Toronto
-Free Throw Attempts      13, 05/03/2026, Cleveland vs Toronto
+Three-Point Attempts     10, 05/13/2026, Cleveland at Detroit (Twice)
+Free Throws              11, 05/13/2026, Cleveland at Detroit (Twice)
+Free Throw Attempts      14, 05/13/2026, Cleveland at Detroit
 Offensive Rebounds        5, 05/01/2026, Cleveland at Toronto
 Defensive Rebounds        8, 04/29/2026, Cleveland vs Toronto
 Rebounds                  9, 05/01/2026, Cleveland at Toronto (Twice)
 Assists                  11, 05/11/2026, Cleveland vs Detroit
 Steals                    5, 04/20/2026, Cleveland vs Toronto
 Turnovers                 8, 04/23/2026, Cleveland at Toronto
-Blocked Shots             2, 05/05/2026, Cleveland at Detroit
-Points                   28, 04/20/2026, Cleveland vs Toronto
+Blocked Shots             3, 05/13/2026, Cleveland at Detroit
+Points                   30, 05/13/2026, Cleveland at Detroit
 
 James Harden / Cleveland Cavaliers / Career Postseason Single-Game Highs (Games with all teams)
 Minutes                  53, 06/19/2021, Brooklyn vs Milwaukee
@@ -5372,19 +5372,19 @@ Points                   45, 05/01/2023, Philadelphia at Boston (Twice)
 James Harden / Cleveland Cavaliers / Career Postseason Single-Game Highs (With this team only)
 Minutes                  44, 05/01/2026, Cleveland at Toronto
 Field Goals               9, 04/20/2026, Cleveland vs Toronto
-Field Goal Attempts      18, 04/18/2026, Cleveland vs Toronto
+Field Goal Attempts      21, 05/13/2026, Cleveland at Detroit
 Three-Point Field Goals   5, 05/11/2026, Cleveland vs Detroit
-Three-Point Attempts     10, 04/23/2026, Cleveland at Toronto
-Free Throws              11, 05/03/2026, Cleveland vs Toronto
-Free Throw Attempts      13, 05/03/2026, Cleveland vs Toronto
+Three-Point Attempts     10, 05/13/2026, Cleveland at Detroit (Twice)
+Free Throws              11, 05/13/2026, Cleveland at Detroit (Twice)
+Free Throw Attempts      14, 05/13/2026, Cleveland at Detroit
 Offensive Rebounds        5, 05/01/2026, Cleveland at Toronto
 Defensive Rebounds        8, 04/29/2026, Cleveland vs Toronto
 Rebounds                  9, 05/01/2026, Cleveland at Toronto (Twice)
 Assists                  11, 05/11/2026, Cleveland vs Detroit
 Steals                    5, 04/20/2026, Cleveland vs Toronto
 Turnovers                 8, 04/23/2026, Cleveland at Toronto
-Blocked Shots             2, 05/05/2026, Cleveland at Detroit
-Points                   28, 04/20/2026, Cleveland vs Toronto
+Blocked Shots             3, 05/13/2026, Cleveland at Detroit
+Points                   30, 05/13/2026, Cleveland at Detroit
 
 
 Sam Merrill / Cleveland Cavaliers / 2025-26 Postseason Single-Game Highs
@@ -5399,9 +5399,9 @@ Offensive Rebounds        3, 04/23/2026, Cleveland at Toronto
 Defensive Rebounds        3, 04/18/2026, Cleveland vs Toronto
 Rebounds                  4, 04/18/2026, Cleveland vs Toronto
 Assists                   2, 05/11/2026, Cleveland vs Detroit (4 times)
-Steals                    1, 05/11/2026, Cleveland vs Detroit (4 times)
+Steals                    1, 05/13/2026, Cleveland at Detroit (5 times)
 Turnovers                 2, 04/29/2026, Cleveland vs Toronto
-Blocked Shots             0, 05/11/2026, Cleveland vs Detroit
+Blocked Shots             0, 05/13/2026, Cleveland at Detroit
 Points                   14, 04/26/2026, Cleveland at Toronto
 
 Sam Merrill / Cleveland Cavaliers / Career Postseason Single-Game Highs (Games with all teams)
@@ -5440,7 +5440,7 @@ Points                   14, 04/26/2026, Cleveland at Toronto (Twice)
 
 
 Donovan Mitchell / Cleveland Cavaliers / 2025-26 Postseason Single-Game Highs
-Minutes                  41, 05/01/2026, Cleveland at Toronto
+Minutes                  42, 05/13/2026, Cleveland at Detroit
 Field Goals              13, 05/11/2026, Cleveland vs Detroit (3 times)
 Field Goal Attempts      26, 05/11/2026, Cleveland vs Detroit (Twice)
 Three-Point Field Goals   4, 05/11/2026, Cleveland vs Detroit (5 times)
@@ -5492,7 +5492,7 @@ Points                   50, 05/03/2024, Cleveland at Orlando
 
 
 Evan Mobley / Cleveland Cavaliers / 2025-26 Postseason Single-Game Highs
-Minutes                  41, 05/01/2026, Cleveland at Toronto
+Minutes                  43, 05/13/2026, Cleveland at Detroit
 Field Goals              11, 04/20/2026, Cleveland vs Toronto
 Field Goal Attempts      15, 05/01/2026, Cleveland at Toronto
 Three-Point Field Goals   3, 05/01/2026, Cleveland at Toronto (Twice)
@@ -5502,9 +5502,9 @@ Free Throw Attempts      10, 05/09/2026, Cleveland vs Detroit
 Offensive Rebounds        4, 05/11/2026, Cleveland vs Detroit (3 times)
 Defensive Rebounds       10, 05/01/2026, Cleveland at Toronto
 Rebounds                 14, 05/01/2026, Cleveland at Toronto
-Assists                   7, 04/23/2026, Cleveland at Toronto
+Assists                   8, 05/13/2026, Cleveland at Detroit
 Steals                    3, 05/11/2026, Cleveland vs Detroit (Twice)
-Turnovers                 4, 05/03/2026, Cleveland vs Toronto
+Turnovers                 4, 05/13/2026, Cleveland at Detroit (Twice)
 Blocked Shots             5, 05/11/2026, Cleveland vs Detroit
 Points                   26, 05/01/2026, Cleveland at Toronto
 
@@ -5519,7 +5519,7 @@ Free Throw Attempts      10, 05/09/2026, Cleveland vs Detroit
 Offensive Rebounds        5, 05/13/2025, Cleveland vs Indiana (5 times)
 Defensive Rebounds       11, 05/05/2024, Cleveland vs Orlando (Twice)
 Rebounds                 16, 05/05/2024, Cleveland vs Orlando
-Assists                   7, 04/23/2026, Cleveland at Toronto
+Assists                   8, 05/13/2026, Cleveland at Detroit
 Steals                    3, 05/11/2026, Cleveland vs Detroit (3 times)
 Turnovers                 6, 05/05/2024, Cleveland vs Orlando
 Blocked Shots             5, 05/11/2026, Cleveland vs Detroit (3 times)
@@ -5659,7 +5659,7 @@ Free Throw Attempts       8, 05/01/2026, Cleveland at Toronto
 Offensive Rebounds        1, 05/07/2026, Cleveland at Detroit (Twice)
 Defensive Rebounds        5, 04/26/2026, Cleveland at Toronto
 Rebounds                  5, 04/26/2026, Cleveland at Toronto
-Assists                   5, 05/07/2026, Cleveland at Detroit
+Assists                   5, 05/13/2026, Cleveland at Detroit (Twice)
 Steals                    2, 05/01/2026, Cleveland at Toronto
 Turnovers                 4, 05/05/2026, Cleveland at Detroit
 Blocked Shots             2, 05/09/2026, Cleveland vs Detroit
@@ -5693,7 +5693,7 @@ Free Throw Attempts       8, 05/01/2026, Cleveland at Toronto
 Offensive Rebounds        1, 05/07/2026, Cleveland at Detroit (Twice)
 Defensive Rebounds        5, 04/26/2026, Cleveland at Toronto
 Rebounds                  5, 04/26/2026, Cleveland at Toronto
-Assists                   5, 05/07/2026, Cleveland at Detroit
+Assists                   5, 05/13/2026, Cleveland at Detroit (Twice)
 Steals                    2, 05/01/2026, Cleveland at Toronto
 Turnovers                 4, 05/05/2026, Cleveland at Detroit
 Blocked Shots             2, 05/09/2026, Cleveland vs Detroit
@@ -5701,16 +5701,16 @@ Points                   19, 04/29/2026, Cleveland vs Toronto
 
 
 Max Strus / Cleveland Cavaliers / 2025-26 Postseason Single-Game Highs
-Minutes                  31, 05/03/2026, Cleveland vs Toronto
+Minutes                  36, 05/13/2026, Cleveland at Detroit
 Field Goals               8, 04/18/2026, Cleveland vs Toronto
 Field Goal Attempts      13, 05/05/2026, Cleveland at Detroit
-Three-Point Field Goals   4, 05/05/2026, Cleveland at Detroit (3 times)
-Three-Point Attempts      8, 05/05/2026, Cleveland at Detroit (3 times)
+Three-Point Field Goals   6, 05/13/2026, Cleveland at Detroit
+Three-Point Attempts      8, 05/13/2026, Cleveland at Detroit (4 times)
 Free Throws               4, 04/29/2026, Cleveland vs Toronto (Twice)
 Free Throw Attempts       4, 04/29/2026, Cleveland vs Toronto (Twice)
 Offensive Rebounds        4, 05/03/2026, Cleveland vs Toronto
-Defensive Rebounds        5, 05/09/2026, Cleveland vs Detroit
-Rebounds                  8, 05/03/2026, Cleveland vs Toronto
+Defensive Rebounds        6, 05/13/2026, Cleveland at Detroit
+Rebounds                  8, 05/13/2026, Cleveland at Detroit (Twice)
 Assists                   5, 05/03/2026, Cleveland vs Toronto
 Steals                    2, 05/11/2026, Cleveland vs Detroit (Twice)
 Turnovers                 3, 05/03/2026, Cleveland vs Toronto
@@ -5721,7 +5721,7 @@ Max Strus / Cleveland Cavaliers / Career Postseason Single-Game Highs (Games wit
 Minutes                  45, 05/15/2024, Cleveland at Boston
 Field Goals               8, 04/18/2026, Cleveland vs Toronto (3 times)
 Field Goal Attempts      18, 05/06/2025, Cleveland vs Indiana
-Three-Point Field Goals   5, 05/06/2025, Cleveland vs Indiana (3 times)
+Three-Point Field Goals   6, 05/13/2026, Cleveland at Detroit
 Three-Point Attempts     14, 04/24/2022, Miami at Atlanta
 Free Throws               5, 05/12/2023, Miami vs New York
 Free Throw Attempts       6, 05/12/2023, Miami vs New York
@@ -5738,7 +5738,7 @@ Max Strus / Cleveland Cavaliers / Career Postseason Single-Game Highs (With this
 Minutes                  45, 05/15/2024, Cleveland at Boston
 Field Goals               8, 04/18/2026, Cleveland vs Toronto (3 times)
 Field Goal Attempts      18, 05/06/2025, Cleveland vs Indiana
-Three-Point Field Goals   5, 05/06/2025, Cleveland vs Indiana (Twice)
+Three-Point Field Goals   6, 05/13/2026, Cleveland at Detroit
 Three-Point Attempts     12, 05/06/2025, Cleveland vs Indiana
 Free Throws               4, 04/29/2026, Cleveland vs Toronto (Twice)
 Free Throw Attempts       4, 04/29/2026, Cleveland vs Toronto (Twice)
@@ -5828,15 +5828,15 @@ Field Goals               4, 05/01/2026, Cleveland at Toronto
 Field Goal Attempts      10, 04/29/2026, Cleveland vs Toronto
 Three-Point Field Goals   2, 05/07/2026, Cleveland at Detroit (Twice)
 Three-Point Attempts      6, 05/01/2026, Cleveland at Toronto (Twice)
-Free Throws               0, 05/11/2026, Cleveland vs Detroit
+Free Throws               0, 05/13/2026, Cleveland at Detroit
 Free Throw Attempts       2, 04/23/2026, Cleveland at Toronto
 Offensive Rebounds        3, 04/23/2026, Cleveland at Toronto
-Defensive Rebounds        5, 04/26/2026, Cleveland at Toronto
-Rebounds                  5, 05/11/2026, Cleveland vs Detroit (6 times)
+Defensive Rebounds        5, 05/13/2026, Cleveland at Detroit (Twice)
+Rebounds                  6, 05/13/2026, Cleveland at Detroit
 Assists                   1, 05/05/2026, Cleveland at Detroit (5 times)
 Steals                    2, 04/20/2026, Cleveland vs Toronto (Twice)
 Turnovers                 2, 05/09/2026, Cleveland vs Detroit (3 times)
-Blocked Shots             0, 05/11/2026, Cleveland vs Detroit
+Blocked Shots             0, 05/13/2026, Cleveland at Detroit
 Points                   10, 05/01/2026, Cleveland at Toronto
 
 Dean Wade / Cleveland Cavaliers / Career Postseason Single-Game Highs
@@ -7849,11 +7849,11 @@ Points                    9, 05/07/2025, Denver at Oklahoma City (Twice)
 
 
 Team Totals / Detroit Pistons / 2025-26 Postseason Single-Game Highs
-Minutes                 240, 05/11/2026, Detroit at Cleveland
-Field Goals              42, 05/11/2026, Detroit at Cleveland
-Field Goal Attempts      91, 05/09/2026, Detroit at Cleveland
+Minutes                 265, 05/13/2026, Detroit vs Cleveland
+Field Goals              42, 05/13/2026, Detroit vs Cleveland (Twice)
+Field Goal Attempts      95, 05/13/2026, Detroit vs Cleveland
 Three-Point Field Goals  16, 05/03/2026, Detroit vs Orlando
-Three-Point Attempts     33, 05/03/2026, Detroit vs Orlando
+Three-Point Attempts     33, 05/13/2026, Detroit vs Cleveland (Twice)
 Free Throws              29, 04/19/2026, Detroit vs Orlando
 Free Throw Attempts      38, 04/19/2026, Detroit vs Orlando
 Offensive Rebounds       17, 05/09/2026, Detroit at Cleveland (Twice)
@@ -7901,21 +7901,21 @@ Blocked Shots             3, 05/11/2026, Detroit at Cleveland (Twice)
 Points                   88, 04/27/2026, Detroit at Orlando
 
 Opponent Totals / Detroit Pistons / 2025-26 Postseason Single-Game Highs
-Minutes                 240, 05/11/2026, Detroit at Cleveland
+Minutes                 265, 05/13/2026, Detroit vs Cleveland
 Field Goals              44, 04/19/2026, Detroit vs Orlando
 Field Goal Attempts      92, 04/27/2026, Detroit at Orlando
 Three-Point Field Goals  17, 04/29/2026, Detroit vs Orlando
 Three-Point Attempts     41, 05/11/2026, Detroit at Cleveland
-Free Throws              30, 05/11/2026, Detroit at Cleveland
-Free Throw Attempts      34, 05/11/2026, Detroit at Cleveland (Twice)
+Free Throws              31, 05/13/2026, Detroit vs Cleveland
+Free Throw Attempts      38, 05/13/2026, Detroit vs Cleveland
 Offensive Rebounds       16, 04/27/2026, Detroit at Orlando
 Defensive Rebounds       36, 04/27/2026, Detroit at Orlando
 Rebounds                 52, 04/27/2026, Detroit at Orlando
 Assists                  26, 04/19/2026, Detroit vs Orlando
 Steals                   16, 04/22/2026, Detroit vs Orlando
 Turnovers                20, 05/05/2026, Detroit vs Cleveland
-Blocked Shots             8, 05/11/2026, Detroit at Cleveland (Twice)
-Points                  116, 05/09/2026, Detroit at Cleveland
+Blocked Shots             9, 05/13/2026, Detroit vs Cleveland
+Points                  117, 05/13/2026, Detroit vs Cleveland
 
 Opponent Totals / Detroit Pistons / All-Time Postseason Single-Game Highs
 Minutes                 315, 05/14/2004, Detroit vs New Jersey
@@ -7953,10 +7953,10 @@ Blocked Shots             4, 05/01/2026, Detroit at Orlando
 Points                   79, 05/01/2026, Detroit at Orlando
 
 Cade Cunningham / Detroit Pistons / 2025-26 Postseason Single-Game Highs
-Minutes                  44, 04/29/2026, Detroit vs Orlando
-Field Goals              13, 04/29/2026, Detroit vs Orlando (Twice)
-Field Goal Attempts      27, 05/09/2026, Detroit at Cleveland (Twice)
-Three-Point Field Goals   5, 04/29/2026, Detroit vs Orlando
+Minutes                  48, 05/13/2026, Detroit vs Cleveland
+Field Goals              13, 05/13/2026, Detroit vs Cleveland (3 times)
+Field Goal Attempts      27, 05/13/2026, Detroit vs Cleveland (3 times)
+Three-Point Field Goals   6, 05/13/2026, Detroit vs Cleveland
 Three-Point Attempts     11, 04/27/2026, Detroit at Orlando
 Free Throws              14, 04/29/2026, Detroit vs Orlando
 Free Throw Attempts      14, 04/29/2026, Detroit vs Orlando
@@ -7970,10 +7970,10 @@ Blocked Shots             2, 05/07/2026, Detroit vs Cleveland (3 times)
 Points                   45, 04/29/2026, Detroit vs Orlando
 
 Cade Cunningham / Detroit Pistons / Career Postseason Single-Game Highs
-Minutes                  44, 05/01/2025, Detroit vs New York
-Field Goals              13, 04/29/2026, Detroit vs Orlando (Twice)
-Field Goal Attempts      27, 05/09/2026, Detroit at Cleveland (Twice)
-Three-Point Field Goals   5, 04/29/2026, Detroit vs Orlando
+Minutes                  48, 05/13/2026, Detroit vs Cleveland
+Field Goals              13, 05/13/2026, Detroit vs Cleveland (3 times)
+Field Goal Attempts      27, 05/13/2026, Detroit vs Cleveland (3 times)
+Three-Point Field Goals   6, 05/13/2026, Detroit vs Cleveland
 Three-Point Attempts     11, 04/27/2026, Detroit at Orlando
 Free Throws              14, 04/29/2026, Detroit vs Orlando
 Free Throw Attempts      14, 04/29/2026, Detroit vs Orlando
@@ -7991,14 +7991,14 @@ Jalen Duren / Detroit Pistons / 2025-26 Postseason Single-Game Highs
 Minutes                  37, 05/03/2026, Detroit vs Orlando
 Field Goals               5, 05/09/2026, Detroit at Cleveland (3 times)
 Field Goal Attempts      11, 05/05/2026, Detroit vs Cleveland
-Three-Point Field Goals   0, 05/11/2026, Detroit at Cleveland
-Three-Point Attempts      0, 05/11/2026, Detroit at Cleveland
+Three-Point Field Goals   0, 05/13/2026, Detroit vs Cleveland
+Three-Point Attempts      0, 05/13/2026, Detroit vs Cleveland
 Free Throws               5, 05/03/2026, Detroit vs Orlando
 Free Throw Attempts       6, 05/07/2026, Detroit vs Cleveland (Twice)
 Offensive Rebounds        7, 05/05/2026, Detroit vs Cleveland
 Defensive Rebounds        9, 05/03/2026, Detroit vs Orlando
 Rebounds                 15, 05/03/2026, Detroit vs Orlando
-Assists                   4, 05/05/2026, Detroit vs Cleveland (Twice)
+Assists                   4, 05/13/2026, Detroit vs Cleveland (3 times)
 Steals                    2, 05/11/2026, Detroit at Cleveland (Twice)
 Turnovers                 4, 05/11/2026, Detroit at Cleveland (Twice)
 Blocked Shots             5, 04/25/2026, Detroit at Orlando
@@ -8008,8 +8008,8 @@ Jalen Duren / Detroit Pistons / Career Postseason Single-Game Highs
 Minutes                  39, 05/01/2025, Detroit vs New York
 Field Goals               7, 04/24/2025, Detroit vs New York
 Field Goal Attempts      11, 05/05/2026, Detroit vs Cleveland
-Three-Point Field Goals   0, 05/11/2026, Detroit at Cleveland
-Three-Point Attempts      0, 05/11/2026, Detroit at Cleveland
+Three-Point Field Goals   0, 05/13/2026, Detroit vs Cleveland
+Three-Point Attempts      0, 05/13/2026, Detroit vs Cleveland
 Free Throws               9, 05/01/2025, Detroit vs New York
 Free Throw Attempts      10, 05/01/2025, Detroit vs New York
 Offensive Rebounds        7, 05/05/2026, Detroit vs Cleveland (Twice)
@@ -8075,11 +8075,11 @@ Points                    6, 04/25/2026, Detroit at Orlando
 
 
 Tobias Harris / Detroit Pistons / 2025-26 Postseason Single-Game Highs
-Minutes                  39, 05/05/2026, Detroit vs Cleveland
+Minutes                  40, 05/13/2026, Detroit vs Cleveland
 Field Goals              11, 05/03/2026, Detroit vs Orlando
 Field Goal Attempts      20, 05/01/2026, Detroit at Orlando
 Three-Point Field Goals   5, 05/03/2026, Detroit vs Orlando
-Three-Point Attempts      7, 05/03/2026, Detroit vs Orlando (3 times)
+Three-Point Attempts      7, 05/13/2026, Detroit vs Cleveland (4 times)
 Free Throws               7, 05/05/2026, Detroit vs Cleveland
 Free Throw Attempts       9, 05/01/2026, Detroit at Orlando
 Offensive Rebounds        4, 04/22/2026, Detroit vs Orlando
@@ -8113,7 +8113,7 @@ Minutes                  43, 04/29/2025, Detroit at New York
 Field Goals              11, 05/03/2026, Detroit vs Orlando
 Field Goal Attempts      20, 05/01/2026, Detroit at Orlando
 Three-Point Field Goals   5, 05/03/2026, Detroit vs Orlando
-Three-Point Attempts      7, 05/03/2026, Detroit vs Orlando (3 times)
+Three-Point Attempts      7, 05/13/2026, Detroit vs Cleveland (4 times)
 Free Throws               7, 05/05/2026, Detroit vs Cleveland (Twice)
 Free Throw Attempts       9, 05/01/2026, Detroit at Orlando
 Offensive Rebounds        4, 04/22/2026, Detroit vs Orlando
@@ -8167,15 +8167,15 @@ Field Goals               1, 04/22/2026, Detroit vs Orlando (Twice)
 Field Goal Attempts       3, 04/19/2026, Detroit vs Orlando
 Three-Point Field Goals   1, 04/22/2026, Detroit vs Orlando (Twice)
 Three-Point Attempts      2, 04/22/2026, Detroit vs Orlando (Twice)
-Free Throws               0, 04/27/2026, Detroit at Orlando
-Free Throw Attempts       0, 04/27/2026, Detroit at Orlando
-Offensive Rebounds        0, 04/27/2026, Detroit at Orlando
+Free Throws               0, 05/13/2026, Detroit vs Cleveland
+Free Throw Attempts       0, 05/13/2026, Detroit vs Cleveland
+Offensive Rebounds        0, 05/13/2026, Detroit vs Cleveland
 Defensive Rebounds        2, 04/19/2026, Detroit vs Orlando
 Rebounds                  2, 04/19/2026, Detroit vs Orlando
 Assists                   5, 04/25/2026, Detroit at Orlando
 Steals                    1, 04/25/2026, Detroit at Orlando (Twice)
 Turnovers                 2, 04/22/2026, Detroit vs Orlando
-Blocked Shots             0, 04/27/2026, Detroit at Orlando
+Blocked Shots             0, 05/13/2026, Detroit vs Cleveland
 Points                    3, 04/22/2026, Detroit vs Orlando (Twice)
 
 Kevin Huerter / Detroit Pistons / Career Postseason Single-Game Highs (Games with all teams)
@@ -8201,24 +8201,24 @@ Field Goals               1, 04/22/2026, Detroit vs Orlando (Twice)
 Field Goal Attempts       3, 04/19/2026, Detroit vs Orlando
 Three-Point Field Goals   1, 04/22/2026, Detroit vs Orlando (Twice)
 Three-Point Attempts      2, 04/22/2026, Detroit vs Orlando (Twice)
-Free Throws               0, 04/27/2026, Detroit at Orlando
-Free Throw Attempts       0, 04/27/2026, Detroit at Orlando
-Offensive Rebounds        0, 04/27/2026, Detroit at Orlando
+Free Throws               0, 05/13/2026, Detroit vs Cleveland
+Free Throw Attempts       0, 05/13/2026, Detroit vs Cleveland
+Offensive Rebounds        0, 05/13/2026, Detroit vs Cleveland
 Defensive Rebounds        2, 04/19/2026, Detroit vs Orlando
 Rebounds                  2, 04/19/2026, Detroit vs Orlando
 Assists                   5, 04/25/2026, Detroit at Orlando
 Steals                    1, 04/25/2026, Detroit at Orlando (Twice)
 Turnovers                 2, 04/22/2026, Detroit vs Orlando
-Blocked Shots             0, 04/27/2026, Detroit at Orlando
+Blocked Shots             0, 05/13/2026, Detroit vs Cleveland
 Points                    3, 04/22/2026, Detroit vs Orlando (Twice)
 
 
 Daniss Jenkins / Detroit Pistons / 2025-26 Postseason Single-Game Highs
-Minutes                  29, 05/03/2026, Detroit vs Orlando
-Field Goals               6, 05/07/2026, Detroit vs Cleveland
-Field Goal Attempts      14, 05/07/2026, Detroit vs Cleveland
+Minutes                  41, 05/13/2026, Detroit vs Cleveland
+Field Goals               8, 05/13/2026, Detroit vs Cleveland
+Field Goal Attempts      17, 05/13/2026, Detroit vs Cleveland
 Three-Point Field Goals   4, 05/03/2026, Detroit vs Orlando
-Three-Point Attempts      6, 04/19/2026, Detroit vs Orlando
+Three-Point Attempts      8, 05/13/2026, Detroit vs Cleveland
 Free Throws               3, 04/19/2026, Detroit vs Orlando
 Free Throw Attempts       6, 04/19/2026, Detroit vs Orlando
 Offensive Rebounds        3, 05/05/2026, Detroit vs Cleveland
@@ -8227,15 +8227,15 @@ Rebounds                  7, 05/05/2026, Detroit vs Cleveland
 Assists                   5, 05/03/2026, Detroit vs Orlando
 Steals                    4, 05/05/2026, Detroit vs Cleveland
 Turnovers                 3, 05/03/2026, Detroit vs Orlando
-Blocked Shots             1, 05/03/2026, Detroit vs Orlando (3 times)
-Points                   16, 05/03/2026, Detroit vs Orlando
+Blocked Shots             2, 05/13/2026, Detroit vs Cleveland
+Points                   19, 05/13/2026, Detroit vs Cleveland
 
 Daniss Jenkins / Detroit Pistons / Career Postseason Single-Game Highs
-Minutes                  29, 05/03/2026, Detroit vs Orlando
-Field Goals               6, 05/07/2026, Detroit vs Cleveland
-Field Goal Attempts      14, 05/07/2026, Detroit vs Cleveland
+Minutes                  41, 05/13/2026, Detroit vs Cleveland
+Field Goals               8, 05/13/2026, Detroit vs Cleveland
+Field Goal Attempts      17, 05/13/2026, Detroit vs Cleveland
 Three-Point Field Goals   4, 05/03/2026, Detroit vs Orlando
-Three-Point Attempts      6, 04/19/2026, Detroit vs Orlando
+Three-Point Attempts      8, 05/13/2026, Detroit vs Cleveland
 Free Throws               3, 04/19/2026, Detroit vs Orlando
 Free Throw Attempts       6, 04/19/2026, Detroit vs Orlando
 Offensive Rebounds        3, 05/05/2026, Detroit vs Cleveland
@@ -8244,8 +8244,8 @@ Rebounds                  7, 05/05/2026, Detroit vs Cleveland
 Assists                   5, 05/03/2026, Detroit vs Orlando
 Steals                    4, 05/05/2026, Detroit vs Cleveland
 Turnovers                 3, 05/03/2026, Detroit vs Orlando
-Blocked Shots             1, 05/03/2026, Detroit vs Orlando (3 times)
-Points                   16, 05/03/2026, Detroit vs Orlando
+Blocked Shots             2, 05/13/2026, Detroit vs Cleveland
+Points                   19, 05/13/2026, Detroit vs Cleveland
 
 
 Chaz Lanier / Detroit Pistons / 2025-26 Postseason Single-Game Highs
@@ -8289,8 +8289,8 @@ Field Goals              10, 05/11/2026, Detroit at Cleveland
 Field Goal Attempts      16, 05/11/2026, Detroit at Cleveland
 Three-Point Field Goals   3, 05/11/2026, Detroit at Cleveland
 Three-Point Attempts      6, 05/11/2026, Detroit at Cleveland
-Free Throws               2, 05/09/2026, Detroit at Cleveland
-Free Throw Attempts       2, 05/09/2026, Detroit at Cleveland
+Free Throws               3, 05/13/2026, Detroit vs Cleveland
+Free Throw Attempts       3, 05/13/2026, Detroit vs Cleveland
 Offensive Rebounds        2, 05/11/2026, Detroit at Cleveland (Twice)
 Defensive Rebounds        5, 04/27/2026, Detroit at Orlando
 Rebounds                  5, 04/27/2026, Detroit at Orlando
@@ -8323,8 +8323,8 @@ Field Goals              10, 05/11/2026, Detroit at Cleveland
 Field Goal Attempts      16, 05/11/2026, Detroit at Cleveland
 Three-Point Field Goals   3, 05/11/2026, Detroit at Cleveland
 Three-Point Attempts      6, 05/11/2026, Detroit at Cleveland
-Free Throws               2, 05/09/2026, Detroit at Cleveland
-Free Throw Attempts       2, 05/09/2026, Detroit at Cleveland
+Free Throws               3, 05/13/2026, Detroit vs Cleveland
+Free Throw Attempts       3, 05/13/2026, Detroit vs Cleveland
 Offensive Rebounds        2, 05/11/2026, Detroit at Cleveland (Twice)
 Defensive Rebounds        5, 04/27/2026, Detroit at Orlando
 Rebounds                  5, 04/27/2026, Detroit at Orlando
@@ -8336,19 +8336,19 @@ Points                   24, 05/11/2026, Detroit at Cleveland
 
 
 Paul Reed / Detroit Pistons / 2025-26 Postseason Single-Game Highs
-Minutes                  14, 05/11/2026, Detroit at Cleveland
+Minutes                  17, 05/13/2026, Detroit vs Cleveland
 Field Goals               7, 05/11/2026, Detroit at Cleveland
 Field Goal Attempts       9, 05/11/2026, Detroit at Cleveland
 Three-Point Field Goals   1, 05/11/2026, Detroit at Cleveland
 Three-Point Attempts      2, 05/11/2026, Detroit at Cleveland (Twice)
 Free Throws               3, 05/09/2026, Detroit at Cleveland
 Free Throw Attempts       3, 05/09/2026, Detroit at Cleveland
-Offensive Rebounds        3, 05/01/2026, Detroit at Orlando
-Defensive Rebounds        4, 04/25/2026, Detroit at Orlando
-Rebounds                  6, 05/01/2026, Detroit at Orlando
+Offensive Rebounds        4, 05/13/2026, Detroit vs Cleveland
+Defensive Rebounds        4, 05/13/2026, Detroit vs Cleveland (Twice)
+Rebounds                  8, 05/13/2026, Detroit vs Cleveland
 Assists                   2, 05/11/2026, Detroit at Cleveland
 Steals                    1, 05/11/2026, Detroit at Cleveland
-Turnovers                 1, 05/11/2026, Detroit at Cleveland (3 times)
+Turnovers                 1, 05/13/2026, Detroit vs Cleveland (4 times)
 Blocked Shots             3, 05/01/2026, Detroit at Orlando
 Points                   15, 05/11/2026, Detroit at Cleveland
 
@@ -8370,16 +8370,16 @@ Blocked Shots             3, 05/01/2026, Detroit at Orlando
 Points                   15, 05/11/2026, Detroit at Cleveland
 
 Paul Reed / Detroit Pistons / Career Postseason Single-Game Highs (With this team only)
-Minutes                  16, 04/24/2025, Detroit vs New York
+Minutes                  17, 05/13/2026, Detroit vs Cleveland
 Field Goals               7, 05/11/2026, Detroit at Cleveland
 Field Goal Attempts       9, 05/11/2026, Detroit at Cleveland
 Three-Point Field Goals   1, 05/11/2026, Detroit at Cleveland
 Three-Point Attempts      2, 05/11/2026, Detroit at Cleveland (Twice)
 Free Throws               3, 05/09/2026, Detroit at Cleveland
 Free Throw Attempts       4, 04/24/2025, Detroit vs New York
-Offensive Rebounds        3, 05/01/2026, Detroit at Orlando (Twice)
+Offensive Rebounds        4, 05/13/2026, Detroit vs Cleveland
 Defensive Rebounds        5, 04/24/2025, Detroit vs New York
-Rebounds                  8, 04/24/2025, Detroit vs New York
+Rebounds                  8, 05/13/2026, Detroit vs Cleveland (Twice)
 Assists                   2, 05/11/2026, Detroit at Cleveland
 Steals                    4, 04/29/2025, Detroit at New York
 Turnovers                 2, 04/29/2025, Detroit at New York (Twice)
@@ -8440,37 +8440,37 @@ Points                   19, 05/05/2026, Detroit vs Cleveland
 
 
 Marcus Sasser / Detroit Pistons / 2025-26 Postseason Single-Game Highs
-Minutes                   3, 05/11/2026, Detroit at Cleveland
+Minutes                  16, 05/13/2026, Detroit vs Cleveland
 Field Goals               3, 05/11/2026, Detroit at Cleveland
 Field Goal Attempts       4, 05/11/2026, Detroit at Cleveland
 Three-Point Field Goals   1, 05/11/2026, Detroit at Cleveland
 Three-Point Attempts      2, 05/11/2026, Detroit at Cleveland
-Free Throws               0, 05/11/2026, Detroit at Cleveland
-Free Throw Attempts       0, 05/11/2026, Detroit at Cleveland
-Offensive Rebounds        0, 05/11/2026, Detroit at Cleveland
-Defensive Rebounds        0, 05/11/2026, Detroit at Cleveland
-Rebounds                  0, 05/11/2026, Detroit at Cleveland
+Free Throws               0, 05/13/2026, Detroit vs Cleveland
+Free Throw Attempts       0, 05/13/2026, Detroit vs Cleveland
+Offensive Rebounds        1, 05/13/2026, Detroit vs Cleveland
+Defensive Rebounds        1, 05/13/2026, Detroit vs Cleveland
+Rebounds                  2, 05/13/2026, Detroit vs Cleveland
 Assists                   1, 05/03/2026, Detroit vs Orlando
 Steals                    1, 05/11/2026, Detroit at Cleveland
-Turnovers                 0, 05/11/2026, Detroit at Cleveland
-Blocked Shots             0, 05/11/2026, Detroit at Cleveland
+Turnovers                 1, 05/13/2026, Detroit vs Cleveland
+Blocked Shots             0, 05/13/2026, Detroit vs Cleveland
 Points                    7, 05/11/2026, Detroit at Cleveland
 
 Marcus Sasser / Detroit Pistons / Career Postseason Single-Game Highs
-Minutes                   3, 05/11/2026, Detroit at Cleveland
+Minutes                  16, 05/13/2026, Detroit vs Cleveland
 Field Goals               3, 05/11/2026, Detroit at Cleveland
 Field Goal Attempts       4, 05/11/2026, Detroit at Cleveland
 Three-Point Field Goals   1, 05/11/2026, Detroit at Cleveland
 Three-Point Attempts      2, 05/11/2026, Detroit at Cleveland
-Free Throws               0, 05/11/2026, Detroit at Cleveland
-Free Throw Attempts       0, 05/11/2026, Detroit at Cleveland
-Offensive Rebounds        0, 05/11/2026, Detroit at Cleveland
-Defensive Rebounds        0, 05/11/2026, Detroit at Cleveland
-Rebounds                  0, 05/11/2026, Detroit at Cleveland
+Free Throws               0, 05/13/2026, Detroit vs Cleveland
+Free Throw Attempts       0, 05/13/2026, Detroit vs Cleveland
+Offensive Rebounds        1, 05/13/2026, Detroit vs Cleveland
+Defensive Rebounds        1, 05/13/2026, Detroit vs Cleveland
+Rebounds                  2, 05/13/2026, Detroit vs Cleveland
 Assists                   1, 05/03/2026, Detroit vs Orlando
 Steals                    1, 05/11/2026, Detroit at Cleveland
-Turnovers                 0, 05/11/2026, Detroit at Cleveland
-Blocked Shots             0, 05/11/2026, Detroit at Cleveland
+Turnovers                 1, 05/13/2026, Detroit vs Cleveland
+Blocked Shots             0, 05/13/2026, Detroit vs Cleveland
 Points                    7, 05/11/2026, Detroit at Cleveland
 
 
@@ -8512,15 +8512,15 @@ Points                    0, 05/03/2026, Detroit vs Orlando
 Isaiah Stewart / Detroit Pistons / 2025-26 Postseason Single-Game Highs
 Minutes                  20, 04/29/2026, Detroit vs Orlando
 Field Goals               4, 04/22/2026, Detroit vs Orlando
-Field Goal Attempts       4, 04/27/2026, Detroit at Orlando (Twice)
-Three-Point Field Goals   1, 04/27/2026, Detroit at Orlando (Twice)
-Three-Point Attempts      1, 04/29/2026, Detroit vs Orlando (4 times)
+Field Goal Attempts       5, 05/13/2026, Detroit vs Cleveland
+Three-Point Field Goals   2, 05/13/2026, Detroit vs Cleveland
+Three-Point Attempts      3, 05/13/2026, Detroit vs Cleveland
 Free Throws               3, 04/29/2026, Detroit vs Orlando (Twice)
 Free Throw Attempts       4, 04/29/2026, Detroit vs Orlando (Twice)
 Offensive Rebounds        3, 04/27/2026, Detroit at Orlando
 Defensive Rebounds        4, 04/29/2026, Detroit vs Orlando (Twice)
 Rebounds                  5, 04/29/2026, Detroit vs Orlando (Twice)
-Assists                   1, 05/05/2026, Detroit vs Cleveland (Twice)
+Assists                   1, 05/13/2026, Detroit vs Cleveland (3 times)
 Steals                    1, 04/19/2026, Detroit vs Orlando
 Turnovers                 3, 04/22/2026, Detroit vs Orlando
 Blocked Shots             8, 04/27/2026, Detroit at Orlando
@@ -8529,15 +8529,15 @@ Points                   10, 04/22/2026, Detroit vs Orlando
 Isaiah Stewart / Detroit Pistons / Career Postseason Single-Game Highs
 Minutes                  20, 04/29/2026, Detroit vs Orlando
 Field Goals               4, 04/22/2026, Detroit vs Orlando
-Field Goal Attempts       4, 04/27/2026, Detroit at Orlando (Twice)
-Three-Point Field Goals   1, 04/27/2026, Detroit at Orlando (Twice)
-Three-Point Attempts      1, 04/29/2026, Detroit vs Orlando (4 times)
+Field Goal Attempts       5, 05/13/2026, Detroit vs Cleveland
+Three-Point Field Goals   2, 05/13/2026, Detroit vs Cleveland
+Three-Point Attempts      3, 05/13/2026, Detroit vs Cleveland
 Free Throws               3, 04/29/2026, Detroit vs Orlando (Twice)
 Free Throw Attempts       4, 04/29/2026, Detroit vs Orlando (Twice)
 Offensive Rebounds        3, 04/27/2026, Detroit at Orlando
 Defensive Rebounds        4, 04/29/2026, Detroit vs Orlando (3 times)
 Rebounds                  5, 04/29/2026, Detroit vs Orlando (3 times)
-Assists                   1, 05/05/2026, Detroit vs Cleveland (3 times)
+Assists                   1, 05/13/2026, Detroit vs Cleveland (4 times)
 Steals                    1, 04/19/2026, Detroit vs Orlando
 Turnovers                 3, 04/22/2026, Detroit vs Orlando
 Blocked Shots             8, 04/27/2026, Detroit at Orlando
@@ -8545,10 +8545,10 @@ Points                   10, 04/22/2026, Detroit vs Orlando
 
 
 Ausar Thompson / Detroit Pistons / 2025-26 Postseason Single-Game Highs
-Minutes                  37, 04/25/2026, Detroit at Orlando
+Minutes                  41, 05/13/2026, Detroit vs Cleveland
 Field Goals               7, 04/25/2026, Detroit at Orlando
 Field Goal Attempts      10, 05/09/2026, Detroit at Cleveland (Twice)
-Three-Point Field Goals   0, 05/11/2026, Detroit at Cleveland
+Three-Point Field Goals   0, 05/13/2026, Detroit vs Cleveland
 Three-Point Attempts      2, 05/09/2026, Detroit at Cleveland
 Free Throws               3, 05/05/2026, Detroit vs Cleveland (Twice)
 Free Throw Attempts       5, 04/25/2026, Detroit at Orlando
@@ -8562,10 +8562,10 @@ Blocked Shots             5, 04/25/2026, Detroit at Orlando
 Points                   17, 04/25/2026, Detroit at Orlando
 
 Ausar Thompson / Detroit Pistons / Career Postseason Single-Game Highs
-Minutes                  37, 04/25/2026, Detroit at Orlando
+Minutes                  41, 05/13/2026, Detroit vs Cleveland
 Field Goals               8, 04/29/2025, Detroit at New York
 Field Goal Attempts      10, 05/09/2026, Detroit at Cleveland (3 times)
-Three-Point Field Goals   0, 05/11/2026, Detroit at Cleveland
+Three-Point Field Goals   0, 05/13/2026, Detroit vs Cleveland
 Three-Point Attempts      2, 05/09/2026, Detroit at Cleveland
 Free Throws               7, 05/01/2025, Detroit vs New York
 Free Throw Attempts      12, 04/29/2025, Detroit at New York
