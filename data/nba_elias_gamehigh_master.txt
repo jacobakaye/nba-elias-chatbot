@@ -5105,7 +5105,7 @@ Defensive Rebounds       40, 05/03/2026, Cleveland vs Toronto (Twice)
 Rebounds                 60, 05/03/2026, Cleveland vs Toronto
 Assists                  31, 05/17/2026, Cleveland at Detroit
 Steals                   13, 04/20/2026, Cleveland vs Toronto
-Turnovers                22, 04/23/2026, Cleveland at Toronto
+Turnovers                22, 05/25/2026, Cleveland vs New York (Twice)
 Blocked Shots             9, 05/13/2026, Cleveland at Detroit
 Points                  126, 04/18/2026, Cleveland vs Toronto
 
@@ -5128,7 +5128,7 @@ Points                  138, 04/28/2025, Cleveland at Miami
 
 
 Team Totals / Cleveland Cavaliers / 2025-26 Postseason Single-Game Lows
-Minutes                 240, 05/23/2026, Cleveland vs New York
+Minutes                 240, 05/25/2026, Cleveland vs New York
 Field Goals              30, 05/15/2026, Cleveland vs Detroit
 Field Goal Attempts      74, 05/09/2026, Cleveland vs Detroit
 Three-Point Field Goals   7, 05/07/2026, Cleveland at Detroit
@@ -5137,7 +5137,7 @@ Free Throws              12, 05/23/2026, Cleveland vs New York
 Free Throw Attempts      16, 05/05/2026, Cleveland at Detroit
 Offensive Rebounds        4, 04/29/2026, Cleveland vs Toronto
 Defensive Rebounds       21, 05/11/2026, Cleveland vs Detroit
-Rebounds                 33, 05/11/2026, Cleveland vs Detroit (3 times)
+Rebounds                 33, 05/25/2026, Cleveland vs New York (4 times)
 Assists                  15, 05/21/2026, Cleveland at New York (3 times)
 Steals                    3, 05/09/2026, Cleveland vs Detroit
 Turnovers                 8, 05/21/2026, Cleveland at New York
@@ -5147,25 +5147,25 @@ Points                   89, 04/26/2026, Cleveland at Toronto
 Opponent Totals / Cleveland Cavaliers / 2025-26 Postseason Single-Game Highs
 Minutes                 265, 05/19/2026, Cleveland at New York (3 times)
 Field Goals              50, 04/23/2026, Cleveland at Toronto
-Field Goal Attempts      97, 04/26/2026, Cleveland at Toronto
-Three-Point Field Goals  16, 05/15/2026, Cleveland vs Detroit
-Three-Point Attempts     39, 05/17/2026, Cleveland at Detroit
+Field Goal Attempts      98, 05/25/2026, Cleveland vs New York
+Three-Point Field Goals  19, 05/25/2026, Cleveland vs New York
+Three-Point Attempts     43, 05/25/2026, Cleveland vs New York
 Free Throws              27, 05/05/2026, Cleveland at Detroit (Twice)
 Free Throw Attempts      36, 04/26/2026, Cleveland at Toronto
 Offensive Rebounds       21, 04/26/2026, Cleveland at Toronto
-Defensive Rebounds       38, 05/19/2026, Cleveland at New York (Twice)
-Rebounds                 59, 04/26/2026, Cleveland at Toronto
-Assists                  32, 05/21/2026, Cleveland at New York (Twice)
-Steals                   13, 05/01/2026, Cleveland at Toronto
+Defensive Rebounds       40, 05/25/2026, Cleveland vs New York
+Rebounds                 60, 05/25/2026, Cleveland vs New York
+Assists                  33, 05/25/2026, Cleveland vs New York
+Steals                   15, 05/25/2026, Cleveland vs New York
 Turnovers                22, 04/20/2026, Cleveland vs Toronto
 Blocked Shots            10, 05/13/2026, Cleveland at Detroit
-Points                  126, 04/23/2026, Cleveland at Toronto
+Points                  130, 05/25/2026, Cleveland vs New York
 
 Opponent Totals / Cleveland Cavaliers / All-Time Postseason Single-Game Highs
 Minutes                 290, 05/31/2007, Cleveland at Detroit
 Field Goals              56, 04/12/1978, Cleveland vs New York
 Field Goal Attempts     106, 06/01/2017, Cleveland at Golden State (Twice)
-Three-Point Field Goals  19, 05/04/2025, Cleveland vs Indiana (Twice)
+Three-Point Field Goals  19, 05/25/2026, Cleveland vs New York (3 times)
 Three-Point Attempts     49, 04/28/2025, Cleveland at Miami
 Free Throws              39, 05/24/2009, Cleveland at Orlando (Twice)
 Free Throw Attempts      51, 05/24/2009, Cleveland at Orlando
@@ -5173,14 +5173,14 @@ Offensive Rebounds       24, 05/01/1988, Cleveland at Chicago
 Defensive Rebounds       43, 06/04/2017, Cleveland at Golden State
 Rebounds                 63, 05/11/1976, Cleveland vs Boston
 Assists                  41, 05/15/1992, Cleveland at Boston
-Steals                   14, 04/21/2023, Cleveland at New York (3 times)
+Steals                   15, 05/25/2026, Cleveland vs New York
 Turnovers                26, 04/29/1995, Cleveland at New York (Twice)
 Blocked Shots            14, 05/07/1993, Cleveland at New Jersey
 Points                  132, 06/04/2017, Cleveland at Golden State (Twice)
 
 
 Opponent Totals / Cleveland Cavaliers / 2025-26 Postseason Single-Game Lows
-Minutes                 240, 05/23/2026, Cleveland vs New York
+Minutes                 240, 05/25/2026, Cleveland vs New York
 Field Goals              30, 05/17/2026, Cleveland at Detroit
 Field Goal Attempts      71, 04/18/2026, Cleveland vs Toronto
 Three-Point Field Goals   4, 04/26/2026, Cleveland at Toronto
@@ -5193,22 +5193,22 @@ Rebounds                 27, 04/18/2026, Cleveland vs Toronto
 Assists                  19, 04/26/2026, Cleveland at Toronto
 Steals                    3, 04/18/2026, Cleveland vs Toronto
 Turnovers                 8, 05/21/2026, Cleveland at New York
-Blocked Shots             2, 05/19/2026, Cleveland at New York
+Blocked Shots             2, 05/25/2026, Cleveland vs New York (Twice)
 Points                   93, 04/26/2026, Cleveland at Toronto
 
 Jarrett Allen / Cleveland Cavaliers / 2025-26 Postseason Single-Game Highs
 Minutes                  36, 05/13/2026, Cleveland at Detroit
 Field Goals               8, 05/17/2026, Cleveland at Detroit
 Field Goal Attempts      14, 05/17/2026, Cleveland at Detroit
-Three-Point Field Goals   0, 05/23/2026, Cleveland vs New York
-Three-Point Attempts      0, 05/23/2026, Cleveland vs New York
+Three-Point Field Goals   0, 05/25/2026, Cleveland vs New York
+Three-Point Attempts      0, 05/25/2026, Cleveland vs New York
 Free Throws               8, 05/07/2026, Cleveland at Detroit (Twice)
 Free Throw Attempts      14, 05/03/2026, Cleveland vs Toronto
 Offensive Rebounds        8, 05/03/2026, Cleveland vs Toronto
 Defensive Rebounds       11, 05/03/2026, Cleveland vs Toronto
 Rebounds                 19, 05/03/2026, Cleveland vs Toronto
 Assists                   3, 05/19/2026, Cleveland at New York (Twice)
-Steals                    2, 05/03/2026, Cleveland vs Toronto (3 times)
+Steals                    2, 05/25/2026, Cleveland vs New York (4 times)
 Turnovers                 3, 05/03/2026, Cleveland vs Toronto (Twice)
 Blocked Shots             3, 05/03/2026, Cleveland vs Toronto (4 times)
 Points                   23, 05/17/2026, Cleveland at Detroit
@@ -5217,8 +5217,8 @@ Jarrett Allen / Cleveland Cavaliers / Career Postseason Single-Game Highs (Games
 Minutes                  43, 04/15/2023, Cleveland vs New York
 Field Goals               8, 05/17/2026, Cleveland at Detroit (3 times)
 Field Goal Attempts      14, 05/17/2026, Cleveland at Detroit
-Three-Point Field Goals   0, 05/23/2026, Cleveland vs New York
-Three-Point Attempts      0, 05/23/2026, Cleveland vs New York
+Three-Point Field Goals   0, 05/25/2026, Cleveland vs New York
+Three-Point Attempts      0, 05/25/2026, Cleveland vs New York
 Free Throws               8, 05/07/2026, Cleveland at Detroit (3 times)
 Free Throw Attempts      14, 05/03/2026, Cleveland vs Toronto
 Offensive Rebounds        9, 04/22/2024, Cleveland vs Orlando
@@ -5234,8 +5234,8 @@ Jarrett Allen / Cleveland Cavaliers / Career Postseason Single-Game Highs (With 
 Minutes                  43, 04/15/2023, Cleveland vs New York
 Field Goals               8, 05/17/2026, Cleveland at Detroit (3 times)
 Field Goal Attempts      14, 05/17/2026, Cleveland at Detroit
-Three-Point Field Goals   0, 05/23/2026, Cleveland vs New York
-Three-Point Attempts      0, 05/23/2026, Cleveland vs New York
+Three-Point Field Goals   0, 05/25/2026, Cleveland vs New York
+Three-Point Attempts      0, 05/25/2026, Cleveland vs New York
 Free Throws               8, 05/07/2026, Cleveland at Detroit (3 times)
 Free Throw Attempts      14, 05/03/2026, Cleveland vs Toronto
 Offensive Rebounds        9, 04/22/2024, Cleveland vs Orlando
@@ -5250,31 +5250,31 @@ Points                   23, 05/17/2026, Cleveland at Detroit
 
 Thomas Bryant / Cleveland Cavaliers / 2025-26 Postseason Single-Game Highs
 Minutes                  10, 05/05/2026, Cleveland at Detroit
-Field Goals               1, 05/05/2026, Cleveland at Detroit (Twice)
-Field Goal Attempts       4, 05/17/2026, Cleveland at Detroit (Twice)
-Three-Point Field Goals   0, 05/21/2026, Cleveland at New York
-Three-Point Attempts      2, 05/17/2026, Cleveland at Detroit (Twice)
+Field Goals               4, 05/25/2026, Cleveland vs New York
+Field Goal Attempts       7, 05/25/2026, Cleveland vs New York
+Three-Point Field Goals   2, 05/25/2026, Cleveland vs New York
+Three-Point Attempts      5, 05/25/2026, Cleveland vs New York
 Free Throws               2, 05/05/2026, Cleveland at Detroit
 Free Throw Attempts       2, 05/05/2026, Cleveland at Detroit
 Offensive Rebounds        2, 05/17/2026, Cleveland at Detroit
-Defensive Rebounds        2, 05/17/2026, Cleveland at Detroit
+Defensive Rebounds        3, 05/25/2026, Cleveland vs New York
 Rebounds                  4, 05/17/2026, Cleveland at Detroit
 Assists                   1, 05/17/2026, Cleveland at Detroit (Twice)
 Steals                    1, 05/05/2026, Cleveland at Detroit (Twice)
 Turnovers                 1, 05/17/2026, Cleveland at Detroit (Twice)
 Blocked Shots             1, 04/23/2026, Cleveland at Toronto
-Points                    4, 05/05/2026, Cleveland at Detroit
+Points                   10, 05/25/2026, Cleveland vs New York
 
 Thomas Bryant / Cleveland Cavaliers / Career Postseason Single-Game Highs (Games with all teams)
 Minutes                  21, 04/25/2025, Indiana at Milwaukee
-Field Goals               4, 05/13/2025, Indiana at Cleveland (Twice)
-Field Goal Attempts       6, 05/13/2025, Indiana at Cleveland (Twice)
+Field Goals               4, 05/25/2026, Cleveland vs New York (3 times)
+Field Goal Attempts       7, 05/25/2026, Cleveland vs New York
 Three-Point Field Goals   3, 05/31/2025, Indiana vs New York
-Three-Point Attempts      4, 05/31/2025, Indiana vs New York
+Three-Point Attempts      5, 05/25/2026, Cleveland vs New York
 Free Throws               3, 04/19/2025, Indiana vs Milwaukee
 Free Throw Attempts       4, 04/19/2025, Indiana vs Milwaukee
 Offensive Rebounds        2, 05/17/2026, Cleveland at Detroit
-Defensive Rebounds        3, 05/13/2025, Indiana at Cleveland (3 times)
+Defensive Rebounds        3, 05/25/2026, Cleveland vs New York (4 times)
 Rebounds                  4, 05/17/2026, Cleveland at Detroit (Twice)
 Assists                   2, 04/25/2025, Indiana at Milwaukee
 Steals                    1, 05/05/2026, Cleveland at Detroit (6 times)
@@ -5284,55 +5284,55 @@ Points                   11, 05/31/2025, Indiana vs New York
 
 Thomas Bryant / Cleveland Cavaliers / Career Postseason Single-Game Highs (With this team only)
 Minutes                  10, 05/05/2026, Cleveland at Detroit
-Field Goals               1, 05/05/2026, Cleveland at Detroit (Twice)
-Field Goal Attempts       4, 05/17/2026, Cleveland at Detroit (Twice)
-Three-Point Field Goals   0, 05/21/2026, Cleveland at New York
-Three-Point Attempts      2, 05/17/2026, Cleveland at Detroit (Twice)
+Field Goals               4, 05/25/2026, Cleveland vs New York
+Field Goal Attempts       7, 05/25/2026, Cleveland vs New York
+Three-Point Field Goals   2, 05/25/2026, Cleveland vs New York
+Three-Point Attempts      5, 05/25/2026, Cleveland vs New York
 Free Throws               2, 05/05/2026, Cleveland at Detroit
 Free Throw Attempts       2, 05/05/2026, Cleveland at Detroit
 Offensive Rebounds        2, 05/17/2026, Cleveland at Detroit
-Defensive Rebounds        2, 05/17/2026, Cleveland at Detroit
+Defensive Rebounds        3, 05/25/2026, Cleveland vs New York
 Rebounds                  4, 05/17/2026, Cleveland at Detroit
 Assists                   1, 05/17/2026, Cleveland at Detroit (Twice)
 Steals                    1, 05/05/2026, Cleveland at Detroit (Twice)
 Turnovers                 1, 05/17/2026, Cleveland at Detroit (Twice)
 Blocked Shots             1, 04/23/2026, Cleveland at Toronto
-Points                    4, 05/05/2026, Cleveland at Detroit
+Points                   10, 05/25/2026, Cleveland vs New York
 
 
 Keon Ellis / Cleveland Cavaliers / 2025-26 Postseason Single-Game Highs
-Minutes                  15, 04/18/2026, Cleveland vs Toronto
-Field Goals               1, 05/17/2026, Cleveland at Detroit (4 times)
+Minutes                  16, 05/25/2026, Cleveland vs New York
+Field Goals               1, 05/25/2026, Cleveland vs New York (5 times)
 Field Goal Attempts       4, 05/05/2026, Cleveland at Detroit (Twice)
-Three-Point Field Goals   1, 05/17/2026, Cleveland at Detroit (4 times)
+Three-Point Field Goals   1, 05/25/2026, Cleveland vs New York (5 times)
 Three-Point Attempts      4, 04/20/2026, Cleveland vs Toronto
-Free Throws               2, 05/19/2026, Cleveland at New York
-Free Throw Attempts       2, 05/19/2026, Cleveland at New York
+Free Throws               2, 05/25/2026, Cleveland vs New York (Twice)
+Free Throw Attempts       2, 05/25/2026, Cleveland vs New York (Twice)
 Offensive Rebounds        1, 05/05/2026, Cleveland at Detroit (3 times)
 Defensive Rebounds        3, 04/23/2026, Cleveland at Toronto (Twice)
 Rebounds                  4, 04/23/2026, Cleveland at Toronto
-Assists                   1, 05/15/2026, Cleveland vs Detroit (Twice)
+Assists                   1, 05/25/2026, Cleveland vs New York (3 times)
 Steals                    2, 05/05/2026, Cleveland at Detroit (Twice)
 Turnovers                 2, 05/19/2026, Cleveland at New York
 Blocked Shots             1, 04/23/2026, Cleveland at Toronto
-Points                    3, 05/17/2026, Cleveland at Detroit (4 times)
+Points                    5, 05/25/2026, Cleveland vs New York
 
 Keon Ellis / Cleveland Cavaliers / Career Postseason Single-Game Highs (With this team only)
-Minutes                  15, 04/18/2026, Cleveland vs Toronto
-Field Goals               1, 05/17/2026, Cleveland at Detroit (4 times)
+Minutes                  16, 05/25/2026, Cleveland vs New York
+Field Goals               1, 05/25/2026, Cleveland vs New York (5 times)
 Field Goal Attempts       4, 05/05/2026, Cleveland at Detroit (Twice)
-Three-Point Field Goals   1, 05/17/2026, Cleveland at Detroit (4 times)
+Three-Point Field Goals   1, 05/25/2026, Cleveland vs New York (5 times)
 Three-Point Attempts      4, 04/20/2026, Cleveland vs Toronto
-Free Throws               2, 05/19/2026, Cleveland at New York
-Free Throw Attempts       2, 05/19/2026, Cleveland at New York
+Free Throws               2, 05/25/2026, Cleveland vs New York (Twice)
+Free Throw Attempts       2, 05/25/2026, Cleveland vs New York (Twice)
 Offensive Rebounds        1, 05/05/2026, Cleveland at Detroit (3 times)
 Defensive Rebounds        3, 04/23/2026, Cleveland at Toronto (Twice)
 Rebounds                  4, 04/23/2026, Cleveland at Toronto
-Assists                   1, 05/15/2026, Cleveland vs Detroit (Twice)
+Assists                   1, 05/25/2026, Cleveland vs New York (3 times)
 Steals                    2, 05/05/2026, Cleveland at Detroit (Twice)
 Turnovers                 2, 05/19/2026, Cleveland at New York
 Blocked Shots             1, 04/23/2026, Cleveland at Toronto
-Points                    3, 05/17/2026, Cleveland at Detroit (4 times)
+Points                    5, 05/25/2026, Cleveland vs New York
 
 
 James Harden / Cleveland Cavaliers / 2025-26 Postseason Single-Game Highs
@@ -5401,7 +5401,7 @@ Rebounds                  4, 04/18/2026, Cleveland vs Toronto
 Assists                   2, 05/19/2026, Cleveland at New York (6 times)
 Steals                    1, 05/23/2026, Cleveland vs New York (8 times)
 Turnovers                 2, 05/17/2026, Cleveland at Detroit (Twice)
-Blocked Shots             0, 05/23/2026, Cleveland vs New York
+Blocked Shots             0, 05/25/2026, Cleveland vs New York
 Points                   23, 05/17/2026, Cleveland at Detroit
 
 Sam Merrill / Cleveland Cavaliers / Career Postseason Single-Game Highs (Games with all teams)
@@ -5443,7 +5443,7 @@ Donovan Mitchell / Cleveland Cavaliers / 2025-26 Postseason Single-Game Highs
 Minutes                  42, 05/13/2026, Cleveland at Detroit
 Field Goals              13, 05/11/2026, Cleveland vs Detroit (3 times)
 Field Goal Attempts      26, 05/11/2026, Cleveland vs Detroit (Twice)
-Three-Point Field Goals   4, 05/19/2026, Cleveland at New York (6 times)
+Three-Point Field Goals   5, 05/25/2026, Cleveland vs New York
 Three-Point Attempts     12, 05/11/2026, Cleveland vs Detroit (Twice)
 Free Throws              13, 05/11/2026, Cleveland vs Detroit
 Free Throw Attempts      15, 05/11/2026, Cleveland vs Detroit
@@ -5579,72 +5579,72 @@ Points                   10, 05/25/2018, Cleveland vs Boston (Twice)
 
 
 Craig Porter / Cleveland Cavaliers / 2025-26 Postseason Single-Game Highs
-Minutes                   4, 05/17/2026, Cleveland at Detroit
+Minutes                   9, 05/25/2026, Cleveland vs New York
 Field Goals               1, 05/17/2026, Cleveland at Detroit
 Field Goal Attempts       2, 05/17/2026, Cleveland at Detroit
-Three-Point Field Goals   0, 05/21/2026, Cleveland at New York
+Three-Point Field Goals   0, 05/25/2026, Cleveland vs New York
 Three-Point Attempts      1, 04/23/2026, Cleveland at Toronto
-Free Throws               0, 05/21/2026, Cleveland at New York
-Free Throw Attempts       0, 05/21/2026, Cleveland at New York
-Offensive Rebounds        0, 05/21/2026, Cleveland at New York
+Free Throws               0, 05/25/2026, Cleveland vs New York
+Free Throw Attempts       0, 05/25/2026, Cleveland vs New York
+Offensive Rebounds        0, 05/25/2026, Cleveland vs New York
 Defensive Rebounds        2, 05/17/2026, Cleveland at Detroit
 Rebounds                  2, 05/17/2026, Cleveland at Detroit
-Assists                   1, 05/17/2026, Cleveland at Detroit
-Steals                    0, 05/21/2026, Cleveland at New York
-Turnovers                 1, 05/11/2026, Cleveland vs Detroit
-Blocked Shots             0, 05/21/2026, Cleveland at New York
+Assists                   3, 05/25/2026, Cleveland vs New York
+Steals                    0, 05/25/2026, Cleveland vs New York
+Turnovers                 3, 05/25/2026, Cleveland vs New York
+Blocked Shots             0, 05/25/2026, Cleveland vs New York
 Points                    2, 05/17/2026, Cleveland at Detroit
 
 Craig Porter / Cleveland Cavaliers / Career Postseason Single-Game Highs
 Minutes                  12, 04/28/2025, Cleveland at Miami
 Field Goals               2, 05/11/2025, Cleveland at Indiana (Twice)
 Field Goal Attempts       4, 05/11/2025, Cleveland at Indiana (Twice)
-Three-Point Field Goals   0, 05/21/2026, Cleveland at New York
+Three-Point Field Goals   0, 05/25/2026, Cleveland vs New York
 Three-Point Attempts      1, 04/23/2026, Cleveland at Toronto (4 times)
-Free Throws               0, 05/21/2026, Cleveland at New York
-Free Throw Attempts       0, 05/21/2026, Cleveland at New York
+Free Throws               0, 05/25/2026, Cleveland vs New York
+Free Throw Attempts       0, 05/25/2026, Cleveland vs New York
 Offensive Rebounds        1, 05/11/2025, Cleveland at Indiana (3 times)
 Defensive Rebounds        2, 05/17/2026, Cleveland at Detroit
 Rebounds                  2, 05/17/2026, Cleveland at Detroit (3 times)
 Assists                   4, 05/11/2025, Cleveland at Indiana (Twice)
 Steals                    1, 05/11/2025, Cleveland at Indiana (3 times)
-Turnovers                 1, 05/11/2026, Cleveland vs Detroit (3 times)
+Turnovers                 3, 05/25/2026, Cleveland vs New York
 Blocked Shots             1, 05/06/2025, Cleveland vs Indiana (Twice)
 Points                    4, 05/11/2025, Cleveland at Indiana (Twice)
 
 
 Tyrese Proctor / Cleveland Cavaliers / 2025-26 Postseason Single-Game Highs
-Minutes                   3, 04/23/2026, Cleveland at Toronto
-Field Goals               0, 05/21/2026, Cleveland at New York
-Field Goal Attempts       0, 05/21/2026, Cleveland at New York
-Three-Point Field Goals   0, 05/21/2026, Cleveland at New York
-Three-Point Attempts      0, 05/21/2026, Cleveland at New York
+Minutes                   9, 05/25/2026, Cleveland vs New York
+Field Goals               0, 05/25/2026, Cleveland vs New York
+Field Goal Attempts       2, 05/25/2026, Cleveland vs New York
+Three-Point Field Goals   0, 05/25/2026, Cleveland vs New York
+Three-Point Attempts      2, 05/25/2026, Cleveland vs New York
 Free Throws               2, 04/23/2026, Cleveland at Toronto
 Free Throw Attempts       2, 04/23/2026, Cleveland at Toronto
-Offensive Rebounds        0, 05/21/2026, Cleveland at New York
-Defensive Rebounds        0, 05/21/2026, Cleveland at New York
-Rebounds                  0, 05/21/2026, Cleveland at New York
-Assists                   0, 05/21/2026, Cleveland at New York
-Steals                    0, 05/21/2026, Cleveland at New York
-Turnovers                 1, 05/11/2026, Cleveland vs Detroit
-Blocked Shots             0, 05/21/2026, Cleveland at New York
+Offensive Rebounds        0, 05/25/2026, Cleveland vs New York
+Defensive Rebounds        1, 05/25/2026, Cleveland vs New York
+Rebounds                  1, 05/25/2026, Cleveland vs New York
+Assists                   2, 05/25/2026, Cleveland vs New York
+Steals                    0, 05/25/2026, Cleveland vs New York
+Turnovers                 1, 05/25/2026, Cleveland vs New York (Twice)
+Blocked Shots             0, 05/25/2026, Cleveland vs New York
 Points                    2, 04/23/2026, Cleveland at Toronto
 
 Tyrese Proctor / Cleveland Cavaliers / Career Postseason Single-Game Highs
-Minutes                   3, 04/23/2026, Cleveland at Toronto
-Field Goals               0, 05/21/2026, Cleveland at New York
-Field Goal Attempts       0, 05/21/2026, Cleveland at New York
-Three-Point Field Goals   0, 05/21/2026, Cleveland at New York
-Three-Point Attempts      0, 05/21/2026, Cleveland at New York
+Minutes                   9, 05/25/2026, Cleveland vs New York
+Field Goals               0, 05/25/2026, Cleveland vs New York
+Field Goal Attempts       2, 05/25/2026, Cleveland vs New York
+Three-Point Field Goals   0, 05/25/2026, Cleveland vs New York
+Three-Point Attempts      2, 05/25/2026, Cleveland vs New York
 Free Throws               2, 04/23/2026, Cleveland at Toronto
 Free Throw Attempts       2, 04/23/2026, Cleveland at Toronto
-Offensive Rebounds        0, 05/21/2026, Cleveland at New York
-Defensive Rebounds        0, 05/21/2026, Cleveland at New York
-Rebounds                  0, 05/21/2026, Cleveland at New York
-Assists                   0, 05/21/2026, Cleveland at New York
-Steals                    0, 05/21/2026, Cleveland at New York
-Turnovers                 1, 05/11/2026, Cleveland vs Detroit
-Blocked Shots             0, 05/21/2026, Cleveland at New York
+Offensive Rebounds        0, 05/25/2026, Cleveland vs New York
+Defensive Rebounds        1, 05/25/2026, Cleveland vs New York
+Rebounds                  1, 05/25/2026, Cleveland vs New York
+Assists                   2, 05/25/2026, Cleveland vs New York
+Steals                    0, 05/25/2026, Cleveland vs New York
+Turnovers                 1, 05/25/2026, Cleveland vs New York (Twice)
+Blocked Shots             0, 05/25/2026, Cleveland vs New York
 Points                    2, 04/23/2026, Cleveland at Toronto
 
 
@@ -5753,38 +5753,38 @@ Points                   24, 04/18/2026, Cleveland vs Toronto
 
 
 Nae'Qwan Tomlin / Cleveland Cavaliers / 2025-26 Postseason Single-Game Highs
-Minutes                   4, 05/17/2026, Cleveland at Detroit
-Field Goals               1, 05/21/2026, Cleveland at New York (3 times)
-Field Goal Attempts       1, 05/21/2026, Cleveland at New York (4 times)
-Three-Point Field Goals   0, 05/21/2026, Cleveland at New York
-Three-Point Attempts      0, 05/21/2026, Cleveland at New York
+Minutes                   7, 05/25/2026, Cleveland vs New York
+Field Goals               1, 05/25/2026, Cleveland vs New York (4 times)
+Field Goal Attempts       2, 05/25/2026, Cleveland vs New York
+Three-Point Field Goals   0, 05/25/2026, Cleveland vs New York
+Three-Point Attempts      0, 05/25/2026, Cleveland vs New York
 Free Throws               1, 05/15/2026, Cleveland vs Detroit
 Free Throw Attempts       2, 05/15/2026, Cleveland vs Detroit
-Offensive Rebounds        1, 05/21/2026, Cleveland at New York (3 times)
+Offensive Rebounds        1, 05/25/2026, Cleveland vs New York (4 times)
 Defensive Rebounds        1, 05/17/2026, Cleveland at Detroit
-Rebounds                  1, 05/21/2026, Cleveland at New York (4 times)
-Assists                   1, 04/23/2026, Cleveland at Toronto
+Rebounds                  1, 05/25/2026, Cleveland vs New York (5 times)
+Assists                   1, 05/25/2026, Cleveland vs New York (Twice)
 Steals                    1, 05/17/2026, Cleveland at Detroit
 Turnovers                 1, 04/18/2026, Cleveland vs Toronto
-Blocked Shots             0, 05/21/2026, Cleveland at New York
-Points                    2, 05/21/2026, Cleveland at New York (3 times)
+Blocked Shots             0, 05/25/2026, Cleveland vs New York
+Points                    2, 05/25/2026, Cleveland vs New York (4 times)
 
 Nae'Qwan Tomlin / Cleveland Cavaliers / Career Postseason Single-Game Highs
-Minutes                   4, 05/17/2026, Cleveland at Detroit
-Field Goals               1, 05/21/2026, Cleveland at New York (3 times)
-Field Goal Attempts       1, 05/21/2026, Cleveland at New York (4 times)
-Three-Point Field Goals   0, 05/21/2026, Cleveland at New York
-Three-Point Attempts      0, 05/21/2026, Cleveland at New York
+Minutes                   7, 05/25/2026, Cleveland vs New York
+Field Goals               1, 05/25/2026, Cleveland vs New York (4 times)
+Field Goal Attempts       2, 05/25/2026, Cleveland vs New York
+Three-Point Field Goals   0, 05/25/2026, Cleveland vs New York
+Three-Point Attempts      0, 05/25/2026, Cleveland vs New York
 Free Throws               1, 05/15/2026, Cleveland vs Detroit
 Free Throw Attempts       2, 05/15/2026, Cleveland vs Detroit
-Offensive Rebounds        1, 05/21/2026, Cleveland at New York (3 times)
+Offensive Rebounds        1, 05/25/2026, Cleveland vs New York (4 times)
 Defensive Rebounds        1, 05/17/2026, Cleveland at Detroit
-Rebounds                  1, 05/21/2026, Cleveland at New York (4 times)
-Assists                   1, 04/23/2026, Cleveland at Toronto
+Rebounds                  1, 05/25/2026, Cleveland vs New York (5 times)
+Assists                   1, 05/25/2026, Cleveland vs New York (Twice)
 Steals                    1, 05/17/2026, Cleveland at Detroit
 Turnovers                 1, 04/18/2026, Cleveland vs Toronto
-Blocked Shots             0, 05/21/2026, Cleveland at New York
-Points                    2, 05/21/2026, Cleveland at New York (3 times)
+Blocked Shots             0, 05/25/2026, Cleveland vs New York
+Points                    2, 05/25/2026, Cleveland vs New York (4 times)
 
 
 Jaylon Tyson / Cleveland Cavaliers / 2025-26 Postseason Single-Game Highs
@@ -5799,8 +5799,8 @@ Offensive Rebounds        2, 05/07/2026, Cleveland at Detroit (4 times)
 Defensive Rebounds        7, 05/03/2026, Cleveland vs Toronto
 Rebounds                  9, 05/03/2026, Cleveland vs Toronto
 Assists                   4, 05/03/2026, Cleveland vs Toronto (Twice)
-Steals                    1, 04/23/2026, Cleveland at Toronto (Twice)
-Turnovers                 2, 05/01/2026, Cleveland at Toronto (Twice)
+Steals                    1, 05/25/2026, Cleveland vs New York (3 times)
+Turnovers                 2, 05/25/2026, Cleveland vs New York (3 times)
 Blocked Shots             1, 05/09/2026, Cleveland vs Detroit
 Points                   13, 04/23/2026, Cleveland at Toronto
 
@@ -5816,8 +5816,8 @@ Offensive Rebounds        2, 05/07/2026, Cleveland at Detroit (5 times)
 Defensive Rebounds        7, 05/03/2026, Cleveland vs Toronto
 Rebounds                  9, 05/03/2026, Cleveland vs Toronto
 Assists                   4, 05/03/2026, Cleveland vs Toronto (Twice)
-Steals                    1, 04/23/2026, Cleveland at Toronto (4 times)
-Turnovers                 2, 05/01/2026, Cleveland at Toronto (3 times)
+Steals                    1, 05/25/2026, Cleveland vs New York (5 times)
+Turnovers                 2, 05/25/2026, Cleveland vs New York (4 times)
 Blocked Shots             1, 05/09/2026, Cleveland vs Detroit (Twice)
 Points                   13, 04/23/2026, Cleveland at Toronto
 
@@ -5834,9 +5834,9 @@ Offensive Rebounds        3, 04/23/2026, Cleveland at Toronto
 Defensive Rebounds        5, 05/13/2026, Cleveland at Detroit (Twice)
 Rebounds                  6, 05/17/2026, Cleveland at Detroit (Twice)
 Assists                   3, 05/21/2026, Cleveland at New York (Twice)
-Steals                    2, 04/20/2026, Cleveland vs Toronto (Twice)
+Steals                    2, 05/25/2026, Cleveland vs New York (3 times)
 Turnovers                 2, 05/21/2026, Cleveland at New York (4 times)
-Blocked Shots             0, 05/23/2026, Cleveland vs New York
+Blocked Shots             1, 05/25/2026, Cleveland vs New York
 Points                   10, 05/19/2026, Cleveland at New York (Twice)
 
 Dean Wade / Cleveland Cavaliers / Career Postseason Single-Game Highs
@@ -5851,9 +5851,9 @@ Offensive Rebounds        3, 04/23/2026, Cleveland at Toronto (Twice)
 Defensive Rebounds        7, 05/06/2025, Cleveland vs Indiana
 Rebounds                 10, 05/06/2025, Cleveland vs Indiana
 Assists                   3, 05/21/2026, Cleveland at New York (4 times)
-Steals                    2, 04/20/2026, Cleveland vs Toronto (Twice)
+Steals                    2, 05/25/2026, Cleveland vs New York (3 times)
 Turnovers                 2, 05/21/2026, Cleveland at New York (5 times)
-Blocked Shots             1, 05/09/2025, Cleveland at Indiana (3 times)
+Blocked Shots             1, 05/25/2026, Cleveland vs New York (4 times)
 Points                   10, 05/19/2026, Cleveland at New York (Twice)
 
 
@@ -18965,14 +18965,14 @@ Points                   43, 12/28/2022, New Orleans vs Minnesota
 Team Totals / New York Knickerbockers / 2025-26 Postseason Single-Game Highs
 Minutes                 265, 05/19/2026, New York vs Cleveland
 Field Goals              53, 05/04/2026, New York vs Philadelphia
-Field Goal Attempts      93, 04/23/2026, New York at Atlanta
+Field Goal Attempts      98, 05/25/2026, New York at Cleveland
 Three-Point Field Goals  25, 05/10/2026, New York at Philadelphia
 Three-Point Attempts     44, 05/10/2026, New York at Philadelphia
 Free Throws              27, 04/30/2026, New York at Atlanta
 Free Throw Attempts      34, 04/30/2026, New York at Atlanta (Twice)
-Offensive Rebounds       15, 05/10/2026, New York at Philadelphia
-Defensive Rebounds       40, 04/28/2026, New York vs Atlanta
-Rebounds                 49, 05/08/2026, New York at Philadelphia
+Offensive Rebounds       20, 05/25/2026, New York at Cleveland
+Defensive Rebounds       40, 05/25/2026, New York at Cleveland (Twice)
+Rebounds                 60, 05/25/2026, New York at Cleveland
 Assists                  34, 05/04/2026, New York vs Philadelphia
 Steals                   16, 04/30/2026, New York at Atlanta
 Turnovers                19, 05/19/2026, New York vs Cleveland
@@ -18998,7 +18998,7 @@ Points                  144, 05/10/2026, New York at Philadelphia
 
 
 Team Totals / New York Knickerbockers / 2025-26 Postseason Single-Game Lows
-Minutes                 240, 05/23/2026, New York at Cleveland
+Minutes                 240, 05/25/2026, New York at Cleveland
 Field Goals              38, 05/08/2026, New York at Philadelphia (Twice)
 Field Goal Attempts      76, 05/08/2026, New York at Philadelphia
 Three-Point Field Goals   7, 05/06/2026, New York vs Philadelphia
@@ -19011,7 +19011,7 @@ Rebounds                 37, 05/23/2026, New York at Cleveland (Twice)
 Assists                  19, 04/23/2026, New York at Atlanta
 Steals                    5, 05/21/2026, New York vs Cleveland (Twice)
 Turnovers                 8, 05/21/2026, New York vs Cleveland
-Blocked Shots             2, 05/19/2026, New York vs Cleveland (Twice)
+Blocked Shots             2, 05/25/2026, New York at Cleveland (3 times)
 Points                  106, 04/20/2026, New York vs Atlanta
 
 Opponent Totals / New York Knickerbockers / 2025-26 Postseason Single-Game Highs
@@ -19027,7 +19027,7 @@ Defensive Rebounds       32, 04/23/2026, New York at Atlanta (Twice)
 Rebounds                 45, 04/23/2026, New York at Atlanta
 Assists                  25, 04/28/2026, New York vs Atlanta (Twice)
 Steals                   11, 05/19/2026, New York vs Cleveland
-Turnovers                21, 05/19/2026, New York vs Cleveland
+Turnovers                22, 05/25/2026, New York at Cleveland
 Blocked Shots             8, 04/23/2026, New York at Atlanta
 Points                  114, 05/10/2026, New York at Philadelphia
 
@@ -19050,7 +19050,7 @@ Points                  157, 04/28/1990, New York at Boston
 
 
 Opponent Totals / New York Knickerbockers / 2025-26 Postseason Single-Game Lows
-Minutes                 240, 05/23/2026, New York at Cleveland
+Minutes                 240, 05/25/2026, New York at Cleveland
 Field Goals              30, 05/04/2026, New York vs Philadelphia
 Field Goal Attempts      73, 05/04/2026, New York vs Philadelphia
 Three-Point Field Goals   8, 05/10/2026, New York at Philadelphia
@@ -19074,12 +19074,12 @@ Three-Point Field Goals   2, 04/28/2026, New York vs Atlanta (Twice)
 Three-Point Attempts      3, 05/04/2026, New York vs Philadelphia (3 times)
 Free Throws               2, 04/28/2026, New York vs Atlanta
 Free Throw Attempts       2, 04/28/2026, New York vs Atlanta
-Offensive Rebounds        0, 05/23/2026, New York at Cleveland
+Offensive Rebounds        0, 05/25/2026, New York at Cleveland
 Defensive Rebounds        3, 05/10/2026, New York at Philadelphia
 Rebounds                  3, 05/10/2026, New York at Philadelphia
 Assists                   3, 04/20/2026, New York vs Atlanta
 Steals                    3, 04/25/2026, New York at Atlanta
-Turnovers                 1, 05/23/2026, New York at Cleveland (6 times)
+Turnovers                 2, 05/25/2026, New York at Cleveland
 Blocked Shots             1, 05/21/2026, New York vs Cleveland (Twice)
 Points                   12, 04/28/2026, New York vs Atlanta
 
@@ -19096,7 +19096,7 @@ Defensive Rebounds        3, 05/10/2026, New York at Philadelphia
 Rebounds                  3, 05/10/2026, New York at Philadelphia (Twice)
 Assists                   4, 04/29/2024, New Orleans vs Oklahoma City (Twice)
 Steals                    3, 04/25/2026, New York at Atlanta (Twice)
-Turnovers                 2, 04/29/2024, New Orleans vs Oklahoma City (4 times)
+Turnovers                 2, 05/25/2026, New York at Cleveland (5 times)
 Blocked Shots             1, 05/21/2026, New York vs Cleveland (4 times)
 Points                   12, 04/28/2026, New York vs Atlanta (Twice)
 
@@ -19108,12 +19108,12 @@ Three-Point Field Goals   2, 04/28/2026, New York vs Atlanta (Twice)
 Three-Point Attempts      3, 05/04/2026, New York vs Philadelphia (3 times)
 Free Throws               2, 04/28/2026, New York vs Atlanta
 Free Throw Attempts       2, 04/28/2026, New York vs Atlanta
-Offensive Rebounds        0, 05/23/2026, New York at Cleveland
+Offensive Rebounds        0, 05/25/2026, New York at Cleveland
 Defensive Rebounds        3, 05/10/2026, New York at Philadelphia
 Rebounds                  3, 05/10/2026, New York at Philadelphia
 Assists                   3, 04/20/2026, New York vs Atlanta
 Steals                    3, 04/25/2026, New York at Atlanta
-Turnovers                 1, 05/23/2026, New York at Cleveland (6 times)
+Turnovers                 2, 05/25/2026, New York at Cleveland
 Blocked Shots             1, 05/21/2026, New York vs Cleveland (Twice)
 Points                   12, 04/28/2026, New York vs Atlanta
 
@@ -19129,7 +19129,7 @@ Free Throw Attempts      10, 05/19/2026, New York vs Cleveland
 Offensive Rebounds        4, 04/23/2026, New York at Atlanta
 Defensive Rebounds        9, 04/28/2026, New York vs Atlanta
 Rebounds                 10, 04/28/2026, New York vs Atlanta (Twice)
-Assists                   4, 05/23/2026, New York at Cleveland
+Assists                   4, 05/25/2026, New York at Cleveland (Twice)
 Steals                    4, 05/06/2026, New York vs Philadelphia (Twice)
 Turnovers                 2, 05/04/2026, New York vs Philadelphia
 Blocked Shots             3, 05/21/2026, New York vs Cleveland (Twice)
@@ -19146,7 +19146,7 @@ Free Throw Attempts      10, 05/19/2026, New York vs Cleveland
 Offensive Rebounds        5, 09/09/2020, Toronto at Boston
 Defensive Rebounds       12, 04/28/2024, New York at Philadelphia
 Rebounds                 14, 04/28/2024, New York at Philadelphia
-Assists                   4, 05/23/2026, New York at Cleveland (4 times)
+Assists                   4, 05/25/2026, New York at Cleveland (5 times)
 Steals                    5, 04/19/2025, New York vs Detroit
 Turnovers                 4, 04/30/2024, New York vs Philadelphia (Twice)
 Blocked Shots             3, 05/21/2026, New York vs Cleveland (6 times)
@@ -19163,7 +19163,7 @@ Free Throw Attempts      10, 05/19/2026, New York vs Cleveland
 Offensive Rebounds        4, 04/23/2026, New York at Atlanta
 Defensive Rebounds       12, 04/28/2024, New York at Philadelphia
 Rebounds                 14, 04/28/2024, New York at Philadelphia
-Assists                   4, 05/23/2026, New York at Cleveland (Twice)
+Assists                   4, 05/25/2026, New York at Cleveland (3 times)
 Steals                    5, 04/19/2025, New York vs Detroit
 Turnovers                 4, 04/30/2024, New York vs Philadelphia
 Blocked Shots             3, 05/21/2026, New York vs Cleveland (6 times)
@@ -19173,11 +19173,11 @@ Points                   29, 04/30/2026, New York at Atlanta (3 times)
 Mikal Bridges / New York Knickerbockers / 2025-26 Postseason Single-Game Highs
 Minutes                  42, 05/19/2026, New York vs Cleveland
 Field Goals              11, 05/23/2026, New York at Cleveland
-Field Goal Attempts      15, 05/23/2026, New York at Cleveland
+Field Goal Attempts      16, 05/25/2026, New York at Cleveland
 Three-Point Field Goals   3, 05/04/2026, New York vs Philadelphia
-Three-Point Attempts      6, 04/20/2026, New York vs Atlanta
-Free Throws               5, 05/08/2026, New York at Philadelphia
-Free Throw Attempts       5, 05/08/2026, New York at Philadelphia
+Three-Point Attempts      8, 05/25/2026, New York at Cleveland
+Free Throws               6, 05/25/2026, New York at Cleveland
+Free Throw Attempts       6, 05/25/2026, New York at Cleveland
 Offensive Rebounds        1, 05/23/2026, New York at Cleveland (5 times)
 Defensive Rebounds        5, 05/23/2026, New York at Cleveland (Twice)
 Rebounds                  6, 05/23/2026, New York at Cleveland
@@ -19210,8 +19210,8 @@ Field Goals              11, 05/23/2026, New York at Cleveland (3 times)
 Field Goal Attempts      21, 05/12/2025, New York vs Boston
 Three-Point Field Goals   4, 05/27/2025, New York at Indiana (Twice)
 Three-Point Attempts     11, 04/21/2025, New York vs Detroit
-Free Throws               5, 05/08/2026, New York at Philadelphia
-Free Throw Attempts       5, 05/08/2026, New York at Philadelphia
+Free Throws               6, 05/25/2026, New York at Cleveland
+Free Throw Attempts       6, 05/25/2026, New York at Cleveland
 Offensive Rebounds        4, 05/21/2025, New York vs Indiana
 Defensive Rebounds        7, 05/07/2025, New York at Boston
 Rebounds                  7, 05/23/2025, New York vs Indiana (4 times)
@@ -19236,7 +19236,7 @@ Rebounds                  5, 05/19/2026, New York vs Cleveland (3 times)
 Assists                  14, 05/21/2026, New York vs Cleveland
 Steals                    3, 05/19/2026, New York vs Cleveland
 Turnovers                 6, 04/25/2026, New York at Atlanta
-Blocked Shots             0, 05/23/2026, New York at Cleveland
+Blocked Shots             0, 05/25/2026, New York at Cleveland
 Points                   39, 04/28/2026, New York vs Atlanta
 
 Jalen Brunson / New York Knickerbockers / Career Postseason Single-Game Highs (Games with all teams)
@@ -19278,8 +19278,8 @@ Jordan Clarkson / New York Knickerbockers / 2025-26 Postseason Single-Game Highs
 Minutes                  21, 04/25/2026, New York at Atlanta
 Field Goals               4, 04/23/2026, New York at Atlanta (Twice)
 Field Goal Attempts      11, 04/23/2026, New York at Atlanta
-Three-Point Field Goals   1, 05/19/2026, New York vs Cleveland
-Three-Point Attempts      2, 04/23/2026, New York at Atlanta
+Three-Point Field Goals   1, 05/25/2026, New York at Cleveland (Twice)
+Three-Point Attempts      4, 05/25/2026, New York at Cleveland
 Free Throws               3, 05/10/2026, New York at Philadelphia (4 times)
 Free Throw Attempts       4, 05/10/2026, New York at Philadelphia (Twice)
 Offensive Rebounds        5, 04/20/2026, New York vs Atlanta
@@ -19312,8 +19312,8 @@ Jordan Clarkson / New York Knickerbockers / Career Postseason Single-Game Highs 
 Minutes                  21, 04/25/2026, New York at Atlanta
 Field Goals               4, 04/23/2026, New York at Atlanta (Twice)
 Field Goal Attempts      11, 04/23/2026, New York at Atlanta
-Three-Point Field Goals   1, 05/19/2026, New York vs Cleveland
-Three-Point Attempts      2, 04/23/2026, New York at Atlanta
+Three-Point Field Goals   1, 05/25/2026, New York at Cleveland (Twice)
+Three-Point Attempts      4, 05/25/2026, New York at Cleveland
 Free Throws               3, 05/10/2026, New York at Philadelphia (4 times)
 Free Throw Attempts       4, 05/10/2026, New York at Philadelphia (Twice)
 Offensive Rebounds        5, 04/20/2026, New York vs Atlanta
@@ -19328,37 +19328,37 @@ Points                    9, 04/28/2026, New York vs Atlanta
 
 Pacome Dadiet / New York Knickerbockers / 2025-26 Postseason Single-Game Highs
 Minutes                  12, 05/10/2026, New York at Philadelphia
-Field Goals               2, 05/10/2026, New York at Philadelphia (3 times)
-Field Goal Attempts       4, 05/10/2026, New York at Philadelphia (Twice)
-Three-Point Field Goals   1, 05/10/2026, New York at Philadelphia (Twice)
+Field Goals               2, 05/25/2026, New York at Cleveland (4 times)
+Field Goal Attempts       4, 05/25/2026, New York at Cleveland (3 times)
+Three-Point Field Goals   1, 05/25/2026, New York at Cleveland (3 times)
 Three-Point Attempts      3, 04/30/2026, New York at Atlanta
-Free Throws               0, 05/21/2026, New York vs Cleveland
-Free Throw Attempts       0, 05/21/2026, New York vs Cleveland
-Offensive Rebounds        1, 05/04/2026, New York vs Philadelphia
+Free Throws               1, 05/25/2026, New York at Cleveland
+Free Throw Attempts       2, 05/25/2026, New York at Cleveland
+Offensive Rebounds        1, 05/25/2026, New York at Cleveland (Twice)
 Defensive Rebounds        3, 05/10/2026, New York at Philadelphia
 Rebounds                  3, 05/10/2026, New York at Philadelphia
 Assists                   2, 05/04/2026, New York vs Philadelphia
-Steals                    1, 05/04/2026, New York vs Philadelphia
+Steals                    1, 05/25/2026, New York at Cleveland (Twice)
 Turnovers                 1, 05/10/2026, New York at Philadelphia (Twice)
-Blocked Shots             0, 05/21/2026, New York vs Cleveland
-Points                    5, 05/10/2026, New York at Philadelphia (Twice)
+Blocked Shots             0, 05/25/2026, New York at Cleveland
+Points                    6, 05/25/2026, New York at Cleveland
 
 Pacome Dadiet / New York Knickerbockers / Career Postseason Single-Game Highs
 Minutes                  12, 05/10/2026, New York at Philadelphia
-Field Goals               2, 05/10/2026, New York at Philadelphia (3 times)
-Field Goal Attempts       4, 05/10/2026, New York at Philadelphia (Twice)
-Three-Point Field Goals   1, 05/10/2026, New York at Philadelphia (Twice)
+Field Goals               2, 05/25/2026, New York at Cleveland (4 times)
+Field Goal Attempts       4, 05/25/2026, New York at Cleveland (3 times)
+Three-Point Field Goals   1, 05/25/2026, New York at Cleveland (3 times)
 Three-Point Attempts      3, 04/30/2026, New York at Atlanta
-Free Throws               0, 05/21/2026, New York vs Cleveland
-Free Throw Attempts       0, 05/21/2026, New York vs Cleveland
-Offensive Rebounds        1, 05/04/2026, New York vs Philadelphia
+Free Throws               1, 05/25/2026, New York at Cleveland
+Free Throw Attempts       2, 05/25/2026, New York at Cleveland
+Offensive Rebounds        1, 05/25/2026, New York at Cleveland (Twice)
 Defensive Rebounds        3, 05/10/2026, New York at Philadelphia
 Rebounds                  3, 05/10/2026, New York at Philadelphia
 Assists                   2, 05/04/2026, New York vs Philadelphia
-Steals                    1, 05/04/2026, New York vs Philadelphia
+Steals                    1, 05/25/2026, New York at Cleveland (Twice)
 Turnovers                 1, 05/10/2026, New York at Philadelphia (Twice)
-Blocked Shots             0, 05/21/2026, New York vs Cleveland
-Points                    5, 05/10/2026, New York at Philadelphia (Twice)
+Blocked Shots             0, 05/25/2026, New York at Cleveland
+Points                    6, 05/25/2026, New York at Cleveland
 
 
 Mohamed Diawara / New York Knickerbockers / 2025-26 Postseason Single-Game Highs
@@ -19367,15 +19367,15 @@ Field Goals               2, 05/04/2026, New York vs Philadelphia
 Field Goal Attempts       4, 04/30/2026, New York at Atlanta
 Three-Point Field Goals   1, 05/04/2026, New York vs Philadelphia
 Three-Point Attempts      2, 05/10/2026, New York at Philadelphia (3 times)
-Free Throws               0, 05/10/2026, New York at Philadelphia
-Free Throw Attempts       0, 05/10/2026, New York at Philadelphia
+Free Throws               0, 05/25/2026, New York at Cleveland
+Free Throw Attempts       0, 05/25/2026, New York at Cleveland
 Offensive Rebounds        1, 04/30/2026, New York at Atlanta
-Defensive Rebounds        3, 04/30/2026, New York at Atlanta
+Defensive Rebounds        3, 05/25/2026, New York at Cleveland (Twice)
 Rebounds                  4, 04/30/2026, New York at Atlanta
-Assists                   2, 04/30/2026, New York at Atlanta
+Assists                   2, 05/25/2026, New York at Cleveland (Twice)
 Steals                    1, 04/30/2026, New York at Atlanta
-Turnovers                 1, 05/08/2026, New York at Philadelphia (Twice)
-Blocked Shots             0, 05/10/2026, New York at Philadelphia
+Turnovers                 1, 05/25/2026, New York at Cleveland (3 times)
+Blocked Shots             0, 05/25/2026, New York at Cleveland
 Points                    5, 05/04/2026, New York vs Philadelphia
 
 Mohamed Diawara / New York Knickerbockers / Career Postseason Single-Game Highs
@@ -19384,15 +19384,15 @@ Field Goals               2, 05/04/2026, New York vs Philadelphia
 Field Goal Attempts       4, 04/30/2026, New York at Atlanta
 Three-Point Field Goals   1, 05/04/2026, New York vs Philadelphia
 Three-Point Attempts      2, 05/10/2026, New York at Philadelphia (3 times)
-Free Throws               0, 05/10/2026, New York at Philadelphia
-Free Throw Attempts       0, 05/10/2026, New York at Philadelphia
+Free Throws               0, 05/25/2026, New York at Cleveland
+Free Throw Attempts       0, 05/25/2026, New York at Cleveland
 Offensive Rebounds        1, 04/30/2026, New York at Atlanta
-Defensive Rebounds        3, 04/30/2026, New York at Atlanta
+Defensive Rebounds        3, 05/25/2026, New York at Cleveland (Twice)
 Rebounds                  4, 04/30/2026, New York at Atlanta
-Assists                   2, 04/30/2026, New York at Atlanta
+Assists                   2, 05/25/2026, New York at Cleveland (Twice)
 Steals                    1, 04/30/2026, New York at Atlanta
-Turnovers                 1, 05/08/2026, New York at Philadelphia (Twice)
-Blocked Shots             0, 05/10/2026, New York at Philadelphia
+Turnovers                 1, 05/25/2026, New York at Cleveland (3 times)
+Blocked Shots             0, 05/25/2026, New York at Cleveland
 Points                    5, 05/04/2026, New York vs Philadelphia
 
 
@@ -19404,7 +19404,7 @@ Three-Point Field Goals   5, 05/21/2026, New York vs Cleveland
 Three-Point Attempts     11, 05/21/2026, New York vs Cleveland
 Free Throws               4, 04/20/2026, New York vs Atlanta
 Free Throw Attempts       6, 04/20/2026, New York vs Atlanta
-Offensive Rebounds        2, 05/08/2026, New York at Philadelphia (Twice)
+Offensive Rebounds        4, 05/25/2026, New York at Cleveland
 Defensive Rebounds       14, 04/18/2026, New York vs Atlanta
 Rebounds                 14, 04/18/2026, New York vs Atlanta
 Assists                   7, 05/21/2026, New York vs Cleveland
@@ -19435,15 +19435,15 @@ Ariel Hukporti / New York Knickerbockers / 2025-26 Postseason Single-Game Highs
 Minutes                  17, 05/04/2026, New York vs Philadelphia
 Field Goals               2, 05/04/2026, New York vs Philadelphia
 Field Goal Attempts       4, 05/10/2026, New York at Philadelphia
-Three-Point Field Goals   0, 05/10/2026, New York at Philadelphia
+Three-Point Field Goals   0, 05/25/2026, New York at Cleveland
 Three-Point Attempts      1, 05/10/2026, New York at Philadelphia
 Free Throws               3, 05/10/2026, New York at Philadelphia (Twice)
 Free Throw Attempts       6, 05/10/2026, New York at Philadelphia (Twice)
 Offensive Rebounds        3, 05/04/2026, New York vs Philadelphia
 Defensive Rebounds        6, 05/04/2026, New York vs Philadelphia
 Rebounds                  9, 05/04/2026, New York vs Philadelphia
-Assists                   1, 05/10/2026, New York at Philadelphia
-Steals                    1, 04/28/2026, New York vs Atlanta
+Assists                   1, 05/25/2026, New York at Cleveland (Twice)
+Steals                    1, 05/25/2026, New York at Cleveland (Twice)
 Turnovers                 2, 04/30/2026, New York at Atlanta
 Blocked Shots             2, 05/04/2026, New York vs Philadelphia
 Points                    5, 05/10/2026, New York at Philadelphia (Twice)
@@ -19452,15 +19452,15 @@ Ariel Hukporti / New York Knickerbockers / Career Postseason Single-Game Highs
 Minutes                  17, 05/04/2026, New York vs Philadelphia
 Field Goals               2, 05/04/2026, New York vs Philadelphia
 Field Goal Attempts       4, 05/10/2026, New York at Philadelphia
-Three-Point Field Goals   0, 05/10/2026, New York at Philadelphia
+Three-Point Field Goals   0, 05/25/2026, New York at Cleveland
 Three-Point Attempts      1, 05/10/2026, New York at Philadelphia
 Free Throws               3, 05/10/2026, New York at Philadelphia (Twice)
 Free Throw Attempts       6, 05/10/2026, New York at Philadelphia (Twice)
 Offensive Rebounds        3, 05/04/2026, New York vs Philadelphia
 Defensive Rebounds        6, 05/04/2026, New York vs Philadelphia
 Rebounds                  9, 05/04/2026, New York vs Philadelphia
-Assists                   1, 05/10/2026, New York at Philadelphia
-Steals                    1, 04/28/2026, New York vs Atlanta
+Assists                   1, 05/25/2026, New York at Cleveland (Twice)
+Steals                    1, 05/25/2026, New York at Cleveland (Twice)
 Turnovers                 2, 04/30/2026, New York at Atlanta
 Blocked Shots             2, 05/04/2026, New York vs Philadelphia
 Points                    5, 05/10/2026, New York at Philadelphia (Twice)
@@ -19468,37 +19468,37 @@ Points                    5, 05/10/2026, New York at Philadelphia (Twice)
 
 Tyler Kolek / New York Knickerbockers / 2025-26 Postseason Single-Game Highs
 Minutes                  13, 05/10/2026, New York at Philadelphia
-Field Goals               3, 05/04/2026, New York vs Philadelphia
-Field Goal Attempts       5, 05/10/2026, New York at Philadelphia (3 times)
-Three-Point Field Goals   2, 05/04/2026, New York vs Philadelphia
-Three-Point Attempts      2, 05/10/2026, New York at Philadelphia (3 times)
+Field Goals               3, 05/25/2026, New York at Cleveland (Twice)
+Field Goal Attempts       7, 05/25/2026, New York at Cleveland
+Three-Point Field Goals   2, 05/25/2026, New York at Cleveland (Twice)
+Three-Point Attempts      3, 05/25/2026, New York at Cleveland
 Free Throws               2, 04/30/2026, New York at Atlanta
 Free Throw Attempts       2, 04/30/2026, New York at Atlanta
-Offensive Rebounds        0, 05/21/2026, New York vs Cleveland
+Offensive Rebounds        1, 05/25/2026, New York at Cleveland
 Defensive Rebounds        3, 05/10/2026, New York at Philadelphia
 Rebounds                  3, 05/10/2026, New York at Philadelphia
 Assists                   4, 05/04/2026, New York vs Philadelphia
-Steals                    0, 05/21/2026, New York vs Cleveland
+Steals                    0, 05/25/2026, New York at Cleveland
 Turnovers                 1, 05/10/2026, New York at Philadelphia (3 times)
 Blocked Shots             1, 04/25/2026, New York at Atlanta
-Points                    8, 05/04/2026, New York vs Philadelphia
+Points                    8, 05/25/2026, New York at Cleveland (Twice)
 
 Tyler Kolek / New York Knickerbockers / Career Postseason Single-Game Highs
 Minutes                  13, 05/10/2026, New York at Philadelphia
-Field Goals               3, 05/04/2026, New York vs Philadelphia
-Field Goal Attempts       5, 05/10/2026, New York at Philadelphia (3 times)
-Three-Point Field Goals   2, 05/04/2026, New York vs Philadelphia
-Three-Point Attempts      2, 05/10/2026, New York at Philadelphia (3 times)
+Field Goals               3, 05/25/2026, New York at Cleveland (Twice)
+Field Goal Attempts       7, 05/25/2026, New York at Cleveland
+Three-Point Field Goals   2, 05/25/2026, New York at Cleveland (Twice)
+Three-Point Attempts      3, 05/25/2026, New York at Cleveland
 Free Throws               2, 04/30/2026, New York at Atlanta
 Free Throw Attempts       2, 04/30/2026, New York at Atlanta
-Offensive Rebounds        0, 05/21/2026, New York vs Cleveland
+Offensive Rebounds        1, 05/25/2026, New York at Cleveland
 Defensive Rebounds        3, 05/10/2026, New York at Philadelphia
 Rebounds                  3, 05/10/2026, New York at Philadelphia
 Assists                   4, 05/04/2026, New York vs Philadelphia
-Steals                    0, 05/21/2026, New York vs Cleveland
+Steals                    0, 05/25/2026, New York at Cleveland
 Turnovers                 1, 05/10/2026, New York at Philadelphia (3 times)
 Blocked Shots             1, 04/25/2026, New York at Atlanta
-Points                    8, 05/04/2026, New York vs Philadelphia
+Points                    8, 05/25/2026, New York at Cleveland (Twice)
 
 
 Miles McBride / New York Knickerbockers / 2025-26 Postseason Single-Game Highs
@@ -19513,7 +19513,7 @@ Offensive Rebounds        3, 05/21/2026, New York vs Cleveland
 Defensive Rebounds        3, 05/10/2026, New York at Philadelphia
 Rebounds                  4, 05/21/2026, New York vs Cleveland (Twice)
 Assists                   3, 05/21/2026, New York vs Cleveland
-Steals                    2, 04/30/2026, New York at Atlanta (Twice)
+Steals                    3, 05/25/2026, New York at Cleveland
 Turnovers                 2, 04/23/2026, New York at Atlanta (Twice)
 Blocked Shots             2, 05/08/2026, New York at Philadelphia
 Points                   25, 05/10/2026, New York at Philadelphia
@@ -19530,7 +19530,7 @@ Offensive Rebounds        3, 05/21/2026, New York vs Cleveland
 Defensive Rebounds        4, 05/19/2024, New York vs Indiana (Twice)
 Rebounds                  5, 05/19/2024, New York vs Indiana (Twice)
 Assists                   4, 04/19/2025, New York vs Detroit (5 times)
-Steals                    2, 04/30/2026, New York at Atlanta (Twice)
+Steals                    3, 05/25/2026, New York at Cleveland
 Turnovers                 3, 05/17/2024, New York at Indiana (Twice)
 Blocked Shots             2, 05/08/2026, New York at Philadelphia
 Points                   25, 05/10/2026, New York at Philadelphia
@@ -19539,17 +19539,17 @@ Points                   25, 05/10/2026, New York at Philadelphia
 Mitchell Robinson / New York Knickerbockers / 2025-26 Postseason Single-Game Highs
 Minutes                  19, 05/08/2026, New York at Philadelphia
 Field Goals               6, 04/20/2026, New York vs Atlanta
-Field Goal Attempts       6, 04/20/2026, New York vs Atlanta
-Three-Point Field Goals   0, 05/23/2026, New York at Cleveland
-Three-Point Attempts      0, 05/23/2026, New York at Cleveland
+Field Goal Attempts       6, 05/25/2026, New York at Cleveland (Twice)
+Three-Point Field Goals   0, 05/25/2026, New York at Cleveland
+Three-Point Attempts      0, 05/25/2026, New York at Cleveland
 Free Throws               4, 05/08/2026, New York at Philadelphia
 Free Throw Attempts       8, 05/19/2026, New York vs Cleveland (Twice)
-Offensive Rebounds        5, 04/25/2026, New York at Atlanta
-Defensive Rebounds        4, 05/08/2026, New York at Philadelphia (4 times)
-Rebounds                  8, 04/25/2026, New York at Atlanta
+Offensive Rebounds        5, 05/25/2026, New York at Cleveland (Twice)
+Defensive Rebounds        5, 05/25/2026, New York at Cleveland
+Rebounds                 10, 05/25/2026, New York at Cleveland
 Assists                   1, 05/19/2026, New York vs Cleveland (4 times)
 Steals                    2, 05/19/2026, New York vs Cleveland
-Turnovers                 2, 04/28/2026, New York vs Atlanta
+Turnovers                 2, 05/25/2026, New York at Cleveland (Twice)
 Blocked Shots             2, 04/30/2026, New York at Atlanta (Twice)
 Points                   13, 04/20/2026, New York vs Atlanta
 
@@ -19557,8 +19557,8 @@ Mitchell Robinson / New York Knickerbockers / Career Postseason Single-Game High
 Minutes                  36, 04/26/2023, New York at Cleveland
 Field Goals               6, 04/20/2026, New York vs Atlanta (Twice)
 Field Goal Attempts       9, 04/26/2023, New York at Cleveland
-Three-Point Field Goals   0, 05/23/2026, New York at Cleveland
-Three-Point Attempts      0, 05/23/2026, New York at Cleveland
+Three-Point Field Goals   0, 05/25/2026, New York at Cleveland
+Three-Point Attempts      0, 05/25/2026, New York at Cleveland
 Free Throws               6, 05/14/2025, New York at Boston
 Free Throw Attempts      12, 05/10/2025, New York vs Boston
 Offensive Rebounds       11, 04/26/2023, New York at Cleveland
@@ -19566,16 +19566,16 @@ Defensive Rebounds        9, 04/30/2023, New York vs Miami
 Rebounds                 18, 04/26/2023, New York at Cleveland
 Assists                   3, 04/21/2023, New York vs Cleveland
 Steals                    3, 05/07/2025, New York at Boston (Twice)
-Turnovers                 2, 04/28/2026, New York vs Atlanta (8 times)
+Turnovers                 2, 05/25/2026, New York at Cleveland (9 times)
 Blocked Shots             4, 04/20/2024, New York vs Philadelphia (Twice)
 Points                   13, 04/20/2026, New York vs Atlanta (3 times)
 
 
 Landry Shamet / New York Knickerbockers / 2025-26 Postseason Single-Game Highs
 Minutes                  28, 05/23/2026, New York at Cleveland
-Field Goals               5, 05/08/2026, New York at Philadelphia
+Field Goals               5, 05/25/2026, New York at Cleveland (Twice)
 Field Goal Attempts       7, 05/10/2026, New York at Philadelphia
-Three-Point Field Goals   4, 05/23/2026, New York at Cleveland (Twice)
+Three-Point Field Goals   4, 05/25/2026, New York at Cleveland (3 times)
 Three-Point Attempts      6, 05/10/2026, New York at Philadelphia
 Free Throws               3, 05/08/2026, New York at Philadelphia
 Free Throw Attempts       4, 05/08/2026, New York at Philadelphia
@@ -19583,10 +19583,10 @@ Offensive Rebounds        2, 05/08/2026, New York at Philadelphia
 Defensive Rebounds        4, 05/21/2026, New York vs Cleveland
 Rebounds                  4, 05/21/2026, New York vs Cleveland
 Assists                   3, 05/23/2026, New York at Cleveland
-Steals                    1, 05/21/2026, New York vs Cleveland (3 times)
+Steals                    1, 05/25/2026, New York at Cleveland (4 times)
 Turnovers                 2, 05/23/2026, New York at Cleveland (3 times)
-Blocked Shots             0, 05/23/2026, New York at Cleveland
-Points                   15, 05/08/2026, New York at Philadelphia
+Blocked Shots             0, 05/25/2026, New York at Cleveland
+Points                   16, 05/25/2026, New York at Cleveland
 
 Landry Shamet / New York Knickerbockers / Career Postseason Single-Game Highs (Games with all teams)
 Minutes                  38, 08/30/2020, L.A. Clippers at Dallas
@@ -19607,9 +19607,9 @@ Points                   19, 05/07/2023, Phoenix vs Denver
 
 Landry Shamet / New York Knickerbockers / Career Postseason Single-Game Highs (With this team only)
 Minutes                  28, 05/23/2026, New York at Cleveland
-Field Goals               5, 05/08/2026, New York at Philadelphia
+Field Goals               5, 05/25/2026, New York at Cleveland (Twice)
 Field Goal Attempts       7, 05/10/2026, New York at Philadelphia (Twice)
-Three-Point Field Goals   4, 05/23/2026, New York at Cleveland (3 times)
+Three-Point Field Goals   4, 05/25/2026, New York at Cleveland (4 times)
 Three-Point Attempts      7, 05/31/2025, New York at Indiana
 Free Throws               3, 05/08/2026, New York at Philadelphia
 Free Throw Attempts       4, 05/08/2026, New York at Philadelphia (Twice)
@@ -19617,10 +19617,10 @@ Offensive Rebounds        2, 05/08/2026, New York at Philadelphia
 Defensive Rebounds        4, 05/21/2026, New York vs Cleveland
 Rebounds                  4, 05/21/2026, New York vs Cleveland
 Assists                   3, 05/23/2026, New York at Cleveland (Twice)
-Steals                    1, 05/21/2026, New York vs Cleveland (4 times)
+Steals                    1, 05/25/2026, New York at Cleveland (5 times)
 Turnovers                 2, 05/23/2026, New York at Cleveland (3 times)
-Blocked Shots             0, 05/23/2026, New York at Cleveland
-Points                   15, 05/08/2026, New York at Philadelphia
+Blocked Shots             0, 05/25/2026, New York at Cleveland
+Points                   16, 05/25/2026, New York at Cleveland
 
 
 Jeremy Sochan / New York Knickerbockers / 2025-26 Postseason Single-Game Highs
@@ -19660,9 +19660,9 @@ Points                   10, 04/28/2026, New York vs Atlanta
 
 Karl-Anthony Towns / New York Knickerbockers / 2025-26 Postseason Single-Game Highs
 Minutes                  40, 05/19/2026, New York vs Cleveland
-Field Goals               8, 04/20/2026, New York vs Atlanta
+Field Goals               8, 05/25/2026, New York at Cleveland (Twice)
 Field Goal Attempts      14, 05/19/2026, New York vs Cleveland
-Three-Point Field Goals   3, 05/21/2026, New York vs Cleveland (3 times)
+Three-Point Field Goals   3, 05/25/2026, New York at Cleveland (4 times)
 Three-Point Attempts      5, 05/21/2026, New York vs Cleveland (4 times)
 Free Throws              10, 04/30/2026, New York at Atlanta (Twice)
 Free Throw Attempts      10, 04/30/2026, New York at Atlanta (Twice)
