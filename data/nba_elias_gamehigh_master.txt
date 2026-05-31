@@ -19749,7 +19749,7 @@ Points                  149, 05/07/2025, Oklahoma City vs Denver
 
 
 Team Totals / Oklahoma City Thunder / 2025-26 Postseason Single-Game Lows
-Minutes                 240, 05/28/2026, Oklahoma City at San Antonio
+Minutes                 240, 05/30/2026, Oklahoma City vs San Antonio
 Field Goals              30, 05/24/2026, Oklahoma City at San Antonio
 Field Goal Attempts      81, 05/22/2026, Oklahoma City at San Antonio (3 times)
 Three-Point Field Goals   6, 05/24/2026, Oklahoma City at San Antonio
@@ -19769,7 +19769,7 @@ Opponent Totals / Oklahoma City Thunder / 2025-26 Postseason Single-Game Highs
 Minutes                 290, 05/18/2026, Oklahoma City vs San Antonio
 Field Goals              48, 04/27/2026, Oklahoma City at Phoenix
 Field Goal Attempts      96, 05/18/2026, Oklahoma City vs San Antonio
-Three-Point Field Goals  16, 05/20/2026, Oklahoma City vs San Antonio
+Three-Point Field Goals  17, 05/30/2026, Oklahoma City vs San Antonio
 Three-Point Attempts     43, 05/18/2026, Oklahoma City vs San Antonio
 Free Throws              28, 05/26/2026, Oklahoma City vs San Antonio
 Free Throw Attempts      33, 05/22/2026, Oklahoma City at San Antonio
@@ -19801,7 +19801,7 @@ Points                  151, 04/23/1987, Seattle at Dallas
 
 
 Opponent Totals / Oklahoma City Thunder / 2025-26 Postseason Single-Game Lows
-Minutes                 240, 05/28/2026, Oklahoma City at San Antonio
+Minutes                 240, 05/30/2026, Oklahoma City vs San Antonio
 Field Goals              29, 04/19/2026, Oklahoma City vs Phoenix
 Field Goal Attempts      75, 05/11/2026, Oklahoma City at L.A. Lakers
 Three-Point Field Goals   9, 05/24/2026, Oklahoma City at San Antonio
@@ -19818,7 +19818,7 @@ Blocked Shots             0, 05/07/2026, Oklahoma City vs L.A. Lakers
 Points                   84, 04/19/2026, Oklahoma City vs Phoenix
 
 Alex Caruso / Oklahoma City Thunder / 2025-26 Postseason Single-Game Highs
-Minutes                  32, 05/18/2026, Oklahoma City vs San Antonio
+Minutes                  39, 05/30/2026, Oklahoma City vs San Antonio
 Field Goals              11, 05/18/2026, Oklahoma City vs San Antonio
 Field Goal Attempts      19, 05/18/2026, Oklahoma City vs San Antonio
 Three-Point Field Goals   8, 05/18/2026, Oklahoma City vs San Antonio
@@ -19826,16 +19826,16 @@ Three-Point Attempts     14, 05/18/2026, Oklahoma City vs San Antonio
 Free Throws               8, 05/26/2026, Oklahoma City vs San Antonio
 Free Throw Attempts       8, 05/26/2026, Oklahoma City vs San Antonio
 Offensive Rebounds        2, 04/19/2026, Oklahoma City vs Phoenix
-Defensive Rebounds        4, 05/11/2026, Oklahoma City at L.A. Lakers (4 times)
-Rebounds                  5, 04/25/2026, Oklahoma City at Phoenix (Twice)
+Defensive Rebounds        5, 05/30/2026, Oklahoma City vs San Antonio
+Rebounds                  5, 05/30/2026, Oklahoma City vs San Antonio (3 times)
 Assists                   6, 05/26/2026, Oklahoma City vs San Antonio
 Steals                    3, 05/26/2026, Oklahoma City vs San Antonio (3 times)
-Turnovers                 3, 04/27/2026, Oklahoma City at Phoenix
+Turnovers                 3, 05/30/2026, Oklahoma City vs San Antonio (Twice)
 Blocked Shots             2, 05/24/2026, Oklahoma City at San Antonio (Twice)
 Points                   31, 05/18/2026, Oklahoma City vs San Antonio
 
 Alex Caruso / Oklahoma City Thunder / Career Postseason Single-Game Highs (Games with all teams)
-Minutes                  38, 04/20/2022, Chicago at Milwaukee
+Minutes                  39, 05/30/2026, Oklahoma City vs San Antonio
 Field Goals              11, 05/18/2026, Oklahoma City vs San Antonio
 Field Goal Attempts      19, 05/18/2026, Oklahoma City vs San Antonio
 Three-Point Field Goals   8, 05/18/2026, Oklahoma City vs San Antonio
@@ -19843,7 +19843,7 @@ Three-Point Attempts     14, 05/18/2026, Oklahoma City vs San Antonio
 Free Throws               8, 05/26/2026, Oklahoma City vs San Antonio
 Free Throw Attempts       8, 05/26/2026, Oklahoma City vs San Antonio
 Offensive Rebounds        3, 08/20/2020, L.A. Lakers vs Portland
-Defensive Rebounds        4, 05/11/2026, Oklahoma City at L.A. Lakers (8 times)
+Defensive Rebounds        5, 05/30/2026, Oklahoma City vs San Antonio
 Rebounds                  6, 06/05/2025, Oklahoma City vs Indiana (Twice)
 Assists                  10, 04/20/2022, Chicago at Milwaukee
 Steals                    5, 06/13/2025, Oklahoma City at Indiana (Twice)
@@ -19852,7 +19852,7 @@ Blocked Shots             2, 05/24/2026, Oklahoma City at San Antonio (9 times)
 Points                   31, 05/18/2026, Oklahoma City vs San Antonio
 
 Alex Caruso / Oklahoma City Thunder / Career Postseason Single-Game Highs (With this team only)
-Minutes                  33, 05/26/2025, Oklahoma City at Minnesota
+Minutes                  39, 05/30/2026, Oklahoma City vs San Antonio
 Field Goals              11, 05/18/2026, Oklahoma City vs San Antonio
 Field Goal Attempts      19, 05/18/2026, Oklahoma City vs San Antonio
 Three-Point Field Goals   8, 05/18/2026, Oklahoma City vs San Antonio
@@ -19860,11 +19860,11 @@ Three-Point Attempts     14, 05/18/2026, Oklahoma City vs San Antonio
 Free Throws               8, 05/26/2026, Oklahoma City vs San Antonio
 Free Throw Attempts       8, 05/26/2026, Oklahoma City vs San Antonio
 Offensive Rebounds        2, 04/19/2026, Oklahoma City vs Phoenix (5 times)
-Defensive Rebounds        4, 05/11/2026, Oklahoma City at L.A. Lakers (7 times)
+Defensive Rebounds        5, 05/30/2026, Oklahoma City vs San Antonio
 Rebounds                  6, 06/05/2025, Oklahoma City vs Indiana (Twice)
 Assists                   6, 05/26/2026, Oklahoma City vs San Antonio (Twice)
 Steals                    5, 06/13/2025, Oklahoma City at Indiana (Twice)
-Turnovers                 3, 04/27/2026, Oklahoma City at Phoenix
+Turnovers                 3, 05/30/2026, Oklahoma City vs San Antonio (Twice)
 Blocked Shots             2, 05/24/2026, Oklahoma City at San Antonio (4 times)
 Points                   31, 05/18/2026, Oklahoma City vs San Antonio
 
@@ -19960,7 +19960,7 @@ Isaiah Hartenstein / Oklahoma City Thunder / 2025-26 Postseason Single-Game High
 Minutes                  31, 05/09/2026, Oklahoma City at L.A. Lakers
 Field Goals               6, 05/26/2026, Oklahoma City vs San Antonio (3 times)
 Field Goal Attempts      11, 05/24/2026, Oklahoma City at San Antonio
-Three-Point Field Goals   0, 05/28/2026, Oklahoma City at San Antonio
+Three-Point Field Goals   0, 05/30/2026, Oklahoma City vs San Antonio
 Three-Point Attempts      1, 05/22/2026, Oklahoma City at San Antonio
 Free Throws               8, 04/27/2026, Oklahoma City at Phoenix
 Free Throw Attempts       9, 04/27/2026, Oklahoma City at Phoenix
@@ -19994,7 +19994,7 @@ Isaiah Hartenstein / Oklahoma City Thunder / Career Postseason Single-Game Highs
 Minutes                  33, 05/11/2025, Oklahoma City at Denver
 Field Goals               7, 05/13/2025, Oklahoma City vs Denver (Twice)
 Field Goal Attempts      14, 05/09/2025, Oklahoma City at Denver
-Three-Point Field Goals   0, 05/28/2026, Oklahoma City at San Antonio
+Three-Point Field Goals   0, 05/30/2026, Oklahoma City vs San Antonio
 Three-Point Attempts      1, 05/22/2026, Oklahoma City at San Antonio
 Free Throws               8, 04/27/2026, Oklahoma City at Phoenix
 Free Throw Attempts       9, 04/27/2026, Oklahoma City at Phoenix
@@ -20109,7 +20109,7 @@ Rebounds                  6, 05/20/2026, Oklahoma City vs San Antonio
 Assists                   6, 05/28/2026, Oklahoma City at San Antonio
 Steals                    2, 05/28/2026, Oklahoma City at San Antonio (Twice)
 Turnovers                 2, 05/28/2026, Oklahoma City at San Antonio (4 times)
-Blocked Shots             0, 05/28/2026, Oklahoma City at San Antonio
+Blocked Shots             0, 05/30/2026, Oklahoma City vs San Antonio
 Points                   24, 05/22/2026, Oklahoma City at San Antonio
 
 Jared McCain / Oklahoma City Thunder / Career Postseason Single-Game Highs
@@ -20126,7 +20126,7 @@ Rebounds                  6, 05/20/2026, Oklahoma City vs San Antonio
 Assists                   6, 05/28/2026, Oklahoma City at San Antonio
 Steals                    2, 05/28/2026, Oklahoma City at San Antonio (Twice)
 Turnovers                 2, 05/28/2026, Oklahoma City at San Antonio (4 times)
-Blocked Shots             0, 05/28/2026, Oklahoma City at San Antonio
+Blocked Shots             0, 05/30/2026, Oklahoma City vs San Antonio
 Points                   24, 05/22/2026, Oklahoma City at San Antonio
 
 
@@ -20201,38 +20201,38 @@ Points                    2, 05/24/2026, Oklahoma City at San Antonio (Twice)
 
 
 Cason Wallace / Oklahoma City Thunder / 2025-26 Postseason Single-Game Highs
-Minutes                  31, 05/26/2026, Oklahoma City vs San Antonio
-Field Goals               6, 05/09/2026, Oklahoma City at L.A. Lakers
-Field Goal Attempts      10, 05/09/2026, Oklahoma City at L.A. Lakers
-Three-Point Field Goals   4, 05/20/2026, Oklahoma City vs San Antonio (Twice)
-Three-Point Attempts      6, 05/22/2026, Oklahoma City at San Antonio (4 times)
+Minutes                  36, 05/30/2026, Oklahoma City vs San Antonio
+Field Goals               6, 05/30/2026, Oklahoma City vs San Antonio (Twice)
+Field Goal Attempts      10, 05/30/2026, Oklahoma City vs San Antonio (Twice)
+Three-Point Field Goals   5, 05/30/2026, Oklahoma City vs San Antonio
+Three-Point Attempts      9, 05/30/2026, Oklahoma City vs San Antonio
 Free Throws               3, 05/22/2026, Oklahoma City at San Antonio
 Free Throw Attempts       4, 05/22/2026, Oklahoma City at San Antonio
 Offensive Rebounds        3, 05/18/2026, Oklahoma City vs San Antonio (Twice)
-Defensive Rebounds        5, 04/22/2026, Oklahoma City vs Phoenix
-Rebounds                  6, 05/18/2026, Oklahoma City vs San Antonio (Twice)
+Defensive Rebounds        5, 05/30/2026, Oklahoma City vs San Antonio (Twice)
+Rebounds                  7, 05/30/2026, Oklahoma City vs San Antonio
 Assists                   5, 05/26/2026, Oklahoma City vs San Antonio
 Steals                    4, 05/20/2026, Oklahoma City vs San Antonio
-Turnovers                 2, 05/28/2026, Oklahoma City at San Antonio (3 times)
+Turnovers                 2, 05/30/2026, Oklahoma City vs San Antonio (4 times)
 Blocked Shots             2, 05/26/2026, Oklahoma City vs San Antonio
-Points                   16, 05/09/2026, Oklahoma City at L.A. Lakers
+Points                   17, 05/30/2026, Oklahoma City vs San Antonio
 
 Cason Wallace / Oklahoma City Thunder / Career Postseason Single-Game Highs
-Minutes                  33, 06/05/2025, Oklahoma City vs Indiana
-Field Goals               6, 05/09/2026, Oklahoma City at L.A. Lakers
-Field Goal Attempts      10, 05/09/2026, Oklahoma City at L.A. Lakers (Twice)
-Three-Point Field Goals   4, 05/20/2026, Oklahoma City vs San Antonio (Twice)
-Three-Point Attempts      6, 05/22/2026, Oklahoma City at San Antonio (7 times)
+Minutes                  36, 05/30/2026, Oklahoma City vs San Antonio
+Field Goals               6, 05/30/2026, Oklahoma City vs San Antonio (Twice)
+Field Goal Attempts      10, 05/30/2026, Oklahoma City vs San Antonio (3 times)
+Three-Point Field Goals   5, 05/30/2026, Oklahoma City vs San Antonio
+Three-Point Attempts      9, 05/30/2026, Oklahoma City vs San Antonio
 Free Throws               3, 05/22/2026, Oklahoma City at San Antonio
 Free Throw Attempts       4, 05/22/2026, Oklahoma City at San Antonio
 Offensive Rebounds        3, 05/18/2026, Oklahoma City vs San Antonio (4 times)
-Defensive Rebounds        5, 04/22/2026, Oklahoma City vs Phoenix
-Rebounds                  6, 05/18/2026, Oklahoma City vs San Antonio (Twice)
+Defensive Rebounds        5, 05/30/2026, Oklahoma City vs San Antonio (Twice)
+Rebounds                  7, 05/30/2026, Oklahoma City vs San Antonio
 Assists                   7, 05/20/2025, Oklahoma City vs Minnesota
 Steals                    4, 05/20/2026, Oklahoma City vs San Antonio (Twice)
 Turnovers                 3, 05/20/2025, Oklahoma City vs Minnesota (Twice)
 Blocked Shots             2, 05/26/2026, Oklahoma City vs San Antonio (Twice)
-Points                   16, 05/09/2026, Oklahoma City at L.A. Lakers
+Points                   17, 05/30/2026, Oklahoma City vs San Antonio
 
 
 Aaron Wiggins / Oklahoma City Thunder / 2025-26 Postseason Single-Game Highs
@@ -20307,16 +20307,16 @@ Points                   40, 06/16/2025, Oklahoma City vs Indiana
 
 Jaylin Williams / Oklahoma City Thunder / 2025-26 Postseason Single-Game Highs
 Minutes                  26, 05/28/2026, Oklahoma City at San Antonio
-Field Goals               5, 05/22/2026, Oklahoma City at San Antonio
-Field Goal Attempts       8, 04/25/2026, Oklahoma City at Phoenix
+Field Goals               5, 05/30/2026, Oklahoma City vs San Antonio (Twice)
+Field Goal Attempts       9, 05/30/2026, Oklahoma City vs San Antonio
 Three-Point Field Goals   5, 05/22/2026, Oklahoma City at San Antonio
 Three-Point Attempts      7, 05/24/2026, Oklahoma City at San Antonio
 Free Throws               3, 05/22/2026, Oklahoma City at San Antonio
 Free Throw Attempts       3, 05/22/2026, Oklahoma City at San Antonio
-Offensive Rebounds        2, 05/05/2026, Oklahoma City vs L.A. Lakers
+Offensive Rebounds        3, 05/30/2026, Oklahoma City vs San Antonio
 Defensive Rebounds        9, 05/28/2026, Oklahoma City at San Antonio
-Rebounds                  9, 05/28/2026, Oklahoma City at San Antonio
-Assists                   3, 05/05/2026, Oklahoma City vs L.A. Lakers
+Rebounds                 10, 05/30/2026, Oklahoma City vs San Antonio
+Assists                   4, 05/30/2026, Oklahoma City vs San Antonio
 Steals                    4, 04/19/2026, Oklahoma City vs Phoenix
 Turnovers                 2, 05/05/2026, Oklahoma City vs L.A. Lakers (Twice)
 Blocked Shots             1, 04/27/2026, Oklahoma City at Phoenix (3 times)
@@ -20324,16 +20324,16 @@ Points                   18, 05/22/2026, Oklahoma City at San Antonio
 
 Jaylin Williams / Oklahoma City Thunder / Career Postseason Single-Game Highs
 Minutes                  26, 05/28/2026, Oklahoma City at San Antonio
-Field Goals               5, 05/22/2026, Oklahoma City at San Antonio (Twice)
-Field Goal Attempts       8, 04/25/2026, Oklahoma City at Phoenix
+Field Goals               5, 05/30/2026, Oklahoma City vs San Antonio (3 times)
+Field Goal Attempts       9, 05/30/2026, Oklahoma City vs San Antonio
 Three-Point Field Goals   5, 05/22/2026, Oklahoma City at San Antonio
 Three-Point Attempts      7, 05/24/2026, Oklahoma City at San Antonio
 Free Throws               3, 05/22/2026, Oklahoma City at San Antonio
 Free Throw Attempts       3, 05/22/2026, Oklahoma City at San Antonio
-Offensive Rebounds        3, 05/13/2024, Oklahoma City at Dallas
+Offensive Rebounds        3, 05/30/2026, Oklahoma City vs San Antonio (Twice)
 Defensive Rebounds        9, 05/28/2026, Oklahoma City at San Antonio
-Rebounds                  9, 05/28/2026, Oklahoma City at San Antonio (Twice)
-Assists                   3, 05/05/2026, Oklahoma City vs L.A. Lakers (4 times)
+Rebounds                 10, 05/30/2026, Oklahoma City vs San Antonio
+Assists                   4, 05/30/2026, Oklahoma City vs San Antonio
 Steals                    4, 04/19/2026, Oklahoma City vs Phoenix
 Turnovers                 3, 04/20/2025, Oklahoma City vs Memphis
 Blocked Shots             2, 04/20/2025, Oklahoma City vs Memphis (Twice)
@@ -20354,7 +20354,7 @@ Rebounds                  6, 05/28/2026, Oklahoma City at San Antonio
 Assists                   3, 05/24/2026, Oklahoma City at San Antonio
 Steals                    1, 05/24/2026, Oklahoma City at San Antonio
 Turnovers                 1, 05/28/2026, Oklahoma City at San Antonio (Twice)
-Blocked Shots             0, 05/28/2026, Oklahoma City at San Antonio
+Blocked Shots             0, 05/30/2026, Oklahoma City vs San Antonio
 Points                   10, 05/24/2026, Oklahoma City at San Antonio
 
 Kenrich Williams / Oklahoma City Thunder / Career Postseason Single-Game Highs
@@ -24380,20 +24380,20 @@ Points                  152, 04/26/1983, San Antonio vs Denver
 
 
 Team Totals / San Antonio Spurs / 2025-26 Postseason Single-Game Lows
-Minutes                 240, 05/28/2026, San Antonio vs Oklahoma City
+Minutes                 240, 05/30/2026, San Antonio at Oklahoma City
 Field Goals              34, 05/22/2026, San Antonio vs Oklahoma City
 Field Goal Attempts      75, 04/28/2026, San Antonio vs Portland
 Three-Point Field Goals   6, 05/10/2026, San Antonio at Minnesota
 Three-Point Attempts     24, 04/21/2026, San Antonio vs Portland
-Free Throws              14, 05/04/2026, San Antonio vs Minnesota (Twice)
+Free Throws              14, 05/30/2026, San Antonio at Oklahoma City (3 times)
 Free Throw Attempts      17, 05/20/2026, San Antonio at Oklahoma City (Twice)
 Offensive Rebounds        7, 04/28/2026, San Antonio vs Portland
-Defensive Rebounds       26, 05/26/2026, San Antonio at Oklahoma City
+Defensive Rebounds       25, 05/30/2026, San Antonio at Oklahoma City
 Rebounds                 37, 05/22/2026, San Antonio vs Oklahoma City
 Assists                  17, 05/10/2026, San Antonio at Minnesota
 Steals                    2, 05/15/2026, San Antonio at Minnesota
 Turnovers                10, 05/08/2026, San Antonio at Minnesota
-Blocked Shots             3, 05/26/2026, San Antonio at Oklahoma City (Twice)
+Blocked Shots             2, 05/30/2026, San Antonio at Oklahoma City
 Points                  102, 05/04/2026, San Antonio vs Minnesota
 
 Opponent Totals / San Antonio Spurs / 2025-26 Postseason Single-Game Highs
@@ -24432,7 +24432,7 @@ Points                  141, 04/18/1985, San Antonio at Denver (Twice)
 
 
 Opponent Totals / San Antonio Spurs / 2025-26 Postseason Single-Game Lows
-Minutes                 240, 05/28/2026, San Antonio vs Oklahoma City
+Minutes                 240, 05/30/2026, San Antonio at Oklahoma City
 Field Goals              30, 05/24/2026, San Antonio vs Oklahoma City
 Field Goal Attempts      80, 04/26/2026, San Antonio at Portland
 Three-Point Field Goals   6, 05/24/2026, San Antonio vs Oklahoma City
@@ -24595,7 +24595,7 @@ Three-Point Field Goals   5, 05/15/2026, San Antonio at Minnesota
 Three-Point Attempts      7, 05/15/2026, San Antonio at Minnesota
 Free Throws              11, 05/22/2026, San Antonio vs Oklahoma City
 Free Throw Attempts      14, 05/22/2026, San Antonio vs Oklahoma City
-Offensive Rebounds        3, 05/15/2026, San Antonio at Minnesota (Twice)
+Offensive Rebounds        4, 05/30/2026, San Antonio at Oklahoma City
 Defensive Rebounds        8, 05/15/2026, San Antonio at Minnesota
 Rebounds                 11, 05/15/2026, San Antonio at Minnesota
 Assists                  12, 05/08/2026, San Antonio at Minnesota
@@ -24612,7 +24612,7 @@ Three-Point Field Goals   5, 05/15/2026, San Antonio at Minnesota
 Three-Point Attempts      7, 05/15/2026, San Antonio at Minnesota
 Free Throws              11, 05/22/2026, San Antonio vs Oklahoma City
 Free Throw Attempts      14, 05/22/2026, San Antonio vs Oklahoma City
-Offensive Rebounds        3, 05/15/2026, San Antonio at Minnesota (Twice)
+Offensive Rebounds        4, 05/30/2026, San Antonio at Oklahoma City
 Defensive Rebounds        8, 05/15/2026, San Antonio at Minnesota
 Rebounds                 11, 05/15/2026, San Antonio at Minnesota
 Assists                  12, 05/08/2026, San Antonio at Minnesota
@@ -24626,7 +24626,7 @@ Julian Champagnie / San Antonio Spurs / 2025-26 Postseason Single-Game Highs
 Minutes                  44, 05/18/2026, San Antonio at Oklahoma City
 Field Goals               8, 05/26/2026, San Antonio at Oklahoma City
 Field Goal Attempts      15, 05/26/2026, San Antonio at Oklahoma City
-Three-Point Field Goals   5, 04/28/2026, San Antonio vs Portland
+Three-Point Field Goals   6, 05/30/2026, San Antonio at Oklahoma City
 Three-Point Attempts     11, 05/18/2026, San Antonio at Oklahoma City
 Free Throws               4, 05/15/2026, San Antonio at Minnesota (Twice)
 Free Throw Attempts       4, 05/20/2026, San Antonio at Oklahoma City (3 times)
@@ -24643,7 +24643,7 @@ Julian Champagnie / San Antonio Spurs / Career Postseason Single-Game Highs
 Minutes                  44, 05/18/2026, San Antonio at Oklahoma City
 Field Goals               8, 05/26/2026, San Antonio at Oklahoma City
 Field Goal Attempts      15, 05/26/2026, San Antonio at Oklahoma City
-Three-Point Field Goals   5, 04/28/2026, San Antonio vs Portland
+Three-Point Field Goals   6, 05/30/2026, San Antonio at Oklahoma City
 Three-Point Attempts     11, 05/18/2026, San Antonio at Oklahoma City
 Free Throws               4, 05/15/2026, San Antonio at Minnesota (Twice)
 Free Throw Attempts       4, 05/20/2026, San Antonio at Oklahoma City (3 times)
@@ -24669,7 +24669,7 @@ Offensive Rebounds        2, 05/24/2026, San Antonio vs Oklahoma City (3 times)
 Defensive Rebounds        8, 05/24/2026, San Antonio vs Oklahoma City
 Rebounds                 10, 05/24/2026, San Antonio vs Oklahoma City
 Assists                   9, 05/15/2026, San Antonio at Minnesota (Twice)
-Steals                    3, 05/26/2026, San Antonio at Oklahoma City (Twice)
+Steals                    3, 05/30/2026, San Antonio at Oklahoma City (3 times)
 Turnovers                 6, 05/04/2026, San Antonio vs Minnesota
 Blocked Shots             2, 05/15/2026, San Antonio at Minnesota (Twice)
 Points                   28, 04/26/2026, San Antonio at Portland
@@ -24703,7 +24703,7 @@ Offensive Rebounds        2, 05/24/2026, San Antonio vs Oklahoma City (3 times)
 Defensive Rebounds        8, 05/24/2026, San Antonio vs Oklahoma City
 Rebounds                 10, 05/24/2026, San Antonio vs Oklahoma City
 Assists                   9, 05/15/2026, San Antonio at Minnesota (Twice)
-Steals                    3, 05/26/2026, San Antonio at Oklahoma City (Twice)
+Steals                    3, 05/30/2026, San Antonio at Oklahoma City (3 times)
 Turnovers                 6, 05/04/2026, San Antonio vs Minnesota
 Blocked Shots             2, 05/15/2026, San Antonio at Minnesota (Twice)
 Points                   28, 04/26/2026, San Antonio at Portland
@@ -24785,7 +24785,7 @@ Field Goals               6, 04/24/2026, San Antonio at Portland
 Field Goal Attempts       9, 04/24/2026, San Antonio at Portland
 Three-Point Field Goals   1, 04/24/2026, San Antonio at Portland
 Three-Point Attempts      1, 04/24/2026, San Antonio at Portland
-Free Throws               2, 05/15/2026, San Antonio at Minnesota (4 times)
+Free Throws               2, 05/30/2026, San Antonio at Oklahoma City (5 times)
 Free Throw Attempts       3, 04/21/2026, San Antonio vs Portland
 Offensive Rebounds        5, 05/10/2026, San Antonio at Minnesota (3 times)
 Defensive Rebounds        5, 05/24/2026, San Antonio vs Oklahoma City (Twice)
@@ -24819,7 +24819,7 @@ Field Goals               6, 04/24/2026, San Antonio at Portland
 Field Goal Attempts       9, 04/24/2026, San Antonio at Portland
 Three-Point Field Goals   1, 04/24/2026, San Antonio at Portland
 Three-Point Attempts      1, 04/24/2026, San Antonio at Portland
-Free Throws               2, 05/15/2026, San Antonio at Minnesota (4 times)
+Free Throws               2, 05/30/2026, San Antonio at Oklahoma City (5 times)
 Free Throw Attempts       3, 04/21/2026, San Antonio vs Portland
 Offensive Rebounds        5, 05/10/2026, San Antonio at Minnesota (3 times)
 Defensive Rebounds        5, 05/24/2026, San Antonio vs Oklahoma City (Twice)
