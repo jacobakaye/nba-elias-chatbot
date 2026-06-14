@@ -18998,8 +18998,8 @@ Points                  144, 05/10/2026, New York at Philadelphia
 
 
 Team Totals / New York Knickerbockers / 2025-26 Postseason Single-Game Lows
-Minutes                 240, 06/10/2026, New York vs San Antonio
-Field Goals              36, 06/10/2026, New York vs San Antonio
+Minutes                 240, 06/13/2026, New York at San Antonio
+Field Goals              31, 06/13/2026, New York at San Antonio
 Field Goal Attempts      76, 05/08/2026, New York at Philadelphia
 Three-Point Field Goals   7, 05/06/2026, New York vs Philadelphia
 Three-Point Attempts     25, 04/18/2026, New York vs Atlanta
@@ -19008,11 +19008,11 @@ Free Throw Attempts      14, 05/21/2026, New York vs Cleveland
 Offensive Rebounds        5, 05/21/2026, New York vs Cleveland
 Defensive Rebounds       28, 05/06/2026, New York vs Philadelphia
 Rebounds                 37, 05/23/2026, New York at Cleveland (Twice)
-Assists                  18, 06/08/2026, New York vs San Antonio
+Assists                  14, 06/13/2026, New York at San Antonio
 Steals                    4, 06/08/2026, New York vs San Antonio
 Turnovers                 8, 05/21/2026, New York vs Cleveland
 Blocked Shots             2, 05/25/2026, New York at Cleveland (3 times)
-Points                  105, 06/05/2026, New York at San Antonio (Twice)
+Points                   94, 06/13/2026, New York at San Antonio
 
 Opponent Totals / New York Knickerbockers / 2025-26 Postseason Single-Game Highs
 Minutes                 265, 05/19/2026, New York vs Cleveland
@@ -19022,7 +19022,7 @@ Three-Point Field Goals  17, 06/10/2026, New York vs San Antonio
 Three-Point Attempts     50, 05/19/2026, New York vs Cleveland
 Free Throws              27, 05/04/2026, New York vs Philadelphia
 Free Throw Attempts      34, 05/04/2026, New York vs Philadelphia
-Offensive Rebounds       14, 06/03/2026, New York at San Antonio
+Offensive Rebounds       14, 06/13/2026, New York at San Antonio (Twice)
 Defensive Rebounds       40, 06/03/2026, New York at San Antonio
 Rebounds                 54, 06/03/2026, New York at San Antonio
 Assists                  28, 06/08/2026, New York vs San Antonio
@@ -19050,7 +19050,7 @@ Points                  157, 04/28/1990, New York at Boston
 
 
 Opponent Totals / New York Knickerbockers / 2025-26 Postseason Single-Game Lows
-Minutes                 240, 06/10/2026, New York vs San Antonio
+Minutes                 240, 06/13/2026, New York at San Antonio
 Field Goals              30, 05/04/2026, New York vs Philadelphia
 Field Goal Attempts      73, 05/04/2026, New York vs Philadelphia
 Three-Point Field Goals   8, 05/10/2026, New York at Philadelphia
@@ -19228,16 +19228,16 @@ Field Goals              15, 05/19/2026, New York vs Cleveland (Twice)
 Field Goal Attempts      31, 06/03/2026, New York at San Antonio
 Three-Point Field Goals   6, 05/10/2026, New York at Philadelphia
 Three-Point Attempts     10, 05/10/2026, New York at Philadelphia (Twice)
-Free Throws              10, 05/23/2026, New York at Cleveland
-Free Throw Attempts      12, 05/23/2026, New York at Cleveland
+Free Throws              13, 06/13/2026, New York at San Antonio
+Free Throw Attempts      15, 06/13/2026, New York at San Antonio
 Offensive Rebounds        2, 06/08/2026, New York vs San Antonio (3 times)
 Defensive Rebounds        5, 06/10/2026, New York vs San Antonio (3 times)
 Rebounds                  5, 06/10/2026, New York vs San Antonio (6 times)
 Assists                  14, 05/21/2026, New York vs Cleveland
 Steals                    5, 06/05/2026, New York at San Antonio
 Turnovers                 6, 04/25/2026, New York at Atlanta
-Blocked Shots             0, 06/10/2026, New York vs San Antonio
-Points                   39, 04/28/2026, New York vs Atlanta
+Blocked Shots             0, 06/13/2026, New York at San Antonio
+Points                   45, 06/13/2026, New York at San Antonio
 
 Jalen Brunson / New York Knickerbockers / Career Postseason Single-Game Highs (Games with all teams)
 Minutes                  51, 04/30/2024, New York vs Philadelphia
@@ -19435,14 +19435,14 @@ Ariel Hukporti / New York Knickerbockers / 2025-26 Postseason Single-Game Highs
 Minutes                  17, 05/04/2026, New York vs Philadelphia
 Field Goals               2, 05/04/2026, New York vs Philadelphia
 Field Goal Attempts       4, 05/10/2026, New York at Philadelphia
-Three-Point Field Goals   0, 06/10/2026, New York vs San Antonio
+Three-Point Field Goals   0, 06/13/2026, New York at San Antonio
 Three-Point Attempts      1, 05/10/2026, New York at Philadelphia
 Free Throws               3, 05/10/2026, New York at Philadelphia (Twice)
 Free Throw Attempts       6, 05/10/2026, New York at Philadelphia (Twice)
 Offensive Rebounds        3, 05/04/2026, New York vs Philadelphia
 Defensive Rebounds        6, 05/04/2026, New York vs Philadelphia
 Rebounds                  9, 05/04/2026, New York vs Philadelphia
-Assists                   1, 05/25/2026, New York at Cleveland (Twice)
+Assists                   1, 06/13/2026, New York at San Antonio (3 times)
 Steals                    1, 05/25/2026, New York at Cleveland (Twice)
 Turnovers                 2, 04/30/2026, New York at Atlanta
 Blocked Shots             2, 05/04/2026, New York vs Philadelphia
@@ -19452,14 +19452,14 @@ Ariel Hukporti / New York Knickerbockers / Career Postseason Single-Game Highs
 Minutes                  17, 05/04/2026, New York vs Philadelphia
 Field Goals               2, 05/04/2026, New York vs Philadelphia
 Field Goal Attempts       4, 05/10/2026, New York at Philadelphia
-Three-Point Field Goals   0, 06/10/2026, New York vs San Antonio
+Three-Point Field Goals   0, 06/13/2026, New York at San Antonio
 Three-Point Attempts      1, 05/10/2026, New York at Philadelphia
 Free Throws               3, 05/10/2026, New York at Philadelphia (Twice)
 Free Throw Attempts       6, 05/10/2026, New York at Philadelphia (Twice)
 Offensive Rebounds        3, 05/04/2026, New York vs Philadelphia
 Defensive Rebounds        6, 05/04/2026, New York vs Philadelphia
 Rebounds                  9, 05/04/2026, New York vs Philadelphia
-Assists                   1, 05/25/2026, New York at Cleveland (Twice)
+Assists                   1, 06/13/2026, New York at San Antonio (3 times)
 Steals                    1, 05/25/2026, New York at Cleveland (Twice)
 Turnovers                 2, 04/30/2026, New York at Atlanta
 Blocked Shots             2, 05/04/2026, New York vs Philadelphia
@@ -19537,17 +19537,17 @@ Points                   25, 05/10/2026, New York at Philadelphia
 
 
 Mitchell Robinson / New York Knickerbockers / 2025-26 Postseason Single-Game Highs
-Minutes                  19, 05/08/2026, New York at Philadelphia
+Minutes                  20, 06/13/2026, New York at San Antonio
 Field Goals               6, 04/20/2026, New York vs Atlanta
 Field Goal Attempts       6, 05/25/2026, New York at Cleveland (Twice)
-Three-Point Field Goals   0, 06/10/2026, New York vs San Antonio
-Three-Point Attempts      0, 06/10/2026, New York vs San Antonio
+Three-Point Field Goals   0, 06/13/2026, New York at San Antonio
+Three-Point Attempts      0, 06/13/2026, New York at San Antonio
 Free Throws               4, 05/08/2026, New York at Philadelphia
 Free Throw Attempts       8, 05/19/2026, New York vs Cleveland (Twice)
-Offensive Rebounds        5, 05/25/2026, New York at Cleveland (Twice)
+Offensive Rebounds        6, 06/13/2026, New York at San Antonio
 Defensive Rebounds        5, 06/03/2026, New York at San Antonio (Twice)
-Rebounds                 10, 05/25/2026, New York at Cleveland
-Assists                   1, 06/10/2026, New York vs San Antonio (5 times)
+Rebounds                 10, 06/13/2026, New York at San Antonio (Twice)
+Assists                   2, 06/13/2026, New York at San Antonio
 Steals                    2, 05/19/2026, New York vs Cleveland
 Turnovers                 2, 05/25/2026, New York at Cleveland (Twice)
 Blocked Shots             2, 06/10/2026, New York vs San Antonio (3 times)
@@ -19557,8 +19557,8 @@ Mitchell Robinson / New York Knickerbockers / Career Postseason Single-Game High
 Minutes                  36, 04/26/2023, New York at Cleveland
 Field Goals               6, 04/20/2026, New York vs Atlanta (Twice)
 Field Goal Attempts       9, 04/26/2023, New York at Cleveland
-Three-Point Field Goals   0, 06/10/2026, New York vs San Antonio
-Three-Point Attempts      0, 06/10/2026, New York vs San Antonio
+Three-Point Field Goals   0, 06/13/2026, New York at San Antonio
+Three-Point Attempts      0, 06/13/2026, New York at San Antonio
 Free Throws               6, 05/14/2025, New York at Boston
 Free Throw Attempts      12, 05/10/2025, New York vs Boston
 Offensive Rebounds       11, 04/26/2023, New York at Cleveland
@@ -19670,7 +19670,7 @@ Offensive Rebounds        4, 06/03/2026, New York at San Antonio (5 times)
 Defensive Rebounds       13, 05/21/2026, New York vs Cleveland (3 times)
 Rebounds                 17, 04/23/2026, New York at Atlanta
 Assists                  10, 05/10/2026, New York at Philadelphia (3 times)
-Steals                    3, 06/08/2026, New York vs San Antonio (3 times)
+Steals                    3, 06/13/2026, New York at San Antonio (4 times)
 Turnovers                 7, 05/19/2026, New York vs Cleveland
 Blocked Shots             3, 04/18/2026, New York vs Atlanta
 Points                   25, 04/18/2026, New York vs Atlanta
@@ -24380,12 +24380,12 @@ Points                  152, 04/26/1983, San Antonio vs Denver
 
 
 Team Totals / San Antonio Spurs / 2025-26 Postseason Single-Game Lows
-Minutes                 240, 06/10/2026, San Antonio at New York
+Minutes                 240, 06/13/2026, San Antonio vs New York
 Field Goals              32, 06/03/2026, San Antonio vs New York
 Field Goal Attempts      75, 04/28/2026, San Antonio vs Portland
 Three-Point Field Goals   6, 05/10/2026, San Antonio at Minnesota
 Three-Point Attempts     24, 04/21/2026, San Antonio vs Portland
-Free Throws              14, 05/30/2026, San Antonio at Oklahoma City (3 times)
+Free Throws              12, 06/13/2026, San Antonio vs New York
 Free Throw Attempts      17, 05/20/2026, San Antonio at Oklahoma City (Twice)
 Offensive Rebounds        5, 06/05/2026, San Antonio vs New York
 Defensive Rebounds       25, 05/30/2026, San Antonio at Oklahoma City
@@ -24394,7 +24394,7 @@ Assists                  16, 06/03/2026, San Antonio vs New York
 Steals                    2, 05/15/2026, San Antonio at Minnesota
 Turnovers                 8, 06/08/2026, San Antonio at New York
 Blocked Shots             2, 05/30/2026, San Antonio at Oklahoma City
-Points                   95, 06/03/2026, San Antonio vs New York
+Points                   90, 06/13/2026, San Antonio vs New York
 
 Opponent Totals / San Antonio Spurs / 2025-26 Postseason Single-Game Highs
 Minutes                 290, 05/18/2026, San Antonio at Oklahoma City
@@ -24432,7 +24432,7 @@ Points                  141, 04/18/1985, San Antonio at Denver (Twice)
 
 
 Opponent Totals / San Antonio Spurs / 2025-26 Postseason Single-Game Lows
-Minutes                 240, 06/10/2026, San Antonio at New York
+Minutes                 240, 06/13/2026, San Antonio vs New York
 Field Goals              30, 05/24/2026, San Antonio vs Oklahoma City
 Field Goal Attempts      78, 06/10/2026, San Antonio at New York
 Three-Point Field Goals   6, 05/24/2026, San Antonio vs Oklahoma City
@@ -24442,7 +24442,7 @@ Free Throw Attempts      12, 05/28/2026, San Antonio vs Oklahoma City (Twice)
 Offensive Rebounds        7, 05/22/2026, San Antonio vs Oklahoma City (Twice)
 Defensive Rebounds       20, 05/15/2026, San Antonio at Minnesota
 Rebounds                 29, 05/15/2026, San Antonio at Minnesota
-Assists                  14, 04/26/2026, San Antonio at Portland
+Assists                  14, 06/13/2026, San Antonio vs New York (Twice)
 Steals                    3, 05/08/2026, San Antonio at Minnesota
 Turnovers                 5, 05/15/2026, San Antonio at Minnesota
 Blocked Shots             1, 05/10/2026, San Antonio at Minnesota
@@ -24635,7 +24635,7 @@ Defensive Rebounds        8, 05/08/2026, San Antonio at Minnesota
 Rebounds                 12, 05/08/2026, San Antonio at Minnesota
 Assists                   3, 06/10/2026, San Antonio at New York (5 times)
 Steals                    4, 06/10/2026, San Antonio at New York
-Turnovers                 2, 05/26/2026, San Antonio at Oklahoma City
+Turnovers                 4, 06/13/2026, San Antonio vs New York
 Blocked Shots             2, 05/28/2026, San Antonio vs Oklahoma City (3 times)
 Points                   22, 05/26/2026, San Antonio at Oklahoma City
 
@@ -24652,7 +24652,7 @@ Defensive Rebounds        8, 05/08/2026, San Antonio at Minnesota
 Rebounds                 12, 05/08/2026, San Antonio at Minnesota
 Assists                   3, 06/10/2026, San Antonio at New York (5 times)
 Steals                    4, 06/10/2026, San Antonio at New York
-Turnovers                 2, 05/26/2026, San Antonio at Oklahoma City
+Turnovers                 4, 06/13/2026, San Antonio vs New York
 Blocked Shots             2, 05/28/2026, San Antonio vs Oklahoma City (3 times)
 Points                   22, 05/26/2026, San Antonio at Oklahoma City
 
@@ -24711,7 +24711,7 @@ Points                   28, 04/26/2026, San Antonio at Portland
 
 Dylan Harper / San Antonio Spurs / 2025-26 Postseason Single-Game Highs
 Minutes                  47, 05/18/2026, San Antonio at Oklahoma City
-Field Goals               9, 04/24/2026, San Antonio at Portland
+Field Goals              10, 06/13/2026, San Antonio vs New York
 Field Goal Attempts      20, 05/18/2026, San Antonio at Oklahoma City
 Three-Point Field Goals   4, 04/24/2026, San Antonio at Portland
 Three-Point Attempts      8, 06/08/2026, San Antonio at New York
@@ -24723,12 +24723,12 @@ Rebounds                 11, 05/18/2026, San Antonio at Oklahoma City
 Assists                   6, 05/18/2026, San Antonio at Oklahoma City
 Steals                    7, 05/18/2026, San Antonio at Oklahoma City
 Turnovers                 3, 06/10/2026, San Antonio at New York (4 times)
-Blocked Shots             1, 05/15/2026, San Antonio at Minnesota (4 times)
+Blocked Shots             1, 06/13/2026, San Antonio vs New York (5 times)
 Points                   27, 04/24/2026, San Antonio at Portland
 
 Dylan Harper / San Antonio Spurs / Career Postseason Single-Game Highs
 Minutes                  47, 05/18/2026, San Antonio at Oklahoma City
-Field Goals               9, 04/24/2026, San Antonio at Portland
+Field Goals              10, 06/13/2026, San Antonio vs New York
 Field Goal Attempts      20, 05/18/2026, San Antonio at Oklahoma City
 Three-Point Field Goals   4, 04/24/2026, San Antonio at Portland
 Three-Point Attempts      8, 06/08/2026, San Antonio at New York
@@ -24740,7 +24740,7 @@ Rebounds                 11, 05/18/2026, San Antonio at Oklahoma City
 Assists                   6, 05/18/2026, San Antonio at Oklahoma City
 Steals                    7, 05/18/2026, San Antonio at Oklahoma City
 Turnovers                 3, 06/10/2026, San Antonio at New York (4 times)
-Blocked Shots             1, 05/15/2026, San Antonio at Minnesota (4 times)
+Blocked Shots             1, 06/13/2026, San Antonio vs New York (5 times)
 Points                   27, 04/24/2026, San Antonio at Portland
 
 
