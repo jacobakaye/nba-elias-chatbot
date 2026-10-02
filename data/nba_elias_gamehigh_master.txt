@@ -4,8 +4,8 @@
 <H1>Access Denied</H1>
  
 You don't have permission to access "http&#58;&#47;&#47;cdn&#46;nba&#46;com&#47;static&#47;json&#47;staticData&#47;EliasGameStats&#47;00&#47;t&#95;players&#95;gamehigh&#95;atl&#46;txt" on this server.<P>
-Reference&#32;&#35;18&#46;d1c83017&#46;1790877756&#46;7263d86f
-<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;d1c83017&#46;1790877756&#46;7263d86f</P>
+Reference&#32;&#35;18&#46;46a42617&#46;1790962147&#46;2b5b0174
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;46a42617&#46;1790962147&#46;2b5b0174</P>
 </BODY>
 </HTML>
 
@@ -16,8 +16,8 @@ Reference&#32;&#35;18&#46;d1c83017&#46;1790877756&#46;7263d86f
 <H1>Access Denied</H1>
  
 You don't have permission to access "http&#58;&#47;&#47;cdn&#46;nba&#46;com&#47;static&#47;json&#47;staticData&#47;EliasGameStats&#47;00&#47;t&#95;players&#95;gamehigh&#95;bos&#46;txt" on this server.<P>
-Reference&#32;&#35;18&#46;d0c83017&#46;1790877756&#46;12921e6d
-<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;d0c83017&#46;1790877756&#46;12921e6d</P>
+Reference&#32;&#35;18&#46;4ba42617&#46;1790962147&#46;93c4fd62
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;4ba42617&#46;1790962147&#46;93c4fd62</P>
 </BODY>
 </HTML>
 
@@ -28,8 +28,8 @@ Reference&#32;&#35;18&#46;d0c83017&#46;1790877756&#46;12921e6d
 <H1>Access Denied</H1>
  
 You don't have permission to access "http&#58;&#47;&#47;cdn&#46;nba&#46;com&#47;static&#47;json&#47;staticData&#47;EliasGameStats&#47;00&#47;t&#95;players&#95;gamehigh&#95;bkn&#46;txt" on this server.<P>
-Reference&#32;&#35;18&#46;d1c83017&#46;1790877756&#46;7263d95a
-<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;d1c83017&#46;1790877756&#46;7263d95a</P>
+Reference&#32;&#35;18&#46;4fa42617&#46;1790962147&#46;342db5c6
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;4fa42617&#46;1790962147&#46;342db5c6</P>
 </BODY>
 </HTML>
 
@@ -40,8 +40,8 @@ Reference&#32;&#35;18&#46;d1c83017&#46;1790877756&#46;7263d95a
 <H1>Access Denied</H1>
  
 You don't have permission to access "http&#58;&#47;&#47;cdn&#46;nba&#46;com&#47;static&#47;json&#47;staticData&#47;EliasGameStats&#47;00&#47;t&#95;players&#95;gamehigh&#95;cha&#46;txt" on this server.<P>
-Reference&#32;&#35;18&#46;d1c83017&#46;1790877756&#46;7263d9d3
-<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;d1c83017&#46;1790877756&#46;7263d9d3</P>
+Reference&#32;&#35;18&#46;46a42617&#46;1790962147&#46;2b5b0abc
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;46a42617&#46;1790962147&#46;2b5b0abc</P>
 </BODY>
 </HTML>
 
@@ -52,8 +52,8 @@ Reference&#32;&#35;18&#46;d1c83017&#46;1790877756&#46;7263d9d3
 <H1>Access Denied</H1>
  
 You don't have permission to access "http&#58;&#47;&#47;cdn&#46;nba&#46;com&#47;static&#47;json&#47;staticData&#47;EliasGameStats&#47;00&#47;t&#95;players&#95;gamehigh&#95;chi&#46;txt" on this server.<P>
-Reference&#32;&#35;18&#46;d1c83017&#46;1790877756&#46;7263da49
-<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;d1c83017&#46;1790877756&#46;7263da49</P>
+Reference&#32;&#35;18&#46;50a42617&#46;1790962147&#46;45121164
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;50a42617&#46;1790962147&#46;45121164</P>
 </BODY>
 </HTML>
 
@@ -64,8 +64,8 @@ Reference&#32;&#35;18&#46;d1c83017&#46;1790877756&#46;7263da49
 <H1>Access Denied</H1>
  
 You don't have permission to access "http&#58;&#47;&#47;cdn&#46;nba&#46;com&#47;static&#47;json&#47;staticData&#47;EliasGameStats&#47;00&#47;t&#95;players&#95;gamehigh&#95;cle&#46;txt" on this server.<P>
-Reference&#32;&#35;18&#46;d3c83017&#46;1790877756&#46;796e24a2
-<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;d3c83017&#46;1790877756&#46;796e24a2</P>
+Reference&#32;&#35;18&#46;46a42617&#46;1790962147&#46;2b5b14b7
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;46a42617&#46;1790962147&#46;2b5b14b7</P>
 </BODY>
 </HTML>
 
@@ -76,8 +76,8 @@ Reference&#32;&#35;18&#46;d3c83017&#46;1790877756&#46;796e24a2
 <H1>Access Denied</H1>
  
 You don't have permission to access "http&#58;&#47;&#47;cdn&#46;nba&#46;com&#47;static&#47;json&#47;staticData&#47;EliasGameStats&#47;00&#47;t&#95;players&#95;gamehigh&#95;dal&#46;txt" on this server.<P>
-Reference&#32;&#35;18&#46;d0c83017&#46;1790877756&#46;12921f96
-<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;d0c83017&#46;1790877756&#46;12921f96</P>
+Reference&#32;&#35;18&#46;46a42617&#46;1790962147&#46;2b5b1826
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;46a42617&#46;1790962147&#46;2b5b1826</P>
 </BODY>
 </HTML>
 
@@ -88,8 +88,8 @@ Reference&#32;&#35;18&#46;d0c83017&#46;1790877756&#46;12921f96
 <H1>Access Denied</H1>
  
 You don't have permission to access "http&#58;&#47;&#47;cdn&#46;nba&#46;com&#47;static&#47;json&#47;staticData&#47;EliasGameStats&#47;00&#47;t&#95;players&#95;gamehigh&#95;den&#46;txt" on this server.<P>
-Reference&#32;&#35;18&#46;d3c83017&#46;1790877756&#46;796e250c
-<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;d3c83017&#46;1790877756&#46;796e250c</P>
+Reference&#32;&#35;18&#46;4ba42617&#46;1790962147&#46;93c50e20
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;4ba42617&#46;1790962147&#46;93c50e20</P>
 </BODY>
 </HTML>
 
@@ -100,8 +100,8 @@ Reference&#32;&#35;18&#46;d3c83017&#46;1790877756&#46;796e250c
 <H1>Access Denied</H1>
  
 You don't have permission to access "http&#58;&#47;&#47;cdn&#46;nba&#46;com&#47;static&#47;json&#47;staticData&#47;EliasGameStats&#47;00&#47;t&#95;players&#95;gamehigh&#95;det&#46;txt" on this server.<P>
-Reference&#32;&#35;18&#46;d0c83017&#46;1790877756&#46;12922012
-<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;d0c83017&#46;1790877756&#46;12922012</P>
+Reference&#32;&#35;18&#46;4fa42617&#46;1790962147&#46;342dc862
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;4fa42617&#46;1790962147&#46;342dc862</P>
 </BODY>
 </HTML>
 
@@ -112,8 +112,8 @@ Reference&#32;&#35;18&#46;d0c83017&#46;1790877756&#46;12922012
 <H1>Access Denied</H1>
  
 You don't have permission to access "http&#58;&#47;&#47;cdn&#46;nba&#46;com&#47;static&#47;json&#47;staticData&#47;EliasGameStats&#47;00&#47;t&#95;players&#95;gamehigh&#95;gs&#46;txt" on this server.<P>
-Reference&#32;&#35;18&#46;d0c83017&#46;1790877756&#46;12922058
-<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;d0c83017&#46;1790877756&#46;12922058</P>
+Reference&#32;&#35;18&#46;4ba42617&#46;1790962147&#46;93c51364
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;4ba42617&#46;1790962147&#46;93c51364</P>
 </BODY>
 </HTML>
 
@@ -124,8 +124,8 @@ Reference&#32;&#35;18&#46;d0c83017&#46;1790877756&#46;12922058
 <H1>Access Denied</H1>
  
 You don't have permission to access "http&#58;&#47;&#47;cdn&#46;nba&#46;com&#47;static&#47;json&#47;staticData&#47;EliasGameStats&#47;00&#47;t&#95;players&#95;gamehigh&#95;hou&#46;txt" on this server.<P>
-Reference&#32;&#35;18&#46;d3c83017&#46;1790877756&#46;796e25b9
-<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;d3c83017&#46;1790877756&#46;796e25b9</P>
+Reference&#32;&#35;18&#46;4ba42617&#46;1790962148&#46;93c51686
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;4ba42617&#46;1790962148&#46;93c51686</P>
 </BODY>
 </HTML>
 
@@ -136,8 +136,8 @@ Reference&#32;&#35;18&#46;d3c83017&#46;1790877756&#46;796e25b9
 <H1>Access Denied</H1>
  
 You don't have permission to access "http&#58;&#47;&#47;cdn&#46;nba&#46;com&#47;static&#47;json&#47;staticData&#47;EliasGameStats&#47;00&#47;t&#95;players&#95;gamehigh&#95;ind&#46;txt" on this server.<P>
-Reference&#32;&#35;18&#46;d0c83017&#46;1790877756&#46;129220e7
-<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;d0c83017&#46;1790877756&#46;129220e7</P>
+Reference&#32;&#35;18&#46;4fa42617&#46;1790962148&#46;342dd2b5
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;4fa42617&#46;1790962148&#46;342dd2b5</P>
 </BODY>
 </HTML>
 
@@ -148,8 +148,8 @@ Reference&#32;&#35;18&#46;d0c83017&#46;1790877756&#46;129220e7
 <H1>Access Denied</H1>
  
 You don't have permission to access "http&#58;&#47;&#47;cdn&#46;nba&#46;com&#47;static&#47;json&#47;staticData&#47;EliasGameStats&#47;00&#47;t&#95;players&#95;gamehigh&#95;lac&#46;txt" on this server.<P>
-Reference&#32;&#35;18&#46;d1c83017&#46;1790877756&#46;7263dd7e
-<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;d1c83017&#46;1790877756&#46;7263dd7e</P>
+Reference&#32;&#35;18&#46;46a42617&#46;1790962148&#46;2b5b309e
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;46a42617&#46;1790962148&#46;2b5b309e</P>
 </BODY>
 </HTML>
 
@@ -160,8 +160,8 @@ Reference&#32;&#35;18&#46;d1c83017&#46;1790877756&#46;7263dd7e
 <H1>Access Denied</H1>
  
 You don't have permission to access "http&#58;&#47;&#47;cdn&#46;nba&#46;com&#47;static&#47;json&#47;staticData&#47;EliasGameStats&#47;00&#47;t&#95;players&#95;gamehigh&#95;lal&#46;txt" on this server.<P>
-Reference&#32;&#35;18&#46;d3c83017&#46;1790877757&#46;796e264e
-<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;d3c83017&#46;1790877757&#46;796e264e</P>
+Reference&#32;&#35;18&#46;47a42617&#46;1790962148&#46;2fdc20ed
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;47a42617&#46;1790962148&#46;2fdc20ed</P>
 </BODY>
 </HTML>
 
@@ -172,8 +172,8 @@ Reference&#32;&#35;18&#46;d3c83017&#46;1790877757&#46;796e264e
 <H1>Access Denied</H1>
  
 You don't have permission to access "http&#58;&#47;&#47;cdn&#46;nba&#46;com&#47;static&#47;json&#47;staticData&#47;EliasGameStats&#47;00&#47;t&#95;players&#95;gamehigh&#95;mem&#46;txt" on this server.<P>
-Reference&#32;&#35;18&#46;d3c83017&#46;1790877757&#46;796e267f
-<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;d3c83017&#46;1790877757&#46;796e267f</P>
+Reference&#32;&#35;18&#46;46a42617&#46;1790962148&#46;2b5b39d1
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;46a42617&#46;1790962148&#46;2b5b39d1</P>
 </BODY>
 </HTML>
 
@@ -184,8 +184,8 @@ Reference&#32;&#35;18&#46;d3c83017&#46;1790877757&#46;796e267f
 <H1>Access Denied</H1>
  
 You don't have permission to access "http&#58;&#47;&#47;cdn&#46;nba&#46;com&#47;static&#47;json&#47;staticData&#47;EliasGameStats&#47;00&#47;t&#95;players&#95;gamehigh&#95;mia&#46;txt" on this server.<P>
-Reference&#32;&#35;18&#46;d0c83017&#46;1790877757&#46;1292220c
-<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;d0c83017&#46;1790877757&#46;1292220c</P>
+Reference&#32;&#35;18&#46;50a42617&#46;1790962148&#46;45124b0d
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;50a42617&#46;1790962148&#46;45124b0d</P>
 </BODY>
 </HTML>
 
@@ -196,8 +196,8 @@ Reference&#32;&#35;18&#46;d0c83017&#46;1790877757&#46;1292220c
 <H1>Access Denied</H1>
  
 You don't have permission to access "http&#58;&#47;&#47;cdn&#46;nba&#46;com&#47;static&#47;json&#47;staticData&#47;EliasGameStats&#47;00&#47;t&#95;players&#95;gamehigh&#95;mil&#46;txt" on this server.<P>
-Reference&#32;&#35;18&#46;d1c83017&#46;1790877757&#46;7263df19
-<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;d1c83017&#46;1790877757&#46;7263df19</P>
+Reference&#32;&#35;18&#46;4fa42617&#46;1790962148&#46;342de2a7
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;4fa42617&#46;1790962148&#46;342de2a7</P>
 </BODY>
 </HTML>
 
@@ -208,8 +208,8 @@ Reference&#32;&#35;18&#46;d1c83017&#46;1790877757&#46;7263df19
 <H1>Access Denied</H1>
  
 You don't have permission to access "http&#58;&#47;&#47;cdn&#46;nba&#46;com&#47;static&#47;json&#47;staticData&#47;EliasGameStats&#47;00&#47;t&#95;players&#95;gamehigh&#95;min&#46;txt" on this server.<P>
-Reference&#32;&#35;18&#46;d3c83017&#46;1790877757&#46;796e271a
-<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;d3c83017&#46;1790877757&#46;796e271a</P>
+Reference&#32;&#35;18&#46;45a42617&#46;1790962148&#46;4794b385
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;45a42617&#46;1790962148&#46;4794b385</P>
 </BODY>
 </HTML>
 
@@ -220,8 +220,8 @@ Reference&#32;&#35;18&#46;d3c83017&#46;1790877757&#46;796e271a
 <H1>Access Denied</H1>
  
 You don't have permission to access "http&#58;&#47;&#47;cdn&#46;nba&#46;com&#47;static&#47;json&#47;staticData&#47;EliasGameStats&#47;00&#47;t&#95;players&#95;gamehigh&#95;no&#46;txt" on this server.<P>
-Reference&#32;&#35;18&#46;d1c83017&#46;1790877757&#46;7263dfcf
-<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;d1c83017&#46;1790877757&#46;7263dfcf</P>
+Reference&#32;&#35;18&#46;4ba42617&#46;1790962149&#46;93c52bce
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;4ba42617&#46;1790962149&#46;93c52bce</P>
 </BODY>
 </HTML>
 
@@ -232,8 +232,8 @@ Reference&#32;&#35;18&#46;d1c83017&#46;1790877757&#46;7263dfcf
 <H1>Access Denied</H1>
  
 You don't have permission to access "http&#58;&#47;&#47;cdn&#46;nba&#46;com&#47;static&#47;json&#47;staticData&#47;EliasGameStats&#47;00&#47;t&#95;players&#95;gamehigh&#95;ny&#46;txt" on this server.<P>
-Reference&#32;&#35;18&#46;d0c83017&#46;1790877757&#46;129222e3
-<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;d0c83017&#46;1790877757&#46;129222e3</P>
+Reference&#32;&#35;18&#46;53a42617&#46;1790962149&#46;de8e2976
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;53a42617&#46;1790962149&#46;de8e2976</P>
 </BODY>
 </HTML>
 
@@ -244,8 +244,8 @@ Reference&#32;&#35;18&#46;d0c83017&#46;1790877757&#46;129222e3
 <H1>Access Denied</H1>
  
 You don't have permission to access "http&#58;&#47;&#47;cdn&#46;nba&#46;com&#47;static&#47;json&#47;staticData&#47;EliasGameStats&#47;00&#47;t&#95;players&#95;gamehigh&#95;okc&#46;txt" on this server.<P>
-Reference&#32;&#35;18&#46;d3c83017&#46;1790877757&#46;796e27b0
-<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;d3c83017&#46;1790877757&#46;796e27b0</P>
+Reference&#32;&#35;18&#46;45a42617&#46;1790962149&#46;4794c03c
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;45a42617&#46;1790962149&#46;4794c03c</P>
 </BODY>
 </HTML>
 
@@ -256,8 +256,8 @@ Reference&#32;&#35;18&#46;d3c83017&#46;1790877757&#46;796e27b0
 <H1>Access Denied</H1>
  
 You don't have permission to access "http&#58;&#47;&#47;cdn&#46;nba&#46;com&#47;static&#47;json&#47;staticData&#47;EliasGameStats&#47;00&#47;t&#95;players&#95;gamehigh&#95;orl&#46;txt" on this server.<P>
-Reference&#32;&#35;18&#46;d1c83017&#46;1790877757&#46;7263e0a3
-<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;d1c83017&#46;1790877757&#46;7263e0a3</P>
+Reference&#32;&#35;18&#46;45a42617&#46;1790962149&#46;4794c427
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;45a42617&#46;1790962149&#46;4794c427</P>
 </BODY>
 </HTML>
 
@@ -268,8 +268,8 @@ Reference&#32;&#35;18&#46;d1c83017&#46;1790877757&#46;7263e0a3
 <H1>Access Denied</H1>
  
 You don't have permission to access "http&#58;&#47;&#47;cdn&#46;nba&#46;com&#47;static&#47;json&#47;staticData&#47;EliasGameStats&#47;00&#47;t&#95;players&#95;gamehigh&#95;phi&#46;txt" on this server.<P>
-Reference&#32;&#35;18&#46;d1c83017&#46;1790877757&#46;7263e0f7
-<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;d1c83017&#46;1790877757&#46;7263e0f7</P>
+Reference&#32;&#35;18&#46;4ba42617&#46;1790962149&#46;93c5353f
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;4ba42617&#46;1790962149&#46;93c5353f</P>
 </BODY>
 </HTML>
 
@@ -280,8 +280,8 @@ Reference&#32;&#35;18&#46;d1c83017&#46;1790877757&#46;7263e0f7
 <H1>Access Denied</H1>
  
 You don't have permission to access "http&#58;&#47;&#47;cdn&#46;nba&#46;com&#47;static&#47;json&#47;staticData&#47;EliasGameStats&#47;00&#47;t&#95;players&#95;gamehigh&#95;pho&#46;txt" on this server.<P>
-Reference&#32;&#35;18&#46;d3c83017&#46;1790877757&#46;796e283d
-<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;d3c83017&#46;1790877757&#46;796e283d</P>
+Reference&#32;&#35;18&#46;4aa42617&#46;1790962149&#46;882b1368
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;4aa42617&#46;1790962149&#46;882b1368</P>
 </BODY>
 </HTML>
 
@@ -292,8 +292,8 @@ Reference&#32;&#35;18&#46;d3c83017&#46;1790877757&#46;796e283d
 <H1>Access Denied</H1>
  
 You don't have permission to access "http&#58;&#47;&#47;cdn&#46;nba&#46;com&#47;static&#47;json&#47;staticData&#47;EliasGameStats&#47;00&#47;t&#95;players&#95;gamehigh&#95;por&#46;txt" on this server.<P>
-Reference&#32;&#35;18&#46;d3c83017&#46;1790877757&#46;796e2867
-<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;d3c83017&#46;1790877757&#46;796e2867</P>
+Reference&#32;&#35;18&#46;53a42617&#46;1790962149&#46;de8e47d2
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;53a42617&#46;1790962149&#46;de8e47d2</P>
 </BODY>
 </HTML>
 
@@ -304,8 +304,8 @@ Reference&#32;&#35;18&#46;d3c83017&#46;1790877757&#46;796e2867
 <H1>Access Denied</H1>
  
 You don't have permission to access "http&#58;&#47;&#47;cdn&#46;nba&#46;com&#47;static&#47;json&#47;staticData&#47;EliasGameStats&#47;00&#47;t&#95;players&#95;gamehigh&#95;sac&#46;txt" on this server.<P>
-Reference&#32;&#35;18&#46;d3c83017&#46;1790877757&#46;796e28a0
-<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;d3c83017&#46;1790877757&#46;796e28a0</P>
+Reference&#32;&#35;18&#46;50a42617&#46;1790962149&#46;45127e4f
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;50a42617&#46;1790962149&#46;45127e4f</P>
 </BODY>
 </HTML>
 
@@ -316,8 +316,8 @@ Reference&#32;&#35;18&#46;d3c83017&#46;1790877757&#46;796e28a0
 <H1>Access Denied</H1>
  
 You don't have permission to access "http&#58;&#47;&#47;cdn&#46;nba&#46;com&#47;static&#47;json&#47;staticData&#47;EliasGameStats&#47;00&#47;t&#95;players&#95;gamehigh&#95;sa&#46;txt" on this server.<P>
-Reference&#32;&#35;18&#46;d1c83017&#46;1790877757&#46;7263e2a1
-<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;d1c83017&#46;1790877757&#46;7263e2a1</P>
+Reference&#32;&#35;18&#46;50a42617&#46;1790962149&#46;4512835a
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;50a42617&#46;1790962149&#46;4512835a</P>
 </BODY>
 </HTML>
 
@@ -328,8 +328,8 @@ Reference&#32;&#35;18&#46;d1c83017&#46;1790877757&#46;7263e2a1
 <H1>Access Denied</H1>
  
 You don't have permission to access "http&#58;&#47;&#47;cdn&#46;nba&#46;com&#47;static&#47;json&#47;staticData&#47;EliasGameStats&#47;00&#47;t&#95;players&#95;gamehigh&#95;tor&#46;txt" on this server.<P>
-Reference&#32;&#35;18&#46;d3c83017&#46;1790877757&#46;796e28fc
-<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;d3c83017&#46;1790877757&#46;796e28fc</P>
+Reference&#32;&#35;18&#46;53a42617&#46;1790962150&#46;de8e58cc
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;53a42617&#46;1790962150&#46;de8e58cc</P>
 </BODY>
 </HTML>
 
@@ -340,8 +340,8 @@ Reference&#32;&#35;18&#46;d3c83017&#46;1790877757&#46;796e28fc
 <H1>Access Denied</H1>
  
 You don't have permission to access "http&#58;&#47;&#47;cdn&#46;nba&#46;com&#47;static&#47;json&#47;staticData&#47;EliasGameStats&#47;00&#47;t&#95;players&#95;gamehigh&#95;uta&#46;txt" on this server.<P>
-Reference&#32;&#35;18&#46;d1c83017&#46;1790877757&#46;7263e36e
-<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;d1c83017&#46;1790877757&#46;7263e36e</P>
+Reference&#32;&#35;18&#46;53a42617&#46;1790962150&#46;de8e5d6e
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;53a42617&#46;1790962150&#46;de8e5d6e</P>
 </BODY>
 </HTML>
 
@@ -352,7 +352,7 @@ Reference&#32;&#35;18&#46;d1c83017&#46;1790877757&#46;7263e36e
 <H1>Access Denied</H1>
  
 You don't have permission to access "http&#58;&#47;&#47;cdn&#46;nba&#46;com&#47;static&#47;json&#47;staticData&#47;EliasGameStats&#47;00&#47;t&#95;players&#95;gamehigh&#95;was&#46;txt" on this server.<P>
-Reference&#32;&#35;18&#46;d0c83017&#46;1790877757&#46;129224ff
-<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;d0c83017&#46;1790877757&#46;129224ff</P>
+Reference&#32;&#35;18&#46;4aa42617&#46;1790962150&#46;882b3030
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;4aa42617&#46;1790962150&#46;882b3030</P>
 </BODY>
 </HTML>
